@@ -1,0 +1,9 @@
+# Site settings
+title: Tower
+description: > 
+  TK Site Description
+baseurl: "" 
+url: "http://yourdomain.com" 
+
+# Build settings
+markdown: kramdown
