@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Armed Civilians and the UT Tower Tragedy
+author: Isaac McQuisition
 permalink: /armed-civilians-and-the-ut-tower-tragedy
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Texas Gun Culture and the UT Tower Shooting
+author: Isaac McQuisition
 permalink: /texas-gun-culture-and-the-ut-tower-shooting
 ---
 
