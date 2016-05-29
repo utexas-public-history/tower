@@ -23,6 +23,8 @@ The notion portrayed by media outlets and the memory that materializes about the
 
 What has become apparent through this examination of the history of mass shootings is that the realities of what transpired on August 1st, 1966 at the University of Texas at Austin were unprecedented in both number of lives ended, number of individual lives affected, the extent of emotional damage perpetrated within both, UT's and Austin's communities, and the way in which public memory of the tragedy has since been overshadowed by factors that have been and still are hard to comprehend. The attitudes towards the incident, both at UT and in the Austin community have seemingly created an abysmal amnesia towards that tragic episode. Charles Whitman’s ninety-six minute shooting spree left 17 dead, including Whitman, thirty wounded, and many more maimed. That alone, for any community, in any era, and under whatever circumstance is a hard experience to process.
 
+**TK:** Insert timeline of mass shootings
+
 
 
 [^1]: Report made by Lt. George Phifer 197/mm-503, Offense number M-968150, Supplementary Offense Report, August 5th, 1966, Police Department Records of the Charles Whitman Mass Murder Case, AR.2000.002, DO/1958.003, Box 1, Folder 5, Austin History Center.
