@@ -2,3 +2,13 @@
 layout: default
 ---
 
+<div class="row homepage-posts">
+  {% for post in site.posts %}
+    <div class="post col-xs-6 col-sm-3">
+      <a href="{{ post.permalink }}">
+        <span class="title">{{ post.title }}</span>
+        <span class="byline">By {{ post.author }}</span>
+      </a>
+    </div>
+  {% endfor %}
+</div>

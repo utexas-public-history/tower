@@ -11,3 +11,32 @@ $interfaceStroke: #ccc;
 body {
   font-size: 16px;
 }
+
+.homepage-posts {
+  .post {
+    a {
+      display: block;
+      background-color: red;
+      color: white;
+      margin-bottom: 1em;
+      padding: .25em;
+
+      &:hover {
+        background-color: black;
+        text-decoration: none;
+      }
+
+      span.title {
+        display: block;
+        font: {
+          size: 1.25em;
+          weight: bold;
+        }
+      }
+
+      span.byline {
+        display: block;
+      }
+    }
+  }
+}

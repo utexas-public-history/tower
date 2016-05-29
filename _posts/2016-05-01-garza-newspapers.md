@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “The Eyes of the World Are Upon You, Texas”: How the Austin Newspapers Covered the UT Tower Shooting
+title:  '“The Eyes of the World Are Upon You, Texas”: How the Austin Newspapers Covered the UT Tower Shooting'
 author: Alejandra Garza
 permalink: /how-austin-newspapers-covered-the-shooting
 ---

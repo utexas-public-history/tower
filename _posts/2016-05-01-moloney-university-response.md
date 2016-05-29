@@ -8,7 +8,7 @@ How did the University of Texas respond immediately following the UT Tower Shoot
 
 Do our current attitudes about institutional response bias our understanding of a different time?
 
-**TK:** [Insert spliced video clip (14.05-15.58) http://www.texasarchive.org/library/index.php?title=2009_01055
+<iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=2009_01055&s=embedded&p=video1&b=845&e=958' frameBorder='0' style='max-width:100%;width:495px;height:385px;border:0px;' width='495' height='385px' allowTransparency='true'>&#160;</iframe>
 
 In a press conference on the day after the tragedy, Chancellor Harry Ransom expressed his gratitude for those who displayed heroism saving victims while he powerlessly watched from his office in the Tower. Would being an eyewitness of the shooting affect the decisions he made on behalf of the university? This question is hard to answer.  Much of the administrative response concerning the shooting was handled by Vice Chancellor Norman Hackerman of the Division of Academic Affairs. Hackerman notified professors of injured students asking them to provide special consideration due to the tragic circumstances. It is unclear what “special considerations” Hackerman meant, whether this related to classes missed due to time in the hospital or their emotional and mental well being. 
 

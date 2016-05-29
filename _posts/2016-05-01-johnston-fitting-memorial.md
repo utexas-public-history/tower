@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Fitting Memorial: The Mental Health Legacy of the Whitman Murders
+title: 'A Fitting Memorial: The Mental Health Legacy of the Whitman Murders'
 author: Rebecca Johnston
 permalink: /a-fitting-memorial
 ---
