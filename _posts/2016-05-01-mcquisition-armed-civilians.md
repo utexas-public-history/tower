@@ -40,16 +40,16 @@ As the only civilian in the group that stormed the Tower observation deck, Crum 
 
 <div class="image-gallery row">
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-1.jpg"><img src="/images/posts/mcquisition/crum-1-thumb.jpg" /></a>
+    <a data-lightbox="crum" data-title="Allen Crum’s Statement (page 1)" href="/images/posts/mcquisition/crum-1.jpg"><img src="/images/posts/mcquisition/crum-1-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-2.jpg"><img src="/images/posts/mcquisition/crum-2-thumb.jpg" /></a>
+    <a data-lightbox="crum" data-title="Allen Crum’s Statement (page 2)" href="/images/posts/mcquisition/crum-2.jpg"><img src="/images/posts/mcquisition/crum-2-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-3.jpg"><img src="/images/posts/mcquisition/crum-3-thumb.jpg" /></a>
+    <a data-lightbox="crum" data-title="Allen Crum’s Statement (page 3)" href="/images/posts/mcquisition/crum-3.jpg"><img src="/images/posts/mcquisition/crum-3-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-4.jpg"><img src="/images/posts/mcquisition/crum-4-thumb.jpg" /></a>
+    <a data-lightbox="crum" data-title="Allen Crum’s Statement (page 4)" href="/images/posts/mcquisition/crum-4.jpg"><img src="/images/posts/mcquisition/crum-4-thumb.jpg" /></a>
   </div>
 </div>
 
@@ -57,46 +57,46 @@ _Allen Crum's statement, given to the police immediately after the shooting. Doc
 
 <div class="image-gallery row">
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-ar-1.jpg"><img src="/images/posts/mcquisition/crum-ar-1-thumb.jpg" /></a>
+    <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 1)" href="/images/posts/mcquisition/crum-ar-1.jpg"><img src="/images/posts/mcquisition/crum-ar-1-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-ar-2.jpg"><img src="/images/posts/mcquisition/crum-ar-2-thumb.jpg" /></a>
+    <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 2)" href="/images/posts/mcquisition/crum-ar-2.jpg"><img src="/images/posts/mcquisition/crum-ar-2-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-ar-3.jpg"><img src="/images/posts/mcquisition/crum-ar-3-thumb.jpg" /></a>
+    <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 3)" href="/images/posts/mcquisition/crum-ar-3.jpg"><img src="/images/posts/mcquisition/crum-ar-3-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-ar-4.jpg"><img src="/images/posts/mcquisition/crum-ar-4-thumb.jpg" /></a>
+    <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 4)" href="/images/posts/mcquisition/crum-ar-4.jpg"><img src="/images/posts/mcquisition/crum-ar-4-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-ar-5.jpg"><img src="/images/posts/mcquisition/crum-ar-5-thumb.jpg" /></a>
+    <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 5)" href="/images/posts/mcquisition/crum-ar-5.jpg"><img src="/images/posts/mcquisition/crum-ar-5-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-ar-6.jpg"><img src="/images/posts/mcquisition/crum-ar-6-thumb.jpg" /></a>
+    <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 6)" href="/images/posts/mcquisition/crum-ar-6.jpg"><img src="/images/posts/mcquisition/crum-ar-6-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-ar-7.jpg"><img src="/images/posts/mcquisition/crum-ar-7-thumb.jpg" /></a>
+    <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 7)" href="/images/posts/mcquisition/crum-ar-7.jpg"><img src="/images/posts/mcquisition/crum-ar-7-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-ar-8.jpg"><img src="/images/posts/mcquisition/crum-ar-8-thumb.jpg" /></a>
+    <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 8)" href="/images/posts/mcquisition/crum-ar-8.jpg"><img src="/images/posts/mcquisition/crum-ar-8-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-ar-9.jpg"><img src="/images/posts/mcquisition/crum-ar-9-thumb.jpg" /></a>
+    <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 9)" href="/images/posts/mcquisition/crum-ar-9.jpg"><img src="/images/posts/mcquisition/crum-ar-9-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-ar-10.jpg"><img src="/images/posts/mcquisition/crum-ar-10-thumb.jpg" /></a>
+    <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 10)" href="/images/posts/mcquisition/crum-ar-10.jpg"><img src="/images/posts/mcquisition/crum-ar-10-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-ar-11.jpg"><img src="/images/posts/mcquisition/crum-ar-11-thumb.jpg" /></a>
+    <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 11)" href="/images/posts/mcquisition/crum-ar-11.jpg"><img src="/images/posts/mcquisition/crum-ar-11-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-ar-12.jpg"><img src="/images/posts/mcquisition/crum-ar-12-thumb.jpg" /></a>
+    <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 12)" href="/images/posts/mcquisition/crum-ar-12.jpg"><img src="/images/posts/mcquisition/crum-ar-12-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-ar-13.jpg"><img src="/images/posts/mcquisition/crum-ar-13-thumb.jpg" /></a>
+    <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 13)" href="/images/posts/mcquisition/crum-ar-13.jpg"><img src="/images/posts/mcquisition/crum-ar-13-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/crum-ar-14.jpg"><img src="/images/posts/mcquisition/crum-ar-14-thumb.jpg" /></a>
+    <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 14)" href="/images/posts/mcquisition/crum-ar-14.jpg"><img src="/images/posts/mcquisition/crum-ar-14-thumb.jpg" /></a>
   </div>
 </div>
 
@@ -110,10 +110,10 @@ A very good thing, because Crum, a civilian at the top of the Tower carrying a r
 
 <div class="image-gallery row">
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/mccoy-1.jpg"><img src="/images/posts/mcquisition/mccoy-1-thumb.jpg" /></a>
+    <a data-lightbox="mccoy" data-title="Houston McCoy’s Official Report (page 1)" href="/images/posts/mcquisition/mccoy-1.jpg"><img src="/images/posts/mcquisition/mccoy-1-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/mccoy-2.jpg"><img src="/images/posts/mcquisition/mccoy-2-thumb.jpg" /></a>
+    <a data-lightbox="mccoy" data-title="Houston McCoy’s Official Report (page 2)" href="/images/posts/mcquisition/mccoy-2.jpg"><img src="/images/posts/mcquisition/mccoy-2-thumb.jpg" /></a>
   </div>
 </div>
 
@@ -121,37 +121,37 @@ _Houston McCoy's official report, written immediately after the shooting. Docume
 
 <div class="image-gallery row">
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/mccoy-helmer-intro2.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-intro2-thumb.jpg" /></a>
+    <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page TK)" href="/images/posts/mcquisition/mccoy-helmer-intro2.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-intro2-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/mccoy-helmer-1.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-1-thumb.jpg" /></a>
+    <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page TK)" href="/images/posts/mcquisition/mccoy-helmer-1.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-1-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/mccoy-helmer-2.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-2-thumb.jpg" /></a>
+    <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page TK)" href="/images/posts/mcquisition/mccoy-helmer-2.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-2-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/mccoy-helmer-3.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-3-thumb.jpg" /></a>
+    <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page TK)" href="/images/posts/mcquisition/mccoy-helmer-3.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-3-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/mccoy-helmer-4.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-4-thumb.jpg" /></a>
+    <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page TK)" href="/images/posts/mcquisition/mccoy-helmer-4.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-4-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/mccoy-helmer-5.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-5-thumb.jpg" /></a>
+    <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page TK)" href="/images/posts/mcquisition/mccoy-helmer-5.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-5-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/mccoy-helmer-6.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-6-thumb.jpg" /></a>
+    <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page TK)" href="/images/posts/mcquisition/mccoy-helmer-6.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-6-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/mccoy-helmer-7.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-7-thumb.jpg" /></a>
+    <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page TK)" href="/images/posts/mcquisition/mccoy-helmer-7.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-7-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/mccoy-helmer-8.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-8-thumb.jpg" /></a>
+    <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page TK)" href="/images/posts/mcquisition/mccoy-helmer-8.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-8-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/mccoy-helmer-9.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-9-thumb.jpg" /></a>
+    <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page TK)" href="/images/posts/mcquisition/mccoy-helmer-9.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-9-thumb.jpg" /></a>
   </div>
   <div class="image col-xs-6 col-md-3">
-    <a href="/images/posts/mcquisition/mccoy-helmer-10.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-10-thumb.jpg" /></a>
+    <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page TK)" href="/images/posts/mcquisition/mccoy-helmer-10.jpg"><img src="/images/posts/mcquisition/mccoy-helmer-10-thumb.jpg" /></a>
   </div>
 </div>
 
