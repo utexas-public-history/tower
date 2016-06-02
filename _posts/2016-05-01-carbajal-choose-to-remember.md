@@ -76,15 +76,15 @@ Foot, Kirsten, Barbara Warnick, and Steven M. Schneider. “Web-Based Memorializ
 
 Hlavaty, Craig, “47 Years Later, Whitman’s Tower Shooting Still a Haunting Memory for Texans.” _The Texican_, August 1, 2013. <http://blog.chron.com/thetexican/2013/08/47-years-later-whitmans-tower-shooting-still-a-haunting-memory-for-texans/>.
 
-“Landscape Architect and Visual Artist Chosen to Redesign Tower Garden at.” _UT News | The University of Texas at Austin_, February 8, 2002. <http://news.utexas.edu/2002/02/08/nr_garden>.
+“Landscape Architect and Visual Artist Chosen to Redesign Tower Garden at.” _UT News \| The University of Texas at Austin_, February 8, 2002. <http://news.utexas.edu/2002/02/08/nr_garden>.
 
 Luciano, Marlena. “A Unique Memorial.” Accessed April 7, 2016. <https://sites.jmu.edu/wrtcworkshop/a-unique-memorial/>.
 
 Margry, Peter Jan, and Cristina Sanchez-Carretero. _Grassroots Memorials : The Politics of Memorializing Traumatic Death_. 1st ed. New York, NY: Berghahn Books, 2011.
 
-“Memorial Plaque in Tower Garden Commemorates Victims of Aug. 1, 1966 Shooting Tragedy.” _UT News | The University of Texas at Austin_, January 10, 2007. <http://news.utexas.edu/2007/01/10/tower_garden>.
+“Memorial Plaque in Tower Garden Commemorates Victims of Aug. 1, 1966 Shooting Tragedy.” _UT News \| The University of Texas at Austin_, January 10, 2007. <http://news.utexas.edu/2007/01/10/tower_garden>.
 
-“A Moving Memorial for the Victims of the UT Tower Shootings | The Rag Blog.” Accessed April 7, 2016. <http://www.theragblog.com/metro-alice-embree-a-moving-memorial-for-the-victims-of-the-ut-tower-shootings/>.
+“A Moving Memorial for the Victims of the UT Tower Shootings \| The Rag Blog.” Accessed April 7, 2016. <http://www.theragblog.com/metro-alice-embree-a-moving-memorial-for-the-victims-of-the-ut-tower-shootings/>.
 
 Moloney, Justina. _Oral History with Larry Bethune_. WAV file. Austin, TX, 2016.
 
@@ -108,7 +108,7 @@ Tedford, Deborah. “University of Texas Shooting Remembered.” _NPR.org_. Acce
 
 “Telling the Stories of the Whitman Shooting [Podcast].” _The Alcalde_, April 4, 2014. <http://alcalde.texasexes.org/2014/04/telling-the-stories-of-the-whitman-shooting-podcast/>.
 
-“Tower Garden’ Ceremony Scheduled for Aug. 1.” <UT News | The University of Texas at Austin>, July 19, 1999. <http://news.utexas.edu/1999/07/19/tower-garden-ceremony-scheduled-for-aug-1>.
+“Tower Garden’ Ceremony Scheduled for Aug. 1.” _UT News \| The University of Texas at Austin_, July 19, 1999. <http://news.utexas.edu/1999/07/19/tower-garden-ceremony-scheduled-for-aug-1>.
 
 “Tower Reflection Submission,” n.d. UT Remembers Records Box 2F472 1998-2002.
 
