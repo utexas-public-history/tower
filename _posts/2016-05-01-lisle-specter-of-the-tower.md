@@ -4,6 +4,8 @@ title: The Specter of the Tower
 author: John Lisle
 permalink: /the-specter-of-the-tower
 ---
+<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+{::options parse_block_html="false" /}
 
 When the University of Texas Tower was built in the 1930s it dominated the surrounding landscape. Only the Texas State Capitol, which sits nearly a mile south of the Tower, rivaled its stature. Architect Paul Philippe Cret said that the Tower was “the image carried in our memory when we think of the [University].”[^1] Other than being a symbol of the University, jokingly an “ivory tower,” the UT Tower holds multiple exultant and tragic meanings.
 
@@ -22,6 +24,7 @@ In 1998, University President Larry Faulkner recommended reopening the Tower fol
 Others eagerly agreed about “reclaiming” the Tower. Charles Locke, the former tour coordinator at the Tower, said, “One of the benefits of reopening the Tower is that we can reclaim it as a symbol of academic excellence represented by the university.”[^12] At the thirtieth anniversary memorial service of the shooting commemorating the victims, Pastor Larry Bethune noted how the memorial erected near the turtle pond just north of the Tower “will assist UT in reclaiming the Tower as a symbol of life and hope.”[^13]
 
 But, despite any amount of effort, tragedy still haunts the Tower. The walls still talk—if you know where to listen. The south façade is scarred with refilled pockmarks formed by bullets shot from below. The northwest corner, where Whitman was killed, has a tiny piece of stone cut out where a bullet struck. The beautiful view contrasts inevitable macabre thoughts. The Tower’s official webpage casts a cheerier atmosphere and does not mention Whitman, but Derro Evans’s harrowing 1967 words still suffice: “The Tower has still to be purged, for the memory of terror remains too harsh and too real to pass into darkness.”[^14] Nobody defines the Tower for everybody; its associations and meanings are distinctive to each individual. The Tower is not a monolith.
+</div></div></div>
 
 [^1]: Christopher Long, “Cret, Paul Philippe,” June 12, 2010, <https://tshaonline.org/handbook/online/articles/fcr43>.
 

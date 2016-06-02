@@ -4,6 +4,9 @@ title: 'The Cost of Student Living: Race, Finances, and Politics at UT Austin in
 author: Miguel Daza
 permalink: /the-cost-of-student-living 
 ---
+<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+{::options parse_block_html="false" /}
+
 College life at UT Austin changed in 1956 when the Board of Regents decided to accept the first African-American students. In addition to the tense race relations that resulted, tuition was rising, university housing was increasingly scarce, and there was growing student activism that challenged the UT Board of Regents and openly protested against US involvement in Vietnam. The Tower Shooting may not have been directly related to these turbulent events, but it occurred against the backdrop of a rapidly changing world in the 1960s.
 
 ## Race and Civil Rights
@@ -93,6 +96,7 @@ Unknown. “New Left: The Students for a Democratic Society.” _The Austin Amer
   U.S. Bureau of the Census, “Income in 1965 of families and persons in the United States” Current Population Report, Series P-60, No. 51, 1967. Accessed: 17 March 2016 http://www2.census.gov/prod2/popscan/p60-051.pdf
 
 United States Department of Labor. “Minimum Wage-U.S Department of Labor-Chart 1” Department of Labor. <https://www.dol.gov/featured/minimum-wage/chart1, 2016>.
+</div></div></div>
 
 
 

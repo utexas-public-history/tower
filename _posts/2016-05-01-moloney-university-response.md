@@ -4,11 +4,14 @@ title: 'The University Response: A Product of the Times'
 author: Justina Moloney
 permalink: /the-university-response
 ---
+<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+{::options parse_block_html="false" /}
+
 How did the University of Texas respond immediately following the UT Tower Shooting?
 
 Do our current attitudes about institutional response bias our understanding of a different time?
 
-<iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=2009_01055&s=embedded&p=video1&b=845&e=958' frameBorder='0' style='max-width:100%;width:495px;height:385px;border:0px;' width='495' height='385px' allowTransparency='true'>&#160;</iframe>
+<iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=2009_01055&s=embedded&p=video1&b=845&e=958' frameBorder='0' style='max-width:100%;width:495px;height:385px;border:0px;' width='495' height='385px' allowTransparency='true'></iframe>
 
 In a press conference on the day after the tragedy, Chancellor Harry Ransom expressed his gratitude for those who displayed heroism saving victims while he powerlessly watched from his office in the Tower. Would being an eyewitness of the shooting affect the decisions he made on behalf of the university? This question is hard to answer.  Much of the administrative response concerning the shooting was handled by Vice Chancellor Norman Hackerman of the Division of Academic Affairs. Hackerman notified professors of injured students asking them to provide special consideration due to the tragic circumstances. It is unclear what “special considerations” Hackerman meant, whether this related to classes missed due to time in the hospital or their emotional and mental well being. 
 
@@ -52,6 +55,7 @@ Spelce, Neal. "The Neal Spelce Collection, No. 1 - UT Tower Shooting." _Texas Ar
 “Telegrams sent to injured students”, UT President’s Office Box 80-50/35 Whitman, Charles  Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
 “The Tower Garden: A Garden of Reflection,” UT Remembers Records Box 2F472 1998-2002, Dolph Briscoe Center for American History, The University of Texas at  Austin.
+</div></div></div>
 
 [^1]: “Telegrams sent to injured students”, UT President’s Office Box 80-50/35 Whitman, Charles Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 

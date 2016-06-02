@@ -4,6 +4,9 @@ title: 'I Choose to Remember; I Need to Forget: Memorialization and Healing from
 author: Itza Carbajal
 permalink: /i-choose-to-remember
 ---
+<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+{::options parse_block_html="false" /}
+
 Days after the 1966 UT Tower shooting, the air on campus seemed stiff. Some survivors had been released from hospital while the deceased had begun to be buried. The media buzzed and university officials scrambled to find ways to help the university community adjust to life after the tragedy. Years began to pass and slowly the moment began to fade. For some, the Tower Tragedy paved the way to an endless struggle to find peace with their experience. For others who had been on or near campus and who had shots fired at them or at their friends and loved ones, the day would remain a dark moment in their life.
 
 ![Comment][reflections-comment-1]
@@ -126,6 +129,7 @@ Tyner, James, Savina Sirik, and Samuel Henkin. “Violence and the Dialectics of
 “UT Students Remember Tower Shooting Victims - The Daily Texan.” Accessed April 28, 2016. <http://www.dailytexanonline.com/2014/08/02/ut-students-remember-tower-shooting-victims-0>.
 
 “UT Tower Shooting.” _The Alcalde_. Accessed April 28, 2016. <http://alcalde.texasexes.org/tag/uttower-shooting/>.
+</div></div></div>
 
 [tower-garden-reflection]: /images/posts/carbajal/tower-garden-reflection.jpg
 [tower-garden]: /images/posts/carbajal/tower-garden.jpg

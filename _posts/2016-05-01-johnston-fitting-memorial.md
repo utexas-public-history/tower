@@ -4,6 +4,9 @@ title: 'A Fitting Memorial: The Mental Health Legacy of the Whitman Murders'
 author: Rebecca Johnston
 permalink: /a-fitting-memorial
 ---
+<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+{::options parse_block_html="false" /}
+
 > To burden others with your problems—are they problems?—is not right—however    
 > To carry them is akin to carrying a fused bomb—     
 > I wonder if the fuse can be doused—    
@@ -47,6 +50,7 @@ In heeding the call of the Governor’s Report, the University of Texas refused 
 Today, UT-Austin is [recognized as a leader][ut-austin-mental-health] among American universities for its approach to physical and mental wellness. The quality and scope of these programs continues to improve, as do efforts to expand access. That expanded access, however, has been met—and exceeded. Demand for mental health services on campus is currently well beyond capacity. In some cases, waiting periods for a counseling appointment in 2015 stretched to over a month. Other barriers to access have [caused concern][student-concern] among the student community, in particular, a [fee hike][fee-hike] implemented this year for individual counseling and psychiatric sessions. With the implementation of “campus carry” beginning on August 1, 2016—fifty years to the day since the shootings—this demand is likely to increase. Some [faculty are concerned][faculty-concern] that the combination of mental stress and access to guns will put students at increased risk for suicide. While the university’s Working Group for Campus Carry policy [called][campus-carry] for the administration to “examine the level of resources devoted to mental health services and better publicize the existence of mental health services already available to the UT community,” the president’s policy recommendations [did not mention plans][cc-report] to do so.
 
 As we approach this fateful anniversary, it is worth pausing to reflect on how dramatically the mental health environment on campus has changed. And why it has changed.
+</div></div></div>
 
 [^1]: An excerpt from Charles Whitman’s diary, Gary M. Lavergne Papers, Dolph Briscoe Center for American History.
 

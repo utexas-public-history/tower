@@ -4,6 +4,8 @@ title:  '“The Eyes of the World Are Upon You, Texas”: How the Austin Newspap
 author: Alejandra Garza
 permalink: /how-austin-newspapers-covered-the-shooting
 ---
+<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+{::options parse_block_html="false" /}
 
 When Charles Whitman shot at innocent passersby from atop the University of Texas Tower on August 1, 1966, he shocked the country and, according to the local newspapers, became the “Greatest Mass Slayer in History.”[^1] Media across the country tried to explain what occurred to their stunned readers, and in Austin, three newspapers, _The Daily Texan_, UT Austin’s student newspaper, and the _Austin American_ and _The Austin Statesman_, the citywide newspapers, shaped the public understanding of the events for shocked Austinites and UT students.[^2] Nationwide, newspapers reported extensively on the “sniper in Texas” and closely scrutinized the events of that day.[^3] All these articles attempted to answer the same question: “Why?" _The Austin American-Statesman_, published jointly on Sundays through 1973, chose to focus on Whitman's mental and medical state, while _The Daily Texan_ highlighted student voices and their efforts to assist those affected.
 
@@ -33,17 +35,18 @@ On the day after the shooting, _The Austin Statesman_ presented another actor in
 
 Another word stands out amongst the countless headlines printed in the days after Whitman’s act: “Sniper.” As the media tried to figure out who could commit such a terrible act, writers began piecing together a portrait of the man on the tower. “Sniper” jumped out as the most commonly used word to describe Whitman and it dominated the headlines, both local and nationwide. _LIFE_ magazine’s cover on August 12, 1966 stated “The Texas Sniper.”[^12] Was this term used to convey the accuracy with which Whitman shot that day? With the United States in the midst of the Vietnam War, was “sniper” a more recognizable term than “murderer,” a term that does not appear in any headlines?
 
- Whitman’s portrayal in the media does not seem to shift over time. He is simultaneously called a “Good Man, Good Husband, Good Citizen” and “an Insane Killer.”[^13]
+Whitman’s portrayal in the media does not seem to shift over time. He is simultaneously called a “Good Man, Good Husband, Good Citizen” and “an Insane Killer.”[^13]
 
- ## _What about the victims?_
+## _What about the victims?_
 
- Those affected by the tragedy, the dead and wounded, are written about in simple terms and often placed in small spaces among the columns dedicated to Whitman. Maybe because this was deemed the first mass murder, perhaps the media was not sure how to write about the victims aside from issuing obituary-like articles. However, _The Daily Texan_ continuously reported the collection of funds for victims and their families. On August 9, 1966, _The Daily Texan_ reported that the Ex-Students Association was setting up a special committee to look into ways to help the families of the victims. Their next issue had an article about the fund and how to contribute. A year later, _The Daily Texan_ reported that surviving victims received almost $2,000 in aid grants from the Association.  
+Those affected by the tragedy, the dead and wounded, are written about in simple terms and often placed in small spaces among the columns dedicated to Whitman. Maybe because this was deemed the first mass murder, perhaps the media was not sure how to write about the victims aside from issuing obituary-like articles. However, _The Daily Texan_ continuously reported the collection of funds for victims and their families. On August 9, 1966, _The Daily Texan_ reported that the Ex-Students Association was setting up a special committee to look into ways to help the families of the victims. Their next issue had an article about the fund and how to contribute. A year later, _The Daily Texan_ reported that surviving victims received almost $2,000 in aid grants from the Association.  
 
- Unlike the city newspapers, which were more interested in explaining Whitman and his actions, the student journalists at UT wrote about the efforts made to help those within their community.
+Unlike the city newspapers, which were more interested in explaining Whitman and his actions, the student journalists at UT wrote about the efforts made to help those within their community.
 
- ## Why?
+## Why?
 
- Over the years, the media has retraced the events of August 1, 1966 and continues to struggle with the same question: “Why?” The simplest question seems to be the hardest one to answer and the student and city newspapers have grasped at multiple solutions over the last fifty years. Newspapers served as the first line of information that shaped public opinion in 1966. Through their coverage of the events of August 1, 1966, _The Austin Statesman_, _The Austin American_, and _The Daily Texan_ tried to define Whitman, his actions, and the events that unfolded the days after. The various questions that journalists raised, days and even years after the event, seem to have no concrete answer. However, it shows our inherent need to know the simplest, yet hardest, question: Why?
+Over the years, the media has retraced the events of August 1, 1966 and continues to struggle with the same question: “Why?” The simplest question seems to be the hardest one to answer and the student and city newspapers have grasped at multiple solutions over the last fifty years. Newspapers served as the first line of information that shaped public opinion in 1966. Through their coverage of the events of August 1, 1966, _The Austin Statesman_, _The Austin American_, and _The Daily Texan_ tried to define Whitman, his actions, and the events that unfolded the days after. The various questions that journalists raised, days and even years after the event, seem to have no concrete answer. However, it shows our inherent need to know the simplest, yet hardest, question: Why?
+</div></div></div>
 
  [^1]: “Greatest Mass Slayer in History?,” _The Austin Statesman_, August 2, 1966, Vol. 96, No. 6 edition, sec. Front Page, Austin History Center.
 

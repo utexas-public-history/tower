@@ -1,4 +1,4 @@
-$interfaceStroke: #ccc;
+@import 'variables';
 
 @mixin serif-font-stack {
   font-family: Georgia, serif;
@@ -13,7 +13,16 @@ html {
 }
 
 body {
+  background-color: $lowlightBackground;
   font-size: 1rem;
+}
+
+.bar {
+  width: 100%;
+
+  &.white {
+    background-color: #fff;
+  }
 }
 
 .homepage-posts {

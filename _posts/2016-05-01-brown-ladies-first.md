@@ -4,6 +4,9 @@ title: 'Ladies First'
 author: Keisha Brown
 permalink: /ladies-first
 ---
+<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+{::options parse_block_html="false" /}
+
 What compels a man to take the life of the women with whom he shares a most intimate bond? Could the murderous destruction of one’s maternal connection or a sacred marital union somehow disinhibit a killer to commit violence on a much grander scale? In three of the four U. S. school massacres with the highest death toll, the white male perpetrators claimed the lives of a wife or mother (or both) as their first victims—the notable exception being South Korean born Seung-Hui Cho, the Virginia Tech shooter.
 
 ## University of Texas Tower Shooting - August 1, 1966
@@ -76,6 +79,7 @@ Holmes, R. M., & Holmes, S. T. (1992). Understanding Mass Murder: A Starting Poi
 Liem, M., Hengeveld, M., & Koenraadt, F. (2009). Domestic Homicide Followed by Parasuicide: A Comparison with Homicide and Parasuicide. _International Journal of Offender Therapy and Comparative Criminology_, 53(5), 497.
 
 Liem, M., Levin, J., Holland, C., & Fox, J. A. (2013). The Nature and Prevalence of Familicide in the United States, 2000–2009. _Journal of Family Violence_, 28(4), 351-358. doi:10.1007/s10896-013-9504-2.
+</div></div></div>
 
 [kehoe]: /images/posts/brown/andrew-kehoe-and-wife.jpg
 [adam-lanza]: /images/posts/brown/AdamLanza.jpg

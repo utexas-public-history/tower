@@ -4,6 +4,9 @@ title: Untitled
 author: Justin Krueger
 permalink: /untitled
 ---
+<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+{::options parse_block_html="false" /}
+
 When Charles Whitman went to the top of the UT Tower on August 1, 1966 the university did not have a commissioned police force and the Austin Police Department was unprepared to respond.  Both of these things made it possible for Whitman to continue his killing spree for 96 terrifying minutes.   
 
 When the shooting was over and the bodies were removed, the media, public officials, and citizens alike called for answers and wanted action.  Everyone was trying to make sense of the tragic event and try to prevent it from happening again.
@@ -93,3 +96,4 @@ Vertical Files - University of Texas Police Department.   Dolph Briscoe Center f
 “Weather Underground - Daily History - Austin, Texas,” Weather Underground, accessed April 20, 2016, <http://www.wunderground.com>.
 
 Zainab Calcuttawala. "UTPD: Campus police well-prepared for active shooter situations," _The Daily Texan_, October 6, 2015.
+</div></div></div>

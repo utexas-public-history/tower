@@ -1,17 +1,28 @@
+@import 'variables';
+
 .post-content {
   @include serif-font-stack;
   font-size: 1.125em;
+  padding: {
+    top: 3em;
+    bottom: 3em;
+  }
 
   blockquote {
     font-size: 1.11111em;
   }
 
+  h2 {
+    margin: 2em 0 1em 0;
+  }
+
   p {
     line-height: 150%;
-    margin-bottom: 1em;
+    margin-bottom: 1.5em;
   }
 
   .footnotes {
+    background-color: $lowlightBackground;
     border: {
       color: $interfaceStroke;
       style: solid;
@@ -29,3 +40,40 @@
     }
   }
 }
+
+.footnotes {
+  @include serif-font-stack;
+
+  font-size: .9em;
+  margin: 2em auto;
+
+  ol {
+    padding-left: 1em;
+  }
+}
+
+@media (max-width: $screen-sm-min) {
+  .footnotes { 
+    padding: 0 30px;
+    width: auto; 
+  }
+}
+@media (min-width: $screen-sm-min) and (max-width: $screen-md-min) {
+  .footnotes { 
+    padding: 0 30px;
+    width: 750px; 
+  }
+}
+@media (min-width: $screen-md-min) and (max-width: $screen-lg-min) {
+  .footnotes { 
+    padding: 0 93.3333px;
+    width: 970px; 
+  }
+}
+@media (min-width: $screen-lg-min) {
+  .footnotes { 
+    padding: 0 220px;
+    width: 1170px; 
+  }
+}
+

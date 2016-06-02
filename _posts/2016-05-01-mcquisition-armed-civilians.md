@@ -4,10 +4,12 @@ title: Armed Civilians and the UT Tower Tragedy
 author: Isaac McQuisition
 permalink: /armed-civilians-and-the-ut-tower-tragedy
 ---
+<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+{::options parse_block_html="false" /}
 
 <blockquote>
   <p>It seemed like every other guy had a rifle. There was a sort of cowboy atmosphere, this “Let’s get him” spirit.</p>
-  <footer>Ann Major, in the <cite>Texas Monthly</cite> article “<a href="http://www.texasmonthly.com/articles/96-minutes/">96 Minutes</a>”</cite></footer>
+  <footer>Ann Major, in the <cite>Texas Monthly</cite> article “<a href="http://www.texasmonthly.com/articles/96-minutes/">96 Minutes</a>”</footer>
 </blockquote>
   
 On August 1, 2016, Texas Senate Bill 11 will go into effect, allowing license holders to carry concealed weapons throughout university campuses. Though private universities will have the option to opt-out, state schools will not. The legislation has been particularly contentious on the campus of the University of Texas at Austin, where [mock shootings][mock-shootings] have played out against a backdrop of [resistance][resistance] from students, faculty, staff, and some [wonderfully][dildos] [absurdist][mass-farting] protests. 
@@ -18,7 +20,7 @@ When Whitman began shooting, the Austin Police Department was ill-equipped for t
 
 **TK:** [Gun marks on the side of the UT Tower. Most of these marks have since been plastered over. Photo courtesy of Austin History Center, Austin Public Library.]
 
-<iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&s=embedded&p=video1&b=43' frameBorder='0' style='max-width:100%;width:495px;height:385px;border:0px;' width='495' height='385px' allowTransparency='true'>&#160;</iframe>
+<iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&s=embedded&p=video1&b=43' frameBorder='0' style='max-width:100%;width:495px;height:385px;border:0px;' width='495' height='385px' allowTransparency='true'></iframe>
 
 _Local news cameras recorded some of the firefight. Video clip courtesy of the Texas Archive of the Moving Image._
 
@@ -30,7 +32,7 @@ It’s undeniable that many civilians on campus that day displayed tremendous br
 
 In a statement given in November 1966 to _American Rifleman_, a commercial publication of the National Rifle Association, Allen Crum recounts his actions and how he ended up with officers at the top of the Tower.[^5] At the time, Crum was recently retired from the US Air Force and was working as a floor manager at the University Co-op, located across the street from the UT campus. After Whitman started shooting, Crum offered his help and, armed with a rifle given to him by an officer, he and a few other members of the APD made their way to the Tower observation deck. 
 
-<iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&s=embedded&p=video1&b=0' frameBorder='0' style='max-width:100%;width:495px;height:385px;border:0px;' width='495' height='385px' allowTransparency='true'>&#160;</iframe>
+<iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&s=embedded&p=video1&b=0' frameBorder='0' style='max-width:100%;width:495px;height:385px;border:0px;' width='495' height='385px' allowTransparency='true'></iframe>
 
 _Allen Crum talks about his experience storming the Tower with police officers on the local news. Video clip courtesy of the Texas Archive of the Moving Image._
 
@@ -159,13 +161,14 @@ _Several years later, Houston McCoy described his experience storming the Tower 
 
 McCoy goes on to describe the ground fire that peppered the Tower and narrowly missed them while he, Crum, and the other officers got into position on the observation deck. In a press conference after the shooting, Texas Governor [John Connally said][connally] that the ground fire impeded the progress of officers to the top of the Tower. After McCoy and Martinez killed Whitman, they then had no effective way of telling those on the ground to stop firing. Crum waved a white flag, but even after that, sporadic ground fire continued. McCoy said that at least one TV report had shown Crum waving the flag and claimed that it was the shooter trying to give up.[^10] No doubt the same thought occurred to many of those firing at the Tower.
 
-<iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&s=embedded&p=video1&b=0' frameBorder='0' style='max-width:100%;width:495px;height:385px;border:0px;' width='495' height='385px' allowTransparency='true'>&#160;</iframe>
+<iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&s=embedded&p=video1&b=0' frameBorder='0' style='max-width:100%;width:495px;height:385px;border:0px;' width='495' height='385px' allowTransparency='true'></iframe>
 
 _Texas Governor John Connally, while defending his Police Department, said that ground fire from civilians actually impeded the progress of officers to the top of the Tower. Video clip provided courtesy of the Texas Archive of the Moving Image._
 
 By juxtaposing these two accounts, we’re able to get a more complete picture of the role armed citizens played in the UT Tower Shootings. The ground fire did pin down Whitman, most likely keeping him from killing more people. However, it’s not difficult to see how the actions of several armed, independent citizens could have resulted in further tragedy, and that it was only through fortuitous circumstance that they didn’t.
 
 Armed civilians had one final effect on what happened that day. Claire Wilson was eight months pregnant when Whitman shot her and her boyfriend as they walked across the upper terrace of the South Mall. Her boyfriend, Thomas Eckman, died instantly, but Claire was only wounded. As she lay in the brutal sun, injured and unable to move, chaos engulfed the UT campus. It would be more than an hour before a woman and three young men would be able to run out and carry her to safety.[^11] Years later, in 2015, Claire Wilson, now Claire James, testified before the Texas State Senate Affairs Committee. The Committee was considering bills that would increase the number of weapons permitted on college campuses. [In her testimony][testimony], James said that the armed citizens who were firing back at Whitman had kept emergency personnel from reaching her and her boyfriend sooner.
+</div></div></div>
 
 [^1]: This is a bit of a fraught claim. Though commonly referred to as the first mass school shooting, it’s probably more accurate to say that it was the first mass school shooting broadcast live (or very close to it) into people’s homes. There have been numerous other instances of mass violence, many of them inside of public schools. For more information on the history of public violence in the United States, see [Maria’s essay](/a-brief-history-of-mass-shootings).
 

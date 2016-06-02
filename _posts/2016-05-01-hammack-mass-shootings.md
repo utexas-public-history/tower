@@ -4,6 +4,8 @@ title: A Brief History of Mass Shootings
 author: Maria Esther Hammack
 permalink: /a-brief-history-of-mass-shootings
 ---
+<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+{::options parse_block_html="false" /}
 
 The notion portrayed by media outlets and the memory that materializes about the UT Tower Shooting in regards to it being the “first” violent school shooting, the “first” military-connected shooting, or even the “first” violent killing spree in the United States is a mythicized misconception. Historically the United States has witnessed many mass shootings, not originating from the UT Tower Shooting in 1966, but in fact predating that incident, and as early as 1891.The reasons that led to the August 1966 University of Texas sniper shootings and the perception that this incident was the first mass shootings in the country, not only demonstrates how our society acknowledges why violent crime happens, but also how the pastis remembered through the perception of what is morally right and wrong, as well as because of our society’s tendency to so readily forget the past.
 
@@ -28,6 +30,7 @@ The number of mass shootings in the past two decades have desensitized us or per
 What has become apparent through this examination of the history of mass shootings, however, is that the realities of what transpired on August 1st, 1966 at the University of Texas at Austin were unprecedented in both number of lives ended, number of individual lives affected, the extent of emotional damage perpetrated within both, UT's and Austin's communities, and the way in which public memory of the tragedy has since been overshadowed by factors that have been and still are hard to comprehend. The attitudes towards the 1966 shooting, both at UT and in the Austin community have seemingly created an abysmal amnesia towards the memory of this tragic episode, and towards how to acknowledge what happened and subsequently towards how to pave the road towards healing. The UT Tower’s ninety-six minute shootings left 17 dead, including the shooter, thirty wounded, and many more maimed. These facts alone, for any community, in any era, and under whatever circumstance is a hard experience to process, let alone an experience sought to be examined. It is my hope that this brief history on mass shootings can open dialogue towards how the University of Texas at Austin can examine the past. How we, as both a community and individuals can take the lessons offered through our past history to help address the painful memory of the 1966 mass shootings, and hopefully in order understand how to begin to heal.
 
 **TK:** Insert timeline of mass shootings
+</div></div></div>
 
 [life-magazine]: /images/posts/hammack/life-magazine.jpg
 
