@@ -5,6 +5,7 @@ author: Justin Krueger
 permalink: /untitled
 ---
 When Charles Whitman went to the top of the UT Tower on August 1, 1966 the university did not have a commissioned police force and the Austin Police Department was unprepared to respond.  Both of these things made it possible for Whitman to continue his killing spree for 96 terrifying minutes.   
+
 When the shooting was over and the bodies were removed, the media, public officials, and citizens alike called for answers and wanted action.  Everyone was trying to make sense of the tragic event and try to prevent it from happening again.
 
 **TK:** [insert letter from APD Chief Miles to FBI Director J. Edgar Hoover &amp; Gov. Connally letter to APD Chief Miles] 
@@ -28,6 +29,7 @@ The official T&amp;SS Offense Report from August 1, 1966 shows a department that
 At 11:50 am security officers L.W. Hebert and Jack Rodman were sent by Hamilton to the Tower to check out the situation.  Upon reaching the 27th floor by elevator they came across several of the early victims in the stairwell up to the 28th floor.  After hearing continued gunfire outside and recognizing they had no weapons or plans by which to engage the shooter, both men decided it best to head to the bottom of the main building to lock it down so no one could get in or out and to secure the interior of the building.  This was at approximately 11:55 am. It was not until 89 minutes later that Whitman was finally shot and the killing ended.   
 
 The lack of adequate resources, firearms, and response plans greatly limited the university officers’ ability to act. This was grossly obvious when Chief Hamilton called the university ROTC program to see if they had any weapons and ammunition that the Traffic &amp; Security Services could use. The ROTC responded that they had weapons but no ammunition.  
+
 The lack of weapons and organization was not solely a problem for officials of The University of Texas.  
 
 At the press conference held by the Austin Police Department immediately after the shooting, Chief of Police Robert Miles focused almost exclusively on the bravery of his officers and their attention to department policy.  He likely did so for two reasons: first, to show that the department acted heroically, and second, to deflect questions about the overall preparedness and implementation of the department response.  The bravery of the responding officers is without question. Their courage—not any standard plan of action—helped to eventually end Whitmans’ rampage.  The officers, however, did not have any specialized tactical training or the needed resources for clear communication.  There was also no Incident Command System (ICS), or Unified Command, or any other framework for plan of action.   

@@ -10,7 +10,7 @@ permalink: /texas-gun-culture-and-the-ut-tower-shooting
   <footer>J.M. Coetzee, in the <cite>Texas Monthly</cite> article “<a href="http://www.texasmonthly.com/articles/96-minutes/">96 Minutes</a>”</footer>
 </blockquote>
 
-When it comes to [armed civilians](TK), the UT Tower Shooting is a singular occurrence. To my knowledge, there are no other recent examples of a group of armed civilians, without any prior communication or planning, teaming up to fire back at a gunman in a public venue, even as the police and other officials were responding to the shooting.
+When it comes to [armed civilians](/armed-civilians-and-the-ut-tower-tragedy), the UT Tower Shooting is a singular occurrence. To my knowledge, there are no other recent examples of a group of armed civilians, without any prior communication or planning, teaming up to fire back at a gunman in a public venue, even as the police and other officials were responding to the shooting.
 
 In the press reports after the shooting, nobody seemed particularly fazed by the large number of armed civilians present on the UT Campus that day. To the contrary, with very few exceptions, they were treated as heroes. The few people who thought that this sequence of events was anything out of the ordinary were outsiders like J.M. Coetzee. The South African-born author was attending the UT-Austin on a Fulbright Award, and thus hadn’t grown up with the Texas gun culture.
 
