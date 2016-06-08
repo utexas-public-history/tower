@@ -49,7 +49,7 @@ But love takes a twisted form in households plagued by domestic violence and the
 
 <blockquote>
   <p>“I did on many occasions beat my wife, but I loved her … . I have to admit it, because of my temper, I knocked her around.”</p>
-  <footer>– C. A. Whitman</footer>
+  <footer>C. A. Whitman</footer>
 </blockquote>
 
 Domestic violence in its most extreme form is domestic homicide and the victims overwhelmingly tend to be women. There is substantial research evidencing a connection between male perpetration of domestic violence and witnessing domestic violence or experiencing abuse in childhood. In fact, [studies](#tk-internal-link) have found that there are significant correlations between physical abuse, psychological abuse, and neglect, suggesting that if domestically violent men experienced one type of maltreatment in childhood, they were also likely subjected to other types. Symptoms of trauma in adulthood such as anxiety, depression, dissociation, sexual problems, and sleep disturbances are commonly associated with suffering and witnessing domestic violence in childhood. [One study](#tk-internal-link) found that experiencing physical abuse and witnessing domestic violence significantly predicted future psychological spouse abuse and trauma symptoms in domestically violent men while neglect, sexual abuse, and psychological abuse significantly predicted physical spouse abuse.
