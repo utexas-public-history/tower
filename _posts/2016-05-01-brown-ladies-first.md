@@ -48,7 +48,7 @@ Whitman may have killed the women he loved to spare them the shame of his homici
 But love takes a twisted form in households plagued by domestic violence and the former Kathy Leissner was Whitman’s victim long before the hunting blade pierced her chest. Charles adored his wife dearly—she was his “most precious possession” as he often wrote—but he was overly critical of her and controlling. Kathy had [confided][morgan-interview] in close friends John and Fran Morgan that she couldn’t cope with her husband’s perfectionist expectations of her. Charles would wipe his hand behind pictures hanging on the wall looking for dust and his hot temper led him to hit his wife on at least three occasions.  His violent outbursts terrified Kathy to the extent that family, close friends and even the landlady were aware, to varying degrees, that she feared her husband. For as much as Charles abhorred his father, he also despised how his own propensity for violence was so reminiscent of the domineering elder Whitman in spite of his [best efforts to control and improve himself][self-improvement]. Indeed, the aggressive and overbearing nature of C. A. Whitman had driven Charles’ mother, Margaret, from her turbulent twenty-five year marriage after enduring decades of beatings. Is it a coincidence that Kathy and Margaret Whitman, both victims of domestic violence at the hands of their husbands, were relieved of their lives in the same manner on the same night by a man who himself was also a victim of abuse as a youth?
 
 <blockquote>
-  <p>“I did on many occasions beat my wife, but I loved her…. I have to admit it, because of my temper, I knocked her around.”</p>
+  <p>“I did on many occasions beat my wife, but I loved her … . I have to admit it, because of my temper, I knocked her around.”</p>
   <footer>– C. A. Whitman</footer>
 </blockquote>
 
@@ -67,18 +67,18 @@ Holmes, R. M., & Holmes, S. T. (1992). Understanding Mass Murder: A Starting Poi
 
 Liem, M., Hengeveld, M., & Koenraadt, F. (2009). Domestic Homicide Followed by Parasuicide: A Comparison with Homicide and Parasuicide. _International Journal of Offender Therapy and Comparative Criminology_, 53(5), 497.
 
-Liem, M., Levin, J., Holland, C., & Fox, J. A. (2013). The Nature and Prevalence of Familicide in the United States, 2000–2009. _Journal of Family Violence_, 28(4), 351-358. doi:10.1007/s10896-013-9504-2.
+Liem, M., Levin, J., Holland, C., & Fox, J. A. (2013). The Nature and Prevalence of Familicide in the United States, 2000-2009. _Journal of Family Violence_, 28(4), 351-358. doi:10.1007/s10896-013-9504-2.
 ## References
 
-Bevan, E., & Higgins, D. J. (2002). Is Domestic Violence Learned? The Contribution of Five Forms of Child Maltreatment to Men's Violence and Adjustment. _Journal of Family Violence_, 17(3), 223-245. doi:10.1023/A:1016053228021.
+Bevan, E., & Higgins, D. J. (2002). Is Domestic Violence Learned? The Contribution of Five Forms of Child Maltreatment to Men’s Violence and Adjustment. _Journal of Family Violence_, 17(3), 223-245. doi:10.1023/A:1016053228021.
 
 Christoffersen, J. & Apuzzo, M. (2012, December 16). Evidence hints at deadlier plan in Conn. massacre. The Washington Times. Retrieved from <http://www.washingtontimes.com/news/2012/dec/16/governor-gunman-shot-self-first-responders-closed/?page=all#pagebreak?>.
 
 Duwe, G. (2004). The Patterns and Prevalence of Mass Murder in Twentieth-Century America. _Justice Quarterly_, 21(4), 729-761. doi:10.1080/07418820400095971
 
-Higgins, D. J., and McCabe, M. P. (1998). Parent Perceptions of Maltreatment and Adjustment in Children. _Journal of Family Studies_. 4: 53–76.
+Higgins, D. J., and McCabe, M. P. (1998). Parent Perceptions of Maltreatment and Adjustment in Children. _Journal of Family Studies_. 4: 53-76.
 
-Higgins, D. J., and McCabe, M. P. (2000). Relationships between Different Types of Maltreatment During Childhood and Adjustment In Adulthood. _Child Maltreat_. 5: 261–272.
+Higgins, D. J., and McCabe, M. P. (2000). Relationships between Different Types of Maltreatment During Childhood and Adjustment In Adulthood. _Child Maltreat_. 5: 261-272.
 
 Lavergne, G. M., 1955. (1997). _A Sniper In The Tower: The Charles Whitman Murders_ (1st ed.). Denton: University of North Texas Press.
 

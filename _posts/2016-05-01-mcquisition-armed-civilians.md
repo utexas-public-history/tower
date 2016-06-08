@@ -36,7 +36,7 @@ In a statement given in November 1966 to _American Rifleman_, a commercial publi
 
 _Allen Crum talks about his experience storming the Tower with police officers on the local news. Video clip courtesy of the Texas Archive of the Moving Image._
 
-Crum is unambiguous on the role that armed civilians played in the shooting at this point. “The ground fire was really a Godsend to us,” he wrote, “as it got Whitman pinned down in one spot...We had no means of communication to stop it, but I don’t think that we would have stopped it.”[^6]
+Crum is unambiguous on the role that armed civilians played in the shooting at this point. “The ground fire was really a Godsend to us,” he wrote, “as it got Whitman pinned down in one spot … We had no means of communication to stop it, but I don’t think that we would have stopped it.”[^6]
 
 As the only civilian in the group that stormed the Tower observation deck, Crum became one of the heroes of the UT Tower Tragedy. He was widely fêted afterwards, receiving a Bravery Award from the Texas Law Enforcement Association[^7] and the Respect for Law Award from Optimist International, an international service organization that focuses on youth.[^8]
 
@@ -56,7 +56,7 @@ As the only civilian in the group that stormed the Tower observation deck, Crum 
     </div>
   </div>
   <p class="caption">
-    Allen Crum's statement, given to the police immediately after the shooting. Document provided courtesy of the Austin History Center, Austin Public Library.
+    Allen Crum’s statement, given to the police immediately after the shooting. Document provided courtesy of the Austin History Center, Austin Public Library.
   </p>
 </div>
 
@@ -127,7 +127,7 @@ A very good thing, because Crum, a civilian at the top of the Tower carrying a r
     </div>
   </div>
   <p class="caption">
-    Houston McCoy's official report, written immediately after the shooting. Document provided courtesy of the Austin History Center, Austin Public Library.
+    Houston McCoy’s official report, written immediately after the shooting. Document provided courtesy of the Austin History Center, Austin Public Library.
   </p>
 </div>
 

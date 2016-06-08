@@ -43,7 +43,7 @@ The UT Tower shooting along with the Watts riots of the previous year produced a
 
 One of the reasons that UT security officers lacked weapons prior to the UT Tower shooting was that institutions of higher learning such as UT did not have the right to train and commission police officers.  That was, however, soon to change. 
 
-During the 1967 legislative session, Senator A.M. Aiken proposed Senate Bill 162, which was "an act providing for the protection, safety and welfare of students and employees....and for the policing of the buildings and grounds of the State institutions of higher education of this State.”  The idea was to provide institutions of higher learning with police forces that would be able to adequately provide for the safety of their students.
+During the 1967 legislative session, Senator A.M. Aiken proposed Senate Bill 162, which was “an act providing for the protection, safety and welfare of students and employees … and for the policing of the buildings and grounds of the State institutions of higher education of this State.”  The idea was to provide institutions of higher learning with police forces that would be able to adequately provide for the safety of their students.
   
 With overwhelming support from both houses, the bill moved through committee and legislative floors at exceptional speed.  SB 162 was formally signed into law by Governor John Connally on April 27, 1967. 
 
@@ -65,11 +65,11 @@ Austin (TX) Police Department Records of the Charles Whitman Mass Murder Case. A
 
 Bill File - Senate Bill 162. Texas Legislative Reference Library. 
 
-Charles E. Ergenbright & Sean K. Hubbard. "Defeating the Active Shooter: Applying Facility Upgrades in Order to Mitigate the Effects of Active Shooters in High Occupancy Facilities"(Master’s Thesis, Naval Postgraduate School, 2012).
+Charles E. Ergenbright & Sean K. Hubbard. “Defeating the Active Shooter: Applying Facility Upgrades in Order to Mitigate the Effects of Active Shooters in High Occupancy Facilities” (Master’s Thesis, Naval Postgraduate School, 2012).
 
 David A. Klinger and Jeff Rojek. Multi-Method Study of Special Weapons and Tactics Teams. U.S Department of Justice, 2008).
 
-David Lowe. "Finding healing: Officer who shot UT killer in 1966 writes of his experience; cherishes friendships with survivors,” _Lampasas Dispatch Record_, November 11, 2011.
+David Lowe. “Finding healing: Officer who shot UT killer in 1966 writes of his experience; cherishes friendships with survivors,” _Lampasas Dispatch Record_, November 11, 2011.
 
 Gary Lavergne, _A Sniper in the Tower: The Charles Whitman Murders_ (The University of North Texas Press - Denton, 1997).
 
@@ -95,5 +95,5 @@ Vertical Files - University of Texas Police Department.   Dolph Briscoe Center f
 
 “Weather Underground - Daily History - Austin, Texas,” Weather Underground, accessed April 20, 2016, <http://www.wunderground.com>.
 
-Zainab Calcuttawala. "UTPD: Campus police well-prepared for active shooter situations," _The Daily Texan_, October 6, 2015.
+Zainab Calcuttawala. “UTPD: Campus police well-prepared for active shooter situations,” _The Daily Texan_, October 6, 2015.
 </div></div></div>

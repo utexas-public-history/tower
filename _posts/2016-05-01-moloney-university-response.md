@@ -25,7 +25,7 @@ Memo to Hackerman inquiring as to send additional telegrams to injured students.
 
 These actions must have appeared sufficient at the time, but today seem to lack concern for those not physically injured by the shooting. Where was the concern for how everyone else on the campus would grapple with this event? Was the eventual neglect of the shooting the university’s attempt to return campus activities to their normal routine?
 
-No official commemoration or acknowledgment of the deadly tragedy took place in the years that followed.  Only after decades of neglect, some members of the public began to take [remembering the shooting][aftermath] into their own hands. In 1996, Dr. Rosa Eberly, a rhetoric professor at UT, held an undergraduate class titled “The UT Tower and Public Memory.” Her students interpreted this class as a call to action; to gain access to the Tower’s observation deck. These students wrote a letter to then president Robert Berdahl protesting the need to reopen the Tower’s observation. They received a letter in response denying access on the basis of the official policy of the Texas Regents to keep the observation deck permanently closed At the 30th anniversary, in 1996, the University Baptist Church, close neighbor to the campus at 21st St and Guadalupe St., organized a commemorative event with University officials in attendance. Perhaps this reignited interest in remembering the shooting within the UT community. In 1999, a committee was formed by the university to create a memorial in remembrance of the UT Tower shooting. Why did the university wait this long to [create a memorial][remember] for the shooting, 33 years after the events? At that time, it seemed to Larry Faulkner, the sitting president of the university, that "the university’s stance had always seemed to be to try to erase what had happened, but with absolutely no success. It was like an injury that would never heal."[^2] President Faulkner was a graduate student in chemistry at UT in 1966, walking off of campus soon after Whitman began shooting.[^3]
+No official commemoration or acknowledgment of the deadly tragedy took place in the years that followed.  Only after decades of neglect, some members of the public began to take [remembering the shooting][aftermath] into their own hands. In 1996, Dr. Rosa Eberly, a rhetoric professor at UT, held an undergraduate class titled “The UT Tower and Public Memory.” Her students interpreted this class as a call to action; to gain access to the Tower’s observation deck. These students wrote a letter to then president Robert Berdahl protesting the need to reopen the Tower’s observation. They received a letter in response denying access on the basis of the official policy of the Texas Regents to keep the observation deck permanently closed At the 30th anniversary, in 1996, the University Baptist Church, close neighbor to the campus at 21st St and Guadalupe St., organized a commemorative event with University officials in attendance. Perhaps this reignited interest in remembering the shooting within the UT community. In 1999, a committee was formed by the university to create a memorial in remembrance of the UT Tower shooting. Why did the university wait this long to [create a memorial][remember] for the shooting, 33 years after the events? At that time, it seemed to Larry Faulkner, the sitting president of the university, that “the university’s stance had always seemed to be to try to erase what had happened, but with absolutely no success. It was like an injury that would never heal.”[^2] President Faulkner was a graduate student in chemistry at UT in 1966, walking off of campus soon after Whitman began shooting.[^3]
 
 University officials in 1966 felt their expression of sympathy was enough. Moving on and resuming everyday university life was more important to them at that time. In the 1960s many people believed that traumatic events were best left to be dealt with in the private sphere, not openly as a community. Those deciding how the university would respond were products of a generation that acknowledged tragedy but did not deem it appropriate to discuss openly. Had Chancellor Ransom or Vice-Chancellor Hackerman realized how traumatic this event was to the victims and the community, perhaps the university’s actions might have been different. By 1999 though, it was striking to President Faulkner and others that the university had not acknowledged the victims in a more visible way. Today, trauma is often dealt with much more immediate action and commemoration, compared to an age when time passed before trauma was dealt with appropriately. 
 
@@ -41,17 +41,17 @@ In 1966 the university exhibited concern for the well-being of students directly
 <div class="gray bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 ## References
 
-Colloff, Pamela. "96 Minutes." _Texas Monthly_. Texas Monthly, 20 Jan. 2013. Web. 01 Apr. 2016.
+Colloff, Pamela. “96 Minutes.” _Texas Monthly_. Texas Monthly, 20 Jan. 2013. Web. 01 Apr. 2016.
 
 “Edna Townsley Document,“  UT President’s Office Box 80-50/35 Whitman, Charles Joseph,  1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-Evans, Darro, and Sara Speights. "Austin American-Statesman." _The Austin American-Statesman_ 7 Aug. 1966: A17. Print.
+Evans, Darro, and Sara Speights. “Austin American-Statesman.” _The Austin American-Statesman_ 7 Aug. 1966: A17. Print.
 
-“Flags at half-mast,” UT President’s  Office Box 80-50/35 Whitman, Charles Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin..
+“Flags at half-mast,” UT President’s  Office Box 80-50/35 Whitman, Charles Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
 Moloney, Justina. _Oral History with Larry Bethune_. WAV file. Austin, TX, 2016.
 
-Spelce, Neal. "The Neal Spelce Collection, No. 1 - UT Tower Shooting." _Texas Archive of the  Moving Image_. Texas Archive of the Moving Image, n.d. Web. 01 Apr. 2016.
+Spelce, Neal. “The Neal Spelce Collection, No. 1 - UT Tower Shooting.” _Texas Archive of the  Moving Image_. Texas Archive of the Moving Image, n.d. Web. 01 Apr. 2016.
 
 “Students injured on August 1st 1966,” UT President’s Office Box 80-50/35 Whitman, Charles  Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
@@ -62,9 +62,9 @@ Spelce, Neal. "The Neal Spelce Collection, No. 1 - UT Tower Shooting." _Texas Ar
 
 [^1]: “Telegrams sent to injured students”, UT President’s Office Box 80-50/35 Whitman, Charles Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-[^2]: Colloff, Pamela. "96 Minutes." Texas Monthly. Texas Monthly, 20 Jan. 2013. Web. 01 Apr. 2016.
+[^2]: Colloff, Pamela. “96 Minutes.” Texas Monthly. Texas Monthly, 20 Jan. 2013. Web. 01 Apr. 2016.
 
-[^3]: Colloff, Pamela. "96 Minutes." Texas Monthly. Texas Monthly, 20 Jan. 2013. Web. 01 Apr. 2016.
+[^3]: Colloff, Pamela. “96 Minutes.” Texas Monthly. Texas Monthly, 20 Jan. 2013. Web. 01 Apr. 2016.
 
 [hackerman]: /images/posts/moloney/hackerman.jpg
 [telegram]: /images/posts/moloney/telegram.jpg

@@ -25,11 +25,11 @@ Days after the 1966 UT Tower shooting, the air on campus seemed stiff. Some surv
 
 For a university community, losing a student or professor in a mass killing can produce a whirlwind of emotions. Add to this the fact that this act of violence was perpetrated by a member of that same community. Charles Whitman, a university student, shot and wounded over 45 people. The victim and wounded list would include mothers, daughters, sons, husband, wives, grandchildren, and fathers leaving deep wounds in the lives of their beloved and the communities they belonged to. To this day, the community of Austin continues to struggle with the effects of the tragedy of August 1,,despite attempts to heal by university officials, leaders of the community, law enforcement, public agencies, and student groups.
 
-Moments of violence in a community’s history can take on different forms. For some communities, these moments are embodied in acts of war, violations of rights, or other direct acts of aggression towards people by the state or some other large, powerful group, as in Rwanda, Nazi Germany, and Guatemala.. Healing from these instances requires challenging and often painful recollections of the moment either through storytelling, reflection, or erecting and interacting with memorial structures. Physical memorials can be constructed as testimonies to the past to acknowledge an event, provide an avenue of healing, and as an effort to remind future generations of the community’s history. For some people, these memorials can be distressing, but for others, memorials offer an opportunity to reflect and reconcile.
+Moments of violence in a community’s history can take on different forms. For some communities, these moments are embodied in acts of war, violations of rights, or other direct acts of aggression towards people by the state or some other large, powerful group, as in Rwanda, Nazi Germany, and Guatemala. Healing from these instances requires challenging and often painful recollections of the moment either through storytelling, reflection, or erecting and interacting with memorial structures. Physical memorials can be constructed as testimonies to the past to acknowledge an event, provide an avenue of healing, and as an effort to remind future generations of the community’s history. For some people, these memorials can be distressing, but for others, memorials offer an opportunity to reflect and reconcile.
 
 Let us consider that as victims, we require or perhaps expect some sort of reparation for the pain or loss we experience. Reparations work to re-establish trust and provide compensation for past wrongs. Memorials can offer experiences of reparation and healing. Survivors can visit and reflect on the past through a visual or by receiving a public acknowledgment that gives the survivor a space to affirm their experiences. The significance of affirming a person’s experience can greatly reduce the toll of negative emotions often experienced after incidents of violence as described in “[Aftermath: Remembering and Forgetting the UT Tower Shooting][aftermath].”
 
-The right to reparation comes from a conceptual framework for dealing with the past constructed by Swiss Peace, an independent peace research foundation in Switzerland.. It focuses on four pillars of reconciliation mostly geared towards recovery from government sponsored acts of violence. The four pillars include 1) the right to know 2) the right to justice 3) the right to reparations 4) the guarantee of non-reoccurrence.
+The right to reparation comes from a conceptual framework for dealing with the past constructed by Swiss Peace, an independent peace research foundation in Switzerland. It focuses on four pillars of reconciliation mostly geared towards recovery from government sponsored acts of violence. The four pillars include 1) the right to know 2) the right to justice 3) the right to reparations 4) the guarantee of non-reoccurrence.
 
 Today if you walk around the University of Texas at Austin, especially around the UT Tower, you would never guess that one of the most gruesome campus murders of the 20th century occurred here. . When people visit the re-opened observation deck of the Tower they might hear some whispers about the shooting. Some may even quietly mention Charles Whitman’s name. For many of those with memories of the shooting, the lack of remembrance and commemoration is striking. But how can or how should a community remember the incident of August 1? Who should be in charge of such a task? Many would argue that the university holds the principal responsibility for spearheading efforts to heal from this tragedy, but perhaps that only scratches the surface.
 
@@ -57,7 +57,7 @@ Individuals could also [submit their reflections via email][tower-event],  a pag
 
 ![Online Form for Tower Reflections][online-form]
 
-In January of 2007, shortly after the 40th anniversary, University of Texas officials put a bronze plaque in the garden near the tower as a memorial "to those who died, to those who were wounded, and to the countless other victims who were immeasurably affected by the tragedy,"
+In January of 2007, shortly after the 40th anniversary, University of Texas officials put a bronze plaque in the garden near the tower as a memorial “to those who died, to those who were wounded, and to the countless other victims who were immeasurably affected by the tragedy,”
 
 ![Tower Garden Plaque][tower-garden-plaque]
 
@@ -86,7 +86,7 @@ Eberly, Rosa, “Consider an Educational Memorial for UT Tower Shootings.” _Au
 
 Foote, Kenneth E. _Shadowed Ground : America’s Landscapes of Violence and Tragedy_. Vol. Rev. and updated, rev. ed. Austin: University of Texas Press, 2003. <http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=130398&site=ehost-live>.
 
-Foot, Kirsten, Barbara Warnick, and Steven M. Schneider. “Web-Based Memorializing After September 11: Toward a Conceptual Framework.” _Journal of Computer-Mediated Communication_ 11, no. 1 (November 1, 2005): 72–96. doi:10.1111/j.1083-6101.2006.tb00304.x.
+Foot, Kirsten, Barbara Warnick, and Steven M. Schneider. “Web-Based Memorializing After September 11: Toward a Conceptual Framework.” _Journal of Computer-Mediated Communication_ 11, no. 1 (November 1, 2005): 72-96. doi:10.1111/j.1083-6101.2006.tb00304.x.
 
 Hlavaty, Craig, “47 Years Later, Whitman’s Tower Shooting Still a Haunting Memory for Texans.” _The Texican_, August 1, 2013. <http://blog.chron.com/thetexican/2013/08/47-years-later-whitmans-tower-shooting-still-a-haunting-memory-for-texans/>.
 
@@ -112,7 +112,7 @@ Roser, Mary Ann, “New Memorial Planned to Mark 50th Anniversary of UT Tower…
 
 Schwake, Jena R. “Who Is Columbine? Forgetting the Public in Contemporary Memorial Sites.” M.A., Colorado State University, 2015. <http://search.proquest.com/docview/1717575798/abstract/C0BE94BD8B124A50PQ/1>.
 
-Sci, Susan A. “(Re)thinking the Memorial as a Place of Aesthetic Negotiation.” _Culture, Theory and Critique_ 50, no. 1 (April 1, 2009): 41–57. doi:10.1080/14735780802696351.
+Sci, Susan A. “(Re)thinking the Memorial as a Place of Aesthetic Negotiation.” _Culture, Theory and Critique_ 50, no. 1 (April 1, 2009): 41-57. doi:10.1080/14735780802696351.
 
 Senie, Harriet F. “How the Columbine Memorial Missed an Opportunity We Should Have Seized.” Accessed April 28, 2016. <http://historynewsnetwork.org/article/162369>.
 
@@ -126,7 +126,7 @@ Tedford, Deborah. “University of Texas Shooting Remembered.” _NPR.org_. Acce
 
 “Tower Reflection Submission,” n.d. UT Remembers Records Box 2F472 1998-2002.
 
-Tyner, James, Savina Sirik, and Samuel Henkin. “Violence and the Dialectics of Landscape: Memorialization in Cambodia.” _Geographical Review_ 104, no. 3 (July 1, 2014): 277–93. doi:10.1111/j.1931-0846.2014.12026.x.
+Tyner, James, Savina Sirik, and Samuel Henkin. “Violence and the Dialectics of Landscape: Memorialization in Cambodia.” _Geographical Review_ 104, no. 3 (July 1, 2014): 277-93. doi:10.1111/j.1931-0846.2014.12026.x.
 
 “U. Texas’s Tower Garden Memorial For 1966 Shooting Victims.” _Austinist_. Accessed April 7, 2016. <http://austinist.com/2012/04/16/u_texass_tower_garden_memorial_for.php>.
 

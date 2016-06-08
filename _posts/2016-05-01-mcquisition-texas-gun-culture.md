@@ -82,7 +82,7 @@ To be clear, many people still viewed the rifle as a tool, a necessary part of l
 
 [^18]: Cabell Raps Gun Owners Restrictions, _Dallas Times Herald_, August 3, 1966, Found in “Tower Sniper Vertical Files,” Dolph Briscoe Center for American History. 
 
-[^19]: Christopher G. Ellison, “Southern Culture and Firearms Ownership,” _Social Science Quarterly_ 72 (1991). (Austin: University of Texas Press): 267–83 and Courtwright, “The Cowboy Subculture.”
+[^19]: Christopher G. Ellison, “Southern Culture and Firearms Ownership,” _Social Science Quarterly_ 72 (1991). (Austin: University of Texas Press): 267-83 and Courtwright, “The Cowboy Subculture.”
 
 
 [armed-civilians]: /armed-civilians-and-the-ut-tower-tragedy
