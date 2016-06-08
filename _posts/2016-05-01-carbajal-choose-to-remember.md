@@ -140,7 +140,7 @@ Tyner, James, Savina Sirik, and Samuel Henkin. “Violence and the Dialectics of
 
 “UT Tower Shooting Survivors Creating Long-Overdue Memorial.” _KTBC Fox_. Accessed April 7, 2016. <http://www.fox7austin.com/news/local-news/109775042-story>.
 
-“UT Students Remember Tower Shooting Victims - The Daily Texan.” Accessed April 28, 2016. <http://www.dailytexanonline.com/2014/08/02/ut-students-remember-tower-shooting-victims-0>.
+“UT Students Remember Tower Shooting Victims – The Daily Texan.” Accessed April 28, 2016. <http://www.dailytexanonline.com/2014/08/02/ut-students-remember-tower-shooting-victims-0>.
 
 “UT Tower Shooting.” _The Alcalde_. Accessed April 28, 2016. <http://alcalde.texasexes.org/tag/uttower-shooting/>.
 </div></div></div>

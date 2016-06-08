@@ -9,17 +9,17 @@ permalink: /ladies-first
 
 What compels a man to take the life of the women with whom he shares a most intimate bond? Could the murderous destruction of one’s maternal connection or a sacred marital union somehow disinhibit a killer to commit violence on a much grander scale? In three of the four U. S. school massacres with the highest death toll, the white male perpetrators claimed the lives of a wife or mother (or both) as their first victims—the notable exception being South Korean born Seung-Hui Cho, the Virginia Tech shooter.
 
-## University of Texas Tower Shooting - August 1, 1966
+## University of Texas Tower Shooting – August 1, 1966
 
 Charles Whitman’s shooting rampage from atop the UT Tower was the deadliest shooting on a college campus until Seung-Hui Cho killed 32 people and wounded 17 more at Virginia Tech forty years later in 2007. The night before Whitman’s tower attack, he murdered his wife, Kathy, in the couple’s home and his mother, Margaret, in her apartment. Both bodies were found in their beds with the blankets pulled up to cover where Whitman had stabbed each woman in the chest with a hunting knife. 
 
-## Bath School Disaster - May 18, 1927
+## Bath School Disaster – May 18, 1927
 
 ![Andrew and Nellie Kehoe][kehoe]
 
 Thirty-nine years prior to Whitman’s campus shooting, on May 18, 1927, Andrew Kehoe, a farmer in Bath Township, Michigan detonated bombs at Bath Consolidated School, killing 36 children and 2 teachers. Shortly after the school explosion, Kehoe detonated a bomb in his truck, which was filled with shrapnel, killing himself and the school superintendent as well as 3 bystanders. Earlier that morning, Kehoe had firebombed his house and farm buildings. Only the chicken coop, where his wife Nellie’s charred body was later found, was not destroyed. The Bath School disaster is the deadliest mass murder in U. S. history, resulting in a total of 44 deaths.  
 
-## Sandy Hook Shooting - December 14, 2012
+## Sandy Hook Shooting – December 14, 2012
 
 ![Adam Lanza][adam-lanza]
 ![Nancy Lanza][nancy-lanza]

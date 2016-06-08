@@ -59,11 +59,11 @@ Even as there is no amount of preparation or weapons that can prevent all crime 
 
 ## Sources
 
-Active Shooter/Suicide After Action Report. September 28, 2010. Police Department - The University of Texas at Austin. 
+Active Shooter/Suicide After Action Report. September 28, 2010. Police Department – The University of Texas at Austin. 
 
 Austin (TX) Police Department Records of the Charles Whitman Mass Murder Case. Austin History Center. AR 2000.002. 
 
-Bill File - Senate Bill 162. Texas Legislative Reference Library. 
+Bill File – Senate Bill 162. Texas Legislative Reference Library. 
 
 Charles E. Ergenbright & Sean K. Hubbard. “Defeating the Active Shooter: Applying Facility Upgrades in Order to Mitigate the Effects of Active Shooters in High Occupancy Facilities” (Master’s Thesis, Naval Postgraduate School, 2012).
 
@@ -71,7 +71,7 @@ David A. Klinger and Jeff Rojek. Multi-Method Study of Special Weapons and Tacti
 
 David Lowe. “Finding healing: Officer who shot UT killer in 1966 writes of his experience; cherishes friendships with survivors,” _Lampasas Dispatch Record_, November 11, 2011.
 
-Gary Lavergne, _A Sniper in the Tower: The Charles Whitman Murders_ (The University of North Texas Press - Denton, 1997).
+Gary Lavergne, _A Sniper in the Tower: The Charles Whitman Murders_ (The University of North Texas Press – Denton, 1997).
 
 John P. Blair, Terry Nicholas, David Burns, John R. Curnutt, _Active Shooter: Events and Response_ (CRC Press, 2016).
 
@@ -83,17 +83,17 @@ Press Conference with Chief of Police Regarding the UT Tower Shooting, August 1,
 
 Thorne Dreyer. “The Spies of Texas,” _The Texas Observer_, November 17, 2006. 
 
-The Neal Spelce Collection, No. 1 - UT Tower Shooting, August 1, 1966. Texas Archive of the Moving Image.
+The Neal Spelce Collection, No. 1 – UT Tower Shooting, August 1, 1966. Texas Archive of the Moving Image.
 
 The University of Texas System Police. Accessed April 11, 2016. <http://www.utsystem.edu/pol.htm>.
 
 UT Traffic and Security Services Chief Allen R. Hamilton Tower Sniper Records. Dolph Briscoe Center for American History. The University of Texas at Austin. Austin, Texas.  
 
-Vertical Files - Chief Allen R. Hamilton. Dolph Briscoe Center for American History. The University of Texas at Austin. Austin, Texas.
+Vertical Files – Chief Allen R. Hamilton. Dolph Briscoe Center for American History. The University of Texas at Austin. Austin, Texas.
 
-Vertical Files - University of Texas Police Department.   Dolph Briscoe Center for American History. The University of Texas at Austin. Austin, Texas. 
+Vertical Files – University of Texas Police Department.   Dolph Briscoe Center for American History. The University of Texas at Austin. Austin, Texas. 
 
-“Weather Underground - Daily History - Austin, Texas,” Weather Underground, accessed April 20, 2016, <http://www.wunderground.com>.
+“Weather Underground – Daily History – Austin, Texas,” Weather Underground, accessed April 20, 2016, <http://www.wunderground.com>.
 
 Zainab Calcuttawala. “UTPD: Campus police well-prepared for active shooter situations,” _The Daily Texan_, October 6, 2015.
 </div></div></div>

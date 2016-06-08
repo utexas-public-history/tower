@@ -51,7 +51,7 @@ Evans, Darro, and Sara Speights. “Austin American-Statesman.” _The Austin A
 
 Moloney, Justina. _Oral History with Larry Bethune_. WAV file. Austin, TX, 2016.
 
-Spelce, Neal. “The Neal Spelce Collection, No. 1 - UT Tower Shooting.” _Texas Archive of the  Moving Image_. Texas Archive of the Moving Image, n.d. Web. 01 Apr. 2016.
+Spelce, Neal. “The Neal Spelce Collection, No. 1 – UT Tower Shooting.” _Texas Archive of the  Moving Image_. Texas Archive of the Moving Image, n.d. Web. 01 Apr. 2016.
 
 “Students injured on August 1st 1966,” UT President’s Office Box 80-50/35 Whitman, Charles  Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
