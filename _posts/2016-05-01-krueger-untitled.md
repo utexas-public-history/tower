@@ -56,8 +56,11 @@ The official responses to August 1, 1966 presented a collective acknowledgment t
 Have these improvements ensured crime prevention?  Safety for all people?  Fairness under the law?  No.
 
 Even as there is no amount of preparation or weapons that can prevent all crime or ensure safety, it is the dignity of life that demands the continued and critical engagement of these ideas toward action.  
+</div></div></div>
 
-## Sources
+{::options parse_block_html="true" /}
+<div class="gray bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+## References
 
 Active Shooter/Suicide After Action Report. September 28, 2010. Police Department – The University of Texas at Austin. 
 
