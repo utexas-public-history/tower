@@ -56,9 +56,9 @@ Over the years, the media has retraced the events of August 1, 1966 and continue
 
  [^4]: “The Firing Line,” _The Summer Texan_, August 9, 1966, Vol. 66, No. 17 edition, The Daily Texan Microfilm, Dolph Briscoe Center for American History.
 
- [^5]: Ibid.
+ [^5]: “The Firing Line,” _The Summer Texan_, August 9, 1966.
 
- [^6]: Ibid.
+ [^6]: “The Firing Line,” _The Summer Texan_, August 9, 1966.
 
  [^7]: Derro Evans and Sara Speights, “Sniper on the Tower,” _Austin American-Statesman_, August 7, 1966, Vol. 42, No. 68 edition, sec. A, Austin History Center.
 
@@ -68,7 +68,7 @@ Over the years, the media has retraced the events of August 1, 1966 and continue
 
  [^10]: “Sniper Had a Tumor,” _The Austin Statesman_, August 2, 1966, Vol. 96, No. 6 edition, sec. Front Page, Austin History Center.
 
- [^11]: Ibid.
+ [^11]: “Sniper Had a Tumor,” _The Austin Statesman_, August 2, 1966.
 
  [^12]: “The Texas Sniper,” _LIFE_, August 12, 1966, Austin History Center.
 

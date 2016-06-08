@@ -34,15 +34,15 @@ But, despite any amount of effort, tragedy still haunts the Tower. The walls sti
 
 [^4]: Quoted in Chris Whitcraft, “Killer Told Psychiatrist ‘Shooting People’ Urge,” The Austin American-Statesman, August 3, 1966.
 
-[^5]: Ibid.
+[^5]: Whitcraft, “Kill Told Psychiatrist …,” _The Austin American-Statesman_, August 3, 1966.
 
-[^6]: Ibid.
+[^6]: Whitcraft, “Kill Told Psychiatrist …,” _The Austin American-Statesman_, August 3, 1966..
 
-[^7]: Ibid.
+[^7]: Whitcraft, “Kill Told Psychiatrist …,” _The Austin American-Statesman_, August 3, 1966..
 
 [^8]: Larry BeSaw, “Tower at Vortex of Victory, Death,” _The Austin American-Statesman_, August 1, 1976.
 
-[^9]: Ibid.
+[^9]: BeSaw, “Tower at Vortex …,” _The Austin American-Statesman_, August 1, 1976.
 
 [^10]: William Helmer, “The Madman on the Tower,” _Texas Monthly_, August 1986, <http://www.texasmonthly.com/articles/the-madman-on-the-tower/>.
 

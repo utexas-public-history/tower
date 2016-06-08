@@ -64,9 +64,9 @@ To be clear, many people still viewed the rifle as a tool, a necessary part of l
 
 [^9]: Pamela Haag, _The Gunning of America: Business and the Making of the American Gun Culture_, (Basic Books: New York), 255. 
 
-[^10]: Ibid, 251.
+[^10]: Pamela Haag, _The Gunning of America_, 251.
 
-[^11]: Ibid, 333.
+[^11]: Pamela Haag, _The Gunning of America_, 333.
 
 [^12]: David Courtwright, “The Cowboy Subculture,” in _Guns in America: A Reader_, edited by Jan E Dizard, Robert Merrill Muth, and Stephen P Andrews, Jr., 86-104, (New York: New York University Press,1999), 98.
 

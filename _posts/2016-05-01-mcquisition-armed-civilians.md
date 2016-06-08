@@ -201,7 +201,7 @@ Armed civilians had one final effect on what happened that day. Claire Wilson wa
 
 [^9]: Houston McCoy, “Record from Houston McCoy,” Austin History Center.
 
-[^10]: Ibid.
+[^10]: Houston McCoy, “Record from Houston McCoy,“ Austin History Center.
 
 [^11]: Pamela Colloff, “The Reckoning,” _Texas Monthly_, April 2016, 95-97. 
 

@@ -75,11 +75,11 @@ As we approach this fateful anniversary, it is worth pausing to reflect on how d
 
 [^11]: Letter from Ronald Sutherland to Harry Ransom, 25 August 1966, in the Ronald L. Sutherland Papers, Dolph Briscoe Center for American History.
 
-[^12]: Ibid.
+[^12]: Letter from Ronald Sutherland to Harry Ransom, 25 August 1966.
 
 [^13]: “The Charles J. Whitman Catastrophe Follow-up Study” 8 September 1967, in the Gary L. Lavergne Papers, Dolph Briscoe Center for American History.
 
-[^14]: Ibid.
+[^14]: “The Charles J. Whitman Catastrophe Follow-up Staudy” 8 September 1967.
 
 [^15]: Report on the “Twenty-Four Hour Telephone and Counseling and Referral Service, The University of Texas at Austin,” April 1968, in the Robert L. Sutherland Papers, Dolph Briscoe Center for American History.
 
@@ -95,9 +95,9 @@ As we approach this fateful anniversary, it is worth pausing to reflect on how d
 
 [^21]: “Prison system wasteful.” _Amarillo Daily News_, 30 January 1964.
 
-[^22]: “The Madman in the Tower.” _Time_ 12 Aug 1966, pg. 19.
+[^22]: “The Madman in the Tower.” _Time_ 12 Aug 1966, p. 19.
 
-[^23]: Ibid.
+[^23]: “The Madman in the Tower.” _Time_ 12 Aug 1966, p. 19.
 
 [^24]: “Psychiatrist to Blame, Sniper’s Father Says.” _Houston Chronicle_, 4 August 1966.
 

@@ -106,15 +106,15 @@ United States Department of Labor. “Minimum Wage-U.S Department of Labor-Chart
 
 [^1]: Dwonna Naomi Goldstone. _Integrating the 40 acres: The fifty-year struggle for racial equality at the University of Texas_. Athens: University of Georgia Press, 2006.
 
-[^2]: Ibid.
+[^2]: Goldstone, _Integrating the 40 Acres_, 2006.
 
 [^3]: Beverly Burr. “History of Student Activism at the University of Texas at Austin.” Thesis, The University of Texas at Austin, 1988.
 
-[^4]: Ibid.
+[^4]: Burr, “History of Student Activism at the University of Texas at Austin,” 1988.
 
 [^5]: The University of Texas News and Information Service. _Brief Report from the University of Texas_. The Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-[^6]: Ibid.
+[^6]: The University of Texas News and Information Service, _Brief Report from the Universty of Texas_.
 
 [^7]: United States Department of Labor. “Minimum Wage-U.S Department of Labor-Chart 1” Department of Labor. <https://www.dol.gov/featured/minimum-wage/chart1>, 2016.
 
@@ -124,7 +124,7 @@ United States Department of Labor. “Minimum Wage-U.S Department of Labor-Chart
 
 [^10]: Morton Hoffman & Company. _Housing Market Analysis, Austin Texas, 1965-1985: Report prepared for the Austin Community Development Program_. Austin: Austin History Center.
 
-[^11]: Ibid.
+[^11]: Morton Hoffman & Company, _Houston Market Analysis, Austin Texas, 1965-1985_.
 
 [^12]: Jack Keever. “The Negro at UT: Simply a Student.” The Austin American (1914-1973), Mar 17, 1963. Accessed: 17 March 2016 <http://search.proquest.com/docview/1559246811?accountid=7118>.
 
@@ -150,7 +150,7 @@ United States Department of Labor. “Minimum Wage-U.S Department of Labor-Chart
 
 [^23]: “Boycott Leaflet #1”. Students for a Democratic Society Records, 1962-1978, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-[^24]: Ibid.
+[^24]: “Boycott Leaflet #1,” Students for a Democratic Society Records, 1962-1978.
 
 [^25]: Unknown “Procedures for handling Anti-Military Disturbances” Students for a Democratic Society Records, 1962-1978, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
