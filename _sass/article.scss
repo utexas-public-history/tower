@@ -25,6 +25,14 @@
     margin: 2.5em auto;
   }
 
+  .floated-image {
+    float: right;
+
+    & > img {
+      margin: 1em 0 1em 1em;
+    }
+  }
+
   .footnotes {
     background-color: $lowlightBackground;
     border: {
