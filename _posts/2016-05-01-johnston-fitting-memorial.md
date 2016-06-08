@@ -7,13 +7,16 @@ permalink: /a-fitting-memorial
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}
 
-> To burden others with your problems—are they problems?—is not right—however    
-> To carry them is akin to carrying a fused bomb—     
-> I wonder if the fuse can be doused—    
-> If it is doused what will be gained    
-> Will the gain be worth the effort put forth    
-> But    
-> Should one who considers himself strong, surrender to an enemy he considers so trivial and despicable[^1]
+<blockquote>
+  <p>To burden others with your problems—are they problems?—is not right—however<br />
+  To carry them is akin to carrying a fused bomb—<br />
+  I wonder if the fuse can be doused—<br />
+  If it is doused what will be gained<br />
+  Will the gain be worth the effort put forth<br />
+  But<br /> 
+  Should one who considers himself strong, surrender to an enemy he considers so trivial and despicable</p>
+  <footer>Charles Whitman, <cite>excerpted from his diary, Gary M. Lavergne Papers, Dolph Briscoe Center for American History.</cite></footer>
+</blockquote>
 
 Charles Whitman wrote these lines in sometime in early 1964. We know this only because he tells us so: at the top of the page, Whitman made a notation in the midnight hours of August 1, 1966, explaining the year as a time “when I was in a similar feeling as I have been lately.”[^2] That “fused bomb” was detonating as he wrote. Earlier that evening, Whitman had begun to unburden his “problems” onto the two women he supposedly held most dear and would continue to do so later that day, onto dozens of other innocent victims and their families, communities, and friends. That explosion reverberated throughout the country, which found itself at a loss over how a “hitherto sane individual” and an “all-American boy” no less, could commit such senseless acts of violence.[^3]
 
@@ -52,9 +55,7 @@ Today, UT-Austin is [recognized as a leader][ut-austin-mental-health] among Amer
 As we approach this fateful anniversary, it is worth pausing to reflect on how dramatically the mental health environment on campus has changed. And why it has changed.
 </div></div></div>
 
-[^1]: An excerpt from Charles Whitman’s diary, Gary M. Lavergne Papers, Dolph Briscoe Center for American History.
-
-[^2]: Ibid.
+[^2]: Charles Whitman’s diary, Gary M. Lavergne Papers, Dolph Briscoe Center for American History.
 
 [^3]: These quotations are from J.W. Hand, Interim Report of Investigation, Food and Drug Administration, Bureau of Drug Abuse Control, from the files of the Texas Department of Public Safety at the Texas State Library and Archives Commission, and Dr. Maurice D. Heatly as quoted in Gary Lavergne’s _A Sniper in the Tower_. University of North Texas Press, 1997, pg. 234
 

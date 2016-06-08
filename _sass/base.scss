@@ -23,6 +23,10 @@ body {
   &.white {
     background-color: #fff;
   }
+
+  &.gray {
+    background-color: $lowlightBackground;
+  }
 }
 
 .homepage-posts {

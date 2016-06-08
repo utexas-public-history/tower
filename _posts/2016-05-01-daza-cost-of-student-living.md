@@ -56,7 +56,10 @@ Relations between UT officials and the SDS were complicated, as protests against
 The Student Religious Liberals and University Socialist Committee and the University of Texas Student Assembly reacted against the proscription of SDS considering it an infringement of the right to free speech.[^28] The Texas Legislature in 1967 decided to strengthen the power of the campus police because of a “dismaying increase in crime,” and allowed campus police to arrest students if they were disturbing college environment.
 
 Students´ life at UT in the first part of the sixties was not “pristine” or “carefree.” The reality was more complex. Changes taking place elsewhere in the United States and in Austin helped create a student-body that contested traditional conceptions of race relations, gender roles, and personal morality,[^29] and protested government policies, especially in Vietnam.[^30] On campus student organizations like the SDS, Negroes for Equal Rights, and sororities and fraternities for black and white students, helped individuals mobilize for such public activities.  The majority of UT students probably never participated in a rally or protest against the war in Vietnam, but no one could fail to notice the changes occurring on campus regarding student finances, race relations, and national politics.
+</div></div></div>
 
+{::options parse_block_html="true" /}
+<div class="gray bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 ## References
 
 Anita Brewer, “UT to Begin Low Cost Housing Plans.” _The Austin American_ (1914-1973), Mar 14, 1965. Accessed: 17 March 2016 <http://search.proquest.com/docview/1611063781?accountid=7118>.

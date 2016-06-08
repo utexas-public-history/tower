@@ -57,7 +57,10 @@ Action taken by the University always seemed to coincide with other mass shootin
 Despite all these attempts, the general public continues to decry an absence of remembrance. Do we attribute this frustration to a lack of awareness of the efforts by the university or do we recognize the depth of the pain experienced by this community? As Pastor Bethune mentions during his oral history, everyone deals with loss in a different way and for different lengths of time. As seen through other memorializations such as the 9/11 Ground Zero Site, the Columbine Memorial, and the Ntarama Church in Rwanda, directly impacted communities and those who felt the after effects approached healing in diverse ways.
 
 As observers, we should acknowledge that while the effort to pay respect to the deceased and wounded did not come to fruition until 30 years after the tragedy, the university did eventually act. The discussions held behind closed doors among the dedication planning group members according to Pastor Bethune included thoughtful and purposeful actions, but due to funding constraints and resistance from unnamed individuals, the envisioned dedication fell short. Even the archive collecting attempt fizzled due to little publicity and awareness of its existence. For many new Austinites as well as those who experienced the UT Tower Shooting firsthand, the attempts at memorialization have yet to be enough. Perhaps they will never be enough.
+</div></div></div>
 
+{::options parse_block_html="true" /}
+<div class="gray bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 ## References
 
 Bowden, Charles. “The Tower Tragedy.” _Esquire_, January 29, 2007. <http://www.esquire.com/features/ESQ0299-FEB_AMERICA_rev_>.

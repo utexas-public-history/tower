@@ -34,7 +34,10 @@ Women disproportionately have been the victims of mass murder for decades. Given
 
 ## Whitman’s Murders: Why Were the Women Killed First?
 
-> “I imagine it appears that I bruttaly [sic] kill [sic] both of my loved ones. I was only trying to do a quick through [sic] job.” – Charles Whitman
+<blockquote>
+  <p>“I imagine it appears that I bruttaly [<i>sic</i>] kill [<i>sic</i>] both of my loved ones. I was only trying to do a quick through [<i>sic</i>] job.”</p>
+  <footer>Charles Whitman</footer>
+</blockquote>
 
 ![Charles Whitman][charles-whitman]
 
@@ -44,13 +47,28 @@ Whitman may have killed the women he loved to spare them the shame of his homici
 
 But love takes a twisted form in households plagued by domestic violence and the former Kathy Leissner was Whitman’s victim long before the hunting blade pierced her chest. Charles adored his wife dearly—she was his “most precious possession” as he often wrote—but he was overly critical of her and controlling. Kathy had [confided][morgan-interview] in close friends John and Fran Morgan that she couldn’t cope with her husband’s perfectionist expectations of her. Charles would wipe his hand behind pictures hanging on the wall looking for dust and his hot temper led him to hit his wife on at least three occasions.  His violent outbursts terrified Kathy to the extent that family, close friends and even the landlady were aware, to varying degrees, that she feared her husband. For as much as Charles abhorred his father, he also despised how his own propensity for violence was so reminiscent of the domineering elder Whitman in spite of his [best efforts to control and improve himself][self-improvement]. Indeed, the aggressive and overbearing nature of C. A. Whitman had driven Charles’ mother, Margaret, from her turbulent twenty-five year marriage after enduring decades of beatings. Is it a coincidence that Kathy and Margaret Whitman, both victims of domestic violence at the hands of their husbands, were relieved of their lives in the same manner on the same night by a man who himself was also a victim of abuse as a youth?
 
-> “I did on many occasions beat my wife, but I loved her…. I have to admit it, because of my temper, I knocked her around.” – C. A. Whitman
+<blockquote>
+  <p>“I did on many occasions beat my wife, but I loved her…. I have to admit it, because of my temper, I knocked her around.”</p>
+  <footer>– C. A. Whitman</footer>
+</blockquote>
 
 Domestic violence in its most extreme form is domestic homicide and the victims overwhelmingly tend to be women. There is substantial research evidencing a connection between male perpetration of domestic violence and witnessing domestic violence or experiencing abuse in childhood. In fact, [studies](#tk-internal-link) have found that there are significant correlations between physical abuse, psychological abuse, and neglect, suggesting that if domestically violent men experienced one type of maltreatment in childhood, they were also likely subjected to other types. Symptoms of trauma in adulthood such as anxiety, depression, dissociation, sexual problems, and sleep disturbances are commonly associated with suffering and witnessing domestic violence in childhood. [One study](#tk-internal-link) found that experiencing physical abuse and witnessing domestic violence significantly predicted future psychological spouse abuse and trauma symptoms in domestically violent men while neglect, sexual abuse, and psychological abuse significantly predicted physical spouse abuse.
 
 While a history of domestic violence and a dysfunctional family life may have played an influential role in the Whitman homicides, it is likely that it was only one of many factors involved. In the months before the shooting, he sought help for mental illness, he was abusing prescription medication, and suffered from the emotional strain of not being financially independent, and an undiagnosed brain tumor. Any one of these elements might reasonably have been contributing factors in the murders of Kehoe’s wife or Lanza’s mother prior the notorious mass killings in Bath and Newtown. We might never fully understand the concoction of experiences, thoughts, and emotions driving men like Whitman, Kehoe, Lanza and Cho to the violence they accomplished on such a grand scale. What is clear in Whitman’s case are the residual traces of domestic abuse that affected his familial relationships in adulthood: fueling his hatred of his father, his strong desire to protect his mother by any means, and his turbulent relationship with his wife. Whitman’s childhood trauma in no way excuses the murders he later committed, but perhaps it brings us one step closer to understanding how the combination of aforementioned risk factors tipped the scales and caused this man with an intimate history of domestic abuse to turn deadly.
+</div></div></div>
 
-## Sources
+{::options parse_block_html="true" /}
+<div class="gray bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+## Further Reading
+
+Auchter, B. (2010). Men Who Murder Their Families: What the Research Tells Us. NIJ Journal, 266. Retrieved April 30, 2016, from <https://www.ncjrs.gov/pdffiles1/nij/230412.pdf>. 
+
+Holmes, R. M., & Holmes, S. T. (1992). Understanding Mass Murder: A Starting Point. Federal Probation, 56(1), 53.
+
+Liem, M., Hengeveld, M., & Koenraadt, F. (2009). Domestic Homicide Followed by Parasuicide: A Comparison with Homicide and Parasuicide. _International Journal of Offender Therapy and Comparative Criminology_, 53(5), 497.
+
+Liem, M., Levin, J., Holland, C., & Fox, J. A. (2013). The Nature and Prevalence of Familicide in the United States, 2000–2009. _Journal of Family Violence_, 28(4), 351-358. doi:10.1007/s10896-013-9504-2.
+## References
 
 Bevan, E., & Higgins, D. J. (2002). Is Domestic Violence Learned? The Contribution of Five Forms of Child Maltreatment to Men's Violence and Adjustment. _Journal of Family Violence_, 17(3), 223-245. doi:10.1023/A:1016053228021.
 
@@ -69,16 +87,6 @@ Mayo, M. (2008). Andrew Kehoe. _American Murder: Criminals, Crime, and the Media
 Special to _The New York Times_. (1927, May 20). SCHOOL DYNAMITER FIRST SLEW WIFE. New York Times (1923-Current File) Retrieved April 10, 2016 from <http://search.proquest.com/docview/104204230?accountid=7118>.
 
 Virginia Tech Review Panel (2007). _+Mass shootings at Virginia Tech, April 16, 2007: Report of the Virginia Tech Review Panel presented to Timothy M. Kaine, Governor, Commonwealth of Virginia_. Retrieved April 10, 2016 from <https://governor.virginia.gov/media/3772/fullreport.pdf>.
-
-## Further Reading
-
-Auchter, B. (2010). Men Who Murder Their Families: What the Research Tells Us. NIJ Journal, 266. Retrieved April 30, 2016, from <https://www.ncjrs.gov/pdffiles1/nij/230412.pdf>. 
-
-Holmes, R. M., & Holmes, S. T. (1992). Understanding Mass Murder: A Starting Point. Federal Probation, 56(1), 53.
-
-Liem, M., Hengeveld, M., & Koenraadt, F. (2009). Domestic Homicide Followed by Parasuicide: A Comparison with Homicide and Parasuicide. _International Journal of Offender Therapy and Comparative Criminology_, 53(5), 497.
-
-Liem, M., Levin, J., Holland, C., & Fox, J. A. (2013). The Nature and Prevalence of Familicide in the United States, 2000–2009. _Journal of Family Violence_, 28(4), 351-358. doi:10.1007/s10896-013-9504-2.
 </div></div></div>
 
 [kehoe]: /images/posts/brown/andrew-kehoe-and-wife.jpg
