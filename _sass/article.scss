@@ -1,5 +1,9 @@
 @import 'variables';
 
+header {
+  text-align: center;
+}
+
 .post-content {
   @include serif-font-stack;
   font-size: 1.125em;
