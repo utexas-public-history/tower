@@ -21,6 +21,10 @@
     margin-bottom: 1.5em;
   }
 
+  img {
+    margin: 2.5em auto;
+  }
+
   .footnotes {
     background-color: $lowlightBackground;
     border: {
@@ -38,6 +42,33 @@
     p {
       line-height: 125%;
     }
+  }
+}
+
+.image-block {
+  margin: 2em -2em;
+  padding: 1em 2em;
+
+  &.image-gallery {
+    background-color: $lowlightBackground;
+  }
+
+  .image {
+    margin-bottom: 1em;
+    text-align: center;
+
+    & > a > img {
+      border: 1px solid $interfaceStroke;
+      margin: 0;
+    }
+  }
+
+  p.caption {
+    font: {
+      size: .9375em; // 15px
+      style: italic;
+    }
+    margin: 0;
   }
 }
 

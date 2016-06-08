@@ -15,13 +15,25 @@ The mass shootings and violent crime rates that we witness today, particularly t
 
 The incident that regarded as the second mass shooting in this country happened a month after the Liberty, Mississippi shootings. On April 9, 1891 James Foster went inside St. Mary’s Parochial School in New York, an opened fire.[^3] The students he shot all survived, the trauma they experienced left a footprint that although undoubtedly hard to forget was in time actually forgotten. The mass shootings that occurred in 1891 appear to be so far detached, time-wise, that today they are little known. In 1966, when the tower shootings happened in Austin, the headlines of the day failed to recall any mass shooting that happened before the turn of the twentieth century, almost as if these had been erased in our society's collective memory.  The mass shootings that have followed the two 1891 incidents, those in the twentieth century, have become ever more constant, and even at times seem as being more acknowledged. Mass shootings in the twentieth century have been more included in the collective remembrance, even if they have been failed to be noted.
 
-![LIFE Magazine][life-magazine]
-
-![Daily Enterprise][daily-enterprise]
-
-![Pasadena Public School][pasadena]
-
-![Aspen Evening Chronicle][evening-chronicle]
+<div class="image-gallery image-block">
+  <div class="row">
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="coverage" data-title="LIFE Magazine" href="/images/posts/hammack/life-magazine.jpg"><img src="/images/posts/hammack/life-magazine-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="coverage" data-title="Aspen Evening Chronicle" href="/images/posts/hammack/evening-chronicle.jpg"><img src="/images/posts/hammack/evening-chronicle-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="coverage" href="/images/posts/hammack/pasadena.jpg"><img src="/images/posts/hammack/pasadena-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="coverage" href="/images/posts/hammack/daily-enterprise.jpg"><img src="/images/posts/hammack/daily-enterprise-thumb.jpg" /></a>
+    </div>
+  </div>
+  <p class="caption">
+    Newspaper and magazine coverage of mass shootings.
+  </p>
+</div>
 
 Mass shootings in the twentieth century have become ever so frequent that they have come to deeply shape our society and our current de-sensitized perceptions towards how we acknowledge, and remember, mass shootings in the country. The United States has witnessed a fair share of incidents since the early twentieth century, and although it is a painful task to examine the histories of these incidents, it is important that we do, for there may be many lessons to be learned from them. For instance mass shootings in the twentieth century can be traced back to 1903. On August 14 of that year Gilbert Twigg, a war veteran, deliberately fired into a crowd of people in Winfield Kansas immediately killing 9 and wounding 25 unsuspecting others.[^4] Thomas Jones a few years later also went on a murderous shooting spree on January 1913 in Houston, Texas as did Wesley Crow, a professor, who on June 4, 1936 shot and killed 5 in Bethlehem, Pennsylvania.[^5] The list continues to grow as we progress through the century. Other mass shootings happened particularly those within school settings such as the mass shootings that occurred on Pasadena Public School on May 9, 1940 when 30 year old Verlin Spencer opened fire on school property killing 4.[^6] November 6, 1948 was witness to Melvin Collins' tragic shootings. Collins went inside the boarding house he had been living in, and decided to shoot people walking outside from inside his hiding spot inside the boarding house. Collins killed eight people and injured countless more. In a similar fashion an ex-military man, Howard Unruh, shot thirteen people and wounded at least five others in Camden, New Jersey on September 1949.[^7] William Bauer left seven dead including himself, in 1956 and Principal Leonard O. Redden on February 2, 1960, opened fire at a crowd of 30 students at William Reed Elementary.[^8] Mass shootings such as these listed here portray a history that is important to acknowledge and learn from.
 
@@ -31,14 +43,6 @@ What has become apparent through this examination of the history of mass shootin
 
 **TK:** Insert timeline of mass shootings
 </div></div></div>
-
-[life-magazine]: /images/posts/hammack/life-magazine.jpg
-
-[evening-chronicle]: /images/posts/hammack/evening-chronicle.jpg
-
-[pasadena]: /images/posts/hammack/pasadena.jpg
-
-[daily-enterprise]: /images/posts/hammack/daily-enterprise.jpg
 
 [^1]: _The Aspen Chronicle_, March 30, 1891.
 
