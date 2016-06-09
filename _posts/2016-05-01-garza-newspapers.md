@@ -9,7 +9,19 @@ permalink: /how-austin-newspapers-covered-the-shooting
 
 When Charles Whitman shot at innocent passersby from atop the University of Texas Tower on August 1, 1966, he shocked the country and, according to the local newspapers, became the “Greatest Mass Slayer in History.”[^1] Media across the country tried to explain what occurred to their stunned readers, and in Austin, three newspapers, _The Daily Texan_, UT Austin’s student newspaper, and the _Austin American_ and _The Austin Statesman_, the citywide newspapers, shaped the public understanding of the events for shocked Austinites and UT students.[^2] Nationwide, newspapers reported extensively on the “sniper in Texas” and closely scrutinized the events of that day.[^3] All these articles attempted to answer the same question: “Why?” _The Austin American-Statesman_, published jointly on Sundays through 1973, chose to focus on Whitman’s mental and medical state, while _The Daily Texan_ highlighted student voices and their efforts to assist those affected.
 
-**TK:** Images of Front Pages: Summer Texan, The Austin American, and The Austin Statesman
+<div class="image-gallery image-block">
+  <div class="row">
+    <div class="image col-xs-6">
+      <a data-lightbox="newspaper-front-pages" data-title="Front page of The Austin American" href="/images/posts/garza/american.jpg"><img src="/images/posts/garza/american-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6">
+      <a data-lightbox="newspaper-front-pages" data-title="Front page of The Austin Statesman" href="/images/posts/garza/statesman.jpg"><img src="/images/posts/garza/statesman-thumb.jpg" /></a>
+    </div>
+  </div>
+  <p class="caption">
+    Front pages of <i>The Austin American</i> and <i>The Austin Statesman</i>.
+  </p>
+</div>
 
 ## Student Voices Heard
 

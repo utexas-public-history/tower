@@ -24,10 +24,10 @@ The incident that regarded as the second mass shooting in this country happened 
       <a data-lightbox="coverage" data-title="Aspen Evening Chronicle" href="/images/posts/hammack/evening-chronicle.jpg"><img src="/images/posts/hammack/evening-chronicle-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="coverage" href="/images/posts/hammack/pasadena.jpg"><img src="/images/posts/hammack/pasadena-thumb.jpg" /></a>
+      <a data-lightbox="coverage" data-title="Los Angeles Times" href="/images/posts/hammack/pasadena.jpg"><img src="/images/posts/hammack/pasadena-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="coverage" href="/images/posts/hammack/daily-enterprise.jpg"><img src="/images/posts/hammack/daily-enterprise-thumb.jpg" /></a>
+      <a data-lightbox="coverage" data-title="The Daily Enterprise, Camden, N.J." href="/images/posts/hammack/daily-enterprise.jpg"><img src="/images/posts/hammack/daily-enterprise-thumb.jpg" /></a>
     </div>
   </div>
   <p class="caption">

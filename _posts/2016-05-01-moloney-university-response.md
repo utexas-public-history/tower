@@ -15,13 +15,21 @@ Do our current attitudes about institutional response bias our understanding of 
 
 In a press conference on the day after the tragedy, Chancellor Harry Ransom expressed his gratitude for those who displayed heroism saving victims while he powerlessly watched from his office in the Tower. Would being an eyewitness of the shooting affect the decisions he made on behalf of the university? This question is hard to answer.  Much of the administrative response concerning the shooting was handled by Vice Chancellor Norman Hackerman of the Division of Academic Affairs. Hackerman notified professors of injured students asking them to provide special consideration due to the tragic circumstances. It is unclear what “special considerations” Hackerman meant, whether this related to classes missed due to time in the hospital or their emotional and mental well being. 
 
-![Dr. Hackerman’s memorandum][hackerman]
-Dr. Hackerman’s memorandum asking for faculty to provide “special consideration” towards student’s injured during the shooting.
+<div class="image-block">
+  <img src="/images/posts/moloney/hackerman.jpg" alt="Dr. Hackerman’s memorandum" />
+  <p class="caption">
+    Dr. Hackerman’s memorandum asking for faculty to provide “special consideration” towards student’s injured during the shooting.
+  </p>
+</div>
 
 Money was raised by the UT Alumni Association and the Student Association to aid in the recovery of injured students in response to a suggestion from Chancellor Ransom. The university sent telegrams to injured students as well, concerned about their well being, although no effort was made to send out additional telegrams or letters to these same students. An inquiry was sent to Hackerman after this first batch of telegrams was sent asking “if you think it would be a good idea to send a [follow-up letter],” but no record can be found if this was done.[^1] Classes were canceled on August 2, allowing students, faculty, and staff to grapple with the shocking events of the previous day. Flags were flown at half-mast in remembrance of UT victims the week after the shooting. Additionally, a separate memorial fund was created for Edna E. Townsley, the receptionist at the Tower observation deck killed by Whitman and leaving two children behind. The Tower observation deck was not closed in response to the shooting, but instead closed by the Texas Board of Regents in 1974 after a number of suicides. 
 
-![Memo to Hackerman regarding telegrams to injured students][telegram]
-Memo to Hackerman inquiring as to send additional telegrams to injured students.]
+<div class="image-block">
+  <img src="/images/posts/moloney/telegram.jpg" />
+  <p class="caption">
+    Memo to Hackerman inquiring as to send additional telegrams to injured students.
+  </p>
+</div>
 
 These actions must have appeared sufficient at the time, but today seem to lack concern for those not physically injured by the shooting. Where was the concern for how everyone else on the campus would grapple with this event? Was the eventual neglect of the shooting the university’s attempt to return campus activities to their normal routine?
 
@@ -66,8 +74,6 @@ Spelce, Neal. “The Neal Spelce Collection, No. 1 – UT Tower Shooting.” _Te
 
 [^3]: Colloff, Pamela. “96 Minutes.” Texas Monthly. Texas Monthly, 20 Jan. 2013. Web. 01 Apr. 2016.
 
-[hackerman]: /images/posts/moloney/hackerman.jpg
-[telegram]: /images/posts/moloney/telegram.jpg
 
 [aftermath]: /aftermath
 [remember]: /i-choose-to-remember

@@ -25,9 +25,56 @@ For many the UT Traffic &amp; Security Services (T&amp;SS) were considered the d
 
 Led by Chief Allen Hamilton, the department effectively managed its role and carried out its assigned duties.  The T&amp;SS, however, did not have commissioned police officers and did not carry weapons.  It would be a significant shortcoming in their response to the shooting.   
 
-**TK:** [include T&amp;SS Offense Report along with officer statements – 10 pages total]
+<div class="image-gallery image-block">
+  <div class="row">
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="tss-report" data-title="T&SS Report (page 1)" href="/images/posts/krueger/tss-report-1.jpg"><img src="/images/posts/krueger/tss-report-1-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="tss-report" data-title="T&SS Report (page 2)" href="/images/posts/krueger/tss-report-2.jpg"><img src="/images/posts/krueger/tss-report-2-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="tss-report" data-title="T&SS Report (page 3)" href="/images/posts/krueger/tss-report-3.jpg"><img src="/images/posts/krueger/tss-report-3-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="tss-report" data-title="T&SS Report (page 4)" href="/images/posts/krueger/tss-report-4.jpg"><img src="/images/posts/krueger/tss-report-4-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="tss-report" data-title="T&SS Report (page 5)" href="/images/posts/krueger/tss-report-5.jpg"><img src="/images/posts/krueger/tss-report-5-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="tss-report" data-title="T&SS Report (page 6)" href="/images/posts/krueger/tss-report-6.jpg"><img src="/images/posts/krueger/tss-report-6-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="tss-report" data-title="T&SS Report (page 7)" href="/images/posts/krueger/tss-report-7.jpg"><img src="/images/posts/krueger/tss-report-7-thumb.jpg" /></a>
+    </div>
+  </div>
+  <p class="caption">
+    The T&amp;SS Offense Report with officer statements.
+  </p>
+</div>
 
 The official T&amp;SS Offense Report from August 1, 1966 shows a department that responded quickly to the shooting by reaching out to Austin PD and DPS to try to coordinate action and establish lines of communication.  They also acted to ensure student safety on campus by deploying officers toward the Tower with speakers to warn students about the situation.  Hamilton further communicated with the Women’s Dormitory to have all female students remain inside until the situation was resolved and Sgt. Barr was dispatched to help lead APD officers through university underground tunnels so they could gain access to the Tower.   
+
+<div class="image-gallery image-block">
+  <div class="row">
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="security" data-title="Statement from Sargeant Barr" href="/images/posts/krueger/barr-letter.jpg"><img src="/images/posts/krueger/barr-letter-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="security" data-title="Statement from Jane Greer, Women’s Residence Halls" href="/images/posts/krueger/greer-letter.jpg"><img src="/images/posts/krueger/greer-letter-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="security" data-title="Statement from Delsie Kingdon (page 1)" href="/images/posts/krueger/kingdon-letter-1.jpg"><img src="/images/posts/krueger/kingdon-letter-1-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="security" data-title="Statement from Delsie Kingdon (page 2)" href="/images/posts/krueger/kingdon-letter-2.jpg"><img src="/images/posts/krueger/kingdon-letter-2-thumb.jpg" /></a>
+    </div>
+  </div>
+  <p class="caption">
+    Statements and correspondence regarding security operations on the day of the shooting.
+  </p>
+</div>
 
 At 11:50 am security officers L.W. Hebert and Jack Rodman were sent by Hamilton to the Tower to check out the situation.  Upon reaching the 27th floor by elevator they came across several of the early victims in the stairwell up to the 28th floor.  After hearing continued gunfire outside and recognizing they had no weapons or plans by which to engage the shooter, both men decided it best to head to the bottom of the main building to lock it down so no one could get in or out and to secure the interior of the building.  This was at approximately 11:55 am. It was not until 89 minutes later that Whitman was finally shot and the killing ended.   
 
