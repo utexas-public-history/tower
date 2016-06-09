@@ -20,9 +20,12 @@ When Whitman began shooting, the Austin Police Department was ill-equipped for t
 
 **TK:** [Gun marks on the side of the UT Tower. Most of these marks have since been plastered over. Photo courtesy of Austin History Center, Austin Public Library.]
 
-<iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&s=embedded&p=video1&b=43' frameBorder='0' style='max-width:100%;width:495px;height:385px;border:0px;' width='495' height='385px' allowTransparency='true'></iframe>
-
-_Local news cameras recorded some of the firefight. Video clip courtesy of the Texas Archive of the Moving Image._
+<div class="video-block">
+  <iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&s=embedded&p=video1&b=43&e=44' frameBorder='0' allowTransparency='true'></iframe>
+  <p class="caption">
+    Local news cameras recorded some of the firefight. Video clip courtesy of the <a href="http://bit.ly/267tQEV">Texas Archive of the Moving Image</a>.
+  </p>
+</div>
 
 It was a surreal scene. Bill Helmer, who was a student at UT at the time, [recounted his experience](http://www.texasmonthly.com/articles/the-madman-on-the-tower/) on campus that day in _Texas Monthly_. When he first noticed people shooting back at the Tower, he thought, “Just what we need – a bunch of loonies lobbing bullets all over the place, killing even more people.” He recalled seeing a man in full camo scouting out the best position from which to fire back at the Tower, and claims that his friends saw a good ol’ boy with a rifle burst into the San Jacinto Cafe southeast of campus, grab a six pack of beer, and rush out. 
 
@@ -32,9 +35,12 @@ It’s undeniable that many civilians on campus that day displayed tremendous br
 
 In a statement given in November 1966 to _American Rifleman_, a commercial publication of the National Rifle Association, Allen Crum recounts his actions and how he ended up with officers at the top of the Tower.[^5] At the time, Crum was recently retired from the US Air Force and was working as a floor manager at the University Co-op, located across the street from the UT campus. After Whitman started shooting, Crum offered his help and, armed with a rifle given to him by an officer, he and a few other members of the APD made their way to the Tower observation deck. 
 
-<iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&s=embedded&p=video1&b=0' frameBorder='0' style='max-width:100%;width:495px;height:385px;border:0px;' width='495' height='385px' allowTransparency='true'></iframe>
-
-_Allen Crum talks about his experience storming the Tower with police officers on the local news. Video clip courtesy of the Texas Archive of the Moving Image._
+<div class="video-block">
+  <iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&s=embedded&p=video1&b=176&e=177' frameBorder='0' style='max-width:100%;width:495px;height:385px;border:0px;' width='495' height='385px' allowTransparency='true' autoplay='false'></iframe>
+  <p class="caption">
+    Allen Crum talks about his experience storming the Tower with police officers on the local news. Video clip courtesy of the <a href="http://bit.ly/1OeyhrY">Texas Archive of the Moving Image</a>.
+  </p>
+</div>
 
 Crum is unambiguous on the role that armed civilians played in the shooting at this point. “The ground fire was really a Godsend to us,” he wrote, “as it got Whitman pinned down in one spot … We had no means of communication to stop it, but I don’t think that we would have stopped it.”[^6]
 

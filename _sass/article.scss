@@ -57,6 +57,30 @@ header {
   }
 }
 
+.video-block {
+  background-color: $lowlightBackground;
+  margin: 2em -2em;
+  padding: 1em 2em;
+  text-align: center;
+
+  iframe {
+    background-color: $lowlightBackground;
+    height: 385px;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 495px;
+  }
+
+  p.caption {
+    font: {
+      size: .9375em; // 15px
+      style: italic;
+    }
+    margin: 0;
+    text-align: left;
+  }
+}
+
 .image-block {
   margin: 2em -2em;
   padding: 1em 2em;
