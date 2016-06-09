@@ -24,9 +24,33 @@ The conventional explanation for why guns are so widespread in American culture 
 
 Recently, this interpretation has been called into question. The historian Pamela Haag has argued that America’s current gun culture was the result of work done by early gun industrialists like Oliver Winchester and Samuel Colt. While guns have been present in America for centuries, they were primarily viewed as unexceptional objects. They were tools, necessary parts of frontier life or working on a farm. In order to expand the market for guns, though, they would have to be something more. 
 
+<div class="image-block">
+  <img src="/images/posts/mcquisition/winchester-advert.jpg" alt="Winchester advertisement" />
+  <p class="caption">
+    An advertisement for Winchester Rifles from 1895. In this ad and others from this period and earlier, guns were marketed as tools, text-heavy ads extolling their mechanical virtues. Photo courtesy of Wikimedia.
+  </p>
+</div>
+
 As it happens, the state of Texas was instrumental in Samuel Colt’s push for a wider market for his guns. William Hosley has written that Gen Sam Houston, Texas’ first senator to the United States in the 1850s, lobbied heavily for the adoption of Colt’s revolvers, saying that they should be used by every soldier on the frontier in order to prevent a “general Indian war.”[^7] Another key purchaser of Colt’s weapons was the Texas Rangers, whose members wrote about how the gun allowed them to take on groups many times their size.[^8] These early associations with Texas would be instrumental in Colt’s later advertising campaigns.
 
 However, because the Civil War left the market flooded with weapons, many of the early gun industrialists nearly went out of business. Part of the problem was that guns were still viewed and marketed as tools, used by soldiers and frontiersmen.[^9] If they were to stay in business, they would have to change how guns were viewed, from tools to objects of love. The solution came in the early 1900s, when manufacturers switched from text-heavy ads touting their guns technical virtues to more emotive, visual ads that combined nostalgia, excitement, and romance in a potent mix.[^10] Many of these scenes would depict hunters or cowboys out West. They would also associate guns with masculinity. The text of one ad for Winchester from the 1910s said that one their rifles would “make a man of any boy,” thus marking guns as a rite of passage.[^11] Colt would use many of the stories and images of the early Texas Rangers in marketing his weapons, linking the two in the public mind and laying the groundwork for the gun culture we see today. Guns were no longer just tools that you would use like a shovel. They were a potent symbol and a marker of identity.
+
+<div class="image-gallery image-block">
+  <div class="row">
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="winchester-calendars" data-title="Example of Winchester calendars" href="/images/posts/mcquisition/winchester-calendar-2.jpg"><img src="/images/posts/mcquisition/winchester-calendar-2-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="winchester-calendars" data-title="Example of Winchester calendars" href="/images/posts/mcquisition/winchester-calendar-3.jpg"><img src="/images/posts/mcquisition/winchester-calendar-3-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="winchester-calendars" data-title="Example of Winchester calendars" href="/images/posts/mcquisition/winchester-calendar-1.jpg"><img src="/images/posts/mcquisition/winchester-calendar-1-thumb.jpg" /></a>
+    </div>
+  </div>
+  <p class="caption">
+    Three examples of some of the images used on Winchester calendars used to sell rifles. The images were richly colored and presented a far more emotive emotive image of guns that made them items of symbolic significance, not just tools. Images courtesy of the Buffalo Bill Center of the West.
+  </p>
+</div>
 
 Popular media would also play a key role in fostering gun culture with the production of Westerns. Between 1950 and 1961, Hollywood produced over 600 films set between 1866 and 1890, the vast majority of them westerns. By 1959, there were 30 western TV shows running in primetime, and they made up 8 of the top 10 shows. And book publishers sold an average of 35 million paperback westerns a year.[^12]
 
@@ -36,7 +60,26 @@ It’s important to keep this aspect of bonding in mind. Charles Whitman grew up
 
 One particular article, titled “Arsenal Ordinary in Texas,” published by _The Austin Statesman_ on August 4, 1966, is useful for illustrating the ubiquity and banality of guns in Texas. It examined the arsenal that Charles Whitman took with him to the top of the Tower. When Austin police officials went through the footlocker Whitman dragged up there with him they found four rifles, two shotguns, and five pistols, along with a substantial stockpile of ammunition and other supplies. To those who did not grow up in a gun culture, this collection sounds excessive. However, several sportsmen said afterwards that arsenals this size and even larger were not uncommon in Texas households. The secretary of the Texas Senate himself reported owning six rifles, three shotguns, and a pistol.[^17]
 
-**TK:** _[Include image of the SOR report that lists what Whitman had, along with the photo from AP]._
+<div class="image-gallery image-block">
+  <div class="row">
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="sor-report" data-title="SOR report listing contents of Whitman’s trunk (page 1)" href="/images/posts/mcquisition/sor-report-1.jpg"><img src="/images/posts/mcquisition/sor-report-1-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="sor-report" data-title="SOR report listing contents of Whitman’s trunk (page 2)" href="/images/posts/mcquisition/sor-report-2.jpg"><img src="/images/posts/mcquisition/sor-report-2-thumb.jpg" /></a>
+
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="sor-report" data-title="SOR report listing contents of Whitman’s trunk (page 3)" href="/images/posts/mcquisition/sor-report-3.jpg"><img src="/images/posts/mcquisition/sor-report-3-thumb.jpg" /></a>
+    </div>
+    <div class="image col-xs-6 col-md-3">
+      <a data-lightbox="sor-report" data-title="Photo of Whitman’s stockpile" href="/images/posts/mcquisition/contents-of-whitmans-trunk-ahc.jpg"><img src="/images/posts/mcquisition/contents-of-whitmans-trunk-ahc-thumb.jpg" /></a>
+    </div>
+  </div>
+  <p class="caption">
+    The Austin Police Department recorded the contents of Whitman's trunk that he brought with him to the top of the Tower. His stockpile demonstrated that he was planning on holding out for a substantial period of time, but area sportsmen didn't regard his collection as anything out of the ordinary. Document and photo courtesy of the Austin History Center, Austin Public Library.
+  </p>
+</div>
 
 The article also listed a few statistics on the number of weapons in Texas at the time. In the first seven months of 1966, the Department of Public Safety said that they had reported sales of 175,768 pistols. The previous year, the state had issued 571,058 regular resident hunting licenses, with an estimated 160,000 license exemptions issued to people under 17, over 65, or who wished to hunt on their own land. The total population in Texas at the time was about 10.38 million. 
 
