@@ -24,7 +24,7 @@ When Whitman began shooting, the Austin Police Department was ill-equipped for t
 
 _Local news cameras recorded some of the firefight. Video clip courtesy of the Texas Archive of the Moving Image._
 
-It was a surreal scene. Bill Helmer, who was a student at UT at the time, [recounted his experience](http://www.texasmonthly.com/articles/the-madman-on-the-tower/) on campus that day in _Texas Monthly_. When he first noticed people shooting back at the Tower, he thought, “Just what we need—a bunch of loonies lobbing bullets all over the place, killing even more people.” He recalled seeing a man in full camo scouting out the best position from which to fire back at the Tower, and claims that his friends saw a good ol’ boy with a rifle burst into the San Jacinto Cafe southeast of campus, grab a six pack of beer, and rush out. 
+It was a surreal scene. Bill Helmer, who was a student at UT at the time, [recounted his experience](http://www.texasmonthly.com/articles/the-madman-on-the-tower/) on campus that day in _Texas Monthly_. When he first noticed people shooting back at the Tower, he thought, “Just what we need – a bunch of loonies lobbing bullets all over the place, killing even more people.” He recalled seeing a man in full camo scouting out the best position from which to fire back at the Tower, and claims that his friends saw a good ol’ boy with a rifle burst into the San Jacinto Cafe southeast of campus, grab a six pack of beer, and rush out. 
 
 But then he realized that “as the ground fire increased, the shots from the Tower came less often.” The return fire was limiting the amount of damage Whitman was able to do by keeping him pinned down and robbing him of the time he wanted to pick his targets. This realization was widely shared. 
 
@@ -111,7 +111,7 @@ As the only civilian in the group that stormed the Tower observation deck, Crum 
   </p>
 </div>
 
-However, APD Officer Houston McCoy’s account complicates this story. McCoy also stormed the Tower—though he acted independently of Crum—and he, along with Officer Ramiro Martinez, are credited with killing Whitman. In 1985, McCoy sent Bill Helmer, at this point a reporter for _Playboy_, his own version of events. After McCoy made his way into the Tower, he joined with Officer Jerry Day to go up to the observation deck. At this point, and unknown to McCoy, Allen Crum and Officer Martinez were already there. When McCoy heard someone coming down the stairs to enter the room where McCoy was holed up, he prepared to fire.
+However, APD Officer Houston McCoy’s account complicates this story. McCoy also stormed the Tower – though he acted independently of Crum – and he, along with Officer Ramiro Martinez, are credited with killing Whitman. In 1985, McCoy sent Bill Helmer, at this point a reporter for _Playboy_, his own version of events. After McCoy made his way into the Tower, he joined with Officer Jerry Day to go up to the observation deck. At this point, and unknown to McCoy, Allen Crum and Officer Martinez were already there. When McCoy heard someone coming down the stairs to enter the room where McCoy was holed up, he prepared to fire.
 
 “I kept hearing noise in the room above and Jerry Day sensing that I was about to shoot the first thing that showed from up there told me that Officer Ramiro Martinez and a civilian were up there. It is a good thing the civilian did not start down the stairs before I learned of him being there.”[^9]
 
