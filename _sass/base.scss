@@ -14,6 +14,7 @@ html {
 
 body {
   background-color: $footerBackground;
+  color: $textColor;
   font-size: 1rem;
 }
 
@@ -91,30 +92,105 @@ article {
   }
 }
 
-.homepage-posts {
+.essays-landing {
+  padding: {
+    top: 4em;
+    bottom: 4em;
+  }
+
+  hr {
+    border-width: 0;
+    color: $lowlightBackground;
+    padding-left: 4em;
+    margin: 0 auto 3em auto;
+
+    &:after {
+      content: '✢ ✢ ✢ ✢ ✢';
+    }
+
+    &.one-col {
+      display: none;
+      margin-top: 1em;
+      margin-bottom: 2em;
+    }
+
+    &.two-col {
+      display: block;
+    }
+  }
+
   .post {
+    padding: {
+      top: 1em;
+      bottom: 1em;
+    }
+
     a {
       display: block;
-      background-color: red;
-      color: white;
-      margin-bottom: 1em;
-      padding: .25em;
+      padding-left: 4em;
+      position: relative;
 
-      &:hover {
-        background-color: black;
-        text-decoration: none;
+      span.number {
+        @include serif-font-stack;
+        color: $lowlightBackground;
+        display: block;
+        font: {
+          size: 4em;
+          weight: bold;
+        }
+        line-height: 100%;
+        min-width: 1.5em;
+        position: absolute;
+          top: -.125em;
+          left: -.25em;
+        text-align: right;
+        z-index: 0;
       }
 
       span.title {
+        @include serif-font-stack;
+        color: $textColor;
         display: block;
         font: {
-          size: 1.25em;
-          weight: bold;
+          size: 1.75em;
         }
+        line-height: 125%;
+        position: relative;
+        z-index: 1;
       }
 
-      span.byline {
+      span.author {
+        color: $textColor;
         display: block;
+        position: relative;
+        z-index: 1;
+      }
+
+      &:hover {
+        text-decoration: none;
+
+        span.title {
+          color: $accentColor;
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: $screen-md-min) {
+  .hide-below-md {
+    display: none;
+  }
+
+  .essays-landing {
+    hr {
+      &.one-col {
+        display: block;
+      }
+
+      &.two-col {
+        display: none;
       }
     }
   }
