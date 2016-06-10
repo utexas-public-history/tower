@@ -113,10 +113,16 @@ header {
   @include serif-font-stack;
 
   font-size: .9em;
-  margin: 2em auto;
+  margin: 2em auto 0 auto;
+  padding: 2em 0;
 
   ol {
-    padding-left: 1em;
+    margin-bottom: 0;
+    padding: {
+      top: 1em;
+      bottom: 2em;
+      left: 1em;
+    }
   }
 }
 
