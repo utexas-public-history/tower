@@ -6,6 +6,10 @@ nav_highlight: about
 banner: /images/posts/lisle/banner.jpg
 ---
 
+## Project Overview
+
+TK
+
 ## Contributors
 
 ### Keisha Laneé Brown
@@ -26,6 +30,8 @@ Alejandra C. Garza is a graduate student in the History department at The Univer
 
 ### Victoria Hurley
 
+TK
+
 ### Maria Esther Hammack
 
 PhD Student in History at the University of Texas at Austin.  Maria is from Los Mochis, Sinaloa, Mexico.  She completed both a B.A. in History and Political Science, and a M.A. in Atlantic World History at East Carolina University, in Greenville, North Carolina.
@@ -37,6 +43,8 @@ Her M.A. Thesis was titled “The _Other_ Underground Railroad: Hidden Histories
 She is working under the direction and guidance of Dr. Daina Berry. ([UT-Austin Profile][hammack-profile]) ([Twitter][hammack-twitter])
 
 ### Rebecca Johnston
+
+TK
 
 ### Justin Krueger
 
@@ -51,6 +59,12 @@ John Lisle is a graduate student in the history department at the University of 
 Isaac McQuistion is an Asian Studies master's student focusing on modern South Asian history. For undergrad, he attended Carthage College in Kenosha, WI, where he majored in English and history. Prior to coming to UT-Austin, he worked in web content and digital media for a community college in upstate New York, and also held internships with _The Onion_ and MPA-The Association of Magazine Media. ([Personal Website][mcquisition-website])
 
 ### Justina Moloney
+
+TK
+
+## Acknowledgments
+
+TK
 
 [brown-website]: http://www.keishalaneebrown.com/
 [mcquisition-website]: http://isaacmcquisition.wordpress.com
