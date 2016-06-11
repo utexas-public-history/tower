@@ -215,6 +215,6 @@ Armed civilians had one final effect on what happened that day. Claire Wilson wa
 [resistance]: http://kut.org/post/ut-groups-protest-ahead-first-meeting-campus-carry-policy
 [dildos]: http://www.theguardian.com/us-news/2015/oct/12/texas-guns-prompts-debate-over-dildos
 [mass-farting]: http://www.chron.com/about/article/ut-austin-texas-dildos-mass-farting-fart-protest-6694231.php
-[gun-culture]: /texas-gun-culture-and-the-ut-tower-shooting
-[connally]: /texas-gun-culture-and-the-ut-tower-shooting
+[gun-culture]: {{ site.baseurl}}/texas-gun-culture-and-the-ut-tower-shooting
+[connally]: {{ site.baseurl }}/texas-gun-culture-and-the-ut-tower-shooting
 [testimony]: http://www.chron.com/about/article/Whitman-victim-testifies-against-open-carry-6077967.php

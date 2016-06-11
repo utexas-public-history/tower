@@ -80,6 +80,6 @@ Spelce, Neal. “The Neal Spelce Collection, No. 1 – UT Tower Shooting.” _Te
 [^3]: Colloff, Pamela. “96 Minutes.” Texas Monthly. Texas Monthly, 20 Jan. 2013. Web. 01 Apr. 2016.
 
 
-[aftermath]: /aftermath
-[remember]: /i-choose-to-remember
-[specter]: /the-specter-of-the-tower
+[aftermath]: {{ site.baseurl }}/aftermath
+[remember]: {{ site.baseurl }}/i-choose-to-remember
+[specter]: {{ site.baseurl }}/the-specter-of-the-tower

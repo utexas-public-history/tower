@@ -156,7 +156,7 @@ Tyner, James, Savina Sirik, and Samuel Henkin. “Violence and the Dialectics of
 “UT Tower Shooting.” _The Alcalde_. Accessed April 28, 2016. <http://alcalde.texasexes.org/tag/uttower-shooting/>.
 </div></div></div>
 
-[aftermath]: /aftermath
-[university-response]: /the-university-response
-[specter]: /the-specter-of-the-tower
+[aftermath]: {{ site.baseurl }}/aftermath
+[university-response]: {{ site.baseurl }}/the-university-response
+[specter]: {{ site.baseurl }}/the-specter-of-the-tower
 [tower-event]: http://www.utexas.edu/events/tower

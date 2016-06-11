@@ -129,7 +129,7 @@ To be clear, many people still viewed the rifle as a tool, a necessary part of l
 [^19]: Christopher G. Ellison, “Southern Culture and Firearms Ownership,” _Social Science Quarterly_ 72 (1991). (Austin: University of Texas Press): 267-83 and Courtwright, “The Cowboy Subculture.”
 
 
-[armed-civilians]: /armed-civilians-and-the-ut-tower-tragedy
+[armed-civilians]: {{ site.baseurl }}/armed-civilians-and-the-ut-tower-tragedy
 [tx-monthly]: http://www.usatoday.com/story/news/nation/2013/02/17/guns-are-a-way-of-life-in-texas/1926763/
 [nytimes]: http://www.nytimes.com/2016/01/01/us/-2016-01-01-texas-open-carry-gun-law.html?_r=0
 [small-arms-survey]: http://www.smallarmssurvey.org/publications/by-type/yearbook/small-arms-survey-2007.html

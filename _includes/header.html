@@ -3,20 +3,20 @@
     <div class="row">
       <div class="col-xs-6">
         <ul><!--
-          --><li class="anchor"><a href="/">{{ site.title }}</a></li><!--
+          --><li class="anchor"><a href="{{ site.baseurl }}/">{{ site.title }}</a></li><!--
           {% if page.nav_highlight == 'essays' -%}
-            --><li><a href="/essays" class="here">Essays</a></li><!--
+            --><li><a href="{{ site.baseurl }}/essays" class="here">Essays</a></li><!--
           {% else -%}
-            --><li><a href="/essays">Essays</a></li><!--
+            --><li><a href="{{ site.baseurl }}/essays">Essays</a></li><!--
           {% endif -%}
         --></ul>
       </div>
       <div class="col-xs-6">
         <ul class="right"><!--
           {% if page.nav_highlight == 'about' -%}
-            --><li><a href="/about" class="here">About</a></li><!--
+            --><li><a href="{{ site.baseurl }}/about" class="here">About</a></li><!--
           {% else -%}
-            --><li><a href="/about">About</a></li><!--
+            --><li><a href="{{ site.baseurl }}/about">About</a></li><!--
           {% endif -%}
         --></ul>
       </div>
