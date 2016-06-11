@@ -4,10 +4,10 @@
     <title>[Project Name]</title>
     <description>TK Site Description
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Jun 2016 17:10:08 +0200</pubDate>
-    <lastBuildDate>Sat, 11 Jun 2016 17:10:08 +0200</lastBuildDate>
+    <link>http://yourdomain.com/tower/</link>
+    <atom:link href="http://yourdomain.com/tower/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 11 Jun 2016 17:29:45 +0200</pubDate>
+    <lastBuildDate>Sat, 11 Jun 2016 17:29:45 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -38,8 +38,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/aftermath</link>
-        <guid isPermaLink="true">http://yourdomain.com/aftermath</guid>
+        <link>http://yourdomain.com/tower/aftermath</link>
+        <guid isPermaLink="true">http://yourdomain.com/tower/aftermath</guid>
         
         
       </item>
@@ -205,8 +205,8 @@
 
 </description>
         <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/i-choose-to-remember</link>
-        <guid isPermaLink="true">http://yourdomain.com/i-choose-to-remember</guid>
+        <link>http://yourdomain.com/tower/i-choose-to-remember</link>
+        <guid isPermaLink="true">http://yourdomain.com/tower/i-choose-to-remember</guid>
         
         
       </item>
@@ -352,8 +352,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/a-fitting-memorial</link>
-        <guid isPermaLink="true">http://yourdomain.com/a-fitting-memorial</guid>
+        <link>http://yourdomain.com/tower/a-fitting-memorial</link>
+        <guid isPermaLink="true">http://yourdomain.com/tower/a-fitting-memorial</guid>
         
         
       </item>
@@ -464,8 +464,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/how-austin-newspapers-covered-the-shooting</link>
-        <guid isPermaLink="true">http://yourdomain.com/how-austin-newspapers-covered-the-shooting</guid>
+        <link>http://yourdomain.com/tower/how-austin-newspapers-covered-the-shooting</link>
+        <guid isPermaLink="true">http://yourdomain.com/tower/how-austin-newspapers-covered-the-shooting</guid>
         
         
       </item>
@@ -562,8 +562,8 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/the-university-response</link>
-        <guid isPermaLink="true">http://yourdomain.com/the-university-response</guid>
+        <link>http://yourdomain.com/tower/the-university-response</link>
+        <guid isPermaLink="true">http://yourdomain.com/tower/the-university-response</guid>
         
         
       </item>
@@ -720,8 +720,8 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/texas-gun-culture-and-the-ut-tower-shooting</link>
-        <guid isPermaLink="true">http://yourdomain.com/texas-gun-culture-and-the-ut-tower-shooting</guid>
+        <link>http://yourdomain.com/tower/texas-gun-culture-and-the-ut-tower-shooting</link>
+        <guid isPermaLink="true">http://yourdomain.com/tower/texas-gun-culture-and-the-ut-tower-shooting</guid>
         
         
       </item>
@@ -955,8 +955,8 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/armed-civilians-and-the-ut-tower-tragedy</link>
-        <guid isPermaLink="true">http://yourdomain.com/armed-civilians-and-the-ut-tower-tragedy</guid>
+        <link>http://yourdomain.com/tower/armed-civilians-and-the-ut-tower-tragedy</link>
+        <guid isPermaLink="true">http://yourdomain.com/tower/armed-civilians-and-the-ut-tower-tragedy</guid>
         
         
       </item>
@@ -1114,8 +1114,8 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/untitled</link>
-        <guid isPermaLink="true">http://yourdomain.com/untitled</guid>
+        <link>http://yourdomain.com/tower/untitled</link>
+        <guid isPermaLink="true">http://yourdomain.com/tower/untitled</guid>
         
         
       </item>
@@ -1195,8 +1195,8 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/the-specter-of-the-tower</link>
-        <guid isPermaLink="true">http://yourdomain.com/the-specter-of-the-tower</guid>
+        <link>http://yourdomain.com/tower/the-specter-of-the-tower</link>
+        <guid isPermaLink="true">http://yourdomain.com/tower/the-specter-of-the-tower</guid>
         
         
       </item>
@@ -1402,8 +1402,8 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/the-cost-of-student-living</link>
-        <guid isPermaLink="true">http://yourdomain.com/the-cost-of-student-living</guid>
+        <link>http://yourdomain.com/tower/the-cost-of-student-living</link>
+        <guid isPermaLink="true">http://yourdomain.com/tower/the-cost-of-student-living</guid>
         
         
       </item>
