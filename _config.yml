@@ -2,7 +2,7 @@
 title: '[Project Name]'
 description: > 
   TK Site Description
-baseurl: "" 
+baseurl: "/tower" 
 url: "http://yourdomain.com" 
 
 # Build settings
