@@ -16,6 +16,18 @@ header {
   }
 }
 
+.page-content {
+  @include serif-font-stack;
+  font-size: 1.125em;
+  padding: {
+    top: 3em;
+    bottom: 3em;
+  }
+
+  h2, h3 {
+    margin: 2em 0 1em 0;
+  }
+}
 
 .post-content {
   @include serif-font-stack;
