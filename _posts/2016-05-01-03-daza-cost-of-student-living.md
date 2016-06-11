@@ -3,6 +3,7 @@ layout: post
 title: 'The Cost of Student Living: Race, Finances, and Politics at UT Austin in the 1960s'
 author: Miguel Daza
 permalink: /the-cost-of-student-living 
+banner: /images/posts/daza/banner.jpg
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}
@@ -59,7 +60,7 @@ Students´ life at UT in the first part of the sixties was not “pristine” or
 </div></div></div>
 
 {::options parse_block_html="true" /}
-<div class="gray bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+<div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 ## References
 
 Anita Brewer, “UT to Begin Low Cost Housing Plans.” _The Austin American_ (1914-1973), Mar 14, 1965. Accessed: 17 March 2016 <http://search.proquest.com/docview/1611063781?accountid=7118>.

@@ -106,7 +106,7 @@ Even as there is no amount of preparation or weapons that can prevent all crime 
 </div></div></div>
 
 {::options parse_block_html="true" /}
-<div class="gray bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+<div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 ## References
 
 Active Shooter/Suicide After Action Report. September 28, 2010. Police Department – The University of Texas at Austin. 

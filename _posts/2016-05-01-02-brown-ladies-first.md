@@ -15,7 +15,12 @@ Charles Whitman’s shooting rampage from atop the UT Tower was the deadliest sh
 
 ## Bath School Disaster – May 18, 1927
 
-![Andrew and Nellie Kehoe][kehoe]
+<div class="image-block">
+  <img src="/images/posts/brown/andrew-kehoe-and-wife.jpg" alt="Andrew and Nellie Kehoe" />
+  <p class="caption">
+    Andrew and Nellie Kehoe
+  </p>
+</div>
 
 Thirty-nine years prior to Whitman’s campus shooting, on May 18, 1927, Andrew Kehoe, a farmer in Bath Township, Michigan detonated bombs at Bath Consolidated School, killing 36 children and 2 teachers. Shortly after the school explosion, Kehoe detonated a bomb in his truck, which was filled with shrapnel, killing himself and the school superintendent as well as 3 bystanders. Earlier that morning, Kehoe had firebombed his house and farm buildings. Only the chicken coop, where his wife Nellie’s charred body was later found, was not destroyed. The Bath School disaster is the deadliest mass murder in U. S. history, resulting in a total of 44 deaths.  
 
@@ -63,7 +68,7 @@ While a history of domestic violence and a dysfunctional family life may have pl
 </div></div></div>
 
 {::options parse_block_html="true" /}
-<div class="gray bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+<div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 ## Further Reading
 
 Auchter, B. (2010). Men Who Murder Their Families: What the Research Tells Us. NIJ Journal, 266. Retrieved April 30, 2016, from <https://www.ncjrs.gov/pdffiles1/nij/230412.pdf>. 
@@ -93,8 +98,6 @@ Special to _The New York Times_. (1927, May 20). SCHOOL DYNAMITER FIRST SLEW WIF
 
 Virginia Tech Review Panel (2007). _+Mass shootings at Virginia Tech, April 16, 2007: Report of the Virginia Tech Review Panel presented to Timothy M. Kaine, Governor, Commonwealth of Virginia_. Retrieved April 10, 2016 from <https://governor.virginia.gov/media/3772/fullreport.pdf>.
 </div></div></div>
-
-[kehoe]: /images/posts/brown/andrew-kehoe-and-wife.jpg
 
 [fbi-study]: https://www.fbi.gov/about-us/office-of-partner-engagement/active-shooter-incidents/a-study-of-active-shooter-incidents-in-the-u.s.-2000-2013
 [everytown]: http://everytownresearch.org/reports/mass-shootings-analysis/

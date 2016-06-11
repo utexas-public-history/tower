@@ -2,6 +2,8 @@
 layout: page
 title: About [Project Name]
 permalink: /about/
+nav_highlight: about
+banner: /images/posts/lisle/banner.jpg
 ---
 
 ## Contributors

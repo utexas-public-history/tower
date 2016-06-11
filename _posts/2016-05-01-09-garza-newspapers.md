@@ -3,6 +3,7 @@ layout: post
 title:  '“The Eyes of the World Are Upon You, Texas”: How the Austin Newspapers Covered the UT Tower Shooting'
 author: Alejandra Garza
 permalink: /how-austin-newspapers-covered-the-shooting
+banner: /images/posts/garza/banner.jpg
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}

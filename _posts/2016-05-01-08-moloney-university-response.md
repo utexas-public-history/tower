@@ -51,7 +51,7 @@ In 1966 the university exhibited concern for the well-being of students directly
 </div></div></div>
 
 {::options parse_block_html="true" /}
-<div class="gray bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+<div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 ## References
 
 Colloff, Pamela. “96 Minutes.” _Texas Monthly_. Texas Monthly, 20 Jan. 2013. Web. 01 Apr. 2016.

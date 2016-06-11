@@ -1,8 +1,21 @@
 @import 'variables';
 
 header {
-  text-align: center;
+  color: $negativeColor;
+  margin: 4em auto 1em auto;
+  position: relative;
+  z-index: 2;
+
+  h1 {
+    letter-spacing: -.05em;
+    margin-bottom: 0;
+  }
+
+  p.post-meta {
+    margin-top: 0;
+  }
 }
+
 
 .post-content {
   @include serif-font-stack;
@@ -36,29 +49,11 @@ header {
       margin: 1em 0 1em 1em;
     }
   }
-
-  .footnotes {
-    background-color: $lowlightBackground;
-    border: {
-      color: $interfaceStroke;
-      style: solid;
-      width: 1px 0 0 0;
-    }
-    margin-top: 3em;
-    padding-top: 2em;
-
-    ol {
-      font-size: .8em;
-    }
-
-    p {
-      line-height: 125%;
-    }
-  }
 }
 
 .video-block {
   background-color: $lowlightBackground;
+  background-color: rgba($lowlightBackground, 0.5);
   margin: 2em -2em;
   padding: 1em 2em;
   text-align: center;
@@ -82,21 +77,26 @@ header {
 }
 
 .image-block {
+  background-color: $lowlightBackground;
+  background-color: rgba($lowlightBackground, 0.5);
   margin: 2em -2em;
   padding: 1em 2em;
 
-  &.image-gallery {
-    background-color: $lowlightBackground;
+  img {
+    border: 1px solid $interfaceStroke;
+    display: block;
+    margin: 0 auto 1em auto;
   }
 
-  .image {
-    margin-bottom: 1em;
-    text-align: center;
+  &.image-gallery {
+    .image {
+      margin-bottom: 1em;
+      text-align: center;
 
-    & > a > img {
-      border: 1px solid $interfaceStroke;
-      cursor: zoom-in;
-      margin: 0;
+      & > a > img {
+        cursor: zoom-in;
+        margin: 0;
+      }
     }
   }
 

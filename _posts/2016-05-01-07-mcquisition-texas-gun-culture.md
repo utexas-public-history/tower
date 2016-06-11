@@ -3,6 +3,7 @@ layout: post
 title: Texas Gun Culture and the UT Tower Shooting
 author: Isaac McQuisition
 permalink: /texas-gun-culture-and-the-ut-tower-shooting
+banner: /images/posts/mcquisition/banner.jpg
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}
