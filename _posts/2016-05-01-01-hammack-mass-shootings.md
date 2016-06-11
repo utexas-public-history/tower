@@ -19,16 +19,16 @@ The incident that regarded as the second mass shooting in this country happened 
 <div class="image-gallery image-block">
   <div class="row">
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="coverage" data-title="LIFE Magazine" href="/images/posts/hammack/life-magazine.jpg"><img src="/images/posts/hammack/life-magazine-thumb.jpg" /></a>
+      <a data-lightbox="coverage" data-title="LIFE Magazine" href="{{ site.baseurl }}/images/posts/hammack/life-magazine.jpg"><img src="{{ site.baseurl }}/images/posts/hammack/life-magazine-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="coverage" data-title="Aspen Evening Chronicle" href="/images/posts/hammack/evening-chronicle.jpg"><img src="/images/posts/hammack/evening-chronicle-thumb.jpg" /></a>
+      <a data-lightbox="coverage" data-title="Aspen Evening Chronicle" href="{{ site.baseurl }}/images/posts/hammack/evening-chronicle.jpg"><img src="{{ site.baseurl }}/images/posts/hammack/evening-chronicle-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="coverage" data-title="Los Angeles Times" href="/images/posts/hammack/pasadena.jpg"><img src="/images/posts/hammack/pasadena-thumb.jpg" /></a>
+      <a data-lightbox="coverage" data-title="Los Angeles Times" href="{{ site.baseurl }}/images/posts/hammack/pasadena.jpg"><img src="{{ site.baseurl }}/images/posts/hammack/pasadena-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="coverage" data-title="The Daily Enterprise, Camden, N.J." href="/images/posts/hammack/daily-enterprise.jpg"><img src="/images/posts/hammack/daily-enterprise-thumb.jpg" /></a>
+      <a data-lightbox="coverage" data-title="The Daily Enterprise, Camden, N.J." href="{{ site.baseurl }}/images/posts/hammack/daily-enterprise.jpg"><img src="{{ site.baseurl }}/images/posts/hammack/daily-enterprise-thumb.jpg" /></a>
     </div>
   </div>
   <p class="caption">

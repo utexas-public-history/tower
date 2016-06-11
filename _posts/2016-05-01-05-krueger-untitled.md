@@ -28,25 +28,25 @@ Led by Chief Allen Hamilton, the department effectively managed its role and car
 <div class="image-gallery image-block">
   <div class="row">
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="T&SS Report (page 1)" href="/images/posts/krueger/tss-report-1.jpg"><img src="/images/posts/krueger/tss-report-1-thumb.jpg" /></a>
+      <a data-lightbox="tss-report" data-title="T&SS Report (page 1)" href="{{ site.baseurl }}/images/posts/krueger/tss-report-1.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/tss-report-1-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="T&SS Report (page 2)" href="/images/posts/krueger/tss-report-2.jpg"><img src="/images/posts/krueger/tss-report-2-thumb.jpg" /></a>
+      <a data-lightbox="tss-report" data-title="T&SS Report (page 2)" href="{{ site.baseurl }}/images/posts/krueger/tss-report-2.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/tss-report-2-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="T&SS Report (page 3)" href="/images/posts/krueger/tss-report-3.jpg"><img src="/images/posts/krueger/tss-report-3-thumb.jpg" /></a>
+      <a data-lightbox="tss-report" data-title="T&SS Report (page 3)" href="{{ site.baseurl }}/images/posts/krueger/tss-report-3.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/tss-report-3-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="T&SS Report (page 4)" href="/images/posts/krueger/tss-report-4.jpg"><img src="/images/posts/krueger/tss-report-4-thumb.jpg" /></a>
+      <a data-lightbox="tss-report" data-title="T&SS Report (page 4)" href="{{ site.baseurl }}/images/posts/krueger/tss-report-4.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/tss-report-4-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="T&SS Report (page 5)" href="/images/posts/krueger/tss-report-5.jpg"><img src="/images/posts/krueger/tss-report-5-thumb.jpg" /></a>
+      <a data-lightbox="tss-report" data-title="T&SS Report (page 5)" href="{{ site.baseurl }}/images/posts/krueger/tss-report-5.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/tss-report-5-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="T&SS Report (page 6)" href="/images/posts/krueger/tss-report-6.jpg"><img src="/images/posts/krueger/tss-report-6-thumb.jpg" /></a>
+      <a data-lightbox="tss-report" data-title="T&SS Report (page 6)" href="{{ site.baseurl }}/images/posts/krueger/tss-report-6.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/tss-report-6-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="T&SS Report (page 7)" href="/images/posts/krueger/tss-report-7.jpg"><img src="/images/posts/krueger/tss-report-7-thumb.jpg" /></a>
+      <a data-lightbox="tss-report" data-title="T&SS Report (page 7)" href="{{ site.baseurl }}/images/posts/krueger/tss-report-7.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/tss-report-7-thumb.jpg" /></a>
     </div>
   </div>
   <p class="caption">
@@ -59,16 +59,16 @@ The official T&amp;SS Offense Report from August 1, 1966 shows a department that
 <div class="image-gallery image-block">
   <div class="row">
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="security" data-title="Statement from Sargeant Barr" href="/images/posts/krueger/barr-letter.jpg"><img src="/images/posts/krueger/barr-letter-thumb.jpg" /></a>
+      <a data-lightbox="security" data-title="Statement from Sargeant Barr" href="{{ site.baseurl }}/images/posts/krueger/barr-letter.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/barr-letter-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="security" data-title="Statement from Jane Greer, Women’s Residence Halls" href="/images/posts/krueger/greer-letter.jpg"><img src="/images/posts/krueger/greer-letter-thumb.jpg" /></a>
+      <a data-lightbox="security" data-title="Statement from Jane Greer, Women’s Residence Halls" href="{{ site.baseurl }}/images/posts/krueger/greer-letter.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/greer-letter-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="security" data-title="Statement from Delsie Kingdon (page 1)" href="/images/posts/krueger/kingdon-letter-1.jpg"><img src="/images/posts/krueger/kingdon-letter-1-thumb.jpg" /></a>
+      <a data-lightbox="security" data-title="Statement from Delsie Kingdon (page 1)" href="{{ site.baseurl }}/images/posts/krueger/kingdon-letter-1.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/kingdon-letter-1-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="security" data-title="Statement from Delsie Kingdon (page 2)" href="/images/posts/krueger/kingdon-letter-2.jpg"><img src="/images/posts/krueger/kingdon-letter-2-thumb.jpg" /></a>
+      <a data-lightbox="security" data-title="Statement from Delsie Kingdon (page 2)" href="{{ site.baseurl }}/images/posts/krueger/kingdon-letter-2.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/kingdon-letter-2-thumb.jpg" /></a>
     </div>
   </div>
   <p class="caption">

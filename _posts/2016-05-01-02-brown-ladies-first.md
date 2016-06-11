@@ -16,7 +16,7 @@ Charles Whitman’s shooting rampage from atop the UT Tower was the deadliest sh
 ## Bath School Disaster – May 18, 1927
 
 <div class="image-block">
-  <img src="/images/posts/brown/andrew-kehoe-and-wife.jpg" alt="Andrew and Nellie Kehoe" />
+  <img src="{{ site.baseurl }}/images/posts/brown/andrew-kehoe-and-wife.jpg" alt="Andrew and Nellie Kehoe" />
   <p class="caption">
     Andrew and Nellie Kehoe
   </p>
@@ -27,10 +27,10 @@ Thirty-nine years prior to Whitman’s campus shooting, on May 18, 1927, Andrew 
 ## Sandy Hook Shooting – December 14, 2012
 
 <div class="floated-image">
-  <img src="/images/posts/brown/adam-lanza.jpg" alt="Adam Lanza" />
+  <img src="{{ site.baseurl }}/images/posts/brown/adam-lanza.jpg" alt="Adam Lanza" />
 </div>
 <div class="floated-image">
-  <img src="/images/posts/brown/nancy-lanza.jpg" alt="Nancy Lanza" />
+  <img src="{{ site.baseurl }}/images/posts/brown/nancy-lanza.jpg" alt="Nancy Lanza" />
 </div>
 Another elementary school massacre in recent history took place in Newtown, Connecticut. On December 14, 2012, Adam Lanza shot and killed 20 children and 6 staff members at Sandy Hook Elementary School, then committed suicide by shooting himself. Police later found Lanza’s mother, Nancy, lying in bed with gunshot wounds to her head. The 20-year-old Lanza had killed his mother, whom he lived with, stolen her car and several guns from her collection to commit the deadliest mass shooting at a primary or secondary school in U. S. history.  
 
@@ -48,12 +48,12 @@ Women disproportionately have been the victims of mass murder for decades. Given
 </blockquote>
 
 <div class="floated-image">
-  <img src="/images/posts/brown/charles-whitman.jpg" alt="Charles Whitman" />
+  <img src="{{ site.baseurl }}/images/posts/brown/charles-whitman.jpg" alt="Charles Whitman" />
 </div>
 Whitman may have killed the women he loved to spare them the shame of his homicidal plans. It’s curious that Whitman felt compelled to address the murders of his “loved ones” in letters, as though he were trying to justify killing them as an act of compassion. Perhaps the knowledge that his murderous actions would hurt and embarrass his father, whom he deeply hated, was another motivation. Whitman himself admitted his uncertainty of the true reason that compelled him to kill his wife and mother – was it selfishness, misguided altruism or insanity? In the [letter][mother-letter] left behind near Margaret Whitman’s body, he emphatically affirmed that he did indeed love his mother: “I am truly sorry that this is the only way I could see to relieve her suffering but I think it was best. Let there be no doubt in your mind that I loved the woman with all my heart.” Whitman also confirmed his continued affection for his wife, Kathy, in a [typewritten letter][wife-letter] and in post scripts written across pages of old journal entries.
 
 <div class="floated-image">
-  <img src="/images/posts/brown/kathy-whitman.jpg" alt="Kathy Whitman" />
+  <img src="{{ site.baseurl }}/images/posts/brown/kathy-whitman.jpg" alt="Kathy Whitman" />
 </div>
 But love takes a twisted form in households plagued by domestic violence and the former Kathy Leissner was Whitman’s victim long before the hunting blade pierced her chest. Charles adored his wife dearly – she was his “most precious possession” as he often wrote – but he was overly critical of her and controlling. Kathy had [confided][morgan-interview] in close friends John and Fran Morgan that she couldn’t cope with her husband’s perfectionist expectations of her. Charles would wipe his hand behind pictures hanging on the wall looking for dust and his hot temper led him to hit his wife on at least three occasions.  His violent outbursts terrified Kathy to the extent that family, close friends and even the landlady were aware, to varying degrees, that she feared her husband. For as much as Charles abhorred his father, he also despised how his own propensity for violence was so reminiscent of the domineering elder Whitman in spite of his [best efforts to control and improve himself][self-improvement]. Indeed, the aggressive and overbearing nature of C. A. Whitman had driven Charles’ mother, Margaret, from her turbulent twenty-five year marriage after enduring decades of beatings. Is it a coincidence that Kathy and Margaret Whitman, both victims of domestic violence at the hands of their husbands, were relieved of their lives in the same manner on the same night by a man who himself was also a victim of abuse as a youth?
 

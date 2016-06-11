@@ -13,10 +13,10 @@ When Charles Whitman shot at innocent passersby from atop the University of Texa
 <div class="image-gallery image-block">
   <div class="row">
     <div class="image col-xs-6">
-      <a data-lightbox="newspaper-front-pages" data-title="Front page of The Austin American" href="/images/posts/garza/american.jpg"><img src="/images/posts/garza/american-thumb.jpg" /></a>
+      <a data-lightbox="newspaper-front-pages" data-title="Front page of The Austin American" href="{{ site.baseurl }}/images/posts/garza/american.jpg"><img src="{{ site.baseurl }}/images/posts/garza/american-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6">
-      <a data-lightbox="newspaper-front-pages" data-title="Front page of The Austin Statesman" href="/images/posts/garza/statesman.jpg"><img src="/images/posts/garza/statesman-thumb.jpg" /></a>
+      <a data-lightbox="newspaper-front-pages" data-title="Front page of The Austin Statesman" href="{{ site.baseurl }}/images/posts/garza/statesman.jpg"><img src="{{ site.baseurl }}/images/posts/garza/statesman-thumb.jpg" /></a>
     </div>
   </div>
   <p class="caption">

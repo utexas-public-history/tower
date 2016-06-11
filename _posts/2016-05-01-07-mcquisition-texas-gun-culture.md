@@ -26,7 +26,7 @@ The conventional explanation for why guns are so widespread in American culture 
 Recently, this interpretation has been called into question. The historian Pamela Haag has argued that America’s current gun culture was the result of work done by early gun industrialists like Oliver Winchester and Samuel Colt. While guns have been present in America for centuries, they were primarily viewed as unexceptional objects. They were tools, necessary parts of frontier life or working on a farm. In order to expand the market for guns, though, they would have to be something more. 
 
 <div class="image-block">
-  <img src="/images/posts/mcquisition/winchester-advert.jpg" alt="Winchester advertisement" />
+  <img src="{{ site.baseurl }}/images/posts/mcquisition/winchester-advert.jpg" alt="Winchester advertisement" />
   <p class="caption">
     An advertisement for Winchester Rifles from 1895. In this ad and others from this period and earlier, guns were marketed as tools, text-heavy ads extolling their mechanical virtues. Photo courtesy of Wikimedia.
   </p>
@@ -39,13 +39,13 @@ However, because the Civil War left the market flooded with weapons, many of the
 <div class="image-gallery image-block">
   <div class="row">
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="winchester-calendars" data-title="Example of Winchester calendars" href="/images/posts/mcquisition/winchester-calendar-2.jpg"><img src="/images/posts/mcquisition/winchester-calendar-2-thumb.jpg" /></a>
+      <a data-lightbox="winchester-calendars" data-title="Example of Winchester calendars" href="{{ site.baseurl }}/images/posts/mcquisition/winchester-calendar-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/winchester-calendar-2-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="winchester-calendars" data-title="Example of Winchester calendars" href="/images/posts/mcquisition/winchester-calendar-3.jpg"><img src="/images/posts/mcquisition/winchester-calendar-3-thumb.jpg" /></a>
+      <a data-lightbox="winchester-calendars" data-title="Example of Winchester calendars" href="{{ site.baseurl }}/images/posts/mcquisition/winchester-calendar-3.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/winchester-calendar-3-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="winchester-calendars" data-title="Example of Winchester calendars" href="/images/posts/mcquisition/winchester-calendar-1.jpg"><img src="/images/posts/mcquisition/winchester-calendar-1-thumb.jpg" /></a>
+      <a data-lightbox="winchester-calendars" data-title="Example of Winchester calendars" href="{{ site.baseurl }}/images/posts/mcquisition/winchester-calendar-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/winchester-calendar-1-thumb.jpg" /></a>
     </div>
   </div>
   <p class="caption">
@@ -64,17 +64,17 @@ One particular article, titled “Arsenal Ordinary in Texas,” published by _Th
 <div class="image-gallery image-block">
   <div class="row">
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="sor-report" data-title="SOR report listing contents of Whitman’s trunk (page 1)" href="/images/posts/mcquisition/sor-report-1.jpg"><img src="/images/posts/mcquisition/sor-report-1-thumb.jpg" /></a>
+      <a data-lightbox="sor-report" data-title="SOR report listing contents of Whitman’s trunk (page 1)" href="{{ site.baseurl }}/images/posts/mcquisition/sor-report-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/sor-report-1-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="sor-report" data-title="SOR report listing contents of Whitman’s trunk (page 2)" href="/images/posts/mcquisition/sor-report-2.jpg"><img src="/images/posts/mcquisition/sor-report-2-thumb.jpg" /></a>
+      <a data-lightbox="sor-report" data-title="SOR report listing contents of Whitman’s trunk (page 2)" href="{{ site.baseurl }}/images/posts/mcquisition/sor-report-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/sor-report-2-thumb.jpg" /></a>
 
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="sor-report" data-title="SOR report listing contents of Whitman’s trunk (page 3)" href="/images/posts/mcquisition/sor-report-3.jpg"><img src="/images/posts/mcquisition/sor-report-3-thumb.jpg" /></a>
+      <a data-lightbox="sor-report" data-title="SOR report listing contents of Whitman’s trunk (page 3)" href="{{ site.baseurl }}/images/posts/mcquisition/sor-report-3.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/sor-report-3-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="sor-report" data-title="Photo of Whitman’s stockpile" href="/images/posts/mcquisition/contents-of-whitmans-trunk-ahc.jpg"><img src="/images/posts/mcquisition/contents-of-whitmans-trunk-ahc-thumb.jpg" /></a>
+      <a data-lightbox="sor-report" data-title="Photo of Whitman’s stockpile" href="{{ site.baseurl }}/images/posts/mcquisition/contents-of-whitmans-trunk-ahc.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/contents-of-whitmans-trunk-ahc-thumb.jpg" /></a>
     </div>
   </div>
   <p class="caption">
