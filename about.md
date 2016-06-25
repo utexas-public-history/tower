@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About [Project Name]
+title: About Behind the Tower
 permalink: /about/
 nav_highlight: about
 banner: /images/posts/lisle/banner.jpg
