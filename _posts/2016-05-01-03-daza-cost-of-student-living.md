@@ -61,7 +61,7 @@ Students´ life at UT in the first part of the sixties was not “pristine” or
 
 {::options parse_block_html="true" /}
 <div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
-## References
+## Sources
 
 Anita Brewer, “UT to Begin Low Cost Housing Plans.” _The Austin American_ (1914-1973), Mar 14, 1965. Accessed: 17 March 2016 <http://search.proquest.com/docview/1611063781?accountid=7118>.
 

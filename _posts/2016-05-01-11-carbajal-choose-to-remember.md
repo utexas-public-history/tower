@@ -83,7 +83,7 @@ As observers, we should acknowledge that while the effort to pay respect to the 
 
 {::options parse_block_html="true" /}
 <div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
-## References
+## Sources
 
 Bowden, Charles. “The Tower Tragedy.” _Esquire_, January 29, 2007. <http://www.esquire.com/features/ESQ0299-FEB_AMERICA_rev_>.
 

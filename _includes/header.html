@@ -13,6 +13,11 @@
       </div>
       <div class="col-xs-6">
         <ul class="right"><!--
+          {% if page.nav_highlight == 'further-reading' -%}
+            --><li><a href="{{ site.baseurl }}/further-reading" class="here">Further Reading</a></li><!--
+          {% else -%}
+            --><li><a href="{{ site.baseurl }}/further-reading">Further Reading</a></li><!--
+          {% endif -%}
           {% if page.nav_highlight == 'contributors' -%}
             --><li><a href="{{ site.baseurl }}/contributors" class="here">Contributors</a></li><!--
           {% else -%}
