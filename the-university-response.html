@@ -16,7 +16,7 @@
   <link rel="stylesheet" href="/tower/css/lightbox.min.css">
   <link rel="stylesheet" href="/tower/css/main.css">
   <link rel="canonical" href="http://yourdomain.com/tower/the-university-response">
-  <link rel="alternate" type="application/rss+xml" title="[Project Name]" href="http://yourdomain.com/tower/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="Behind the Tower" href="http://yourdomain.com/tower/feed.xml">
 </head>
 
 
@@ -27,7 +27,7 @@
     <div class="row">
       <div class="col-xs-6">
         <ul><!--
-          --><li class="anchor"><a href="/tower/">[Project Name]</a></li><!--
+          --><li class="anchor"><a href="/tower/">Behind the Tower</a></li><!--
           
             --><li><a href="/tower/essays">Essays</a></li><!--
           
@@ -35,6 +35,12 @@
       </div>
       <div class="col-xs-6">
         <ul class="right"><!--
+          
+            --><li><a href="/tower/further-reading">Further Reading</a></li><!--
+          
+          
+            --><li><a href="/tower/contributors">Contributors</a></li><!--
+          
           
             --><li><a href="/tower/about">About</a></li><!--
           
@@ -64,7 +70,21 @@
       <p>Do our current attitudes about institutional response bias our understanding of a different time?</p>
 
       <div class="video-block">
-  <iframe src="http://texasarchive.org/library/index.php?action=ajax&amp;rs=GLIFOSEmbedded&amp;w=480&amp;h=360&amp;c=2009_01055&amp;s=embedded&amp;p=video1&amp;b=844&amp;e=847" frameborder="0" style="max-width:100%;width:495px;height:385px;border:0px;" width="495" height="385px" allowtransparency="true"></iframe>
+  <a href="#" id="first-video-link" class="video-poster">
+    <img src="/tower/images/posts/moloney/first-video-poster.jpg" class="video-poster" />
+    <div class="play-button"></div>
+  </a>
+  <div id="first-video-container" style="display: none">
+    <iframe src="http://texasarchive.org/library/index.php?action=ajax&amp;rs=GLIFOSEmbedded&amp;w=480&amp;h=360&amp;c=2009_01055&amp;s=embedded&amp;p=video1&amp;b=844&amp;e=847" frameborder="0" style="max-width:100%;width:495px;height:385px;border:0px;" width="495" height="385px" allowtransparency="true"></iframe>
+    <script type="text/javascript">
+    $('#first-video-link').on('click', function(e) {
+      e.preventDefault();
+      $('#first-video-link').hide();
+      $('#first-video-container').show();
+    });
+    </script>
+  </div>
+
   <p class="caption">
     Video clip courtesy of the <a href="http://bit.ly/1X5VEqJ">Texas Archive of the Moving Image</a>.
   </p>
@@ -107,7 +127,7 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
 <div class="gray bar references">
   <div class="container">
     <div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
-      <h2 id="references">References</h2>
+      <h2 id="sources">Sources</h2>
 
       <p>Colloff, Pamela. “96 Minutes.” <em>Texas Monthly</em>. Texas Monthly, 20 Jan. 2013. Web. 01 Apr. 2016.</p>
 
@@ -163,11 +183,13 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
         <ul class="links">
           <li><a href="/tower/">Home</a></li>
           <li><a href="/tower/essays">Essays</a></li>
+          <li><a href="/tower/further-reading">Further Reading</a></li>
+          <li><a href="/tower/contributors">Contributors</a></li>
           <li><a href="/tower/about">About</a></li>
         </ul>
       </nav>
       <p>
-        [Project Name] is a project of <a href="https://github.com/utexas-public-history">The Public History Seminar at UT-Austin</a> and was initially published the summer of 2016.
+        Behind the Tower is a project of <a href="https://github.com/utexas-public-history">The Public History Seminar at UT-Austin</a> and was initially published the summer of 2016.
       </p>
     </div>
     <div class="col-xs-12 col-sm-5 col-sm-offset-1 col-md-offset-3 col-md-3">

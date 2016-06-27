@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>[Project Name]</title>
+    <title>Behind the Tower</title>
     <description>TK Site Description
 </description>
     <link>http://yourdomain.com/tower/</link>
     <atom:link href="http://yourdomain.com/tower/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Jun 2016 18:01:31 +0200</pubDate>
-    <lastBuildDate>Sat, 11 Jun 2016 18:01:31 +0200</lastBuildDate>
+    <pubDate>Mon, 27 Jun 2016 17:11:11 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Jun 2016 17:11:11 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -128,7 +128,7 @@
 &lt;div class=&quot;gray bar references&quot;&gt;
   &lt;div class=&quot;container&quot;&gt;
     &lt;div class=&quot;col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content&quot;&gt;
-      &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+      &lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
 
       &lt;p&gt;Bowden, Charles. “The Tower Tragedy.” &lt;em&gt;Esquire&lt;/em&gt;, January 29, 2007. &lt;a href=&quot;http://www.esquire.com/features/ESQ0299-FEB_AMERICA_rev_&quot;&gt;http://www.esquire.com/features/ESQ0299-FEB_AMERICA_rev_&lt;/a&gt;.&lt;/p&gt;
 
@@ -481,7 +481,21 @@
       &lt;p&gt;Do our current attitudes about institutional response bias our understanding of a different time?&lt;/p&gt;
 
       &lt;div class=&quot;video-block&quot;&gt;
-  &lt;iframe src=&quot;http://texasarchive.org/library/index.php?action=ajax&amp;amp;rs=GLIFOSEmbedded&amp;amp;w=480&amp;amp;h=360&amp;amp;c=2009_01055&amp;amp;s=embedded&amp;amp;p=video1&amp;amp;b=844&amp;amp;e=847&quot; frameborder=&quot;0&quot; style=&quot;max-width:100%;width:495px;height:385px;border:0px;&quot; width=&quot;495&quot; height=&quot;385px&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+  &lt;a href=&quot;#&quot; id=&quot;first-video-link&quot; class=&quot;video-poster&quot;&gt;
+    &lt;img src=&quot;/tower/images/posts/moloney/first-video-poster.jpg&quot; class=&quot;video-poster&quot; /&gt;
+    &lt;div class=&quot;play-button&quot;&gt;&lt;/div&gt;
+  &lt;/a&gt;
+  &lt;div id=&quot;first-video-container&quot; style=&quot;display: none&quot;&gt;
+    &lt;iframe src=&quot;http://texasarchive.org/library/index.php?action=ajax&amp;amp;rs=GLIFOSEmbedded&amp;amp;w=480&amp;amp;h=360&amp;amp;c=2009_01055&amp;amp;s=embedded&amp;amp;p=video1&amp;amp;b=844&amp;amp;e=847&quot; frameborder=&quot;0&quot; style=&quot;max-width:100%;width:495px;height:385px;border:0px;&quot; width=&quot;495&quot; height=&quot;385px&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+    $(&#39;#first-video-link&#39;).on(&#39;click&#39;, function(e) {
+      e.preventDefault();
+      $(&#39;#first-video-link&#39;).hide();
+      $(&#39;#first-video-container&#39;).show();
+    });
+    &lt;/script&gt;
+  &lt;/div&gt;
+
   &lt;p class=&quot;caption&quot;&gt;
     Video clip courtesy of the &lt;a href=&quot;http://bit.ly/1X5VEqJ&quot;&gt;Texas Archive of the Moving Image&lt;/a&gt;.
   &lt;/p&gt;
@@ -524,7 +538,7 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
 &lt;div class=&quot;gray bar references&quot;&gt;
   &lt;div class=&quot;container&quot;&gt;
     &lt;div class=&quot;col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content&quot;&gt;
-      &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+      &lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
 
       &lt;p&gt;Colloff, Pamela. “96 Minutes.” &lt;em&gt;Texas Monthly&lt;/em&gt;. Texas Monthly, 20 Jan. 2013. Web. 01 Apr. 2016.&lt;/p&gt;
 
@@ -746,7 +760,20 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
       &lt;p&gt;&lt;strong&gt;TK:&lt;/strong&gt; [Gun marks on the side of the UT Tower. Most of these marks have since been plastered over. Photo courtesy of Austin History Center, Austin Public Library.]&lt;/p&gt;
 
       &lt;div class=&quot;video-block&quot;&gt;
-  &lt;iframe src=&quot;http://texasarchive.org/library/index.php?action=ajax&amp;amp;rs=GLIFOSEmbedded&amp;amp;w=480&amp;amp;h=360&amp;amp;c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&amp;amp;s=embedded&amp;amp;p=video1&amp;amp;b=43&amp;amp;e=44&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+  &lt;a href=&quot;#&quot; id=&quot;first-video-link&quot; class=&quot;video-poster&quot;&gt;
+    &lt;img src=&quot;/tower/images/posts/mcquisition/first-video-poster.jpg&quot; class=&quot;video-poster&quot; /&gt;
+    &lt;div class=&quot;play-button&quot;&gt;&lt;/div&gt;
+  &lt;/a&gt;
+  &lt;div id=&quot;first-video-container&quot; style=&quot;display: none&quot;&gt;
+    &lt;iframe src=&quot;http://texasarchive.org/library/index.php?action=ajax&amp;amp;rs=GLIFOSEmbedded&amp;amp;w=480&amp;amp;h=360&amp;amp;c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&amp;amp;s=embedded&amp;amp;p=video1&amp;amp;b=43&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+      $(&#39;#first-video-link&#39;).on(&#39;click&#39;, function(e) {
+          e.preventDefault();
+          $(&#39;#first-video-link&#39;).hide();
+          $(&#39;#first-video-container&#39;).show();
+      });
+    &lt;/script&gt;
+  &lt;/div&gt;
   &lt;p class=&quot;caption&quot;&gt;
     Local news cameras recorded some of the firefight. Video clip courtesy of the &lt;a href=&quot;http://bit.ly/267tQEV&quot;&gt;Texas Archive of the Moving Image&lt;/a&gt;.
   &lt;/p&gt;
@@ -761,7 +788,20 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
       &lt;p&gt;In a statement given in November 1966 to &lt;em&gt;American Rifleman&lt;/em&gt;, a commercial publication of the National Rifle Association, Allen Crum recounts his actions and how he ended up with officers at the top of the Tower.&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; At the time, Crum was recently retired from the US Air Force and was working as a floor manager at the University Co-op, located across the street from the UT campus. After Whitman started shooting, Crum offered his help and, armed with a rifle given to him by an officer, he and a few other members of the APD made their way to the Tower observation deck.&lt;/p&gt;
 
       &lt;div class=&quot;video-block&quot;&gt;
-  &lt;iframe src=&quot;http://texasarchive.org/library/index.php?action=ajax&amp;amp;rs=GLIFOSEmbedded&amp;amp;w=480&amp;amp;h=360&amp;amp;c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&amp;amp;s=embedded&amp;amp;p=video1&amp;amp;b=176&amp;amp;e=177&quot; frameborder=&quot;0&quot; style=&quot;max-width:100%;width:495px;height:385px;border:0px;&quot; width=&quot;495&quot; height=&quot;385px&quot; allowtransparency=&quot;true&quot; autoplay=&quot;false&quot;&gt;&lt;/iframe&gt;
+  &lt;a href=&quot;#&quot; id=&quot;second-video-link&quot; class=&quot;video-poster&quot;&gt;
+    &lt;img src=&quot;/tower/images/posts/mcquisition/second-video-poster.jpg&quot; class=&quot;video-poster&quot; /&gt;
+    &lt;div class=&quot;play-button&quot;&gt;&lt;/div&gt;
+  &lt;/a&gt;
+  &lt;div id=&quot;second-video-container&quot; style=&quot;display: none&quot;&gt;
+    &lt;iframe src=&quot;http://texasarchive.org/library/index.php?action=ajax&amp;amp;rs=GLIFOSEmbedded&amp;amp;w=480&amp;amp;h=360&amp;amp;c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&amp;amp;s=embedded&amp;amp;p=video1&amp;amp;b=176&quot; frameborder=&quot;0&quot; style=&quot;max-width:100%;width:495px;height:385px;border:0px;&quot; width=&quot;495&quot; height=&quot;385px&quot; allowtransparency=&quot;true&quot; autoplay=&quot;false&quot;&gt;&lt;/iframe&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+    $(&#39;#second-video-link&#39;).on(&#39;click&#39;, function(e) {
+      e.preventDefault();
+      $(&#39;#second-video-link&#39;).hide();
+      $(&#39;#second-video-container&#39;).show();
+    });
+    &lt;/script&gt;
+  &lt;/div&gt;
   &lt;p class=&quot;caption&quot;&gt;
     Allen Crum talks about his experience storming the Tower with police officers on the local news. Video clip courtesy of the &lt;a href=&quot;http://bit.ly/1OeyhrY&quot;&gt;Texas Archive of the Moving Image&lt;/a&gt;.
   &lt;/p&gt;
@@ -905,9 +945,26 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
 
       &lt;p&gt;McCoy goes on to describe the ground fire that peppered the Tower and narrowly missed them while he, Crum, and the other officers got into position on the observation deck. In a press conference after the shooting, Texas Governor &lt;a href=&quot;/tower/texas-gun-culture-and-the-ut-tower-shooting&quot;&gt;John Connally said&lt;/a&gt; that the ground fire impeded the progress of officers to the top of the Tower. After McCoy and Martinez killed Whitman, they then had no effective way of telling those on the ground to stop firing. Crum waved a white flag, but even after that, sporadic ground fire continued. McCoy said that at least one TV report had shown Crum waving the flag and claimed that it was the shooter trying to give up.&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; No doubt the same thought occurred to many of those firing at the Tower.&lt;/p&gt;
 
-      &lt;iframe src=&quot;http://texasarchive.org/library/index.php?action=ajax&amp;amp;rs=GLIFOSEmbedded&amp;amp;w=480&amp;amp;h=360&amp;amp;c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&amp;amp;s=embedded&amp;amp;p=video1&amp;amp;b=0&quot; frameborder=&quot;0&quot; style=&quot;max-width:100%;width:495px;height:385px;border:0px;&quot; width=&quot;495&quot; height=&quot;385px&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+      &lt;div class=&quot;video-block&quot;&gt;
+  &lt;a href=&quot;#&quot; id=&quot;third-video-link&quot; class=&quot;video-poster&quot;&gt;
+    &lt;img src=&quot;/tower/images/posts/mcquisition/third-video-poster.jpg&quot; class=&quot;video-poster&quot; /&gt;
+    &lt;div class=&quot;play-button&quot;&gt;&lt;/div&gt;
+  &lt;/a&gt;
+  &lt;div id=&quot;third-video-container&quot; style=&quot;display: none&quot;&gt;
+    &lt;iframe src=&quot;http://texasarchive.org/library/index.php?action=ajax&amp;amp;rs=GLIFOSEmbedded&amp;amp;w=480&amp;amp;h=360&amp;amp;c=2010_01853&amp;amp;s=embedded&amp;amp;p=video1&amp;amp;b=390&quot; frameborder=&quot;0&quot; style=&quot;max-width:100%;width:495px;height:385px;border:0px;&quot; width=&quot;495&quot; height=&quot;385px&quot; allowtransparency=&quot;true&quot;&gt;&amp;#160;&lt;/iframe&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+    $(&#39;#third-video-link&#39;).on(&#39;click&#39;, function(e) {
+      e.preventDefault();
+      $(&#39;#third-video-link&#39;).hide();
+      $(&#39;#third-video-container&#39;).show();
+    });
+    &lt;/script&gt;
+  &lt;/div&gt;
 
-      &lt;p&gt;&lt;em&gt;Texas Governor John Connally, while defending his Police Department, said that ground fire from civilians actually impeded the progress of officers to the top of the Tower. Video clip provided courtesy of the Texas Archive of the Moving Image.&lt;/em&gt;&lt;/p&gt;
+  &lt;p class=&quot;caption&quot;&gt;
+    Texas Governor John Connally, while defending his Police Department, said that ground fire from civilians actually impeded the progress of officers to the top of the Tower. Video clip provided courtesy of the &lt;a href=&quot;http://bit.ly/28XSQqA&quot;&gt;Texas Archive of the Moving Image&lt;/a&gt;.
+  &lt;/p&gt;
+&lt;/div&gt;
 
       &lt;p&gt;By juxtaposing these two accounts, we’re able to get a more complete picture of the role armed citizens played in the UT Tower Shootings. The ground fire did pin down Whitman, most likely keeping him from killing more people. However, it’s not difficult to see how the actions of several armed, independent citizens could have resulted in further tragedy, and that it was only through fortuitous circumstance that they didn’t.&lt;/p&gt;
 
@@ -1070,7 +1127,7 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
 &lt;div class=&quot;gray bar references&quot;&gt;
   &lt;div class=&quot;container&quot;&gt;
     &lt;div class=&quot;col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content&quot;&gt;
-      &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+      &lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
 
       &lt;p&gt;Active Shooter/Suicide After Action Report. September 28, 2010. Police Department – The University of Texas at Austin.&lt;/p&gt;
 
@@ -1263,7 +1320,7 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
 &lt;div class=&quot;gray bar references&quot;&gt;
   &lt;div class=&quot;container&quot;&gt;
     &lt;div class=&quot;col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content&quot;&gt;
-      &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+      &lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
 
       &lt;p&gt;Anita Brewer, “UT to Begin Low Cost Housing Plans.” &lt;em&gt;The Austin American&lt;/em&gt; (1914-1973), Mar 14, 1965. Accessed: 17 March 2016 &lt;a href=&quot;http://search.proquest.com/docview/1611063781?accountid=7118&quot;&gt;http://search.proquest.com/docview/1611063781?accountid=7118&lt;/a&gt;.&lt;/p&gt;
 

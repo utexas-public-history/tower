@@ -224,6 +224,30 @@ header {
   margin: 2em -2em;
   padding: 1em 2em;
   text-align: center; }
+  .video-block a.video-poster {
+    display: block;
+    margin: 0 auto;
+    max-width: 480px;
+    position: relative;
+    width: auto; }
+    .video-block a.video-poster div.play-button {
+      background-image: url(../images/play-button.png);
+      background-repeat: no-repeat;
+      background-size: 100px 200px;
+      height: 100px;
+      margin: -50px 0 0 -50px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 100px;
+      z-index: 1; }
+    .video-block a.video-poster:hover div.play-button {
+      background-position: 0 -100px; }
+  .video-block img.video-poster {
+    margin: 0;
+    max-width: 480px;
+    position: relative;
+    z-index: 0; }
   .video-block iframe {
     background-color: #fcdebb;
     height: 385px;
@@ -234,6 +258,7 @@ header {
     font-size: .9375em;
     font-style: italic;
     margin: 0;
+    padding-top: 1em;
     text-align: left; }
 
 .image-block {
@@ -254,7 +279,7 @@ header {
   .image-block p.caption {
     font-size: .9375em;
     font-style: italic;
-    margin: 0; }
+    margin: 1em 0 0 0; }
 
 .footnotes {
   font-family: Georgia, serif;
