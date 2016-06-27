@@ -12,7 +12,21 @@ How did the University of Texas respond immediately following the UT Tower Shoot
 Do our current attitudes about institutional response bias our understanding of a different time?
 
 <div class="video-block">
-  <iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=2009_01055&s=embedded&p=video1&b=844&e=847' frameBorder='0' style='max-width:100%;width:495px;height:385px;border:0px;' width='495' height='385px' allowTransparency='true'></iframe>
+  <a href="#" id="first-video-link" class="video-poster">
+    <img src="{{ site.baseurl }}/images/posts/moloney/first-video-poster.jpg" class="video-poster" />
+    <div class="play-button"></div>
+  </a>
+  <div id="first-video-container" style="display: none">
+    <iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=2009_01055&s=embedded&p=video1&b=844&e=847' frameBorder='0' style='max-width:100%;width:495px;height:385px;border:0px;' width='495' height='385px' allowTransparency='true'></iframe>
+    <script type="text/javascript">
+    $('#first-video-link').on('click', function(e) {
+      e.preventDefault();
+      $('#first-video-link').hide();
+      $('#first-video-container').show();
+    });
+    </script>
+  </div>
+
   <p class="caption">
     Video clip courtesy of the <a href="http://bit.ly/1X5VEqJ">Texas Archive of the Moving Image</a>.
   </p>
