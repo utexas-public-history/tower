@@ -9,7 +9,8 @@ body {
   font-size: 1rem; }
 
 img {
-  max-width: 100%; }
+  max-width: 100%;
+  width: 100%; }
 
 a {
   color: #d94709; }
@@ -53,6 +54,11 @@ a {
         margin-right: 1em; }
         .bar.footer nav ul.links li:last-child {
           margin-right: 0; }
+    .bar.footer p.license {
+      font-size: .75em; }
+      .bar.footer p.license img {
+        margin-bottom: .5em;
+        width: 88px; }
 
 article {
   background-color: #fcdebb; }
@@ -270,6 +276,8 @@ header {
     border: 1px solid #fac589;
     display: block;
     margin: 0 auto 1em auto; }
+    .image-block img.tall-image {
+      max-width: 640px; }
   .image-block.image-gallery .image {
     margin-bottom: 1em;
     text-align: center; }
