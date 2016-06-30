@@ -42,7 +42,9 @@ TK
 
 ## Justin Krueger
 
-Justin Krueger is a doctoral student with the Curriculum & Instruction Department - Social Studies Education program in the College of Education at The University of Texas at Austin.   He taught public school in Texas for 10+ years as a middle school social studies teacher.  His research interests include critical geography, historical memory, maps, rural education, and outdoor education.
+Justin Krueger is a doctoral student at the College of Education in the Curriculum & Instruction Department. His specialization is in Social Studies Education.
+
+He taught public school in Texas for 10+ years as a middle school social studies teacher.  His research interests include critical geography, cultural memory, museums, maps, rural education, and outdoor education.
 
 ## John Lisle
 
