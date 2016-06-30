@@ -13,16 +13,30 @@ permalink: /a-fitting-memorial
   I wonder if the fuse can be doused – <br />
   If it is doused what will be gained<br />
   Will the gain be worth the effort put forth<br />
-  But<br /> 
+  But<br />
   Should one who considers himself strong, surrender to an enemy he considers so trivial and despicable</p>
   <footer>Charles Whitman, <cite>excerpted from his diary, Gary M. Lavergne Papers, Dolph Briscoe Center for American History.</cite></footer>
 </blockquote>
 
 Charles Whitman wrote these lines in sometime in early 1964. We know this only because he tells us so: at the top of the page, Whitman made a notation in the midnight hours of August 1, 1966, explaining the year as a time “when I was in a similar feeling as I have been lately.”[^2] That “fused bomb” was detonating as he wrote. Earlier that evening, Whitman had begun to unburden his “problems” onto the two women he supposedly held most dear and would continue to do so later that day, onto dozens of other innocent victims and their families, communities, and friends. That explosion reverberated throughout the country, which found itself at a loss over how a “hitherto sane individual” and an “all-American boy” no less, could commit such senseless acts of violence.[^3]
 
+<div class="image-block">
+  <img src="{{ site.baseurl }}/images/posts/johnston/lightning-strike.jpg" alt="Whitman medical record" class="tall-image" />
+  <p class="caption">
+    Whitman had a variety of unusual medical issues – an "unusually thin" skull, a “pecan-sized” brain tumor, and, as shown here, he was struck by lightning while stationed at Guantanamo Bay.
+  </p>
+</div>
+
 The debate over what made Charles Whitman “snap,” as it’s often put, began the day of his killings and will likely never end. Physicians, investigators, and researchers have spent years documenting his troubled home life, drug abuse, the infamous “pecan-sized” tumor discovered in his brain, and the personal demons he described with disturbingly clinical self-reflection. Certain additional, relevant details of his life have received surprisingly little attention. Some are simply bizarre, like the fact that he was once caught in a phone booth struck by lightning.[^4] Lightning strike survivors typically experience some level of [long-term cognitive disabilities][cognitive-disabilities]. More surprisingly, nobody bothered to get the perspective of his wife Kathy or her family about Whitman until just a couple of years ago, despite his admission to beating her on more than one occasion. Those perspectives have turned out to be [quite damning][damning]. Meanwhile, speculation continues as to whether Whitman suffered from psychosis brought on by amphetamine-induced sleep deprivation and neuroscientists remain fascinated by the tumor and how much pressure it may or may not have exerted on his amygdala.[^5] Despite advances in neuroscience and psychology, satisfying answers to these questions continue to intrigue – and elude – us.
 
 Immediately after the shooting, Texas Governor John Connally convened a thirty-two person expert committee to answer these very questions. Contrary to statements by individual practitioners, the committee’s report was decidedly inconclusive.[^6] Whitman’s body was embalmed before the autopsy, which made it impossible to conclusively check for drugs. His brain was damaged from the gunshot wounds that killed him. And the team lacked a recent psychiatric evaluation. The task force was forced to conclude that they found it “impossible to make a formal psychiatric diagnosis,” and “the application of existing knowledge of organic brain function does not enable us to explain the actions of Whitman on August first.”[^7]
+
+<div class="image-block">
+  <img src="{{ site.baseurl }}/images/posts/johnston/brain.jpg" alt="Photo of Dr. Chenar" class="tall-image" />
+  <p class="caption">
+    Archival wire print of Dr. Coleman de Chenar, who performed Whitman’s autopsy and concluded that the tumor pictured here was not the cause of the shootings.
+  </p>
+</div>
 
 The curiosity about Whitman and his motives has largely overshadowed an important part of the Governor’s Report. The committee’s recommendations on how to deal with the aftermath of the shootings as well as prevent similar events in the future had a significant impact. The Whitman murders helped to galvanize fundamental reform of mental health care practices at the University of Texas – a side of the tragedy’s legacy that has largely been forgotten.
 
@@ -45,6 +59,13 @@ Any discussion of the mental health consequences of the Whitman shootings must i
 > My visit consisted mainly of listening to him talk on the telephone with the driller who was putting in a water well on his ranch, after which he gave me a prescription for Librium. My wife came back from her visit crying and said that after pretty much baring her soul, his advice to her was “Grow up.”
 
 It is hard to say whether Helmer’s experience with Heatly was typical or not. What we do know is that the doctor was paid a total of $36,880 (about $265,000 by today’s standards) for his part-time work at the university between 1963 and 1967.[^19] We also know that Heatly’s career was marred by allegations of cronyism. His brother was the infamously iron-fisted State Senate Appropriations Committee Chairman William S. Heatly. In 1964, auditors found that Maurice Heatly had been paid $40 to $50 more per hour than other psychiatric consultants for his work for the Texas Department of Corrections and the Texas Youth Commission.[^20] The doctor denied any impropriety, and the whole affair was brushed off as an example of the TDC’s “woefully poor management techniques.”[^21]
+
+<div class="image-block">
+  <img src="{{ site.baseurl }}/images/posts/johnston/suicide-note.jpg" alt="Scan of first page of Whitman suicide note" class="tall-image" />
+  <p class="caption">
+    Whitman’s suicide note, which he stopped writing halfway through to chat with some friends.
+  </p>
+</div>
 
 Allegations of misconduct in the Whitman case were similarly dismissed. Mental health practitioners at the time generally agreed that there was nothing he could have done to prevent the shootings later that year. “Thousands of people – and I mean literally thousands talk to doctors about having such feelings,” University of Chicago Psychiatrist Robert S. Daniels told _Time_ – “Nearly all of them are just talking.”[^22] In a statement that reminds us of the political climate in 1966, New Jersey Psychiatrist Henry A. Davidson put a finer point on it: “We are in a situation now where there is enormous pressure for civil rights. The idea of locking someone up on the basis of a psychiatrist’s opinion that he might in the future be violent could be repugnant.”[^23] Governor Connally was even more forgiving, saying “I think Dr. Heatly was absolutely correct in the actions he took.”[^24] Mental health professionals at UT noted that there was no psychological test to identify potential killers and Dr. Iscoe characterized Whitman’s actions as an “enigma.” “It would be easier to understand,” said Iscoe, “if he had been one of the campus Beatniks, bearded, unkempt and on scholastic probation, aimlessly protesting a variety of things and meandering along with no purpose in life. Which would you keep your eye on as a potential trouble maker?”[^25] While it is difficult to judge Heatly’s responsibility in the Whitman case, suffice to say that he would probably not be hired by today’s Counseling and Mental Health Center – each of the center’s current M.D.s holds a board certification in psychiatry.
 
