@@ -18,6 +18,10 @@ Child of Honduran parents. Born and raised in New Orleans. Displaced to Texas as
 
 Miguel Felipe Daza is a Master of Arts in Curriculum and Instruction at The University of Texas at Austin. He is a native of Bogotá, Colombia. His academic interests are technology and education, learning technologies, instructional design, and digital pedagogies.
 
+## Felipe Fernandes Cruz
+
+TK
+
 ## Alejandra C. Garza
 
 Alejandra C. Garza is a graduate student in the History department at The University of Texas at Austin. She is a native of South Texas and her academic research focuses on South Texas ranching communities.
@@ -37,6 +41,10 @@ Her M.A. Thesis was titled “The _Other_ Underground Railroad: Hidden Histories
 She is working under the direction and guidance of Dr. Daina Berry. ([UT-Austin Profile][hammack-profile]) ([Twitter][hammack-twitter])
 
 ## Rebecca Johnston
+
+TK
+
+## Brian Jones
 
 TK
 
