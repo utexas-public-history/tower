@@ -28,7 +28,7 @@ Alejandra C. Garza is a graduate student in the History department at The Univer
 
 ## Victoria Hurley
 
-TK
+Victoria Hurley is from Austin, Texas and attended the University of Texas for her Bachelor’s degree in American Studies. She was also a member of the Longhorn Marching Band where she played the piccolo. She just completed her Master’s Degree in the department of Curriculum and Instruction where she specialized in an Urban Teacher’s preparation program for Social Studies.
 
 ## Maria Esther Hammack
 
@@ -42,7 +42,7 @@ She is working under the direction and guidance of Dr. Daina Berry. ([UT-Austin 
 
 ## Rebecca Johnston
 
-TK
+Rebecca Adeline Johnston is a doctoral student in the history department at UT-Austin. Her primary research is on the implementation of cultural policy in the post-Stalin Soviet Union, particularly the relationship between central and regional institutions. In a former life, she studied as a visual artist and literary analyst, and has worked in Russia and the US as a translator, editor, political analyst, writing consultant, and tutor. She is interested in finding ways to broaden the application of public history within the policy world, as well as ensuring that history is made as relevant to students in the classroom as possible.
 
 ## Brian Jones
 
@@ -70,4 +70,4 @@ TK
 [brown-website]: http://www.keishalaneebrown.com/
 [mcquisition-website]: http://isaacmcquisition.wordpress.com
 [hammack-profile]: http://www.utexas.edu/cola/history/graduate/gradstudents/profile.php?id=meh3995
-[hammack-twitter]: TK
+[hammack-twitter]: https://twitter.com/LorienTinuviel
