@@ -46,7 +46,7 @@ Rebecca Adeline Johnston is a doctoral student in the history department at UT-A
 
 ## Brian Jones
 
-TK
+Brian Jones is a web developer and a historian with a Ph.D. in History from the University of Texas at Austin where he specialized in marine science and maritime empire in the early modern Spanish monarchy. His work with digital, online, and public history projects includes co-founding [Advanced Clionautics][clionautics] and [_The Appendix_][appendix]. ([Personal Website][jones-website]) ([Twitter][jones-twitter])
 
 ## Justin Krueger
 
@@ -71,3 +71,7 @@ TK
 [mcquistion-website]: http://isaacmcquistion.wordpress.com
 [hammack-profile]: http://www.utexas.edu/cola/history/graduate/gradstudents/profile.php?id=meh3995
 [hammack-twitter]: https://twitter.com/LorienTinuviel
+[clionautics]: http://clionautics.co
+[appendix]: http://theappendix.net
+[jones-website]: http://brianjon.es
+[jones-twitter]: http://twitter.com/jonesbp
