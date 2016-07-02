@@ -32,7 +32,7 @@ This first thing that became clear to us was that historians ask different quest
 
 After reading the few published accounts, we visited the archives at the Austin History Center and the Briscoe Center of American History. Each student gravitated towards a topic or a set of questions and began looking for answers in the newspapers and documents in the archives.
 
-Early on we came to the conclusion that the silence surrounding the events was complicated. We didn’t find evidence of outright suppression in the early days and months after the day of shooting—just the opposite. Governor John Connally was determined to try to understand what Whitman did and why. The local and national media continued to write stories about Whitman and the shooting for months afterwards. If university officials were more circumspect, they might have been trying to protect UT’s reputation, but they also might have been subject to the same mute shock so many other people felt. In 1966 there were no grief counselors and no ready language or even conceptual categories for discussing in public a bewildering mass shooting. As [Justina Maloney shows in her research][maloney], good faith efforts were made in the early days and months to offer some support for survivors and their families. But the university’s silence became much more disturbing as time went on.
+Early on we came to the conclusion that the silence surrounding the events was complicated. We didn’t find evidence of outright suppression in the early days and months after the day of shooting—just the opposite. Governor John Connally was determined to try to understand what Whitman did and why. The local and national media continued to write stories about Whitman and the shooting for months afterwards. If university officials were more circumspect, they might have been trying to protect UT’s reputation, but they also might have been subject to the same mute shock so many other people felt. In 1966 there were no grief counselors and no ready language or even conceptual categories for discussing in public a bewildering mass shooting. As [Justina Moloney shows in her research][moloney], good faith efforts were made in the early days and months to offer some support for survivors and their families. But the university’s silence became much more disturbing as time went on.
 
 The shooting changed campus culture in numerous ways. Many people do not realize that there was no campus police force in 1966. As Justin Krueger found, [the shooting changed that][krueger]. And Rebecca Johnston, who studied Charles Whitman’s mental state and his efforts to get psychological help in the months before his breakdown, found that [significant improvements to mental health services][johnston] were also made in the aftermath of the shooting.
 
@@ -62,7 +62,7 @@ Public history cannot automatically create an informed or thoughtful public. But
 [96minutes]: http://www.texasmonthly.com/articles/96-minutes/
 [monday-monday]: http://us.macmillan.com/mondaymonday/elizabethcrook
 [tower-history]: http://tower.utexas.edu/history/
-[maloney]: tk
+[moloney]: tk
 [krueger]: tk
 [johnston]: tk
 [daza]: tk
