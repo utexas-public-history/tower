@@ -41,7 +41,7 @@ function handlePinnedHeader() {
       $header.addClass('pinned');
       $header.show();
     }
-  } else {
+  } else if (thisScrollTop == 0) {
     $header.removeClass('pinned');
   }
 
