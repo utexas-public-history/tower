@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Texas Gun Culture and the UT Tower Shooting
-author: Isaac McQuisition
+author: Isaac McQuistion
 permalink: /texas-gun-culture-and-the-ut-tower-shooting
-banner: /images/posts/mcquisition/banner.jpg
+banner: /images/posts/mcquistion/banner.jpg
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}
@@ -17,16 +17,16 @@ When it comes to [armed civilians][armed-civilians], the UT Tower Shooting is a 
 
 In the press reports after the shooting, nobody seemed particularly fazed by the large number of armed civilians present on the UT Campus that day. To the contrary, with very few exceptions, they were treated as heroes. The few people who thought that this sequence of events was anything out of the ordinary were outsiders like J.M. Coetzee. The South African-born author was attending the UT-Austin on a Fulbright Award, and thus hadn’t grown up with the Texas gun culture.
 
-At this point, the link between Texas and guns is treated as an immutable law of nature. The venerable magazine _Texas Monthly_ has published at least two special issues (April 2016 and May 1995) devoted entirely to exploring the relationship between Texans and guns, and articles like [this one][tx-monthly] and [this one][nytimes] that show a widespread perception of Texas as “gun friendly” are common. The day after the UT Tower shooting, stories published in the United Kingdom explicitly blamed the number of guns in American society for what happened, and said that “sudden violence was familiar in America.”[^1] Though a gross oversimplification of what happened, they were right in one regard: Texas is inextricably bound up in the story of the US gun culture. In order to more fully understand what happened on the UT campus that day, we have to take a step back and examine how guns came to occupy a central place in Texas culture. 
+At this point, the link between Texas and guns is treated as an immutable law of nature. The venerable magazine _Texas Monthly_ has published at least two special issues (April 2016 and May 1995) devoted entirely to exploring the relationship between Texans and guns, and articles like [this one][tx-monthly] and [this one][nytimes] that show a widespread perception of Texas as “gun friendly” are common. The day after the UT Tower shooting, stories published in the United Kingdom explicitly blamed the number of guns in American society for what happened, and said that “sudden violence was familiar in America.”[^1] Though a gross oversimplification of what happened, they were right in one regard: Texas is inextricably bound up in the story of the US gun culture. In order to more fully understand what happened on the UT campus that day, we have to take a step back and examine how guns came to occupy a central place in Texas culture.
 
 According to a 2007 [report][small-arms-survey] by the Switzerland-based Small Arms Survey, the US has a greater number of firearms per capita than any other nation, and between 35 and 50 percent of civilian-owned guns are owned by Americans.[^2] In 1966, the percentage of US households with guns was around 50%, with those in the South 22% more likely to own guns.[^3] Those rates have fallen in the last few decades. Now, fewer than a third of Americans own guns.[^4] Despite this downward trend, the total number of guns owned has increased.[^5]
 
-The conventional explanation for why guns are so widespread in American culture is that ever since disembarking from the _Mayflower_, and especially since volunteer militias fought for independence from the British, Americans have loved guns. Thus began a tradition of gun ownership that has remained intact until the present day.[^6] 
+The conventional explanation for why guns are so widespread in American culture is that ever since disembarking from the _Mayflower_, and especially since volunteer militias fought for independence from the British, Americans have loved guns. Thus began a tradition of gun ownership that has remained intact until the present day.[^6]
 
-Recently, this interpretation has been called into question. The historian Pamela Haag has argued that America’s current gun culture was the result of work done by early gun industrialists like Oliver Winchester and Samuel Colt. While guns have been present in America for centuries, they were primarily viewed as unexceptional objects. They were tools, necessary parts of frontier life or working on a farm. In order to expand the market for guns, though, they would have to be something more. 
+Recently, this interpretation has been called into question. The historian Pamela Haag has argued that America’s current gun culture was the result of work done by early gun industrialists like Oliver Winchester and Samuel Colt. While guns have been present in America for centuries, they were primarily viewed as unexceptional objects. They were tools, necessary parts of frontier life or working on a farm. In order to expand the market for guns, though, they would have to be something more.
 
 <div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/mcquisition/winchester-advert.jpg" alt="Winchester advertisement" />
+  <img src="{{ site.baseurl }}/images/posts/mcquistion/winchester-advert.jpg" alt="Winchester advertisement" />
   <p class="caption">
     An advertisement for Winchester Rifles from 1895. In this ad and others from this period and earlier, guns were marketed as tools, text-heavy ads extolling their mechanical virtues. Photo courtesy of Wikimedia.
   </p>
@@ -39,13 +39,13 @@ However, because the Civil War left the market flooded with weapons, many of the
 <div class="image-gallery image-block">
   <div class="row">
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="winchester-calendars" data-title="Example of Winchester calendars" href="{{ site.baseurl }}/images/posts/mcquisition/winchester-calendar-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/winchester-calendar-2-thumb.jpg" /></a>
+      <a data-lightbox="winchester-calendars" data-title="Example of Winchester calendars" href="{{ site.baseurl }}/images/posts/mcquistion/winchester-calendar-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/winchester-calendar-2-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="winchester-calendars" data-title="Example of Winchester calendars" href="{{ site.baseurl }}/images/posts/mcquisition/winchester-calendar-3.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/winchester-calendar-3-thumb.jpg" /></a>
+      <a data-lightbox="winchester-calendars" data-title="Example of Winchester calendars" href="{{ site.baseurl }}/images/posts/mcquistion/winchester-calendar-3.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/winchester-calendar-3-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="winchester-calendars" data-title="Example of Winchester calendars" href="{{ site.baseurl }}/images/posts/mcquisition/winchester-calendar-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/winchester-calendar-1-thumb.jpg" /></a>
+      <a data-lightbox="winchester-calendars" data-title="Example of Winchester calendars" href="{{ site.baseurl }}/images/posts/mcquistion/winchester-calendar-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/winchester-calendar-1-thumb.jpg" /></a>
     </div>
   </div>
   <p class="caption">
@@ -64,17 +64,17 @@ One particular article, titled “Arsenal Ordinary in Texas,” published by _Th
 <div class="image-gallery image-block">
   <div class="row">
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="sor-report" data-title="SOR report listing contents of Whitman’s trunk (page 1)" href="{{ site.baseurl }}/images/posts/mcquisition/sor-report-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/sor-report-1-thumb.jpg" /></a>
+      <a data-lightbox="sor-report" data-title="SOR report listing contents of Whitman’s trunk (page 1)" href="{{ site.baseurl }}/images/posts/mcquistion/sor-report-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/sor-report-1-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="sor-report" data-title="SOR report listing contents of Whitman’s trunk (page 2)" href="{{ site.baseurl }}/images/posts/mcquisition/sor-report-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/sor-report-2-thumb.jpg" /></a>
+      <a data-lightbox="sor-report" data-title="SOR report listing contents of Whitman’s trunk (page 2)" href="{{ site.baseurl }}/images/posts/mcquistion/sor-report-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/sor-report-2-thumb.jpg" /></a>
 
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="sor-report" data-title="SOR report listing contents of Whitman’s trunk (page 3)" href="{{ site.baseurl }}/images/posts/mcquisition/sor-report-3.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/sor-report-3-thumb.jpg" /></a>
+      <a data-lightbox="sor-report" data-title="SOR report listing contents of Whitman’s trunk (page 3)" href="{{ site.baseurl }}/images/posts/mcquistion/sor-report-3.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/sor-report-3-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="sor-report" data-title="Photo of Whitman’s stockpile" href="{{ site.baseurl }}/images/posts/mcquisition/contents-of-whitmans-trunk-ahc.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/contents-of-whitmans-trunk-ahc-thumb.jpg" /></a>
+      <a data-lightbox="sor-report" data-title="Photo of Whitman’s stockpile" href="{{ site.baseurl }}/images/posts/mcquistion/contents-of-whitmans-trunk-ahc.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/contents-of-whitmans-trunk-ahc-thumb.jpg" /></a>
     </div>
   </div>
   <p class="caption">
@@ -82,31 +82,31 @@ One particular article, titled “Arsenal Ordinary in Texas,” published by _Th
   </p>
 </div>
 
-The article also listed a few statistics on the number of weapons in Texas at the time. In the first seven months of 1966, the Department of Public Safety said that they had reported sales of 175,768 pistols. The previous year, the state had issued 571,058 regular resident hunting licenses, with an estimated 160,000 license exemptions issued to people under 17, over 65, or who wished to hunt on their own land. The total population in Texas at the time was about 10.38 million. 
+The article also listed a few statistics on the number of weapons in Texas at the time. In the first seven months of 1966, the Department of Public Safety said that they had reported sales of 175,768 pistols. The previous year, the state had issued 571,058 regular resident hunting licenses, with an estimated 160,000 license exemptions issued to people under 17, over 65, or who wished to hunt on their own land. The total population in Texas at the time was about 10.38 million.
 
-There is one further thing that this article tells us. It states that at the time, private citizens were not allowed to carry pistols. However, Texas law was mute on the subject of rifles and Texas sportsmen were among the most vocal opponents of any sort of gun control legislation. Immediately after the shooting, there was general outcry for greater gun control, but it was staunchly opposed by Earle Cabell, a representative from Dallas, and many others, on the grounds that new gun laws wouldn’t have stopped Whitman and would unduly punish sportsmen.[^18] In the end, the legislation would stall until after the assassinations of Robert F. Kennedy and Martin Luther King, Jr. in 1968. 
+There is one further thing that this article tells us. It states that at the time, private citizens were not allowed to carry pistols. However, Texas law was mute on the subject of rifles and Texas sportsmen were among the most vocal opponents of any sort of gun control legislation. Immediately after the shooting, there was general outcry for greater gun control, but it was staunchly opposed by Earle Cabell, a representative from Dallas, and many others, on the grounds that new gun laws wouldn’t have stopped Whitman and would unduly punish sportsmen.[^18] In the end, the legislation would stall until after the assassinations of Robert F. Kennedy and Martin Luther King, Jr. in 1968.
 
 To be clear, many people still viewed the rifle as a tool, a necessary part of life on the ranch or the farm. But in many ways, it was like a shootout in an old western, with people playing the roles modeled for them by cowboys and Texas Rangers. Could this have happened anywhere else? Some academics have hypothesized on the increased level of violence in southern society, especially in vigilante or “defensive” situations.[^19] There’s little empirical evidence to back this up, so the question is left open. Was there something peculiarly American, or southern, or Texan about dozens of armed civilians appearing on a public university campus? Is this sort of violence inevitable in a society that attaches mythical status to guns, produces media saturated with gun violence, and sees firearms as part of its history from its earliest days? I won’t pretend to know the answer. All I can do is echo Allen Crum’s statement, which he gave to _American Rifleman_ in 1966: “The right of the private citizen to bear arms was never more graphically demonstrated than on the University of Texas Campus Aug. 1, 1966.”
 </div></div></div>
 
 
-[^1]: “Story of Slayings in World Headlines,” _New York Times_, August 3, 1966. Found in “Tower Sniper Vertical Files,” Dolph Briscoe Center for American History. 
+[^1]: “Story of Slayings in World Headlines,” _New York Times_, August 3, 1966. Found in “Tower Sniper Vertical Files,” Dolph Briscoe Center for American History.
 
-[^2]: Small Arms Survey, and Graduate Institute of International Studies, _Small Arms Survey 2007: Guns and the City_, (Cambridge; New York: Cambridge University Press, 2007), accessed April 24, 2016: <http://www.smallarmssurvey.org/publications/by-type/yearbook/small-arms-survey-2007.html>. 
+[^2]: Small Arms Survey, and Graduate Institute of International Studies, _Small Arms Survey 2007: Guns and the City_, (Cambridge; New York: Cambridge University Press, 2007), accessed April 24, 2016: <http://www.smallarmssurvey.org/publications/by-type/yearbook/small-arms-survey-2007.html>.
 
 [^3]: Wright, James D., and Linda L. Marston, “The Ownership of the Means of Destruction: Weapons in the United States,” _Social Problems_ 23 (1975), 93, 96.
 
-[^4]: Bindu Kalesan, Marcos D Villarreal, Katherine M Keyes and Sandro Galea, “Gun Ownership and Social Gun Culture,” _Injury Prevention_, June 29, 2015, accessed April 24, 2016, doi:10.1136/injuryprev-2015-041586. 
+[^4]: Bindu Kalesan, Marcos D Villarreal, Katherine M Keyes and Sandro Galea, “Gun Ownership and Social Gun Culture,” _Injury Prevention_, June 29, 2015, accessed April 24, 2016, doi:10.1136/injuryprev-2015-041586.
 
 [^5]: William J Krouse and Library of Congress, Congressional Research Service, _Gun control legislation in the 112th Congress_, Washington D.C.: Congressional Research Service, Library of Congress (2012), accessed April 24, 2016: <https://fas.org/sgp/crs/misc/RL32842.pdf>.
 
-[^6]: Kathryn Kahler, “Americans Love Their Guns but Fear Violence,” in _Guns in America: A Reader_, edited by Jan E Dizard, Robert Merrill Muth, and Stephen P Andrews, Jr., 158-161. (New York: New York University Press, 1999), 159. 
+[^6]: Kathryn Kahler, “Americans Love Their Guns but Fear Violence,” in _Guns in America: A Reader_, edited by Jan E Dizard, Robert Merrill Muth, and Stephen P Andrews, Jr., 158-161. (New York: New York University Press, 1999), 159.
 
-[^7]: William Hosley, “Guns, Gun Culture, and the Peddling of Dreams,” in _Guns in America: A Reader_, edited by Jan E Dizard, Robert Merrill Muth, and Stephen P Andrews, Jr., 47-85, (New York: New York University Press, 1999), 65-67. 
+[^7]: William Hosley, “Guns, Gun Culture, and the Peddling of Dreams,” in _Guns in America: A Reader_, edited by Jan E Dizard, Robert Merrill Muth, and Stephen P Andrews, Jr., 47-85, (New York: New York University Press, 1999), 65-67.
 
-[^8]: James Donovan, “Two Sams and Their Six-Shooter,” _Texas Monthly_, March 22, 2016, accessed April 17, 2016, <http://www.texasmonthly.com/the-culture/two-sams-and-their-six-shooter/>. 
+[^8]: James Donovan, “Two Sams and Their Six-Shooter,” _Texas Monthly_, March 22, 2016, accessed April 17, 2016, <http://www.texasmonthly.com/the-culture/two-sams-and-their-six-shooter/>.
 
-[^9]: Pamela Haag, _The Gunning of America: Business and the Making of the American Gun Culture_, (Basic Books: New York), 255. 
+[^9]: Pamela Haag, _The Gunning of America: Business and the Making of the American Gun Culture_, (Basic Books: New York), 255.
 
 [^10]: Pamela Haag, _The Gunning of America_, 251.
 
@@ -116,15 +116,15 @@ To be clear, many people still viewed the rifle as a tool, a necessary part of l
 
 [^13]: Robert J. Spitzer, _The Politics of Gun Control_, 5th ed. (Boulder, CO: Paradigm Publishers 2012) 90. It was also around this time that the NRA became more heavily invested in shaping legislation, but that history is far too complex to tackle here. Several works have been written on the topic. A good place to start for recent NRA lobbying efforts against gun control legislation is Robert Draper’s 2013 piece for the _New York Times’ Magazine_ titled “[Inside the Power of the N.R.A.](http://www.nytimes.com/2013/12/15/magazine/inside-the-power-of-the-nra.html)”
 
-[^14]: Adam Walinsky, “The Crisis of Public Order,” in _Guns in America: A Reader_, edited by Jan E Dizard, Robert Merrill Muth, and Stephen P Andrews, Jr., 291-303, (New York: New York University Press,1999), 299. Hard data on gun ownership rates is notoriously scarce and thus a little bit of extrapolation is usually necessary. For instance, when people asked about gun ownership rates for this poll, they didn’t ask what the guns were used for. We can only infer that, because handguns are usually purchased for self-defense, that the majority of the people in the ‘60s were using their firearms for hunting or other sporting activities, like target shooting. 
+[^14]: Adam Walinsky, “The Crisis of Public Order,” in _Guns in America: A Reader_, edited by Jan E Dizard, Robert Merrill Muth, and Stephen P Andrews, Jr., 291-303, (New York: New York University Press,1999), 299. Hard data on gun ownership rates is notoriously scarce and thus a little bit of extrapolation is usually necessary. For instance, when people asked about gun ownership rates for this poll, they didn’t ask what the guns were used for. We can only infer that, because handguns are usually purchased for self-defense, that the majority of the people in the ‘60s were using their firearms for hunting or other sporting activities, like target shooting.
 
 [^15]: Robert Draper, email message to author, March 24, 2016.
 
-[^16]: Gary Lavergne, _A Sniper in the Tower: The Charles Whitman Murders_ (Denton, Tex: University of North Texas Press, 1997) 5. 
+[^16]: Gary Lavergne, _A Sniper in the Tower: The Charles Whitman Murders_ (Denton, Tex: University of North Texas Press, 1997) 5.
 
 [^17]: Paul Recer, “Arsenal Ordinary in Texas,” _The Austin Statesman_, August 4, 1966, Found in “Tower Sniper Vertical Files,” Dolph Briscoe Center for American History.
 
-[^18]: Cabell Raps Gun Owners Restrictions, _Dallas Times Herald_, August 3, 1966, Found in “Tower Sniper Vertical Files,” Dolph Briscoe Center for American History. 
+[^18]: Cabell Raps Gun Owners Restrictions, _Dallas Times Herald_, August 3, 1966, Found in “Tower Sniper Vertical Files,” Dolph Briscoe Center for American History.
 
 [^19]: Christopher G. Ellison, “Southern Culture and Firearms Ownership,” _Social Science Quarterly_ 72 (1991). (Austin: University of Texas Press): 267-83 and Courtwright, “The Cowboy Subculture.”
 

@@ -58,9 +58,9 @@ He taught public school in Texas for 10+ years as a middle school social studies
 
 John Lisle is a graduate student in the history department at the University of Texas at Austin. He is from Azle, Texas and studies the history of science.
 
-## Isaac McQuisition
+## Isaac McQuistion
 
-Isaac McQuistion is an Asian Studies master's student focusing on modern South Asian history. For undergrad, he attended Carthage College in Kenosha, WI, where he majored in English and history. Prior to coming to UT-Austin, he worked in web content and digital media for a community college in upstate New York, and also held internships with _The Onion_ and MPA-The Association of Magazine Media. ([Personal Website][mcquisition-website])
+Isaac McQuistion is an Asian Studies master's student focusing on modern South Asian history. For undergrad, he attended Carthage College in Kenosha, WI, where he majored in English and history. Prior to coming to UT-Austin, he worked in web content and digital media for a community college in upstate New York, and also held internships with _The Onion_ and MPA-The Association of Magazine Media. ([Personal Website][mcquistion-website])
 
 ## Justina Moloney
 
@@ -68,6 +68,6 @@ TK
 
 
 [brown-website]: http://www.keishalaneebrown.com/
-[mcquisition-website]: http://isaacmcquisition.wordpress.com
+[mcquistion-website]: http://isaacmcquistion.wordpress.com
 [hammack-profile]: http://www.utexas.edu/cola/history/graduate/gradstudents/profile.php?id=meh3995
 [hammack-twitter]: https://twitter.com/LorienTinuviel

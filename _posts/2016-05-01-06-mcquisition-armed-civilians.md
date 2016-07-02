@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Armed Civilians and the UT Tower Tragedy
-author: Isaac McQuisition
+author: Isaac McQuistion
 permalink: /armed-civilians-and-the-ut-tower-tragedy
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
@@ -11,10 +11,10 @@ permalink: /armed-civilians-and-the-ut-tower-tragedy
   <p>It seemed like every other guy had a rifle. There was a sort of cowboy atmosphere, this “Let’s get him” spirit.</p>
   <footer>Ann Major, in the <cite>Texas Monthly</cite> article “<a href="http://www.texasmonthly.com/articles/96-minutes/">96 Minutes</a>”</footer>
 </blockquote>
-  
-On August 1, 2016, Texas Senate Bill 11 will go into effect, allowing license holders to carry concealed weapons throughout university campuses. Though private universities will have the option to opt-out, state schools will not. The legislation has been particularly contentious on the campus of the University of Texas at Austin, where [mock shootings][mock-shootings] have played out against a backdrop of [resistance][resistance] from students, faculty, staff, and some [wonderfully][dildos] [absurdist][mass-farting] protests. 
 
-August 1st will also mark the 50th anniversary since the UT Tower Shooting, commonly referred to as the first mass school shooting in US history.[^1] The Texas state government hasn’t elaborated on why they chose this particular date and not another, but we should not view it as a coincidence. Armed civilians are a crucial part of the story, one that’s been politicized by both gun rights and gun control advocates, and all of this takes place against the backdrop of a state that is in many ways the heartland of [gun culture][gun-culture]. 
+On August 1, 2016, Texas Senate Bill 11 will go into effect, allowing license holders to carry concealed weapons throughout university campuses. Though private universities will have the option to opt-out, state schools will not. The legislation has been particularly contentious on the campus of the University of Texas at Austin, where [mock shootings][mock-shootings] have played out against a backdrop of [resistance][resistance] from students, faculty, staff, and some [wonderfully][dildos] [absurdist][mass-farting] protests.
+
+August 1st will also mark the 50th anniversary since the UT Tower Shooting, commonly referred to as the first mass school shooting in US history.[^1] The Texas state government hasn’t elaborated on why they chose this particular date and not another, but we should not view it as a coincidence. Armed civilians are a crucial part of the story, one that’s been politicized by both gun rights and gun control advocates, and all of this takes place against the backdrop of a state that is in many ways the heartland of [gun culture][gun-culture].
 
 When Whitman began shooting, the Austin Police Department was ill-equipped for the situation. They mostly possessed only their service revolvers and shotguns, weapons that were useless when it came to long distances. If they did possess a rifle, it was because it was a personal weapon.[^2] The officers weren’t alone, though. Once bystanders realized what was going on, many ran to retrieve their own firearms and fired back at the Tower. In a few instances, police officers drove people in their squad cars to purchase ammunition or to pick up rifles. Some people asked police what to do if they had a shot at the sniper. The police said that they should shoot to kill.[^3]
 
@@ -22,7 +22,7 @@ When Whitman began shooting, the Austin Police Department was ill-equipped for t
 
 <div class="video-block">
   <a href="#" id="first-video-link" class="video-poster">
-    <img src="{{ site.baseurl }}/images/posts/mcquisition/first-video-poster.jpg" class="video-poster" />
+    <img src="{{ site.baseurl }}/images/posts/mcquistion/first-video-poster.jpg" class="video-poster" />
     <div class="play-button"></div>
   </a>
   <div id="first-video-container" style="display: none">
@@ -40,17 +40,17 @@ When Whitman began shooting, the Austin Police Department was ill-equipped for t
   </p>
 </div>
 
-It was a surreal scene. Bill Helmer, who was a student at UT at the time, [recounted his experience](http://www.texasmonthly.com/articles/the-madman-on-the-tower/) on campus that day in _Texas Monthly_. When he first noticed people shooting back at the Tower, he thought, “Just what we need – a bunch of loonies lobbing bullets all over the place, killing even more people.” He recalled seeing a man in full camo scouting out the best position from which to fire back at the Tower, and claims that his friends saw a good ol’ boy with a rifle burst into the San Jacinto Cafe southeast of campus, grab a six pack of beer, and rush out. 
+It was a surreal scene. Bill Helmer, who was a student at UT at the time, [recounted his experience](http://www.texasmonthly.com/articles/the-madman-on-the-tower/) on campus that day in _Texas Monthly_. When he first noticed people shooting back at the Tower, he thought, “Just what we need – a bunch of loonies lobbing bullets all over the place, killing even more people.” He recalled seeing a man in full camo scouting out the best position from which to fire back at the Tower, and claims that his friends saw a good ol’ boy with a rifle burst into the San Jacinto Cafe southeast of campus, grab a six pack of beer, and rush out.
 
-But then he realized that “as the ground fire increased, the shots from the Tower came less often.” The return fire was limiting the amount of damage Whitman was able to do by keeping him pinned down and robbing him of the time he wanted to pick his targets. This realization was widely shared. 
+But then he realized that “as the ground fire increased, the shots from the Tower came less often.” The return fire was limiting the amount of damage Whitman was able to do by keeping him pinned down and robbing him of the time he wanted to pick his targets. This realization was widely shared.
 
 It’s undeniable that many civilians on campus that day displayed tremendous bravery, stepping up when the police couldn’t.[^4] But their presence was not unproblematic. The truth, as always, is more complicated than that of good guys battling a bad guy.
 
-In a statement given in November 1966 to _American Rifleman_, a commercial publication of the National Rifle Association, Allen Crum recounts his actions and how he ended up with officers at the top of the Tower.[^5] At the time, Crum was recently retired from the US Air Force and was working as a floor manager at the University Co-op, located across the street from the UT campus. After Whitman started shooting, Crum offered his help and, armed with a rifle given to him by an officer, he and a few other members of the APD made their way to the Tower observation deck. 
+In a statement given in November 1966 to _American Rifleman_, a commercial publication of the National Rifle Association, Allen Crum recounts his actions and how he ended up with officers at the top of the Tower.[^5] At the time, Crum was recently retired from the US Air Force and was working as a floor manager at the University Co-op, located across the street from the UT campus. After Whitman started shooting, Crum offered his help and, armed with a rifle given to him by an officer, he and a few other members of the APD made their way to the Tower observation deck.
 
 <div class="video-block">
   <a href="#" id="second-video-link" class="video-poster">
-    <img src="{{ site.baseurl }}/images/posts/mcquisition/second-video-poster.jpg" class="video-poster" />
+    <img src="{{ site.baseurl }}/images/posts/mcquistion/second-video-poster.jpg" class="video-poster" />
     <div class="play-button"></div>
   </a>
   <div id="second-video-container" style="display: none">
@@ -75,16 +75,16 @@ As the only civilian in the group that stormed the Tower observation deck, Crum 
 <div class="image-gallery image-block">
   <div class="row">
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum" data-title="Allen Crum’s Statement (page 1)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-1-thumb.jpg" /></a>
+      <a data-lightbox="crum" data-title="Allen Crum’s Statement (page 1)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-1-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum" data-title="Allen Crum’s Statement (page 2)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-2-thumb.jpg" /></a>
+      <a data-lightbox="crum" data-title="Allen Crum’s Statement (page 2)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-2-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum" data-title="Allen Crum’s Statement (page 3)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-3.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-3-thumb.jpg" /></a>
+      <a data-lightbox="crum" data-title="Allen Crum’s Statement (page 3)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-3.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-3-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum" data-title="Allen Crum’s Statement (page 4)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-4.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-4-thumb.jpg" /></a>
+      <a data-lightbox="crum" data-title="Allen Crum’s Statement (page 4)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-4.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-4-thumb.jpg" /></a>
     </div>
   </div>
   <p class="caption">
@@ -95,46 +95,46 @@ As the only civilian in the group that stormed the Tower observation deck, Crum 
 <div class="image-gallery image-block">
   <div class="row">
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 1)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-1-thumb.jpg" /></a>
+      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 1)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-1-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 2)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-2-thumb.jpg" /></a>
+      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 2)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-2-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 3)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-3.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-3-thumb.jpg" /></a>
+      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 3)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-3.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-3-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 4)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-4.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-4-thumb.jpg" /></a>
+      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 4)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-4.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-4-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 5)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-5.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-5-thumb.jpg" /></a>
+      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 5)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-5.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-5-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 6)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-6.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-6-thumb.jpg" /></a>
+      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 6)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-6.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-6-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 7)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-7.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-7-thumb.jpg" /></a>
+      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 7)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-7.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-7-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 8)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-8.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-8-thumb.jpg" /></a>
+      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 8)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-8.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-8-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 9)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-9.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-9-thumb.jpg" /></a>
+      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 9)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-9.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-9-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 10)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-10.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-10-thumb.jpg" /></a>
+      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 10)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-10.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-10-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 11)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-11.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-11-thumb.jpg" /></a>
+      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 11)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-11.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-11-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 12)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-12.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-12-thumb.jpg" /></a>
+      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 12)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-12.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-12-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 13)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-13.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-13-thumb.jpg" /></a>
+      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 13)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-13.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-13-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 14)" href="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-14.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/crum-ar-14-thumb.jpg" /></a>
+      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 14)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-14.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-14-thumb.jpg" /></a>
     </div>
   </div>
 
@@ -147,15 +147,15 @@ However, APD Officer Houston McCoy’s account complicates this story. McCoy als
 
 “I kept hearing noise in the room above and Jerry Day sensing that I was about to shoot the first thing that showed from up there told me that Officer Ramiro Martinez and a civilian were up there. It is a good thing the civilian did not start down the stairs before I learned of him being there.”[^9]
 
-A very good thing, because Crum, a civilian at the top of the Tower carrying a rifle, would have exactly matched the profile of the shooter McCoy was looking for. 
+A very good thing, because Crum, a civilian at the top of the Tower carrying a rifle, would have exactly matched the profile of the shooter McCoy was looking for.
 
 <div class="image-gallery image-block">
   <div class="row">
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy" data-title="Houston McCoy’s Official Report (page 1)" href="{{ site.baseurl }}/images/posts/mcquisition/mccoy-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/mccoy-1-thumb.jpg" /></a>
+      <a data-lightbox="mccoy" data-title="Houston McCoy’s Official Report (page 1)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-1-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy" data-title="Houston McCoy’s Official Report (page 2)" href="{{ site.baseurl }}/images/posts/mcquisition/mccoy-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/mccoy-2-thumb.jpg" /></a>
+      <a data-lightbox="mccoy" data-title="Houston McCoy’s Official Report (page 2)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-2-thumb.jpg" /></a>
     </div>
   </div>
   <p class="caption">
@@ -166,37 +166,37 @@ A very good thing, because Crum, a civilian at the top of the Tower carrying a r
 <div class="image-gallery image-block">
   <div class="row">
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (Cover Letter)" href="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-intro2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-intro2-thumb.jpg" /></a>
+      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (Cover Letter)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-intro2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-intro2-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 1)" href="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-1-thumb.jpg" /></a>
+      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 1)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-1-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 2)" href="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-2-thumb.jpg" /></a>
+      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 2)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-2-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 3)" href="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-3.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-3-thumb.jpg" /></a>
+      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 3)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-3.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-3-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 4)" href="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-4.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-4-thumb.jpg" /></a>
+      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 4)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-4.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-4-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 5)" href="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-5.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-5-thumb.jpg" /></a>
+      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 5)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-5.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-5-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 6)" href="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-6.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-6-thumb.jpg" /></a>
+      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 6)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-6.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-6-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 7)" href="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-7.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-7-thumb.jpg" /></a>
+      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 7)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-7.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-7-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 8)" href="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-8.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-8-thumb.jpg" /></a>
+      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 8)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-8.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-8-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 9)" href="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-9.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-9-thumb.jpg" /></a>
+      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 9)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-9.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-9-thumb.jpg" /></a>
     </div>
     <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 10)" href="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-10.jpg"><img src="{{ site.baseurl }}/images/posts/mcquisition/mccoy-helmer-10-thumb.jpg" /></a>
+      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 10)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-10.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-10-thumb.jpg" /></a>
     </div>
   </div>
   <p class="caption">
@@ -208,7 +208,7 @@ McCoy goes on to describe the ground fire that peppered the Tower and narrowly m
 
 <div class="video-block">
   <a href="#" id="third-video-link" class="video-poster">
-    <img src="{{ site.baseurl }}/images/posts/mcquisition/third-video-poster.jpg" class="video-poster" />
+    <img src="{{ site.baseurl }}/images/posts/mcquistion/third-video-poster.jpg" class="video-poster" />
     <div class="play-button"></div>
   </a>
   <div id="third-video-container" style="display: none">
@@ -244,15 +244,15 @@ Armed civilians had one final effect on what happened that day. Claire Wilson wa
 
 [^6]: Allen Crum, “Text for Article in _American Rifleman_.” Archival document, n.d. AR.2000.002, Box 12, Folder 12. Austin History Center.
 
-[^7]: “Bravery Awards” _The Austin American_, Sept 18, 1966. 
+[^7]: “Bravery Awards” _The Austin American_, Sept 18, 1966.
 
-[^8]: “Optimists to Honor Crum for his Deed,” _The Austin Statesman_, Aug 22, 1966. 
+[^8]: “Optimists to Honor Crum for his Deed,” _The Austin Statesman_, Aug 22, 1966.
 
 [^9]: Houston McCoy, “Record from Houston McCoy,” Austin History Center.
 
 [^10]: Houston McCoy, “Record from Houston McCoy,“ Austin History Center.
 
-[^11]: Pamela Colloff, “The Reckoning,” _Texas Monthly_, April 2016, 95-97. 
+[^11]: Pamela Colloff, “The Reckoning,” _Texas Monthly_, April 2016, 95-97.
 
 [mock-shootings]: http://www.nytimes.com/2015/12/13/us/gun-advocates-demonstrate-outside-university-of-texas-campus.html?_r=0
 [resistance]: http://kut.org/post/ut-groups-protest-ahead-first-meeting-campus-carry-policy
