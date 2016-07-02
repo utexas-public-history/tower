@@ -17,6 +17,9 @@ a {
   a:hover {
     color: #a80022; }
 
+span.invisible-text {
+  display: none; }
+
 .bar {
   width: 100%;
   position: relative;
@@ -25,10 +28,25 @@ a {
     background-color: #fff; }
   .bar.gray {
     background-color: #fcdebb; }
+  .bar.top-banner {
+    background-color: #000;
+    box-shadow: 0 1px 4px rgba(54, 9, 22, 0.25);
+    padding: .5em 0;
+    z-index: 100; }
+    .bar.top-banner.pinned {
+      position: fixed;
+      top: 0;
+      right: 0;
+      left: 0; }
+    .bar.top-banner a {
+      display: block;
+      margin: 0 auto;
+      max-width: 235px;
+      width: 50%; }
   .bar.header {
     background-color: #360916;
     box-shadow: 0 1px 4px rgba(54, 9, 22, 0.25);
-    z-index: 100; }
+    z-index: 99; }
   .bar.hero {
     background-color: #a80022; }
   .bar.references {
@@ -113,6 +131,29 @@ article {
     .header nav ul li.anchor a {
       background-color: #8c001c;
       color: #fcdebb; }
+
+body.homepage article {
+  position: relative; }
+  body.homepage article img.background {
+    display: block;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 0; }
+body.homepage header {
+  padding-top: 4em;
+  padding-bottom: 4em; }
+body.homepage .post-content {
+  background-color: #fff;
+  padding-right: 2em;
+  padding-left: 2em; }
+  body.homepage .post-content .full-width {
+    margin-right: -2em;
+    margin-left: -2em; }
+body.homepage .footnotes {
+  padding: 0;
+  width: auto; }
 
 .essays-landing {
   padding-top: 4em;
@@ -217,6 +258,8 @@ header {
   .post-content p {
     line-height: 150%;
     margin-bottom: 1.5em; }
+    .post-content p.byline {
+      font-style: italic; }
   .post-content img {
     margin: 2.5em auto; }
   .post-content .floated-image {

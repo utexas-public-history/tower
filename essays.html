@@ -21,14 +21,18 @@
 </head>
 
 
-  <body>
+  
+    <body>
+  
 
-    <div class="header white bar">
+    <div class="top-banner bar">
+  <a href="/tower/"><img src="/tower/images/interface/banner.png" alt="Behind the Tower" /><span class="invisible-text">Behind the Tower</span></a>
+</div>
+<div class="header bar">
   <nav class="container">
     <div class="row">
       <div class="col-xs-6">
         <ul><!--
-          --><li class="anchor"><a href="/tower/">Behind the Tower</a></li><!--
           
             --><li><a href="/tower/essays" class="here">Essays</a></li><!--
           
@@ -50,6 +54,7 @@
     </div>
   </nav>
 </div>
+
 
     <div class="bar white essays-landing">
   <div class="container">
@@ -138,7 +143,7 @@
           <a href="/tower/armed-civilians-and-the-ut-tower-tragedy">
             <span class="number">6.</span>
             <span class="title">Armed Civilians and the UT Tower Tragedy</span>
-            <span class="author">By Isaac McQuisition</span>
+            <span class="author">By Isaac McQuistion</span>
           </a>
           <hr class="one-col" />
         </div>
@@ -158,7 +163,7 @@
           <a href="/tower/texas-gun-culture-and-the-ut-tower-shooting">
             <span class="number">7.</span>
             <span class="title">Texas Gun Culture and the UT Tower Shooting</span>
-            <span class="author">By Isaac McQuisition</span>
+            <span class="author">By Isaac McQuistion</span>
           </a>
           <hr class="one-col" />
         </div>
@@ -278,6 +283,30 @@
 $(document).on('ready', function() {
   $('.footnotes').prepend($('<h2/>').text('Notes'));
 });
+
+// Floating Header
+var lastScrollTop = 0;
+
+function handlePinnedHeader() {
+  var thisScrollTop = $(window).scrollTop();
+  var $header = $('.top-banner');
+  var pinned = $header.hasClass('pinned');
+
+  if (thisScrollTop > 40) {
+    if (!pinned) {
+      $header.hide();
+      $header.addClass('pinned');
+      $header.show();
+    }
+  } else if (thisScrollTop == 0) {
+    $header.removeClass('pinned');
+  }
+
+  lastScrollTop = thisScrollTop;
+}
+
+$(window).on('scrollstart', handlePinnedHeader);
+setInterval(handlePinnedHeader, 100);
 </script>
 
 

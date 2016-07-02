@@ -20,14 +20,18 @@
 </head>
 
 
-  <body>
+  
+    <body>
+  
 
-    <div class="header white bar">
+    <div class="top-banner bar">
+  <a href="/tower/"><img src="/tower/images/interface/banner.png" alt="Behind the Tower" /><span class="invisible-text">Behind the Tower</span></a>
+</div>
+<div class="header bar">
   <nav class="container">
     <div class="row">
       <div class="col-xs-6">
         <ul><!--
-          --><li class="anchor"><a href="/tower/">Behind the Tower</a></li><!--
           
             --><li><a href="/tower/essays">Essays</a></li><!--
           
@@ -49,6 +53,7 @@
     </div>
   </nav>
 </div>
+
 
     <article>
 <div class="hero bar">
@@ -200,6 +205,30 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
 $(document).on('ready', function() {
   $('.footnotes').prepend($('<h2/>').text('Notes'));
 });
+
+// Floating Header
+var lastScrollTop = 0;
+
+function handlePinnedHeader() {
+  var thisScrollTop = $(window).scrollTop();
+  var $header = $('.top-banner');
+  var pinned = $header.hasClass('pinned');
+
+  if (thisScrollTop > 40) {
+    if (!pinned) {
+      $header.hide();
+      $header.addClass('pinned');
+      $header.show();
+    }
+  } else if (thisScrollTop == 0) {
+    $header.removeClass('pinned');
+  }
+
+  lastScrollTop = thisScrollTop;
+}
+
+$(window).on('scrollstart', handlePinnedHeader);
+setInterval(handlePinnedHeader, 100);
 </script>
 
 
