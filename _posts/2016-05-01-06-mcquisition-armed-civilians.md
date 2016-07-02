@@ -3,6 +3,7 @@ layout: post
 title: Armed Civilians and the UT Tower Tragedy
 author: Isaac McQuistion
 permalink: /armed-civilians-and-the-ut-tower-tragedy
+banner: /images/posts/mcquistion/bullet-holes-banner.jpg
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}
