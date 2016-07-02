@@ -26,4 +26,28 @@
 $(document).on('ready', function() {
   $('.footnotes').prepend($('<h2/>').text('Notes'));
 });
+
+// Floating Header
+var lastScrollTop = 0;
+
+function handlePinnedHeader() {
+  var thisScrollTop = $(window).scrollTop();
+  var $header = $('.top-banner');
+  var pinned = $header.hasClass('pinned');
+
+  if (thisScrollTop > 40) {
+    if (!pinned) {
+      $header.hide();
+      $header.addClass('pinned');
+      $header.show();
+    }
+  } else {
+    $header.removeClass('pinned');
+  }
+
+  lastScrollTop = thisScrollTop;
+}
+
+$(window).on('scrollstart', handlePinnedHeader);
+setInterval(handlePinnedHeader, 100);
 </script>
