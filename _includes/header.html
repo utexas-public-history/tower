@@ -11,6 +11,11 @@
           {% else -%}
             --><li><a href="{{ site.baseurl }}/essays">Essays</a></li><!--
           {% endif -%}
+          {% if page.nav_highlight == 'timeline' -%}
+            --><li><a href="{{ site.baseurl }}/timeline" class="here">Timeline</a></li>!--
+          {% else -%}
+            --><li><a href="{{ site.baseurl }}/timeline">Timeline</a></li><!--
+          {% endif -%}
         --></ul>
       </div>
       <div class="col-xs-6">
