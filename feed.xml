@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/tower/</link>
     <atom:link href="http://yourdomain.com/tower/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Jul 2016 13:38:32 +0200</pubDate>
-    <lastBuildDate>Sat, 02 Jul 2016 13:38:32 +0200</lastBuildDate>
+    <pubDate>Sat, 02 Jul 2016 16:41:51 +0200</pubDate>
+    <lastBuildDate>Sat, 02 Jul 2016 16:41:51 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -405,7 +405,14 @@
 
       &lt;p&gt;&lt;em&gt;The Daily Texan&lt;/em&gt;, printed as &lt;em&gt;The Summer Texan&lt;/em&gt; during UT’s summer session that year, acted as a voice of the student body. The student newspaper had a regular column, “The Firing Line,” for students to submit short comments to the paper reacting to current news. On August 9, 1966, “The Firing Line” was awash with opinions about the past week’s tragedy.  Like the city newspapers, students’ commentary on “The Firing Line” raised many questions about the reasons Whitman chose to fire at innocent people from atop the Tower.&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; The students made various suggestions to improve safety, called for permanently or temporarily closing the Tower, and recommended ways to commemorate those wounded and killed.&lt;/p&gt;
 
-      &lt;p&gt;&lt;strong&gt;TK:&lt;/strong&gt; Image: The Summer Texan August 9, 1966, “The Firing Line”&lt;/p&gt;
+      &lt;div class=&quot;image-block&quot;&gt;
+  &lt;a href=&quot;/tower/images/posts/garza/firing-line-fullsize.jpg&quot; data-lightbox=&quot;firingline&quot;&gt;
+    &lt;img src=&quot;/tower/images/posts/garza/firing-line.jpg&quot; alt=&quot;Scan of Firing Line page from The Summer Texan&quot; class=&quot;tall-image&quot; /&gt;
+  &lt;/a&gt;
+  &lt;p class=&quot;caption&quot;&gt;
+    &lt;i&gt;The Summer Texan&lt;/i&gt; August 9, 1966, “The Firing Line”
+  &lt;/p&gt;
+&lt;/div&gt;
 
       &lt;p&gt;The tragic event affected people with ties to UT around the world. Pete Coneway expressed his condolences and said “that the world understands this terrible crime as the act of an insane person.”&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;  Nancy Kowert, John De La Garza, Jr., and David Gray each said the Tower should remain open despite its tarnished image. Gray wrote “the Observation Deck of the Tower should remain open – not for the curious nor the morbid, but so that people might see the bullet scars and blood stains and not forget that Whitman was indicative of something wrong in our society.”&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; H. Gray Merriam’s submission, “Who’s Fault?,” [sic] echoed the same sentiments. Merriam did not view the “terror from the Tower” as the act of one individual, and listed questions, wondering who to blame. The students generally did not feel the need to blame, but chose to move on, look to the future, and learn from a horrible event.&lt;/p&gt;
 
@@ -774,7 +781,12 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
 
       &lt;p&gt;When Whitman began shooting, the Austin Police Department was ill-equipped for the situation. They mostly possessed only their service revolvers and shotguns, weapons that were useless when it came to long distances. If they did possess a rifle, it was because it was a personal weapon.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; The officers weren’t alone, though. Once bystanders realized what was going on, many ran to retrieve their own firearms and fired back at the Tower. In a few instances, police officers drove people in their squad cars to purchase ammunition or to pick up rifles. Some people asked police what to do if they had a shot at the sniper. The police said that they should shoot to kill.&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-      &lt;p&gt;&lt;strong&gt;TK:&lt;/strong&gt; [Gun marks on the side of the UT Tower. Most of these marks have since been plastered over. Photo courtesy of Austin History Center, Austin Public Library.]&lt;/p&gt;
+      &lt;div class=&quot;image-block&quot;&gt;
+  &lt;img src=&quot;/tower/images/posts/mcquistion/bullet-holes.jpg&quot; alt=&quot;Photos of bullet holes&quot; /&gt;
+  &lt;p class=&quot;caption&quot;&gt;
+    Gun marks on the side of the UT Tower. Most of these marks have since been plastered over. Photo courtesy of Austin History Center, Austin Public Library.
+  &lt;/p&gt;
+&lt;/div&gt;
 
       &lt;div class=&quot;video-block&quot;&gt;
   &lt;a href=&quot;#&quot; id=&quot;first-video-link&quot; class=&quot;video-poster&quot;&gt;
