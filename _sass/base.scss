@@ -25,6 +25,10 @@ a {
   }
 }
 
+span.invisible-text {
+  display: none;
+}
+
 .bar {
   width: 100%;
   position: relative;
@@ -38,10 +42,24 @@ a {
     background-color: $lowlightBackground;
   }
 
+  &.top-banner {
+    background-color: #000;
+    box-shadow: 0 1px 4px rgba($textColor, 0.25);
+    padding: .5em 0;
+    z-index: 100;
+
+    a {
+      display: block;
+      margin: 0 auto;
+      max-width: 235px;
+      width: 50%;
+    }
+  }
+
   &.header {
     background-color: $textColor;
     box-shadow: 0 1px 4px rgba($textColor, 0.25);
-    z-index: 100;
+    z-index: 99;
   }
 
   &.hero {
@@ -170,6 +188,45 @@ article {
     }
   }
 }
+
+// Homepage
+
+body.homepage {
+  article {
+    position: relative;
+
+    img.background {
+      display: block;
+      position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+      z-index: 0;
+    }
+  }
+
+  header {
+    padding: {
+      top: 4em;
+      bottom: 4em;
+    }
+  }
+
+  .page-content {
+    background-color: $negativeColor;
+    padding: {
+      right: 2em;
+      left: 2em;
+    }
+  }
+
+  .footnotes {
+    padding: 0;
+    width: auto;
+  }
+}
+
+// Essays
 
 .essays-landing {
   padding: {

@@ -1,5 +1,6 @@
 ---
 layout: homepage
+title: 'Behind the Tower: New Histories of the UT Tower Shooting'
 ---
 Where were the historians?
 

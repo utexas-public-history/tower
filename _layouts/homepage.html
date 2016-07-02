@@ -1,19 +1,20 @@
 ---
 layout: default
+bodytag: homepage
 ---
 <article>
-<div class="hero bar">
-  {% if page.banner %}
-    <div class="hero-banner" style="background-image:url({{ page.banner }})"></div>
-    <div class="hero-gradient"></div>
-  {% endif %}
+<img src="{{ site.baseurl }}/images/interface/homepage-background.jpg" class="background" />
+<div class="bar homepage-banner">
   <div class="container">
-    <header class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
-      <h1>{{ page.title }}</h1>
+    <header>
+      <h1>
+        <img src="{{ site.baseurl }}/images/interface/homepage-banner.png" />
+        <span class="invisible-text">{{ page.title }}</span>
+      </h1>
     </header>
   </div>
 </div>
-<div class="white bar">
+<div class="bar">
   <div class="container">
     <div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 page-content">
       {{ content }}
