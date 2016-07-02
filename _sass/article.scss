@@ -58,6 +58,10 @@ header {
   p {
     line-height: 150%;
     margin-bottom: 1.5em;
+
+    &.byline {
+      font-style: italic;
+    }
   }
 
   img {

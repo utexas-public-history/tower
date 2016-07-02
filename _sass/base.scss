@@ -219,11 +219,18 @@ body.homepage {
     }
   }
 
-  .page-content {
+  .post-content {
     background-color: $negativeColor;
     padding: {
       right: 2em;
       left: 2em;
+    }
+
+    .full-width {
+      margin: {
+        right: -2em;
+        left: -2em;
+      }
     }
   }
 

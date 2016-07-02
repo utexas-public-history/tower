@@ -1,7 +1,9 @@
 ---
 layout: homepage
 title: 'Behind the Tower: New Histories of the UT Tower Shooting'
+author: 'Joan Neuberger'
 ---
+{::options parse_block_html="false" /}
 Where were the historians?
 
 What happens to events that historians ignore, events that are recorded primarily as scattered patches of memory? What kind of history is told by novelists and journalists?
@@ -16,11 +18,13 @@ It took 30 years for a journalist, Gary Lavergne, to write _A Sniper in the Towe
 
 But where are the historians?
 
-Bullet holes remained in the concrete and balustrades around the Tower when I arrived at UT as an Assistant Professor in 1990, but no visible commemorative marker of the events of that day existed on the UT campus. In 1999 the garden behind the Tower was dedicated to the memory of those killed, wounded, or touched by the shooting, but then it took another 8 years to add a plaque that publically acknowledged that commemoration for the first time. The [History tab on the UT webpage][tower-history] devoted to the Tower still doesn’t even mention the shooting.
+Bullet holes remained in the concrete and balustrades around the Tower when I arrived at UT as an Assistant Professor in 1990, but no visible commemorative marker of the events of that day existed on the UT campus. In 1999 the garden behind the Tower was dedicated to the memory of those killed, wounded, or touched by the shooting, but then it took another 8 years to add a plaque that publicly acknowledged that commemoration for the first time. The [History tab on the UT webpage][tower-history] devoted to the Tower still doesn’t even mention the shooting.
 
 These are events that cry out to be studied. They are also events that raise important questions about commemoration, about public remembering and forgetting, and about the uses of public history.
 
 In Spring 2016, graduate students in the UT History Department’s Public History Seminar set out to construct a website for writing a history of … and immediately we ran into our first problem.  What do we call “it”? What are we studying? The events of August 1, 1966? Charles Whitman himself? The victims and survivors? The immediate responses, or the aftermath, or the public memories? Do people have a right to forget? What do we want to know? What questions do we have and what questions to we want to answer?
+
+<div class="full-width"><img src="{{ site.baseurl }}/images/homepage/group-photo-1.jpg" alt="Group photo in archives" /></div>
 
 We had a hard time even deciding what to call our project. In 1966 and 1967 people at UT referred to it as “the accident,” or “the incident.” Should we mention Whitman in the title? Go for drama with “The Tower Tragedy,” or “The Tower Catastrophe”? Or play down the drama with something like “The UT Tower Shooting?”
 
@@ -36,11 +40,15 @@ We all wondered what student life was like at UT Austin in the 1960s and whether
 
 Several of the students looked at the ways people responded to the shooting. Alejandra Garza read _The Daily Texan_, the UT Austin student newspaper, and what were then two newspapers, _The Austin American_ and _The Austin Statesman_, to show [how journalists tried to make sense of what happened][garza] and provide a place for students to talk about that day. Maria Hammack wanted to know if this mass school shooting was [the first of its kind][hammack] – as it is so often labeled – so she researched school shootings and violence back into the nineteenth century.
 
+<div class="full-width"><img src="{{ site.baseurl }}/images/homepage/group-photo-2.jpg" alt="Group photo in archives" /></div>
+
 My job as seminar leader was to articulate and keep track of the larger issues – historical, ethical, professional and public – that arose in our collective examination of this one historical event.  We kept coming back to two questions. First, why has this complicated, interesting, tragic story been so neglected, not only by historians but by the university?  Everyone in Austin remembers or knows someone or knows someone who knows someone who was there on August 1, 1966. On every anniversary, when given the opportunity, those people eagerly tell their stories. As a result, all we seem to have are isolated memories, insufficient commemoration, and dissatisfying public acknowledgement. Itza Carbajal reminded us all semester that [people have a right to forget][carbajal] as well as a will to remember. In her contribution, she asks what defines an appropriate response to tragedy and trauma? How can public memory help people process private grief? And Victoria Hurley [examines some of the oral histories][hurley] that have been published in recent years to try to answer the same questions. John Lisle explores the ways [the university has constructed the Tower in public memory][lisle], the meanings associated with the Tower in the years before and the five decades since Charles Whitman climbed up there with his arsenal and turned the tower into a “fortress.”
 
 The second difficult question that repeatedly arose in our discussions was how to represent Charles Whitman in our public history. Rosa Eberly, who taught a course at UT on public memory and the UT Tower Shooting, shows that Whitman was far more often remembered than his victims and the survivors.[^1]  Many people worry that this kind of attention “[turns mass shooters into celebrities][fame].” The Brady Campaign to Prevent Gun Violence has recently released a [web browser plug-in][plug-in] that automatically replaces a shooter’s name and face with the name and face of a victim. The pendulum has shifted since Eberly was writing a decade ago and much more emphasis is given now to victims and survivors. For example, in the award-winning 2016 film, [_Tower_][tower-film], Whitman is only shown once: we only see him after he has been killed and then we only see his feet.
 
 We came to believe, as a class of historians, that silencing a subject prevents our ability to understand the past by adding to its mystique and increasing misinformation. As public historians, we decided, it is our job to make credible, well-researched history available to the public, regardless of how it will be used by readers. This story, August 1, 1966 and its aftermath, is everyone’s story. Our job is to read the original documents and analyze them in light of the events of the intervening 50 years and the literature that has been written during that time on gun violence, memory, commemoration, and trauma.
+
+<div class="full-width"><img src="{{ site.baseurl }}/images/homepage/group-photo-3.jpg" /></div>
 
 Because this has been a class project, begun and executed during the course of only one semester, our research is necessarily incomplete. Each essay on this website is meant to raise questions that have been forgotten or that haven’t been asked. But it will be up to future historians to continue this work and ask new questions in order to keep this subject and the people connected with it from becoming mythologized or forgotten.
 

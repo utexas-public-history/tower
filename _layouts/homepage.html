@@ -16,7 +16,7 @@ bodytag: homepage
 </div>
 <div class="bar">
   <div class="container">
-    <div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 page-content">
+    <div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
       <p class="byline">By {{ page.author }}</p>
       {{ content }}
     </div>
@@ -24,3 +24,12 @@ bodytag: homepage
 </div>
 
 </article>
+
+
+<script type="text/javascript" src="{{ "/scripts/bigfoot.min.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ "/scripts/lightbox.min.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript">
+  $.bigfoot({
+    actionOriginalFN: "ignore"
+  });
+</script>
