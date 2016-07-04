@@ -101,7 +101,8 @@ span.invisible-text {
 
     nav ul.links {
       list-style-type: none;
-      padding: 0;
+      padding: 0 0 1em 0;
+      text-align: center;
 
       li {
         display: inline-block;
@@ -160,10 +161,7 @@ article {
     ul {
       margin: 0;
       padding: 0;
-
-      &.right {
-        text-align: right;
-      }
+      text-align: center;
 
       li {
         display: inline-block;
