@@ -226,7 +226,10 @@ body.homepage .footnotes {
     display: none; } }
 @media (max-width: 768px) {
   html {
-    font-size: 15px; } }
+    font-size: 15px; }
+
+  div.bar.top-banner a {
+    width: 80%; } }
 @media (max-width: 480px) {
   html {
     font-size: 14px; } }
