@@ -355,6 +355,10 @@ body.homepage {
   html {
     font-size: 15px;
   }
+
+  div.bar.top-banner a {
+    width: 80%;
+  }
 }
 
 @media (max-width: $screen-xs-min) {
