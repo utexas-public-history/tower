@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/tower/</link>
     <atom:link href="http://yourdomain.com/tower/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Jul 2016 17:38:09 +0200</pubDate>
-    <lastBuildDate>Mon, 04 Jul 2016 17:38:09 +0200</lastBuildDate>
+    <pubDate>Tue, 05 Jul 2016 07:07:26 +0200</pubDate>
+    <lastBuildDate>Tue, 05 Jul 2016 07:07:26 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -1269,7 +1269,7 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
       </item>
     
       <item>
-        <title>Offical Actions on August 1, 1966 and Beyond</title>
+        <title>Policing Before and After August 1, 1966</title>
         <description>&lt;div class=&quot;white bar&quot;&gt;
   &lt;div class=&quot;container&quot;&gt;
     &lt;div class=&quot;col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content&quot;&gt;
@@ -1279,32 +1279,6 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
       &lt;p&gt;When the shooting was over and the bodies were removed, the media, public officials, and citizens alike called for answers and wanted action. Everyone was trying to make sense of the tragic event and try to prevent it from happening again.&lt;/p&gt;
 
       &lt;p&gt;&lt;strong&gt;TK:&lt;/strong&gt; [1. Letter from APD Chief Robert Miles to FBI Director J. Edgar Hoover. Austin (TX) Police Department Records of the Charles Whitman Mass Murder Case. AR 2000.002. Courtesy of the Austin History Center.]&lt;/p&gt;
-
-      &lt;p&gt;The University of Texas administration, the Austin Police Department, and the Texas Legislature each responded to the shooting with different ideas about the best and most effective actions.&lt;/p&gt;
-
-      &lt;p&gt;In the days following the shooting, high-level members of The University of Texas administration, led by Chancellor Harry Ransom, focused their energies on reassuring the university populace that another such tragedy would never take place on campus.&lt;/p&gt;
-
-      &lt;p&gt;At a press conference for the university, Chancellor Ransom cited the acts of selflessness and bravery that he witnessed first-hand while located within the Tower during the shooting. He offered condolences to the families of the victims and reaffirmed the dedication of university officials to cooperate with law enforcement to keep UT safe.&lt;/p&gt;
-
-      &lt;div class=&quot;video-block&quot;&gt;
-  &lt;a href=&quot;#&quot; id=&quot;first-video-link&quot; class=&quot;video-poster&quot;&gt;
-    &lt;img src=&quot;/tower/images/posts/krueger/first-video-poster.jpg&quot; class=&quot;video-poster&quot; /&gt;
-    &lt;div class=&quot;play-button&quot;&gt;&lt;/div&gt;
-  &lt;/a&gt;
-  &lt;div id=&quot;first-video-container&quot; style=&quot;display: none&quot;&gt;
-    &lt;iframe src=&quot;http://texasarchive.org/library/index.php?action=ajax&amp;amp;rs=GLIFOSEmbedded&amp;amp;w=480&amp;amp;h=360&amp;amp;c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&amp;amp;s=embedded&amp;amp;p=video1&amp;amp;b=338&amp;amp;e=374&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
-    &lt;script type=&quot;text/javascript&quot;&gt;
-      $(&#39;#first-video-link&#39;).on(&#39;click&#39;, function(e) {
-          e.preventDefault();
-          $(&#39;#first-video-link&#39;).hide();
-          $(&#39;#first-video-container&#39;).show();
-      });
-    &lt;/script&gt;
-  &lt;/div&gt;
-  &lt;p class=&quot;caption&quot;&gt;
-    Chancellor Ransom press conference following the UT Tower shooting. Video clip courtesy of the &lt;a href=&quot;http://bit.ly/294lxVE&quot;&gt;Texas Archive of the Moving Image&lt;/a&gt;.
-  &lt;/p&gt;
-&lt;/div&gt;
 
       &lt;p&gt;There was widespread acknowledgement that the current security services of the campus were inadequate to deal with situations such as the Charles Whitman shootings.&lt;/p&gt;
 
@@ -1454,8 +1428,8 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999]
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/tower/official-actions</link>
-        <guid isPermaLink="true">http://yourdomain.com/tower/official-actions</guid>
+        <link>http://yourdomain.com/tower/policing</link>
+        <guid isPermaLink="true">http://yourdomain.com/tower/policing</guid>
         
         
       </item>
