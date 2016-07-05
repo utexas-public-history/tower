@@ -63,7 +63,7 @@ Public history cannot automatically create an informed or thoughtful public. But
 [monday-monday]: http://us.macmillan.com/mondaymonday/elizabethcrook
 [tower-history]: http://tower.utexas.edu/history/
 [moloney]: /the-university-response
-[krueger]: /official-actions
+[krueger]: /policing
 [johnston]: /a-fitting-memorial
 [daza]: /the-cost-of-student-living
 [gun-culture]: /texas-gun-culture-and-the-ut-tower-shooting

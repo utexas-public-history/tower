@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Offical Actions on August 1, 1966 and Beyond
+title: Policing Before and After August 1, 1966
 author: Justin Krueger
-permalink: /official-actions
+permalink: /policing
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}
@@ -11,34 +11,7 @@ When Charles Whitman went to the top of the UT Tower on August 1, 1966, the univ
 
 When the shooting was over and the bodies were removed, the media, public officials, and citizens alike called for answers and wanted action. Everyone was trying to make sense of the tragic event and try to prevent it from happening again.
 
-
 **TK:** [1. Letter from APD Chief Robert Miles to FBI Director J. Edgar Hoover. Austin (TX) Police Department Records of the Charles Whitman Mass Murder Case. AR 2000.002. Courtesy of the Austin History Center.]
-
-The University of Texas administration, the Austin Police Department, and the Texas Legislature each responded to the shooting with different ideas about the best and most effective actions.
-
-In the days following the shooting, high-level members of The University of Texas administration, led by Chancellor Harry Ransom, focused their energies on reassuring the university populace that another such tragedy would never take place on campus.
-
-At a press conference for the university, Chancellor Ransom cited the acts of selflessness and bravery that he witnessed first-hand while located within the Tower during the shooting. He offered condolences to the families of the victims and reaffirmed the dedication of university officials to cooperate with law enforcement to keep UT safe.
-
-<div class="video-block">
-  <a href="#" id="first-video-link" class="video-poster">
-    <img src="{{ site.baseurl }}/images/posts/krueger/first-video-poster.jpg" class="video-poster" />
-    <div class="play-button"></div>
-  </a>
-  <div id="first-video-container" style="display: none">
-    <iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&s=embedded&p=video1&b=338&e=374' frameBorder='0' allowTransparency='true'></iframe>
-    <script type="text/javascript">
-      $('#first-video-link').on('click', function(e) {
-          e.preventDefault();
-          $('#first-video-link').hide();
-          $('#first-video-container').show();
-      });
-    </script>
-  </div>
-  <p class="caption">
-    Chancellor Ransom press conference following the UT Tower shooting. Video clip courtesy of the <a href="http://bit.ly/294lxVE">Texas Archive of the Moving Image</a>.
-  </p>
-</div>
 
 There was widespread acknowledgement that the current security services of the campus were inadequate to deal with situations such as the Charles Whitman shootings.
 
