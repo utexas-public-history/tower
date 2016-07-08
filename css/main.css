@@ -27,7 +27,7 @@ span.invisible-text {
   .bar.white {
     background-color: #fff; }
   .bar.gray {
-    background-color: #fcdebb; }
+    background-color: #fdead3; }
   .bar.top-banner {
     background-color: #000;
     box-shadow: 0 1px 4px rgba(54, 9, 22, 0.25);
@@ -74,6 +74,8 @@ span.invisible-text {
         padding-bottom: 1em; }
         .bar.footer nav ul.links li:last-child {
           margin-right: 0; }
+    .bar.footer p {
+      margin-bottom: 1.5em; }
     .bar.footer p.license {
       font-size: .75em; }
       .bar.footer p.license img {
@@ -81,7 +83,7 @@ span.invisible-text {
         width: 88px; }
 
 article {
-  background-color: #fcdebb; }
+  background-color: #fdead3; }
 
 .hero-banner {
   background-position: left;
@@ -281,8 +283,7 @@ header {
       margin: 1em 0 1em 1em; }
 
 .video-block {
-  background-color: #fcdebb;
-  background-color: rgba(252, 222, 187, 0.5);
+  background-color: #fdead3;
   margin: 2em -2em;
   padding: 1em 2em;
   text-align: center; }
@@ -311,7 +312,7 @@ header {
     position: relative;
     z-index: 0; }
   .video-block iframe {
-    background-color: #fcdebb;
+    background-color: #fdead3;
     height: 385px;
     margin: 0 auto;
     max-width: 100%;
@@ -324,8 +325,7 @@ header {
     text-align: left; }
 
 .image-block {
-  background-color: #fcdebb;
-  background-color: rgba(252, 222, 187, 0.5);
+  background-color: #fdead3;
   margin: 2em -2em;
   padding: 1em 2em; }
   .image-block img {
