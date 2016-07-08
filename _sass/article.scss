@@ -82,8 +82,7 @@ header {
 }
 
 .video-block {
-  background-color: $lowlightBackground;
-  background-color: rgba($lowlightBackground, 0.5);
+  background-color: lighten($lowlightBackground, 5%);
   margin: 2em -2em;
   padding: 1em 2em;
   text-align: center;
@@ -126,7 +125,7 @@ header {
   }
 
   iframe {
-    background-color: $lowlightBackground;
+    background-color: lighten($lowlightBackground, 5%);
     height: 385px;
     margin: 0 auto;
     max-width: 100%;
@@ -145,8 +144,7 @@ header {
 }
 
 .image-block {
-  background-color: $lowlightBackground;
-  background-color: rgba($lowlightBackground, 0.5);
+  background-color: lighten($lowlightBackground, 5%);
   margin: 2em -2em;
   padding: 1em 2em;
 

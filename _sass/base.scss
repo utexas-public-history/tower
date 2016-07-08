@@ -39,7 +39,7 @@ span.invisible-text {
   }
 
   &.gray {
-    background-color: $lowlightBackground;
+    background-color: lighten($lowlightBackground, 5%);
   }
 
   &.top-banner {
@@ -131,7 +131,7 @@ span.invisible-text {
 }
 
 article {
-  background-color: $lowlightBackground;
+  background-color: lighten($lowlightBackground, 5%);
 }
 
 .hero-banner {
