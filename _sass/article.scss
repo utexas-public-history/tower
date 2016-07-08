@@ -66,6 +66,16 @@ header {
     &.byline {
       font-style: italic;
     }
+
+    a {
+      color: $darkAccentColor;
+      border-bottom: 1px solid $accentColor;
+
+      &:hover {
+        color: $accentColor;
+        text-decoration: none;
+      }
+    }
   }
 
   img {
