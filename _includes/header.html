@@ -1,5 +1,27 @@
 <div class="top-banner bar">
-  <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/interface/banner.png" alt="Behind the Tower" /><span class="invisible-text">Behind the Tower</span></a>
+  <a href="#" id="hamburger">
+    <img src="{{ site.baseurl }}/images/interface/hamburger.png" />
+  </a>
+  <a href="{{ site.baseurl }}/" class="logo"><img src="{{ site.baseurl }}/images/interface/banner.png" alt="Behind the Tower" /><span class="invisible-text">Behind the Tower</span></a>
+
+  <div id="mobile-header">
+    <nav>
+      <ul>
+        <li><a href="{{ site.baseurl }}/essays">Essays</a></li>
+        <li><a href="{{ site.baseurl }}/timeline">Timeline</a></li>
+        <li><a href="{{ site.baseurl }}/further-reading">Further Reading</a></li>
+        <li><a href="{{ site.baseurl }}/contributors">Contributors</a></li>
+        <li><a href="{{ site.baseurl }}/about">About</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <script type="text/javascript">
+    $('#hamburger').on('click', function(e) {
+      e.preventDefault();
+      $('#mobile-header').toggle();
+    });
+  </script>
 </div>
 <div class="header bar">
   <nav class="container">
@@ -12,7 +34,7 @@
             --><li><a href="{{ site.baseurl }}/essays">Essays</a></li><!--
           {% endif -%}
           {% if page.nav_highlight == 'timeline' -%}
-            --><li><a href="{{ site.baseurl }}/timeline" class="here">Timeline</a></li>!--
+            --><li><a href="{{ site.baseurl }}/timeline" class="here">Timeline</a></li><!--
           {% else -%}
             --><li><a href="{{ site.baseurl }}/timeline">Timeline</a></li><!--
           {% endif -%}

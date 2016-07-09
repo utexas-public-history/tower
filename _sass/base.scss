@@ -55,11 +55,56 @@ span.invisible-text {
         left: 0;
     }
 
-    a {
+    a.logo {
       display: block;
       margin: 0 auto;
       max-width: 235px;
       width: 50%;
+    }
+
+    #hamburger {
+      display: none;
+      position: absolute;
+        top: 8px;
+        right: 8px;
+      width: 22.5px;
+
+      img {
+        display: block;
+        height: 16px;
+        width: 22.5px;
+      }
+    }
+
+    #mobile-header {
+      display: none;
+
+      ul {
+        list-style-type: none;
+        margin-top: 1em;
+        padding-left: 0;
+        text-align: center;
+
+        li {
+          border-bottom: 1px $textColor solid;
+
+          &:last-child {
+            border-bottom-width: 0px;
+          }
+
+          a {
+            background-color: transparent;
+            color: $negativeColor;
+            display: block;
+            padding: .25em 0;
+
+            &:hover, &:active {
+              background-color: $textColor;
+              text-decoration: none;
+            }
+          }
+        }
+      }
     }
   }
 
@@ -360,7 +405,7 @@ body.homepage {
     font-size: 15px;
   }
 
-  div.bar.top-banner a {
+  div.bar.top-banner a.logo {
     width: 80%;
   }
 }
@@ -368,5 +413,24 @@ body.homepage {
 @media (max-width: $screen-xs-min) {
   html {
     font-size: 14px;
+  }
+}
+
+@media (max-width: 520px) {
+  body {
+    padding-top: 32px;
+  }
+
+  .bar.top-banner {
+    position: fixed;
+      top: 0;
+
+    #hamburger {
+      display: block;
+    }
+  }
+
+  .header {
+    display: none;
   }
 }
