@@ -244,7 +244,7 @@ Armed civilians had one final effect on what happened that day. Claire Wilson wa
 
 [^3]: Houston McCoy, “Record from Houston McCoy,” Archival document, AR.2000.002, Box 12, Folder 16. Austin History Center.
 
-[^4]: And the police definitely couldn’t, though due to lack of preparation rather than incompetence. Gary Lavergne’s _Sniper in the Tower_ does a good job of portraying the confusion and panic that gripped campus that day, and [Justin’s essay](TK) delves further into just how unprepared the police department was for this kind of situation and what measures the adopted afterwards.
+[^4]: And the police definitely couldn’t, though due to lack of preparation rather than incompetence. Gary Lavergne’s _Sniper in the Tower_ does a good job of portraying the confusion and panic that gripped campus that day, and [Justin’s essay][krueger] delves further into just how unprepared the police department was for this kind of situation and what measures the adopted afterwards.
 
 [^5]: Allen Crum, “Text for Article in _American Rifleman_.” Archival document, n.d. AR.2000.002, Box 12, Folder 12. Austin History Center.
 
@@ -265,3 +265,4 @@ Armed civilians had one final effect on what happened that day. Claire Wilson wa
 [gun-culture]: {{ site.baseurl}}/texas-gun-culture-and-the-ut-tower-shooting
 [connally]: {{ site.baseurl }}/texas-gun-culture-and-the-ut-tower-shooting
 [testimony]: http://www.chron.com/about/article/Whitman-victim-testifies-against-open-carry-6077967.php
+[krueger]: {{ site.baseurl }}/policing
