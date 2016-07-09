@@ -26,7 +26,29 @@
   
 
     <div class="top-banner bar">
-  <a href="/tower/"><img src="/tower/images/interface/banner.png" alt="Behind the Tower" /><span class="invisible-text">Behind the Tower</span></a>
+  <a href="#" id="hamburger">
+    <img src="/tower/images/interface/hamburger.png" />
+  </a>
+  <a href="/tower/" class="logo"><img src="/tower/images/interface/banner.png" alt="Behind the Tower" /><span class="invisible-text">Behind the Tower</span></a>
+
+  <div id="mobile-header">
+    <nav>
+      <ul>
+        <li><a href="/tower/essays">Essays</a></li>
+        <li><a href="/tower/timeline">Timeline</a></li>
+        <li><a href="/tower/further-reading">Further Reading</a></li>
+        <li><a href="/tower/contributors">Contributors</a></li>
+        <li><a href="/tower/about">About</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <script type="text/javascript">
+    $('#hamburger').on('click', function(e) {
+      e.preventDefault();
+      $('#mobile-header').toggle();
+    });
+  </script>
 </div>
 <div class="header bar">
   <nav class="container">
@@ -37,7 +59,7 @@
             --><li><a href="/tower/essays">Essays</a></li><!--
           
           
-            --><li><a href="/tower/timeline" class="here">Timeline</a></li>!--
+            --><li><a href="/tower/timeline" class="here">Timeline</a></li><!--
           
           
             --><li><a href="/tower/further-reading">Further Reading</a></li><!--
