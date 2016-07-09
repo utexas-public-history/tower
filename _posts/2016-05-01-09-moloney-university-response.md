@@ -26,7 +26,7 @@ In a press conference on the day after the tragedy, Chancellor Harry Ransom expr
   </div>
 
   <p class="caption">
-    Video clip courtesy of the <a href="http://bit.ly/1X5VEqJ">Texas Archive of the Moving Image</a>.
+    <span class="credit">Video clip courtesy of the <a href="http://bit.ly/1X5VEqJ">Texas Archive of the Moving Image</a></span>
   </p>
 </div>
 

@@ -28,7 +28,7 @@ Recently, this interpretation has been called into question. The historian Pamel
 <div class="image-block">
   <img src="{{ site.baseurl }}/images/posts/mcquistion/winchester-advert.jpg" alt="Winchester advertisement" />
   <p class="caption">
-    An advertisement for Winchester Rifles from 1895. In this ad and others from this period and earlier, guns were marketed as tools, text-heavy ads extolling their mechanical virtues. Photo courtesy of Wikimedia.
+    An advertisement for Winchester Rifles from 1895. In this ad and others from this period and earlier, guns were marketed as tools, text-heavy ads extolling their mechanical virtues. <span class="credit">Image courtesy of Wikimedia</span>
   </p>
 </div>
 
@@ -49,7 +49,7 @@ However, because the Civil War left the market flooded with weapons, many of the
     </div>
   </div>
   <p class="caption">
-    Three examples of some of the images used on Winchester calendars used to sell rifles. The images were richly colored and presented a far more emotive emotive image of guns that made them items of symbolic significance, not just tools. Images courtesy of the Buffalo Bill Center of the West.
+    Three examples of some of the images used on Winchester calendars used to sell rifles. The images were richly colored and presented a far more emotive emotive image of guns that made them items of symbolic significance, not just tools. <span class="credit">Images courtesy of the <a href="https://centerofthewest.org">Buffalo Bill Center of the West</a></span>
   </p>
 </div>
 
@@ -78,7 +78,7 @@ One particular article, titled “Arsenal Ordinary in Texas,” published by _Th
     </div>
   </div>
   <p class="caption">
-    The Austin Police Department recorded the contents of Whitman's trunk that he brought with him to the top of the Tower. His stockpile demonstrated that he was planning on holding out for a substantial period of time, but area sportsmen didn't regard his collection as anything out of the ordinary. Document and photo courtesy of the Austin History Center, Austin Public Library.
+    The Austin Police Department recorded the contents of Whitman's trunk that he brought with him to the top of the Tower. His stockpile demonstrated that he was planning on holding out for a substantial period of time, but area sportsmen didn't regard his collection as anything out of the ordinary. <span class="credit">Images courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a></span>
   </p>
 </div>
 

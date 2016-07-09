@@ -13,7 +13,7 @@ College life at UT Austin changed in 1956 when the Board of Regents decided to a
 <div class="image-block">
   <img src="{{ site.baseurl }}/images/posts/daza/main-mall.jpg" alt="Photograph of students on Main Mall" class="tall-image" />
   <p class="caption">
-    “Young UT Students in the Sixties at Main Mall” (Source: Briscoe Center)
+    Young UT Students in the Sixties at Main Mall. <span class="credit">Image courtesty of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a></span>
   </p>
 </div>
 
@@ -32,7 +32,7 @@ The full integration of African-American students represented a partial victory 
 <div class="image-block">
   <img src="{{ site.baseurl }}/images/posts/daza/segregated-restaurants.jpg" alt="Photo of student protest" />
   <p class="caption">
-    “UT Students protesting the segregation policies at Austin restaurants” (Source: Briscoe Center)
+    UT Students protesting the segregation policies at Austin restaurants. <span class="credit">Image Courtesy of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a></span>
   </p>
 </div>
 
@@ -52,10 +52,10 @@ Increasing housing costs and the lack of university-owned housing for undergradu
 
 <div class="image-block">
   <a href="{{ site.baseurl }}/images/posts/daza/low-income-distribution-fullsize.jpg" data-lightbox="chart">
-    <img src="{{ site.baseurl }}/images/posts/daza/low-income-distribution.jpg" alt="Photo of chart displaying distribution of low income households" />
+    <img src="{{ site.baseurl }}/images/posts/daza/low-income-distribution.jpg" alt="Photo of chart displaying distribution of low income households" class="tall-image" />
   </a>
   <p class="caption">
-    “Distribution of Families with Incomes Below $3000, Austin 1960” (Source: Morton Hoffman & Company. Housing Market Analysis, Austin Texas, 1965-1985: Report prepared for the Austin Community Development Program. Austin: Austin History Center).
+    Distribution of Families with Incomes Below $3000, Austin 1960. Morton Hoffman & Company. Housing Market Analysis, Austin Texas, 1965-1985: Report prepared for the Austin Community Development Program. <span class="credit">Image courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a></span>
   </p>
 </div>
 
@@ -78,7 +78,7 @@ SDS leaders advocated for non-violent mobilization on campus and in Austin to av
 <div class="image-block">
   <img src="{{ site.baseurl }}/images/posts/daza/campus-protest.jpg" alt="Photo of campus civil rights protest" class="tall-image" />
   <p class="caption">
-    “UT students protesting for the inclusion of Civil Rights at UT” (Source: Briscoe Center)
+    UT students protesting for the inclusion of Civil Rights at UT. <span class="credit">Image courtesy of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a></span>
   </p>
 </div>
 
@@ -89,7 +89,7 @@ The Student Religious Liberals and University Socialist Committee and the Univer
 <div class="image-block">
   <img src="{{ site.baseurl }}/images/posts/daza/sds.jpg" alt="Photo of SDS protest" class="tall-image" />
   <p class="caption">
-    “Students for a Democratic Society [SDS] UT chapter protesting for the Vietnam War” (Source: Briscoe Center)
+    Students for a Democratic Society [SDS] UT chapter protesting for the Vietnam War. <span class="credit">Image courtesy of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a></span>
   </p>
 </div>
 

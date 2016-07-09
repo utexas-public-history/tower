@@ -37,7 +37,7 @@ Those “capsules” were typically either Dexedrine, an amphetamine, or Dexamyl
 <div class="image-block">
   <p>**TK** Insert image</p>
   <p class="caption">
-    The first page of three detailing the contents of the Whitman family medicine cabinet. Courtesy Austin History Center.
+    The first page of three detailing the contents of the Whitman family medicine cabinet. <span class="credit">Image courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a></span>
   </p>
 </div>
 

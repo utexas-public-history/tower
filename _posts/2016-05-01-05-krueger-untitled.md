@@ -62,7 +62,7 @@ The official T&amp;SS Offense Report from August 1, 1966 shows a department that
     </div>
   </div>
   <p class="caption">
-    UT Traffic &amp; Security Services Offense Report, officer statements, and other correspondence regarding security operations on the day of the shooting. UT Traffic and Security Services Chief Allen R. Hamilton Tower Sniper Records. Courtesy of The Dolph Briscoe Center for American History, The University of Texas at Austin.
+    UT Traffic &amp; Security Services Offense Report, officer statements, and other correspondence regarding security operations on the day of the shooting. UT Traffic and Security Services Chief Allen R. Hamilton Tower Sniper Records. <span class="credit">Images courtesy of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a></span>
   </p>
 </div>
 

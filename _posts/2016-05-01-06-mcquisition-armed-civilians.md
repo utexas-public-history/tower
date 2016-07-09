@@ -22,7 +22,7 @@ When Whitman began shooting, the Austin Police Department was ill-equipped for t
 <div class="image-block">
   <img src="{{ site.baseurl }}/images/posts/mcquistion/bullet-holes.jpg" alt="Photos of bullet holes" />
   <p class="caption">
-    Gun marks on the side of the UT Tower. Most of these marks have since been plastered over. Photo courtesy of Austin History Center, Austin Public Library.
+    Gun marks on the side of the UT Tower. Most of these marks have since been plastered over. <span class="credit">Image courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a></span>
   </p>
 </div>
 
@@ -42,7 +42,7 @@ When Whitman began shooting, the Austin Police Department was ill-equipped for t
     </script>
   </div>
   <p class="caption">
-    Local news cameras recorded some of the firefight. Video clip courtesy of the <a href="http://bit.ly/267tQEV">Texas Archive of the Moving Image</a>.
+    Local news cameras recorded some of the firefight. <span class="credit">Video clip courtesy of the <a href="http://bit.ly/267tQEV">Texas Archive of the Moving Image</a></span>
   </p>
 </div>
 
@@ -70,7 +70,7 @@ In a statement given in November 1966 to _American Rifleman_, a commercial publi
     </script>
   </div>
   <p class="caption">
-    Allen Crum talks about his experience storming the Tower with police officers on the local news. Video clip courtesy of the <a href="http://bit.ly/1OeyhrY">Texas Archive of the Moving Image</a>.
+    Allen Crum talks about his experience storming the Tower with police officers on the local news. <span class="credit">Video clip courtesy of the <a href="http://bit.ly/1OeyhrY">Texas Archive of the Moving Image</a></span>
   </p>
 </div>
 
@@ -94,7 +94,7 @@ As the only civilian in the group that stormed the Tower observation deck, Crum 
     </div>
   </div>
   <p class="caption">
-    Allen Crum’s statement, given to the police immediately after the shooting. Document provided courtesy of the Austin History Center, Austin Public Library.
+    Allen Crum’s statement, given to the police immediately after the shooting. <span class="credit">Images courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a></span>
   </p>
 </div>
 
@@ -145,7 +145,7 @@ As the only civilian in the group that stormed the Tower observation deck, Crum 
   </div>
 
   <p class="caption">
-    Allen Crum also gave a description of his experience to American Rifleman, a publication of the National Rifle Association. Document provided courtesy of the Austin History Center, Austin Public Library.
+    Allen Crum also gave a description of his experience to American Rifleman, a publication of the National Rifle Association. <span class="credit"> Images courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a></span>
   </p>
 </div>
 
@@ -165,7 +165,7 @@ A very good thing, because Crum, a civilian at the top of the Tower carrying a r
     </div>
   </div>
   <p class="caption">
-    Houston McCoy’s official report, written immediately after the shooting. Document provided courtesy of the Austin History Center, Austin Public Library.
+    Houston McCoy’s official report, written immediately after the shooting. <span class="credit">Images courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a></span>
   </p>
 </div>
 
@@ -206,7 +206,7 @@ A very good thing, because Crum, a civilian at the top of the Tower carrying a r
     </div>
   </div>
   <p class="caption">
-    Several years later, Houston McCoy described his experience storming the Tower and killing Charles Whitman to Bill Helmer, a reporter and fellow survivor of the UT Tower Shooting. Document provided courtesy of the Austin History Center, Austin Public Library.
+    Several years later, Houston McCoy described his experience storming the Tower and killing Charles Whitman to Bill Helmer, a reporter and fellow survivor of the UT Tower Shooting. <span class="credit">Images courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a></span>
   </p>
 </div>
 
@@ -229,7 +229,7 @@ McCoy goes on to describe the ground fire that peppered the Tower and narrowly m
   </div>
 
   <p class="caption">
-    Texas Governor John Connally, while defending his Police Department, said that ground fire from civilians actually impeded the progress of officers to the top of the Tower. Video clip provided courtesy of the <a href="http://bit.ly/28XSQqA">Texas Archive of the Moving Image</a>.
+    Texas Governor John Connally, while defending his Police Department, said that ground fire from civilians actually impeded the progress of officers to the top of the Tower. <span class="credit">Video clip provided courtesy of the <a href="http://bit.ly/28XSQqA">Texas Archive of the Moving Image</a></span>
   </p>
 </div>
 

@@ -15,7 +15,7 @@ For many, perhaps most, the Tower, adjacent to the Main Building, represents wha
 <div class="image-block">
   <img src="{{ site.baseurl }}/images/posts/lisle/present-day-tower.jpg" class="tall-image" alt="Photo of the Tower today" />
   <p class="caption">
-    Used with permission of the UT Austin Licensing Office.
+    <span class="credit">Image used with permission of the UT Austin Licensing Office</span>
   </p>
 </div>
 
@@ -28,7 +28,7 @@ The University permanently closed the Tower observation deck in 1975 after the s
 <div class="image-block">
   <img src="{{ site.baseurl }}/images/posts/lisle/tower-construction.jpg" class="tall-image" alt="Photo of Tower under construction" />
   <p class="caption">
-    Used with permission of the UT Austin Licensing Office.
+    <span class="credit">Image used with permission of the UT Austin Licensing Office</span>
   </p>
 </div>
 
