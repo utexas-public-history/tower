@@ -64,30 +64,30 @@ In 1966 the university exhibited concern for the well-being of students directly
 <div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 ## Sources
 
-Colloff, Pamela. “96 Minutes.” _Texas Monthly_. Texas Monthly, 20 Jan. 2013. Web. 01 Apr. 2016.
+Colloff, Pamela. “96 Minutes.” _Texas Monthly_. January 20, 2013. Web. April 1, 2016.
 
 “Edna Townsley Document,“  UT President’s Office Box 80-50/35 Whitman, Charles Joseph,  1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-Evans, Darro, and Sara Speights. “Austin American-Statesman.” _The Austin American-Statesman_ 7 Aug. 1966: A17. Print.
+Evans, Darro, and Sara Speights. “Austin American-Statesman.” _The Austin American-Statesman_ August 7, 1966: A17. Print.
 
 “Flags at half-mast,” UT President’s  Office Box 80-50/35 Whitman, Charles Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
 Moloney, Justina. _Oral History with Larry Bethune_. WAV file. Austin, TX, 2016.
 
-Spelce, Neal. “The Neal Spelce Collection, No. 1 – UT Tower Shooting.” _Texas Archive of the  Moving Image_. Texas Archive of the Moving Image, n.d. Web. 01 Apr. 2016.
+Spelce, Neal. “The Neal Spelce Collection, No. 1 – UT Tower Shooting.” _Texas Archive of the  Moving Image_. Texas Archive of the Moving Image, n.d. Web. April 1, 2016.
 
 “Students injured on August 1st 1966,” UT President’s Office Box 80-50/35 Whitman, Charles  Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
 “Telegrams sent to injured students”, UT President’s Office Box 80-50/35 Whitman, Charles  Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-“The Tower Garden: A Garden of Reflection,” UT Remembers Records Box 2F472 1998-2002, Dolph Briscoe Center for American History, The University of Texas at  Austin.
+“The Tower Garden: A Garden of Reflection,” UT Remembers Records Box 2F472 1998-2002, Dolph Briscoe Center for American History, The University of Texas at Austin.
 </div></div></div>
 
 [^1]: “Telegrams sent to injured students”, UT President’s Office Box 80-50/35 Whitman, Charles Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-[^2]: Colloff, Pamela. “96 Minutes.” Texas Monthly. Texas Monthly, 20 Jan. 2013. Web. 01 Apr. 2016.
+[^2]: Pamela Colloff. “96 Minutes.” _Texas Monthly_. January 20, 2013. Web. April 1, 2016.
 
-[^3]: Colloff, Pamela. “96 Minutes.” Texas Monthly. Texas Monthly, 20 Jan. 2013. Web. 01 Apr. 2016.
+[^3]: Pamela Colloff. “96 Minutes.” _Texas Monthly_.
 
 
 [aftermath]: {{ site.baseurl }}/aftermath

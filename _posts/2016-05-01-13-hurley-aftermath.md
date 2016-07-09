@@ -31,12 +31,12 @@ It is now time for The University of Texas to take stock of all of these stories
 
 </div></div></div>
 
-[^1]: Elliot, Karan Russ. "Tower Garden Reflections." (1999): n. pag. Print. 8:39am
+[^1]: Karan Russ Elliott. "Tower Garden Reflections." (1999): n. pag. Print. 8:39am
 
-[^2]: Rhoades, Suzanne Kain. "Tower Garden Reflections." (1999): n. pag. Print. 3:33pm
+[^2]: Suzanne Kain Rhoades. "Tower Garden Reflections." (1999): n. pag. Print. 3:33pm
 
-[^3]: Hohmann, Morris. Interview by Sara Rider. Austin History Center Oral History Transcript 31 May 1983: n. pag. Print.
+[^3]: Morris Hohmann. Interview by Sara Rider. Austin History Center Oral History Transcript May 31, 1983: n. pag. Print.
 
-[^4]: “CAMPUS LIFE: University of Texas; Infamous Weapons Are Put Up for Sale.” New York Times. N.p., 30 July 1989. Web.
+[^4]: “CAMPUS LIFE: University of Texas; Infamous Weapons Are Put Up for Sale.” New York Times. N.p., July 30, 1989. Web.
 
-[^5]: Cameron, Dell. “How a Survivor of the 1966 UT Tower Massacre Sees Saturday’s ‘mock Shooting’” The Daily Dot. N.p., 11 Dec. 2015. Web
+[^5]: Dell Cameron. “How a Survivor of the 1966 UT Tower Massacre Sees Saturday’s ‘mock Shooting’” The Daily Dot. N.p., December 11, 2015. Web

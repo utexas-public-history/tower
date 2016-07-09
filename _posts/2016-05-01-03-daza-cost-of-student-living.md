@@ -100,46 +100,44 @@ Students´ life at UT in the first part of the sixties was not “pristine” or
 <div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 ## Sources
 
-Anita Brewer, “UT to Begin Low Cost Housing Plans.” _The Austin American_ (1914-1973), Mar 14, 1965. Accessed: 17 March 2016 <http://search.proquest.com/docview/1611063781?accountid=7118>.
+Anita Brewer, “UT to Begin Low Cost Housing Plans.” _The Austin American_ (1914-1973), March 14, 1965. Accessed: March 17, 2016 <http://search.proquest.com/docview/1611063781?accountid=7118>.
 
-Benjamin Fine & Sidney A. Eisenberg. “Money For College.” _The Austin American_ (1914-1973), Dec 22, 1963. Accessed: 17 March 2016 <http://search.proquest.com/docview/1559273317?accountid=7118>.
+Benjamin Fine & Sidney A. Eisenberg. “Money For College.” _The Austin American_ (1914-1973), December 22, 1963. Accessed: March 17, 2016 <http://search.proquest.com/docview/1559273317?accountid=7118>.
 
 Beverly Burr. “History of Student Activism at the University of Texas at Austin.” Thesis, The University of Texas at Austin, 1988.
 
 “Boycott Leaflet #1”. Students for a Democratic Society Records, 1962-1978, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
+Encyclopedia Britannica Online, s.v. “Students for a Democratic Society (SDS)” Accessed: April 28, 2016, <http://www.britannica.com/topic/Students-for-a-Democratic-Society>.
+
+“Family Expenses Average $4,425”. _The Austin Statesman_, August 5, 1964. Accessed: March 2016.
+
 Dwonna Naomi Goldstone. _Integrating the 40 acres: The fifty-year struggle for racial equality at the University of Texas_. Athens: University of Georgia Press, 2006.
 
-Encyclopedia Britannica Online, s.v. “Students for a Democratic Society (SDS)” Accessed: 28 April 2016, <http://www.britannica.com/topic/Students-for-a-Democratic-Society>.
-
-Jack Keever. “The Negro at UT: Simply a Student.” _The Austin American_ (1914-1973), Mar 17, 1963. Accessed: 17 March 2016 <http://search.proquest.com/docview/1559246811?accountid=7118>.
+Jack Keever. “The Negro at UT: Simply a Student.” _The Austin American_ (1914-1973), March 17, 1963. Accessed: March 17, 2016 <http://search.proquest.com/docview/1559246811?accountid=7118>.
 
 Maurice Isserman & Michael Kazin. _America Divided: The Civil War of the 1960s_. New York: Oxford University Press, 2004.
 
 Morton Hoffman & Company. Housing Market Analysis, Austin Texas, 1965-1985: Report prepared for the Austin Community Development Program. Austin: Austin History Center.
 
+“New Left: The Students for a Democratic Society.” _The Austin American_ (1914-1973), November 28, 1965. Accessed: March 2016 <http://search.proquest.com/docview/1643669432?accountid=7118>.
+
 Patrick Carolyn. “College Costs Climbs.” Dallas News, 1965. The Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-Rebecca Liswood. “What Chance has a College Marriage?” _The Austin American_ (1914-1973), Oct 23, 1966. Accessed: 17 March 2016 <http://search.proquest.com/docview/1637691798?accountid=7118>.
+“Procedures for handling Anti-Military Disturbances” Students for a Democratic Society Records, 1962-1978, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-“Students for a democratic Society (SDS).” Pbs.org, 2005. Accessed: 28 April 2016 <http://www.pbs.org/opb/thesixties/topics/politics/newsmakers_1.html>.
+Rebecca Liswood. “What Chance has a College Marriage?” _The Austin American_ (1914-1973), October 23, 1966. Accessed: March 17, 2016 <http://search.proquest.com/docview/1637691798?accountid=7118>.
+
+“Slim UT Student Vote Slaps City Wrist for Denying SDS.” _The Austin Statesman_ (1921-1973), October 21, 1965. Accessed: March 2016 <http://search.proquest.com/docview/1522200908?accountid=7118>.
+
+“Students for a democratic Society (SDS).” Pbs.org, 2005. Accessed: April 28, 2016 <http://www.pbs.org/opb/thesixties/topics/politics/newsmakers_1.html>.
 
 The University of Texas News and Information Service. Brief Report from the University of Texas. The Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-Unknown. “Slim UT Student Vote Slaps City Wrist for Denying SDS.” _The Austin Statesman_ (1921-1973), Oct 21, 1965. Accessed: March 2016 <http://search.proquest.com/docview/1522200908?accountid=7118>.
-
-Unknown, “Family Expenses Average $4,425”. _The Austin Statesman_, Aug 5, 1964. Accessed: March 2016
-
-Unknown “Procedures for handling Anti-Military Disturbances” Students for a Democratic Society Records, 1962-1978, Dolph Briscoe Center for American History, The University of Texas at Austin.
-
-Unknown. “New Left: The Students for a Democratic Society.” _The Austin American_ (1914-1973), Nov 28, 1965. Accessed: March 2016 <http://search.proquest.com/docview/1643669432?accountid=7118>.
-
-  U.S. Bureau of the Census, “Income in 1965 of families and persons in the United States” Current Population Report, Series P-60, No. 51, 1967. Accessed: 17 March 2016 http://www2.census.gov/prod2/popscan/p60-051.pdf
+U.S. Bureau of the Census, “Income in 1965 of families and persons in the United States” Current Population Report, Series P-60, No. 51, 1967. Accessed: March 17, 2016 http://www2.census.gov/prod2/popscan/p60-051.pdf
 
 United States Department of Labor. “Minimum Wage-U.S Department of Labor-Chart 1” Department of Labor. <https://www.dol.gov/featured/minimum-wage/chart1, 2016>.
 </div></div></div>
-
-
 
 
 [^1]: Dwonna Naomi Goldstone. _Integrating the 40 acres: The fifty-year struggle for racial equality at the University of Texas_. Athens: University of Georgia Press, 2006.
@@ -158,31 +156,31 @@ United States Department of Labor. “Minimum Wage-U.S Department of Labor-Chart
 
 [^8]: The University of Texas News and Information Service. _Brief Report from the University of Texas_. The Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-[^9]: Benjamin Fine & Sidney A. Eisenberg. “Money For College.” _The Austin American_ (1914-1973), Dec 22, 1963. Accessed: 17 March 2016 <http://search.proquest.com/docview/1559273317?accountid=7118>.
+[^9]: Benjamin Fine & Sidney A. Eisenberg. “Money For College.” _The Austin American_ (1914-1973), December 22, 1963. Accessed: March 17, 2016 <http://search.proquest.com/docview/1559273317?accountid=7118>.
 
 [^10]: Morton Hoffman & Company. _Housing Market Analysis, Austin Texas, 1965-1985: Report prepared for the Austin Community Development Program_. Austin: Austin History Center.
 
 [^11]: Morton Hoffman & Company, _Houston Market Analysis, Austin Texas, 1965-1985_.
 
-[^12]: Jack Keever. “The Negro at UT: Simply a Student.” The Austin American (1914-1973), Mar 17, 1963. Accessed: 17 March 2016 <http://search.proquest.com/docview/1559246811?accountid=7118>.
+[^12]: Jack Keever. “The Negro at UT: Simply a Student.” The Austin American (1914-1973), March 17, 1963. Accessed: March 17, 2016 <http://search.proquest.com/docview/1559246811?accountid=7118>.
 
-[^13]: Anita Brewer, “UT to Begin Low Cost Housing Plans.” The Austin American (1914-1973), Mar 14, 1965. Accessed: 17 March 2016 <http://search.proquest.com/docview/1611063781?accountid=7118>.
+[^13]: Anita Brewer, “UT to Begin Low Cost Housing Plans.” The Austin American (1914-1973), March 14, 1965. Accessed: March 17, 2016 <http://search.proquest.com/docview/1611063781?accountid=7118>.
 
 [^14]: Morton Hoffman & Company. _Housing Market Analysis, Austin Texas, 1965-1985: Report prepared for the Austin Community Development Program_. Austin: Austin History Center.
 
-[^15]: Rebecca Liswood. “What Chance has a College Marriage?” _The Austin American_ (1914-1973), Oct 23, 1966. Accessed: 17 March 2016 <http://search.proquest.com/docview/1637691798?accountid=7118>.
+[^15]: Rebecca Liswood. “What Chance has a College Marriage?” _The Austin American_ (1914-1973), October 23, 1966. Accessed: March 17, 2016 <http://search.proquest.com/docview/1637691798?accountid=7118>.
 
 [^16]: Patrick Carolyn. “College Costs Climbs.” _Dallas News_, 1965. The Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-[^17]: U.S. Bureau of the Census, “Income in 1965 of families and persons in the United States” _Current Population Report_, Series P-60, No. 51, 1967. Accessed: 17 March 2016 <http://www2.census.gov/prod2/popscan/p60-051.pdf>.
+[^17]: U.S. Bureau of the Census, “Income in 1965 of families and persons in the United States” _Current Population Report_, Series P-60, No. 51, 1967. Accessed: March 17, 2016 <http://www2.census.gov/prod2/popscan/p60-051.pdf>.
 
-[^18]: Unknown, “Family Expenses Average $4,425”. _The Austin Statesman_, Aug 5, 1964. Accessed: March 2016.
+[^18]: “Family Expenses Average $4,425”. _The Austin Statesman_, August 5, 1964. Accessed: March 2016.
 
-[^19]: Rebecca Liswood. “What Chance has a College Marriage?” _The Austin American_ (1914-1973), Oct 23, 1966. Accessed: 17 March 2016 <http://search.proquest.com/docview/1637691798?accountid=7118>.
+[^19]: Rebecca Liswood. “What Chance has a College Marriage?” _The Austin American_ (1914-1973), October 23, 1966. Accessed: March 17, 2016 <http://search.proquest.com/docview/1637691798?accountid=7118>.
 
-[^20]: “Students for a democratic Society (SDS).” PBS.org, 2005. Accessed: 28 April 2016 <http://www.pbs.org/opb/thesixties/topics/politics/newsmakers_1.html>.
+[^20]: “Students for a democratic Society (SDS).” PBS.org, 2005. Accessed: April 28, 2016 <http://www.pbs.org/opb/thesixties/topics/politics/newsmakers_1.html>.
 
-[^21]: _Encyclopedia Britannica Online_, s.v. “Students for a Democratic Society (SDS)” Accessed: 28 April 2016, <http://www.britannica.com/topic/Students-for-a-Democratic-Society>.
+[^21]: _Encyclopedia Britannica Online_, s.v. “Students for a Democratic Society (SDS)” Accessed: April 28, 2016, <http://www.britannica.com/topic/Students-for-a-Democratic-Society>.
 
 [^22]: Beverly Burr. “History of Student Activism at the University of Texas at Austin.” Thesis, The University of Texas at Austin, 1988.
 
@@ -190,13 +188,13 @@ United States Department of Labor. “Minimum Wage-U.S Department of Labor-Chart
 
 [^24]: “Boycott Leaflet #1,” Students for a Democratic Society Records, 1962-1978.
 
-[^25]: Unknown “Procedures for handling Anti-Military Disturbances” Students for a Democratic Society Records, 1962-1978, Dolph Briscoe Center for American History, The University of Texas at Austin.
+[^25]: “Procedures for handling Anti-Military Disturbances” Students for a Democratic Society Records, 1962-1978, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-[^26]: Unknown. “New Left: The Students for a Democratic Society.” The Austin American (1914-1973), Nov 28, 1965. Accessed: March 2016 <http://search.proquest.com/docview/1643669432?accountid=7118>.
+[^26]: Unknown. “New Left: The Students for a Democratic Society.” The Austin American (1914-1973), November 28, 1965. Accessed: March 2016 <http://search.proquest.com/docview/1643669432?accountid=7118>.
 
 [^27]: “Chancellor Says He Was Threatened”. _Dallas Morning News_, May 4, 1967.
 
-[^28]: Unknown. “Slim UT Student Vote Slaps City Wrist for Denying SDS.” _The Austin Statesman_ (1921-1973), Oct 21, 1965. Accessed: March 2016 <http://search.proquest.com/docview/1522200908?accountid=7118>.
+[^28]: Unknown. “Slim UT Student Vote Slaps City Wrist for Denying SDS.” _The Austin Statesman_ (1921-1973), October 21, 1965. Accessed: March 2016 <http://search.proquest.com/docview/1522200908?accountid=7118>.
 
 [^29]: Maurice Isserman & Michael Kazin. _America Divided: The Civil War of the 1960s_. New York: Oxford University Press, 2004.
 

@@ -78,7 +78,7 @@ It has taken this country a long time to come to the realization that prescripti
 <div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 ## Sources
 
-Armed Forces Institute of Pathology, letter to Dr. R Lee Clark, 16 August 1966, in the Gary L. Lavergne Papers, Dolph Briscoe Center for American History
+Armed Forces Institute of Pathology, letter to Dr. R Lee Clark, August 16, 1966, in the Gary L. Lavergne Papers, Dolph Briscoe Center for American History
 
 “Report to the Governor, Medical Aspects, Charles J. Whitman Catastrophe,” Austin History Center.
 
@@ -92,15 +92,15 @@ Inventory of medicine cabinet of Charles Whitman, Supplementary Offense Report, 
 
 Interim Report: Recommendations Concerning University Drug Policies and Procedures, August 1, 1970, from University Committee on Drug Policies and Procedures, UT Dean of Students Records, 1925-1986, Dolph Briscoe Center for American History.
 
-Dr. Maurice Dean Heatly report on Charles Whitman, 29 March 1966, from the Austin Police Department files, Austin History Center.
+Dr. Maurice Dean Heatly report on Charles Whitman, March 29, 1966, from the Austin Police Department files, Austin History Center.
 
 Pearlman, S. (1968), DRUG USE AND EXPERIENCE IN AN URBAN COLLEGE POPULATION. _American Journal of Orthopsychiatry_, 38: 503–514. doi: 10.1111/j.1939-0025.1968.tb00585.x
 
-“Whitman ‘ate drugs like candy’.” (1967, Mar 07). _The Austin Statesman_.
+“Whitman ‘ate drugs like candy’.” _The Austin Statesman_. March 7, 1967.
 
 </div></div></div>
 
-[^1]: Armed Forces Institute of Pathology, letter to Dr. R Lee Clark, 16 August 1966, in the Gary L. Lavergne Papers, Dolph Briscoe Center for American History.
+[^1]: Armed Forces Institute of Pathology, letter to Dr. R Lee Clark, August 16, 1966, in the Gary L. Lavergne Papers, Dolph Briscoe Center for American History.
 
 [^2]: “Report to the Governor, Medical Aspects, Charles J. Whitman Catastrophe,” Austin History Center.
 
@@ -132,7 +132,7 @@ Pearlman, S. (1968), DRUG USE AND EXPERIENCE IN AN URBAN COLLEGE POPULATION. _Am
 
 [^16]: Interim Report: Recommendations Concerning University Drug Policies and Procedures, August 1, 1970, from University Committee on Drug Policies and Procedures, UT Dean of Students Records, 1925-1986, Dolph Briscoe Center for American History.
 
-[^17]: Dr. Maurice Dean Heatly report on Charles Whitman, 29 March 1966, from the Austin Police Department files, Austin History Center.
+[^17]: Dr. Maurice Dean Heatly report on Charles Whitman, March 29, 1966, from the Austin Police Department files, Austin History Center.
 
 [^18]: Hand, Interim Report of Investigation, Food and Drug Administration.
 
@@ -142,7 +142,7 @@ Pearlman, S. (1968), DRUG USE AND EXPERIENCE IN AN URBAN COLLEGE POPULATION. _Am
 
 [^21]: Hall. “Tower Sniper ‘Ate Drugs Like Popcorn.’”
 
-[^22]: “Whitman ‘ate drugs like candy’.” (1967, Mar 07). _The Austin Statesman_.
+[^22]: “Whitman ‘ate drugs like candy’.” _The Austin Statesman_. March 7, 1967.
 
 
 [lavergne]: http://www.garylavergne.com/whitman-why.htm
