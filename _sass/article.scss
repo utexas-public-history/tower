@@ -41,6 +41,20 @@ header {
   h3 {
     margin: 2em 0 1em 0;
   }
+
+  .list-layout {
+    ul {
+      list-style-type: none;
+      margin-left: 0;
+      padding-left: 0;
+
+      li {
+        margin-bottom: 1em;
+        padding-left: 2em;
+        text-indent: -2em;
+      }
+    }
+  }
 }
 
 .post-content {
