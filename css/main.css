@@ -174,8 +174,8 @@ body.homepage article {
     left: 0;
     z-index: 0; }
 body.homepage header {
-  padding-top: 4em;
-  padding-bottom: 4em; }
+  padding-top: 8em;
+  padding-bottom: 8em; }
 body.homepage .post-content {
   background-color: #fff;
   padding-right: 2em;
@@ -248,6 +248,10 @@ body.homepage .footnotes {
           text-decoration: underline; }
 
 @media (max-width: 992px) {
+  body.homepage header {
+    padding-top: 4em;
+    padding-bottom: 4em; }
+
   .hide-below-md {
     display: none; }
 
