@@ -36,11 +36,9 @@ Today if you walk around the University of Texas at Austin, especially around th
 
 In the minds of some, universities are responsible for nurturing the next generation of society’s members. Pastor Larry Bethune called this the sacred trust of families during his initial conversations with UT officials about establishing a memorial around the. 33rd anniversary. In the case of the UT Tower Shooting, the university did not contribute directly to the violence nor did it ignore its responsibilities in the immediate aftermath. . In fact, as “[The University Response: A Product of the Times][university-response],” the university discreetly set up initiatives to aid the direct survivors and victims either through special academic considerations for returning students or fundraising efforts for the wounded and deceased. Resentment and anger from the survivors, as well as other Austinites, grew when the university failed to erect any sort of public apology or remembrance structure until decades later.
 
-As the university and Austin community approach the 50th anniversary of the shooting, readers can most clearly see this frustration at the lack of a satisfactory remembrance effort by reading news articles or comments posted on blogs and social networking sites. In early 2016, an initiative to construct a memorial not affiliated with the university are underway by some of the survivors of the UT Tower Shooting, but this memorial is not the first. Several attempts at memorialization have been attempted by both the university as well as the Austin police department, the faith based community, and more recent university students. These memorials include gardens, plaques, a walking tour, and archival collections. 
+As the university and Austin community approach the 50th anniversary of the shooting, readers can most clearly see this frustration at the lack of a satisfactory remembrance effort by reading news articles or comments posted on blogs and social networking sites. In early 2016, an initiative to construct a memorial not affiliated with the university are underway by some of the survivors of the UT Tower Shooting, but this memorial is not the first. Several attempts at memorialization have been attempted by both the university as well as the Austin police department, the faith based community, and more recent university students. These memorials include gardens, plaques, a walking tour, and archival collections.
 
 The first memorial initiative occurred in 1996 when a group of faith based groups apart from the university held a prayer vigil in an attempt to heal and reclaim the violent space for the community.
-
-**TK:** [INSERT film clip of prayer vigil]
 
 As Pastor Larry Bethune recalls, this prayer vigil grew out of discussions with UT professor Rosa Eberly, who in the 1990s had begun to teach “The UT Tower and Public Memory,” a course aimed at teaching students about civic engagement and rhetoric. Eberly belonged to the same faith community as Pastor Bethune, senior pastor of the Baptist University Church, and helped to organize the prayer vigil. Archival records seem to indicate that the university finally reacted to the frustrations shortly after the prayer vigil. In 1999, one year after Larry R. Faulkner became President of UT Austin, the Board of Regents approved Faulkner’s request to initiate a planning group to investigate the best way to commemorate the incident. Typed notes from a meeting between Faulkner and one of his assistants point to the fact that despite the years, community members continued to pressure the university for some memorial action. In the notes, Faulkner references a letter from a 1982 UT graduate commenting on the “overdue” need for a memorial to provide “closure” and “a permanent recognition of the victims of the Tower shootings of 1966.”
 
@@ -60,7 +58,7 @@ During this time the university also passed out forms similar to the UT Remember
   <img src="{{ site.baseurl }}/images/posts/carbajal/reflections-form.jpg" alt="Form for UT Remembers" />
 </div>
 
-Individuals could also [submit their reflections via email][tower-event],  a page currently unavailable, but accessible through the Internet Archive’s Wayback Machine with the last capture date of April 30, 2015. 
+Individuals could also [submit their reflections via email][tower-event],  a page currently unavailable, but accessible through the Internet Archive’s Wayback Machine with the last capture date of April 30, 2015.
 
 <div class="image-block">
   <img src="{{ site.baseurl }}/images/posts/carbajal/online-form.png" alt="Online Form for Tower Reflections" />
@@ -72,9 +70,14 @@ In January of 2007, shortly after the 40th anniversary, University of Texas offi
   <img src="{{ site.baseurl }}/images/posts/carbajal/tower-garden-plaque.jpg" alt="Tower Garden Plaque" />
 </div>
 
-Action taken by the University always seemed to coincide with other mass shootings on high school and university campuses such as the Columbine and Virginia Tech shootings, April 20th, 1999 and April 16, 2007 respectively. Other somewhat documented memorialization efforts came from non-university groups: the Austin Police Department Tower Heroes plaque inscription in 2008 located in the far southwest side of Austin and a student led walking memorial tour of campus in 2014. 
+Action taken by the University always seemed to coincide with other mass shootings on high school and university campuses such as the Columbine and Virginia Tech shootings, April 20th, 1999 and April 16, 2007 respectively. Other somewhat documented memorialization efforts came from non-university groups: the Austin Police Department Tower Heroes plaque inscription in 2008 located in the far southwest side of Austin and a student led walking memorial tour of campus in 2014.
 
-**TK:** [INSERT photo of police plaque]
+<div class="image-block">
+  <a href="{{ site.baseurl }}/images/posts/carbajal/plaque-fullsize.jpg" data-lightbox="plaque"><img src="{{ site.baseurl }}/images/posts/carbajal/plaque.jpg" class="tall-image" /></a>
+  <p class="caption">
+    “Tower Heroes.” Plaque located at the Travis County Precinct 3 building at 8656B W Texas 71, Austin, TX 78735.
+  </p>
+</div>
 
 Despite all these attempts, the general public continues to decry an absence of remembrance. Do we attribute this frustration to a lack of awareness of the efforts by the university or do we recognize the depth of the pain experienced by this community? As Pastor Bethune mentions during his oral history, everyone deals with loss in a different way and for different lengths of time. As seen through other memorializations such as the 9/11 Ground Zero Site, the Columbine Memorial, and the Ntarama Church in Rwanda, directly impacted communities and those who felt the after effects approached healing in diverse ways.
 
