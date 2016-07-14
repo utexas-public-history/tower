@@ -301,6 +301,8 @@ header {
       margin-top: 0; }
   .page-content h3 {
     margin: 2em 0 1em 0; }
+  .page-content p {
+    margin-bottom: 1.5em; }
   .page-content .list-layout ul {
     list-style-type: none;
     margin-left: 0;
