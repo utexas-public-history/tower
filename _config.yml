@@ -1,9 +1,9 @@
 # Site settings
 title: 'Behind the Tower'
-description: > 
-  TK Site Description
-baseurl: "/tower" 
-url: "http://yourdomain.com" 
+description: >
+  Behind the Tower: New Histories of the UT Tower Shooting is the collective work of eleven graduate students and one History professor at The University of Texas at Austin.
+baseurl: ""
+url: "http://behindthetower.org"
 
 # Build settings
 markdown: kramdown
