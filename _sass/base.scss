@@ -262,8 +262,8 @@ body.homepage {
 
   header {
     padding: {
-      top: 4em;
-      bottom: 4em;
+      top: 8em;
+      bottom: 8em;
     }
   }
 
@@ -383,6 +383,15 @@ body.homepage {
 }
 
 @media (max-width: $screen-md-min) {
+  body.homepage {
+    header {
+      padding: {
+        top: 4em;
+        bottom: 4em;
+      }
+    }
+  }
+
   .hide-below-md {
     display: none;
   }
