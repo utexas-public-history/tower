@@ -14,7 +14,7 @@ On August 1, 1966, a twenty-five year old University of Texas student named Char
 
 This is arguably the most important event to take place in modern Austin history.  There were thousands of eyewitnesses and dozens of survivors. The local archives contain police reports, records of a high-profile Governor’s Commission, medical records, military records, and university records. We have dozens of interviews with survivors: with people who remember and people who have been trying to forget.
 
-It took 30 years for a journalist, Gary Lavergne, to write _A Sniper in the Tower_, a well-researched and thoughtful narrative. A few oral histories appeared over the years in [_Texas Monthly_][txmonthly] and local newspapers. It was only in 2006, that _Texas Monthly_ Senior Editor Pam Colloff spent three months tracking down survivors and [recording their memories][96minutes]. In 2014, Elizabeth Crook published a novel book about that day called [_Monday, Monday_][monday-monday]. Movies, TV shows, novels and even songs refer to the shooting in passing.
+It took 30 years for a journalist, Gary Lavergne, to write _A Sniper in the Tower_, a well-researched and thoughtful narrative. A few oral histories appeared over the years in [_Texas Monthly_][txmonthly] and local newspapers. It was only in 2006, that _Texas Monthly_ Senior Editor Pam Colloff spent three months tracking down survivors and [recording their memories][96minutes]. In 2014, Elizabeth Crook published a novel about that day called [_Monday, Monday_][monday-monday]. Movies, TV shows, novels and even songs refer to the shooting in passing.
 
 But where are the historians?
 
@@ -28,7 +28,7 @@ In Spring 2016, graduate students in the UT History Department’s Public Histor
 
 We had a hard time even deciding what to call our project. In 1966 and 1967 people at UT referred to it as “the accident,” or “the incident.” Should we mention Whitman in the title? Go for drama with “The Tower Tragedy,” or “The Tower Catastrophe”? Or play down the drama with something like “The UT Tower Shooting?”
 
-This first thing that became clear to us was that historians ask different questions than other observers and survivors. The second is that we could use our skills as professional historians and student historians to begin to write a new history of the events of August 1, 1966 and its aftermath for the public.
+The first thing that became clear to us was that historians ask different questions than other observers and survivors. The second is that we could use our skills as professional historians and student historians to begin to write a new history of the events of August 1, 1966 and its aftermath for the public.
 
 After reading the few published accounts, we visited the archives at the Austin History Center and the Briscoe Center of American History. Each student gravitated towards a topic or a set of questions and began looking for answers in the newspapers and documents in the archives.
 
@@ -55,6 +55,8 @@ Because this has been a class project, begun and executed during the course of o
 As we approach the 50th anniversary of the UT Tower Shooting, we cannot help but think about the ways it has been mythologized or forgotten because the Texas Legislature chose to implement the law allowing loaded guns in buildings on campus on August 1, 2016. Lieutenant Governor Dan Patrick, a strong advocate for the loaded gun law (sometimes known as Campus Carry), [claimed][campus-carry] that he didn’t realize that the law would be implemented on the anniversary of Whitman’s mass shooting.
 
 Public history cannot automatically create an informed or thoughtful public. But it might make more people aware of the wide range of ways that events were experienced and are still painfully remembered. And it might promote public discussion of important issues, at least among people who care about the past.
+
+_By Joan Neuberger_
 
 [^1]: Rosa A. Eberly, “’Everywhere You Go, It’s There’: Forgetting and Remembering the University of Texas Tower Shootings,” _Framing Public Memory_, ed. Kendall R. Phillips (University of Alabama Press, 2004), 72-74.
 
