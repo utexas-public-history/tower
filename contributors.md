@@ -20,7 +20,7 @@ Miguel Felipe Daza is a Master of Arts in Curriculum and Instruction at The Univ
 
 ## Felipe Fernandes Cruz
 
-TK
+Originally from São Paulo, Brazil, Felipe Fernandes Cruz earned his PhD in History at The University of Texas at Austin in 2016. He begins as Assistant Professor of History at Tulane University in Fall 2016. He also wrote and co-directed the documentary film “The Balloonists: Brazil’s Underground Folk Artists,” and helped found [_The Appendix_][appendix], an online journal of narrative and experimental history. His work has been supported by fellowships from the Social Science Research Council, the American Meteorological Society,  the Smithsonian’s National Air and Space Museum, and the Linda Hall Library, and he has been awarded both the prestigious Kranzberg Fellowship from the Society for the History of Technology and the Edward H. Moseley Award from the Southeastern Council of Latin  American Studies.
 
 ## Alejandra C. Garza
 
@@ -64,11 +64,11 @@ Isaac McQuistion is an Asian Studies master's student focusing on modern South A
 
 ## Justina Moloney
 
-TK
+Justina Moloney is currently pursuing her Masters of Information Science at the University of Texas at Austin’s School of Information. She focuses on the study and application of museums and public history, as well as archival management and academic libraries. An army brat, her personal endeavors focus on the study and understanding of veterans of the First and Second World Wars and their acclimation back into civilian life.  
 
 ## Joan Neuberger
 
-TK
+Joan Neuberger has been teaching Russian History at UT Austin since 1990. She studies Modern Russian culture in social and political context, with a focus on the politics of the  arts. She is the author of an eclectic range of publications, including _Hooliganism: Crime and Culture in St Petersburg, 1900-1914_ (California: 1993), _Ivan the Terrible: The Film Companion_ (Palgrave: 2003); co-author of _Europe and the Making of Modernity, 1815-1914_ (Oxford: 2005); and co-editor of _Imitations of Life: Melodrama in Russia_ (Duke: 2001) and _Picturing Russia: Explorations in Visual Culture_ (Yale: 2008). She is also the Editor of the History Department's public history website [_Not Even Past_][notevenpast] and co-host, with Christopher Rose, of the history podcast series, [15 Minute History][15minute]. She is also Editor of the new website, _Thinking in Public: Public Scholarship at UT Austin_, which will launch in Fall 2016.
 
 
 [brown-website]: http://www.keishalaneebrown.com/
@@ -79,3 +79,5 @@ TK
 [appendix]: http://theappendix.net
 [jones-website]: http://brianjon.es
 [jones-twitter]: http://twitter.com/jonesbp
+[notevenpast]: http://notevenpast.org/
+[15minute]: http://15minutehistory.org/
