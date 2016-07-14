@@ -49,13 +49,13 @@ As Pastor Larry Bethune recalls, this prayer vigil grew out of discussions with 
 Because of his involvement with the 30th anniversary, the university sought the help of Pastor Bethune in planning for the university’s first attempt at memorializing the tragic event. Bethune joined the core group as they met throughout the summer of 1999, before the planned August 1 dedication of the memorial garden that would then be followed by the reopening of the Tower on September 15, 1999, discussed in more detail in “[The Specter of the Tower][specter]”. On August 1, 1999 at the Turtle Pond now called the Reflection Garden, the university held a memorial service where it lowered the flags to half-staff, President Faulkner gave remarks, and the Tower was darkened as is customary during moments of grief for the university.
 
 <div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/carbajal/tower-garden-reflection.jpg" alt="Reflection in Pond" />
+  <img src="{{ site.baseurl }}/images/posts/carbajal/tower-garden-reflection.jpg" alt="Reflection in Pond" class="tall-image" />
 </div>
 
 During this time the university also passed out forms similar to the UT Remembers forms for members of the community to write reflections on paper or via email of their lost one. These reflections are then placed inside the University permanent archives.
 
 <div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/carbajal/reflections-form.jpg" alt="Form for UT Remembers" />
+  <img src="{{ site.baseurl }}/images/posts/carbajal/reflections-form.jpg" alt="Form for UT Remembers" class="tall-image" />
 </div>
 
 Individuals could also [submit their reflections via email][tower-event],  a page currently unavailable, but accessible through the Internet Archive’s Wayback Machine with the last capture date of April 30, 2015.
