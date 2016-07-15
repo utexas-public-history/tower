@@ -27,20 +27,21 @@ When Whitman began shooting, the Austin Police Department was ill-equipped for t
 </div>
 
 <div class="video-block">
-  <a href="#" id="first-video-link" class="video-poster">
+  <a href="http://bit.ly/267tQEV" id="first-video-link" class="video-poster">
     <img src="{{ site.baseurl }}/images/posts/mcquistion/first-video-poster.jpg" class="video-poster" />
     <div class="play-button"></div>
   </a>
-  <div id="first-video-container" style="display: none">
-    <iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&s=embedded&p=video1&b=43' frameBorder='0' allowTransparency='true'></iframe>
-    <script type="text/javascript">
-      $('#first-video-link').on('click', function(e) {
-          e.preventDefault();
-          $('#first-video-link').hide();
-          $('#first-video-container').show();
-      });
-    </script>
-  </div>
+  <div id="first-video-container" style="display: none"></div>
+  <script type="text/javascript">
+    $('#first-video-link').on('click', function(e) {
+        e.preventDefault();
+        $('#first-video-link').hide();
+        $.get('{{ site.baseurl }}/video/mcquistion-second-video.html', function(data) {
+          $('#first-video-container').html(data);
+          });
+        $('#first-video-container').show();
+    });
+  </script>
   <p class="caption">
     Local news cameras recorded some of the firefight. <span class="credit">Video clip courtesy of the <a href="http://bit.ly/267tQEV">Texas Archive of the Moving Image</a></span>
   </p>
@@ -55,20 +56,21 @@ It’s undeniable that many civilians on campus that day displayed tremendous br
 In a statement given in November 1966 to _American Rifleman_, a commercial publication of the National Rifle Association, Allen Crum recounts his actions and how he ended up with officers at the top of the Tower. At the time, Crum was recently retired from the US Air Force and was working as a floor manager at the University Co-op, located across the street from the UT campus. After Whitman started shooting, Crum offered his help and, armed with a rifle given to him by an officer, he and a few other members of the APD made their way to the Tower observation deck.
 
 <div class="video-block">
-  <a href="#" id="second-video-link" class="video-poster">
+  <a href="http://bit.ly/1OeyhrY" id="second-video-link" class="video-poster">
     <img src="{{ site.baseurl }}/images/posts/mcquistion/second-video-poster.jpg" class="video-poster" />
     <div class="play-button"></div>
   </a>
-  <div id="second-video-container" style="display: none">
-    <iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=The_Neal_Spelce_Collection,_No._2_-_UT_Tower_Shooting&s=embedded&p=video1&b=176' frameBorder='0' style='max-width:100%;width:495px;height:385px;border:0px;' width='495' height='385px' allowTransparency='true' autoplay='false'></iframe>
-    <script type="text/javascript">
+  <div id="second-video-container" style="display: none"></div>
+  <script type="text/javascript">
     $('#second-video-link').on('click', function(e) {
       e.preventDefault();
       $('#second-video-link').hide();
+      $.get('{{ site.baseurl }}/video/mcquistion-second-video.html', function(data) {
+        $('#second-video-container').html(data);
+        });
       $('#second-video-container').show();
     });
-    </script>
-  </div>
+  </script>
   <p class="caption">
     Allen Crum talks about his experience storming the Tower with police officers on the local news. <span class="credit">Video clip courtesy of the <a href="http://bit.ly/1OeyhrY">Texas Archive of the Moving Image</a></span>
   </p>
@@ -213,20 +215,21 @@ A very good thing, because Crum, a civilian at the top of the Tower carrying a r
 McCoy goes on to describe the ground fire that peppered the Tower and narrowly missed them while he, Crum, and the other officers got into position on the observation deck. In a press conference after the shooting, Texas Governor [John Connally said][connally] that the ground fire impeded the progress of officers to the top of the Tower. After McCoy and Martinez killed Whitman, they then had no effective way of telling those on the ground to stop firing. Crum waved a white flag, but even after that, sporadic ground fire continued. McCoy said that at least one TV report had shown Crum waving the flag and claimed that it was the shooter trying to give up.[^9] No doubt the same thought occurred to many of those firing at the Tower.
 
 <div class="video-block">
-  <a href="#" id="third-video-link" class="video-poster">
+  <a href="http://bit.ly/28XSQqA" id="third-video-link" class="video-poster">
     <img src="{{ site.baseurl }}/images/posts/mcquistion/third-video-poster.jpg" class="video-poster" />
     <div class="play-button"></div>
   </a>
-  <div id="third-video-container" style="display: none">
-    <iframe src='http://texasarchive.org/library/index.php?action=ajax&rs=GLIFOSEmbedded&w=480&h=360&c=2010_01853&s=embedded&p=video1&b=390' frameBorder='0' style='max-width:100%;width:495px;height:385px;border:0px;' width='495' height='385px' allowTransparency='true'>&#160;</iframe>
-    <script type="text/javascript">
+  <div id="third-video-container" style="display: none"></div>
+  <script type="text/javascript">
     $('#third-video-link').on('click', function(e) {
       e.preventDefault();
       $('#third-video-link').hide();
+      $.get('{{ site.baseurl }}/video/mcquistion-third-video.html', function(data) {
+        $('#third-video-container').html(data);
+      });
       $('#third-video-container').show();
     });
-    </script>
-  </div>
+  </script>
 
   <p class="caption">
     Texas Governor John Connally, while defending his Police Department, said that ground fire from civilians actually impeded the progress of officers to the top of the Tower. <span class="credit">Video clip provided courtesy of the <a href="http://bit.ly/28XSQqA">Texas Archive of the Moving Image</a></span>
