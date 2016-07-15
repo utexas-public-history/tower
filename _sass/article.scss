@@ -232,6 +232,10 @@ p.caption {
     padding: 0 30px;
     width: auto;
   }
+
+  p.caption span.credit {
+    white-space: normal;
+  }
 }
 @media (min-width: $screen-sm-min) and (max-width: $screen-md-min) {
   .footnotes {
