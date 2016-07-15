@@ -49,11 +49,11 @@ But, despite any amount of effort, tragedy still haunts the Tower. The walls sti
 
 [^4]: Quoted in Chris Whitcraft, “Killer Told Psychiatrist ‘Shooting People’ Urge,” The Austin American-Statesman, August 3, 1966.
 
-[^5]: Whitcraft, “Kill Told Psychiatrist …,” _The Austin American-Statesman_, August 3, 1966.
+[^5]: Whitcraft, “Killer Told Psychiatrist …,” _The Austin American-Statesman_, August 3, 1966.
 
-[^6]: Whitcraft, “Kill Told Psychiatrist …,” _The Austin American-Statesman_, August 3, 1966..
+[^6]: Whitcraft, “Killer Told Psychiatrist …,” _The Austin American-Statesman_, August 3, 1966..
 
-[^7]: Whitcraft, “Kill Told Psychiatrist …,” _The Austin American-Statesman_, August 3, 1966..
+[^7]: Whitcraft, “Killer Told Psychiatrist …,” _The Austin American-Statesman_, August 3, 1966..
 
 [^8]: Larry BeSaw, “Tower at Vortex of Victory, Death,” _The Austin American-Statesman_, August 1, 1976.
 

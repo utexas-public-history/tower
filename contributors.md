@@ -26,10 +26,6 @@ Originally from São Paulo, Brazil, Felipe Fernandes Cruz earned his PhD in Hist
 
 Alejandra C. Garza is a graduate student in the History department at The University of Texas at Austin. She is a native of South Texas and her academic research focuses on South Texas ranching communities.
 
-## Victoria Hurley
-
-Victoria Hurley is from Austin, Texas and attended the University of Texas for her Bachelor’s degree in American Studies. She was also a member of the Longhorn Marching Band where she played the piccolo. She just completed her Master’s Degree in the department of Curriculum and Instruction where she specialized in an Urban Teacher’s preparation program for Social Studies.
-
 ## Maria Esther Hammack
 
 PhD Student in History at the University of Texas at Austin.  Maria is from Los Mochis, Sinaloa, Mexico.  She completed both a B.A. in History and Political Science, and a M.A. in Atlantic World History at East Carolina University, in Greenville, North Carolina.
@@ -39,6 +35,10 @@ Her work explores the hidden histories of slavery and freedom in nineteenth cent
 Her M.A. Thesis was titled “The _Other_ Underground Railroad: Hidden Histories of Slavery and Freedom across the Porous Frontiers of Nineteenth-Century United States, Mexico, and the Caribbean.”
 
 She is working under the direction and guidance of Dr. Daina Berry. ([UT-Austin Profile][hammack-profile]) ([Twitter][hammack-twitter])
+
+## Victoria Hurley
+
+Victoria Hurley is from Austin, Texas and attended the University of Texas for her Bachelor’s degree in American Studies. She was also a member of the Longhorn Marching Band where she played the piccolo. She just completed her Master’s Degree in the department of Curriculum and Instruction where she specialized in an Urban Teacher’s preparation program for Social Studies.
 
 ## Rebecca Johnston
 

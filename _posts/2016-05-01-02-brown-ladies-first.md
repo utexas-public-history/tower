@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ladies First'
-author: Keisha Brown
+author: Keisha Laneé Brown
 permalink: /ladies-first
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
@@ -11,7 +11,7 @@ What compels a man to take the life of the women with whom he shares a most inti
 
 ## University of Texas Tower Shooting – August 1, 1966
 
-Charles Whitman’s shooting rampage from atop the UT Tower was the deadliest shooting on a college campus until Seung-Hui Cho killed 32 people and wounded 17 more at Virginia Tech forty years later in 2007. The night before Whitman’s tower attack, he murdered his wife, Kathy, in the couple’s home and his mother, Margaret, in her apartment. Both bodies were found in their beds with the blankets pulled up to cover where Whitman had stabbed each woman in the chest with a hunting knife. 
+Charles Whitman’s shooting rampage from atop the UT Tower was the deadliest shooting on a college campus until Seung-Hui Cho killed 32 people and wounded 17 more at Virginia Tech forty years later in 2007. The night before Whitman’s tower attack, he murdered his wife, Kathy, in the couple’s home and his mother, Margaret, in her apartment. Both bodies were found in their beds with the blankets pulled up to cover where Whitman had stabbed each woman in the chest with a hunting knife.
 
 ## Bath School Disaster – May 18, 1927
 
@@ -36,7 +36,7 @@ Another elementary school massacre in recent history took place in Newtown, Conn
 
 ## Mass Killings and Domestic Violence
 
-Even though nearly four decades separate three of the deadliest U. S. mass killings in a school setting, each of the perpetrators of these gruesome attacks first killed the women they were closest to in a private, domestic setting before escalating their violence to a public space. It is interesting to note that these men targeted not just any public place but specifically a school, a location where women and children are often present in greater numbers. According to the FBI, mass shootings at educational institutions account for some of the higher casualty counts compared to other locations. An [FBI study][fbi-study] examined 160 mass shooting incidents from 2000-2013 and found that 39 incidents occurred in educational environments, resulting in 117 individuals killed and 120 wounded. In 4 of the 9 incidents where the shooter first killed one or more family members in a residence before moving to a more public location, the shootings took place at a school. Of those 9 shooters, all 3 who were married killed their wives first before continuing their shooting rampage. In fact, a total of 16 shooters in the study targeted a current, estranged or ex-wife or girlfriend. 
+Even though nearly four decades separate three of the deadliest U. S. mass killings in a school setting, each of the perpetrators of these gruesome attacks first killed the women they were closest to in a private, domestic setting before escalating their violence to a public space. It is interesting to note that these men targeted not just any public place but specifically a school, a location where women and children are often present in greater numbers. According to the FBI, mass shootings at educational institutions account for some of the higher casualty counts compared to other locations. An [FBI study][fbi-study] examined 160 mass shooting incidents from 2000-2013 and found that 39 incidents occurred in educational environments, resulting in 117 individuals killed and 120 wounded. In 4 of the 9 incidents where the shooter first killed one or more family members in a residence before moving to a more public location, the shootings took place at a school. Of those 9 shooters, all 3 who were married killed their wives first before continuing their shooting rampage. In fact, a total of 16 shooters in the study targeted a current, estranged or ex-wife or girlfriend.
 
 Women disproportionately have been the victims of mass murder for decades. Given that familicides (the murder of an entire family by a family member, typically the male head of household) are the most common mass killing, there is a strong connection between domestic violence and mass murder. A [2004 study](#duwe) on prevalence patterns of mass murder in the U. S. from 1900-1999 found that familicides comprised nearly half of the 909 incidents that occurred in the twentieth century. Familicides were even more common prior to 1975, constituting 52% of the mass killings. Notably, a gun was the weapon of choice in 67% of incidents. The statistics have not improved in the new millennium. A recent [study from Everytown for Gun Safety][everytown] analyzed every mass shooting that occurred between January 2009 and July 2015, 133 mass shootings in total. They found that 50% of the victims were women and that the shooter killed a current or former spouse, intimate partner or family member in 57% of the incidents. By contrast, women comprised only 15% of total gun homicide victims in the U. S. from 2008-2012.
 
