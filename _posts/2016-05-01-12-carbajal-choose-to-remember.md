@@ -40,6 +40,15 @@ As the university and Austin community approach the 50th anniversary of the shoo
 
 The first memorial initiative occurred in 1996 when a group of faith based groups apart from the university held a prayer vigil in an attempt to heal and reclaim the violent space for the community.
 
+<div class="video-block">
+  <video controls="controls" title="KVUE News Coverage">
+    <source src="{{ site.baseurl }}/video/kvue-news-coverage.mp4" type="video/mp4" />
+    <source src="{{ site.baseurl }}/video/kvue-news-coverage.webm" type="video/webm" />
+    <source src="{{ site.baseurl }}/video/kvue-news-coverage.ogv" type="video/ogv" />
+    Your browser does not support the <code>video</code> element.
+  </video>
+</div>
+
 As Pastor Larry Bethune recalls, this prayer vigil grew out of discussions with UT professor Rosa Eberly, who in the 1990s had begun to teach “The UT Tower and Public Memory,” a course aimed at teaching students about civic engagement and rhetoric. Eberly belonged to the same faith community as Pastor Bethune, senior pastor of the Baptist University Church, and helped to organize the prayer vigil. Archival records seem to indicate that the university finally reacted to the frustrations shortly after the prayer vigil. In 1999, one year after Larry R. Faulkner became President of UT Austin, the Board of Regents approved Faulkner’s request to initiate a planning group to investigate the best way to commemorate the incident. Typed notes from a meeting between Faulkner and one of his assistants point to the fact that despite the years, community members continued to pressure the university for some memorial action. In the notes, Faulkner references a letter from a 1982 UT graduate commenting on the “overdue” need for a memorial to provide “closure” and “a permanent recognition of the victims of the Tower shootings of 1966.”
 
 <div class="image-block">
