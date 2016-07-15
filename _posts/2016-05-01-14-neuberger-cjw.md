@@ -14,7 +14,7 @@ How can we talk about Charles Whitman? How _should_ we talk about Charles Whitma
   <img src="{{ site.baseurl }}/images/posts/neuberger/charles-whitman.jpg" alt="Charles Whitman" />
 </div>
 
-Some of his victims and some of the witnesses to his killing rampage don’t even want to say his name. He was a “monster,” a “[madman][madman],” a murderer and nothing more. In [_Tower_][tower], Keith Maitland’s moving 2016 film about the heroism of the victims and survivors, Whitman is never named and his face is never seen. This is a historical shift from the first months and even decades after the shooting, when Charles Whitman was the main focus of attention.  In the early stages, horror and incomprehension prevailed. How could he? Who was he? Governor John Connally convened a special commission, which released a report just 5 weeks later, to try to answer those questions.
+Some of his victims and some of the witnesses to his killing rampage don’t even want to say his name. He was a “monster,” a “[madman][madman],” a murderer and nothing more. In [_Tower_][tower], Keith Maitland’s moving 2016 film about the heroism of the victims and survivors, Whitman’s face is never seen. This is a historical shift from the first months and even decades after the shooting, when Charles Whitman was the main focus of attention.  In the early stages, horror and incomprehension prevailed. How could he? Who was he? Governor John Connally convened a special commission, which released a report just 5 weeks later, to try to answer those questions.
 
 At the time, and even in the days after the tragic shooting, Whitman was described in glowing terms. On August 2, 1966, _The Austin American_ headlined its front page attempt to construct his biography: “[’Everyone’ Loved Him][newspaper].” Until, that is, he “snapped.”
 
@@ -24,9 +24,9 @@ Is curiosity and the desire to understand mass murderers a symptom of the modern
 Is empathy only available to people at a distance?     
 Does a need to start paying more attention to the victims and the survivors mean that we have to stop trying to understand the perpetrators?
 
-Charles Whitman suffered abuse as a child, anxiety as an adult, and serious physical and mental illness in the months (and maybe years) before he slaughtered 16 people, wounded 32 others, and traumatized many more.  He sought help from an [unfeeling psychiatrist][madman] for the violent impulses that terrified him.  Should we spare some sympathy for him? Or
+Charles Whitman suffered abuse as a child, anxiety as an adult, and serious physical and mental illness in the months (and maybe years) before he slaughtered 16 people, wounded 32 others, and traumatized many more.  He sought help from an [unfeeling psychiatrist][madman] for the violent impulses that terrified him.  Should we spare some sympathy for him?
 
-Do we talk about how he was an Eagle Scout at age 12? How he excelled in the Marines and received a prestigious scholarship to UT Austin? Do we talk about how he struggled to succeed in life when neither his father nor his superior officers were telling him what to do?
+Or, do we talk about how he was an Eagle Scout at age 12? How he excelled in the Marines and received a prestigious scholarship to UT Austin? Do we talk about how he struggled to succeed in life when neither his father nor his superior officers were telling him what to do?
 
 Do we talk about the total lack of “red flags”? Or all the signs of trouble that emerged in the years that followed? The stressful marriage, the stressful college career, the stressful military career, the friends who said Kathy told them that Charlie hit her, the brain tumor, the psychiatrist, the diary where he confessed first his fears and later his most irrational thoughts about killing his wife and mother? Do those experiences explain the man who murdered the women he loved most before becoming the cold-blooded sniper?
 
@@ -34,7 +34,7 @@ We have gotten no closer to predicting or understanding what makes someone – e
 
 As historians, we believe that it is our job to study and report on the whole event – perpetrator and victims and eyewitnesses alike. Eleven out of the twelve co-authors of this website found that the more they learned about Whitman’s own struggle, the harder it was to resist some empathy for him. One student, though, found that no matter how much she learned about Whitman, he did not elicit any of her sympathy.
 
-As historians, it’s our job to ask the hardest questions that we can. We are required to scour the archives and analyze what we find in order to present the best answers to those questions, so that we can choose:  monster or sufferer, sociopath or mentally ill, vilification or sympathy, or any combination that lets us sleep at night. But let our choices be based on research and evidence rather than on prejudice and preconception.
+Was Charles Whitman a monster or sufferer? Was he a sociopath or mentally ill, or was his brain deformed by a tumor? Do you want to vilify or sympathize with him?  As we struggle to contain accelerating gun violence in the U.S., at least let our choices be based on research and evidence rather than on prejudice and preconception.
 
 _By Joan Neuberger_
 
