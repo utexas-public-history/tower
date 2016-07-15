@@ -422,7 +422,10 @@ p.caption {
 @media (max-width: 768px) {
   .footnotes {
     padding: 0 30px;
-    width: auto; } }
+    width: auto; }
+
+  p.caption span.credit {
+    white-space: normal; } }
 @media (min-width: 768px) and (max-width: 992px) {
   .footnotes {
     padding: 0 30px;
