@@ -12,7 +12,7 @@ Keisha Laneé Brown is a master’s student at the University of Texas at Austin
 
 ## Itza A. Carbajal
 
-Child of Honduran parents. Born and raised in New Orleans. Displaced to Texas as a result of Hurricane Katrina and its aftermath. Currently pursuing a Master of Science in Information Studies with a focus on archival management and digital records at the University of Texas at Austin School of Information. Obtained her dual degree Bachelor of Arts in History and English with a concentration on creative writing at the University of Texas at San Antonio. Through experiences as a transnational daughter of immigrants, a displaced Hurricane Katrina survivor, and a woman of color, her research interests include the role of community archives in shaping collective memories, the use of archives as centers of power, archives and memory retrieval, the production of history, and the use of traditional and digital archives to enhance the study of history.
+Child of Honduran parents. Born and raised in New Orleans. Displaced to Texas as a result of Hurricane Katrina and its aftermath. Currently pursuing a Master of Science in Information Studies with a focus on archival management and digital records at the University of Texas at Austin School of Information. Obtained her dual degree Bachelor of Arts in History and English with a concentration on creative writing at the University of Texas at San Antonio. Through experiences as a transnational daughter of immigrants, a displaced Hurricane Katrina survivor, and a woman of color, her research interests include the role of community archives in shaping collective memories, the use of archives as centers of power, archives and memory retrieval, the production of history, and the use of traditional and digital archives to enhance the study of history. ([Personal Website][carbajal-website])
 
 ## Miguel Felipe Daza
 
@@ -81,3 +81,4 @@ Joan Neuberger has been teaching Russian History at UT Austin since 1990. She st
 [jones-twitter]: http://twitter.com/jonesbp
 [notevenpast]: http://notevenpast.org/
 [15minute]: http://15minutehistory.org/
+[carbajal-website]: https://icarbajalblog.wordpress.com/
