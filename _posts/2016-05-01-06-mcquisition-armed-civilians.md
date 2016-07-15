@@ -36,7 +36,7 @@ When Whitman began shooting, the Austin Police Department was ill-equipped for t
     $('#first-video-link').on('click', function(e) {
         e.preventDefault();
         $('#first-video-link').hide();
-        $.get('{{ site.baseurl }}/video/mcquistion-second-video.html', function(data) {
+        $.get('{{ site.baseurl }}/video/mcquistion-first-video.html', function(data) {
           $('#first-video-container').html(data);
           });
         $('#first-video-container').show();
