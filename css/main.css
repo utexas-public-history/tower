@@ -376,8 +376,8 @@ header {
     background-color: #fdead3;
     height: 385px;
     margin: 0 auto;
-    max-width: 100%;
-    width: 495px; }
+    max-width: 495px;
+    width: 100%; }
 
 .image-block {
   background-color: #fdead3;
