@@ -94,20 +94,21 @@
       <p>In a press conference on the day after the tragedy, Chancellor Harry Ransom expressed his gratitude for those who displayed heroism saving victims while he powerlessly watched from his office in the Tower. Would being an eyewitness of the shooting affect the decisions he made on behalf of the university? This question is hard to answer.  Much of the administrative response concerning the shooting was handled by Vice Chancellor Norman Hackerman of the Division of Academic Affairs. Hackerman notified professors of injured students asking them to provide special consideration due to the tragic circumstances. It is unclear what “special considerations” Hackerman meant, whether this related to classes missed due to time in the hospital or their emotional and mental well being.</p>
 
       <div class="video-block">
-  <a href="#" id="first-video-link" class="video-poster">
+  <a href="http://bit.ly/1X5VEqJ" id="first-video-link" class="video-poster">
     <img src="/images/posts/moloney/first-video-poster.jpg" class="video-poster" />
     <div class="play-button"></div>
   </a>
-  <div id="first-video-container" style="display: none">
-    <iframe src="http://texasarchive.org/library/index.php?action=ajax&amp;rs=GLIFOSEmbedded&amp;w=480&amp;h=360&amp;c=2009_01055&amp;s=embedded&amp;p=video1&amp;b=844&amp;e=847" frameborder="0" style="max-width:100%;width:495px;height:385px;border:0px;" width="495" height="385px" allowtransparency="true"></iframe>
-    <script type="text/javascript">
-    $('#first-video-link').on('click', function(e) {
-      e.preventDefault();
-      $('#first-video-link').hide();
-      $('#first-video-container').show();
-    });
-    </script>
-  </div>
+  <div id="first-video-container" style="display: none"></div>
+  <script type="text/javascript">
+  $('#first-video-link').on('click', function(e) {
+    e.preventDefault();
+    $('#first-video-link').hide();
+    $.get('/video/moloney-first-video.html', function(data) {
+      $('#first-video-container').html(data);
+      });
+    $('#first-video-container').show();
+  });
+  </script>
 
   <p class="caption">
     <span class="credit">Video clip courtesy of the <a href="http://bit.ly/1X5VEqJ">Texas Archive of the Moving Image</a></span>
