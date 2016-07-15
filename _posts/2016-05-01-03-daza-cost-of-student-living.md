@@ -13,7 +13,7 @@ College life at UT Austin changed in 1956 when the Board of Regents decided to a
 <div class="image-block">
   <img src="{{ site.baseurl }}/images/posts/daza/main-mall.jpg" alt="Photograph of students on Main Mall" class="tall-image" />
   <p class="caption">
-    Young UT Students in the Sixties at Main Mall. <span class="credit">Image courtesty of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a></span>
+    Young UT Students in the Sixties at Main Mall. <span class="credit">Image courtesy of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a></span>
   </p>
 </div>
 
