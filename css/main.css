@@ -348,6 +348,8 @@ header {
   margin: 2em -2em;
   padding: 1em 2em;
   text-align: center; }
+  .video-block img.loader {
+    width: 100px; }
   .video-block a.video-poster {
     display: block;
     margin: 0 auto;

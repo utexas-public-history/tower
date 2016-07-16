@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>The University Response: A Product of the Times</title>
-  <meta name="description" content="            ">
+  <meta name="description" content="Justina Moloney analyzes the university’s official response to the UT Tower Shooting.">
 
   <script type="text/javascript" src="/scripts/jquery-2.2.4.min.js"></script>
 
@@ -98,15 +98,17 @@
     <img src="/images/posts/moloney/first-video-poster.jpg" class="video-poster" />
     <div class="play-button"></div>
   </a>
-  <div id="first-video-container" style="display: none"></div>
+  <div id="first-video-container" style="display: none">
+    <img src="/images/interface/loader.svg" class="loader" />
+  </div>
   <script type="text/javascript">
   $('#first-video-link').on('click', function(e) {
     e.preventDefault();
     $('#first-video-link').hide();
+    $('#first-video-container').show();
     $.get('/video/moloney-first-video.html', function(data) {
       $('#first-video-container').html(data);
       });
-    $('#first-video-container').show();
   });
   </script>
 
