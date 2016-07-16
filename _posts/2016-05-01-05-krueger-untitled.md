@@ -3,7 +3,7 @@ layout: post
 title: Policing Before and After August 1, 1966
 author: Justin Krueger
 permalink: /policing
-excerpt: Justin Krueger outlines the changes in campus policing before and after the Tower shooting. 
+excerpt: Justin Krueger outlines the changes in campus policing before and after the Tower shooting.
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}
@@ -11,8 +11,6 @@ excerpt: Justin Krueger outlines the changes in campus policing before and after
 When Charles Whitman went to the top of the UT Tower on August 1, 1966, the university did not have a commissioned police force and the Austin Police Department was unprepared to respond. Both of these things made it possible for Whitman to continue his killing spree for 96 terrifying minutes.
 
 When the shooting was over and the bodies were removed, the media, public officials, and citizens alike called for answers and wanted action. Everyone was trying to make sense of the tragic event and try to prevent it from happening again.
-
-**TK:** [1. Letter from APD Chief Robert Miles to FBI Director J. Edgar Hoover. Austin (TX) Police Department Records of the Charles Whitman Mass Murder Case. AR 2000.002. Courtesy of the Austin History Center.]
 
 There was widespread acknowledgement that the current security services of the campus were inadequate to deal with situations such as the Charles Whitman shootings.
 
@@ -70,8 +68,6 @@ The official T&amp;SS Offense Report from August 1, 1966 shows a department that
 At 11:50 am security officers L.W. Hebert and Jack Rodman were dispatched to the Tower to check out the situation. Upon reaching the 27th floor by elevator they came across several of the early victims in the stairwell up to the 28th floor. After hearing continued gunfire outside and recognizing they had no weapons or plans by which to engage the shooter, both men decided it was best to head to the bottom of the main building to lock it down so no one could get in or out and to secure the interior of the building. This was at approximately 11:55 am. It was not until 89 minutes later that Whitman was finally shot and the killing ended.
 
 The lack of adequate resources, firearms, and response plans greatly limited the university officers’ ability to act. This was grossly obvious when Chief Hamilton called the university ROTC program to see if they had any weapons that the Traffic &amp; Security Services could use. The ROTC responded that they had weapons but no ammunition.
-
-**TK:** [2. Letter from Texas Governor John Connally to APD Chief Robert Miles. Austin (TX) Police Department Records of the Charles Whitman Mass Murder Case. AR 2000.002. Courtesy of the Austin History Center.]
 
 The lack of weapons and organization was not solely a problem for officials of The University of Texas.
 
