@@ -4,6 +4,7 @@ title: Further Reading
 permalink: /further-reading/
 nav_highlight: further-reading
 banner: /images/posts/lisle/banner.jpg
+excerpt: Collected readings from contributors for more information on the UT Tower Shooting.
 ---
 
 - Auchter, B. (2010). Men Who Murder Their Families: What the Research Tells Us. NIJ Journal, 266. Retrieved April 30, 2016, from <https://www.ncjrs.gov/pdffiles1/nij/230412.pdf>.

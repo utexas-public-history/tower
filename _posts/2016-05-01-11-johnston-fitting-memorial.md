@@ -3,6 +3,7 @@ layout: post
 title: 'A Fitting Memorial: The Mental Health Legacy of the Whitman Murders'
 author: Rebecca Johnston
 permalink: /a-fitting-memorial
+excerpt: Rebecca Johnston explores the role of mental health in Whitman’s attack and its legacy.
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}

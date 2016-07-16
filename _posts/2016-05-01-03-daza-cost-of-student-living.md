@@ -4,6 +4,7 @@ title: 'The Cost of Student Living: Race, Finances, and Politics at UT Austin in
 author: Miguel Daza
 permalink: /the-cost-of-student-living
 banner: /images/posts/daza/banner.jpg
+excerpt: Miguel Daza provides social and political context of student life in the era of the Tower shooting.
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}

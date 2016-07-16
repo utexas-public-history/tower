@@ -4,6 +4,7 @@ title:  '“The Eyes of the World Are Upon You, Texas”: How the Austin Newspap
 author: Alejandra Garza
 permalink: /how-austin-newspapers-covered-the-shooting
 banner: /images/posts/garza/banner.jpg
+excerpt: Alejandra Garza uses newspaper coverage to explore public perceptions of the Tower shooting.
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}

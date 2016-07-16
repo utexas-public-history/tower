@@ -4,6 +4,7 @@ title: A Brief History of Mass Shootings
 author: Maria Esther Hammack
 permalink: /a-brief-history-of-mass-shootings
 banner: /images/posts/hammack/banner.jpg
+excerpt: Maria Esther Hammack provides a survey of mass shootings in the United States as context for the Tower shooting.
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}

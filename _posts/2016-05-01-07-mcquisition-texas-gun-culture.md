@@ -4,6 +4,7 @@ title: Texas Gun Culture and the UT Tower Shooting
 author: Isaac McQuistion
 permalink: /texas-gun-culture-and-the-ut-tower-shooting
 banner: /images/posts/mcquistion/banner.jpg
+excerpt: Isaac McQuistion explores the evolution of gun culture in the United States and the central role of Texas in that story.
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}

@@ -4,6 +4,7 @@ title: Contributors
 permalink: /contributors/
 nav_highlight: contributors
 banner: /images/posts/lisle/banner.jpg
+excerpt: About the contributors to Behind the Tower
 ---
 
 ## Keisha Laneé Brown
