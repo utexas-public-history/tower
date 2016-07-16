@@ -15,15 +15,17 @@ In a press conference on the day after the tragedy, Chancellor Harry Ransom expr
     <img src="{{ site.baseurl }}/images/posts/moloney/first-video-poster.jpg" class="video-poster" />
     <div class="play-button"></div>
   </a>
-  <div id="first-video-container" style="display: none"></div>
+  <div id="first-video-container" style="display: none">
+    <img src="{{ site.baseurl }}/images/interface/loader.svg" class="loader" />
+  </div>
   <script type="text/javascript">
   $('#first-video-link').on('click', function(e) {
     e.preventDefault();
     $('#first-video-link').hide();
+    $('#first-video-container').show();
     $.get('{{ site.baseurl }}/video/moloney-first-video.html', function(data) {
       $('#first-video-container').html(data);
       });
-    $('#first-video-container').show();
   });
   </script>
 

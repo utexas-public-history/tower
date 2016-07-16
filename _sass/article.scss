@@ -115,6 +115,10 @@ header {
   padding: 1em 2em;
   text-align: center;
 
+  img.loader {
+    width: 100px;
+  }
+  
   a.video-poster {
     display: block;
     margin: 0 auto;

@@ -32,15 +32,17 @@ When Whitman began shooting, the Austin Police Department was ill-equipped for t
     <img src="{{ site.baseurl }}/images/posts/mcquistion/first-video-poster.jpg" class="video-poster" />
     <div class="play-button"></div>
   </a>
-  <div id="first-video-container" style="display: none"></div>
+  <div id="first-video-container" style="display: none">
+    <img src="{{ site.baseurl }}/images/interface/loader.svg" class="loader" />
+  </div>
   <script type="text/javascript">
     $('#first-video-link').on('click', function(e) {
         e.preventDefault();
         $('#first-video-link').hide();
+        $('#first-video-container').show();
         $.get('{{ site.baseurl }}/video/mcquistion-first-video.html', function(data) {
           $('#first-video-container').html(data);
           });
-        $('#first-video-container').show();
     });
   </script>
   <p class="caption">
@@ -61,15 +63,17 @@ In a statement given in November 1966 to _American Rifleman_, a commercial publi
     <img src="{{ site.baseurl }}/images/posts/mcquistion/second-video-poster.jpg" class="video-poster" />
     <div class="play-button"></div>
   </a>
-  <div id="second-video-container" style="display: none"></div>
+  <div id="second-video-container" style="display: none">
+    <img src="{{ site.baseurl }}/images/interface/loader.svg" class="loader" />
+  </div>
   <script type="text/javascript">
     $('#second-video-link').on('click', function(e) {
       e.preventDefault();
       $('#second-video-link').hide();
+      $('#second-video-container').show();
       $.get('{{ site.baseurl }}/video/mcquistion-second-video.html', function(data) {
         $('#second-video-container').html(data);
         });
-      $('#second-video-container').show();
     });
   </script>
   <p class="caption">
@@ -220,15 +224,17 @@ McCoy goes on to describe the ground fire that peppered the Tower and narrowly m
     <img src="{{ site.baseurl }}/images/posts/mcquistion/third-video-poster.jpg" class="video-poster" />
     <div class="play-button"></div>
   </a>
-  <div id="third-video-container" style="display: none"></div>
+  <div id="third-video-container" style="display: none">
+    <img src="{{ site.baseurl }}/images/interface/loader.svg" class="loader" />
+  </div>
   <script type="text/javascript">
     $('#third-video-link').on('click', function(e) {
       e.preventDefault();
       $('#third-video-link').hide();
+      $('#third-video-container').show();
       $.get('{{ site.baseurl }}/video/mcquistion-third-video.html', function(data) {
         $('#third-video-container').html(data);
       });
-      $('#third-video-container').show();
     });
   </script>
 
