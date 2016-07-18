@@ -268,7 +268,10 @@ body.homepage .footnotes {
 @media (max-width: 480px) {
   html {
     font-size: 14px; } }
-@media (max-width: 520px) {
+@media (max-width: 640px) {
+  .header nav {
+    font-size: .866666667em; } }
+@media (max-width: 550px) {
   body {
     padding-top: 32px; }
 
@@ -324,7 +327,12 @@ header {
   .post-content blockquote {
     margin: 0 0 2.5em 0; }
   .post-content h2 {
+    border-color: #fac589;
+    border-style: solid;
+    border-width: 0 0 1px 0;
     margin: 2em 0 1em 0; }
+    .post-content h2:first-child {
+      margin-top: 0; }
   .post-content p {
     line-height: 150%;
     margin-bottom: 1.5em; }
