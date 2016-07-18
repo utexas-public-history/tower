@@ -425,7 +425,13 @@ body.homepage {
   }
 }
 
-@media (max-width: 520px) {
+@media (max-width: 640px) {
+  .header nav {
+    font-size: .866666667em; // 13px over 15px
+  }
+}
+
+@media (max-width: 550px) {
   body {
     padding-top: 32px;
   }
