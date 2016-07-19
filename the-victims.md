@@ -141,7 +141,7 @@ _Text compiled by Maria Esther Hammack, Keisha Laneé Brown, Miguel Daza, Alejan
 
 Gary Lavergne. _The Sniper in the Tower: The Charles Whitman Murders_. Denton, Texas: University of North Texas Press, 1997.
 
-Valrie Plaza. _American Mass Murderers_. Raleigh, North Carolina: Lulu Publishing, March 2015.
+Valerie Plaza. _American Mass Murderers_. Raleigh, North Carolina: Lulu Publishing, March 2015.
 
 “The Texas Sniper.” _Life Magazine_. August 12, 1966.
 </div></div></div>

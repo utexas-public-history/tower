@@ -95,11 +95,11 @@ To be clear, many people still viewed the rifle as a tool, a necessary part of l
 
 [^2]: Small Arms Survey, and Graduate Institute of International Studies, _Small Arms Survey 2007: Guns and the City_, (Cambridge; New York: Cambridge University Press, 2007), accessed April 24, 2016: <http://www.smallarmssurvey.org/publications/by-type/yearbook/small-arms-survey-2007.html>.
 
-[^3]: Wright, James D., and Linda L. Marston, “The Ownership of the Means of Destruction: Weapons in the United States,” _Social Problems_ 23 (1975), 93, 96.
+[^3]: James D. Wright and Linda L. Marston, “The Ownership of the Means of Destruction: Weapons in the United States,” _Social Problems_ 23 (1975), 93, 96.
 
 [^4]: Bindu Kalesan, Marcos D Villarreal, Katherine M Keyes and Sandro Galea, “Gun Ownership and Social Gun Culture,” _Injury Prevention_, June 29, 2015, accessed April 24, 2016, doi:10.1136/injuryprev-2015-041586.
 
-[^5]: William J Krouse and Library of Congress, Congressional Research Service, _Gun control legislation in the 112th Congress_, Washington D.C.: Congressional Research Service, Library of Congress (2012), accessed April 24, 2016: <https://fas.org/sgp/crs/misc/RL32842.pdf>.
+[^5]: William J. Krouse and Library of Congress, Congressional Research Service, _Gun control legislation in the 112th Congress_, Washington D.C.: Congressional Research Service, Library of Congress (2012), accessed April 24, 2016: <https://fas.org/sgp/crs/misc/RL32842.pdf>.
 
 [^6]: Kathryn Kahler, “Americans Love Their Guns but Fear Violence,” in _Guns in America: A Reader_, edited by Jan E Dizard, Robert Merrill Muth, and Stephen P Andrews, Jr., 158-161. (New York: New York University Press, 1999), 159.
 

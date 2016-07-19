@@ -72,19 +72,19 @@ While a history of domestic violence and a dysfunctional family life may have pl
 <div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 ## Sources
 
-<a name="bevan-and-higgins" />Bevan, E., & Higgins, D. J. (2002). Is Domestic Violence Learned? The Contribution of Five Forms of Child Maltreatment to Men’s Violence and Adjustment. _Journal of Family Violence_, 17(3), 223-245. doi:10.1023/A:1016053228021.
+<a name="bevan-and-higgins" />E. Bevan and D.J. Higgins. (2002). Is Domestic Violence Learned? The Contribution of Five Forms of Child Maltreatment to Men’s Violence and Adjustment. _Journal of Family Violence_, 17(3), 223-245. doi:10.1023/A:1016053228021.
 
-Christoffersen, J. & Apuzzo, M. (2012, December 16). Evidence hints at deadlier plan in Conn. massacre. The Washington Times. Retrieved from <http://www.washingtontimes.com/news/2012/dec/16/governor-gunman-shot-self-first-responders-closed/?page=all#pagebreak?>.
+J. Christoffersen and M. Apuzzo. (2012, December 16). Evidence hints at deadlier plan in Conn. massacre. The Washington Times. Retrieved from <http://www.washingtontimes.com/news/2012/dec/16/governor-gunman-shot-self-first-responders-closed/?page=all#pagebreak?>.
 
-<a name="duwe" />Duwe, G. (2004). The Patterns and Prevalence of Mass Murder in Twentieth-Century America. _Justice Quarterly_, 21(4), 729-761. doi:10.1080/07418820400095971
+<a name="duwe" />G. Duwe. (2004). The Patterns and Prevalence of Mass Murder in Twentieth-Century America. _Justice Quarterly_, 21(4), 729-761. doi:10.1080/07418820400095971
 
-<a name="higgins-and-mccabe" />Higgins, D. J., and McCabe, M. P. (1998). Parent Perceptions of Maltreatment and Adjustment in Children. _Journal of Family Studies_. 4: 53-76.
+<a name="higgins-and-mccabe" />D.J. Higgins and M.P. McCabe. (1998). Parent Perceptions of Maltreatment and Adjustment in Children. _Journal of Family Studies_. 4: 53-76.
 
-Higgins, D. J., and McCabe, M. P. (2000). Relationships between Different Types of Maltreatment During Childhood and Adjustment In Adulthood. _Child Maltreat_. 5: 261-272.
+D.J. Higgins and M.P. McCabe. (2000). Relationships between Different Types of Maltreatment During Childhood and Adjustment In Adulthood. _Child Maltreat_. 5: 261-272.
 
-Lavergne, G. M., 1955. (1997). _A Sniper In The Tower: The Charles Whitman Murders_ (1st ed.). Denton: University of North Texas Press.
+G.M. Lavergne. _A Sniper In The Tower: The Charles Whitman Murders_ (1st ed.). Denton: University of North Texas Press, 1997.
 
-Mayo, M. (2008). Andrew Kehoe. _American Murder: Criminals, Crime, and the Media_. (pp. 175-176) Canton, MI: Visible Ink Press.
+M. Mayo. (2008). Andrew Kehoe. _American Murder: Criminals, Crime, and the Media_. (pp. 175-176) Canton, MI: Visible Ink Press.
 
 Special to _The New York Times_. (1927, May 20). SCHOOL DYNAMITER FIRST SLEW WIFE. New York Times (1923-Current File) Retrieved April 10, 2016 from <http://search.proquest.com/docview/104204230?accountid=7118>.
 

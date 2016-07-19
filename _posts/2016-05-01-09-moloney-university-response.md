@@ -72,17 +72,17 @@ In 1966 the university exhibited concern for the well-being of students directly
 <div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 ## Sources
 
-Colloff, Pamela. “96 Minutes.” _Texas Monthly_. January 20, 2013. April 1, 2016.
+Pamela Colloff. “96 Minutes.” _Texas Monthly_. January 20, 2013. April 1, 2016.
 
 “Edna Townsley Document,” UT President’s Office Box 80-50/35 Whitman, Charles Joseph,  1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-Evans, Darro, and Sara Speights. “Austin American-Statesman.” _The Austin American-Statesman_ August 7, 1966: A17.
+Darro Evans and Sara Speights. “Austin American-Statesman.” _The Austin American-Statesman_ August 7, 1966: A17.
 
 “Flags at half-mast,” UT President’s  Office Box 80-50/35 Whitman, Charles Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-Moloney, Justina. _Oral History with Larry Bethune_. WAV file. Austin, TX, 2016.
+Justina Moloney. _Oral History with Larry Bethune_. WAV file. Austin, TX, 2016.
 
-Spelce, Neal. “The Neal Spelce Collection, No. 1 – UT Tower Shooting.” _Texas Archive of the  Moving Image_. Texas Archive of the Moving Image. Accessed April 1, 2016.
+Neal Spelce. “The Neal Spelce Collection, No. 1 – UT Tower Shooting.” _Texas Archive of the  Moving Image_. Texas Archive of the Moving Image. Accessed April 1, 2016.
 
 “Students injured on August 1st 1966,” UT President’s Office Box 80-50/35 Whitman, Charles  Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 

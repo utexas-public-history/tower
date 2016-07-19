@@ -38,6 +38,6 @@ It is now time for The University of Texas to take stock of all of these stories
 
 [^3]: Morris Hohmann. Interview by Sara Rider. Austin History Center Oral History Transcript May 31, 1983: n. pag. Print.
 
-[^4]: “CAMPUS LIFE: University of Texas; Infamous Weapons Are Put Up for Sale.” New York Times. N.p., July 30, 1989.
+[^4]: “CAMPUS LIFE: University of Texas; Infamous Weapons Are Put Up for Sale.” _New York Times_. n. pag., July 30, 1989.
 
-[^5]: Dell Cameron. “How a Survivor of the 1966 UT Tower Massacre Sees Saturday’s ‘mock Shooting’” The Daily Dot. N.p., December 11, 2015.
+[^5]: Dell Cameron. “How a Survivor of the 1966 UT Tower Massacre Sees Saturday’s ‘mock Shooting’” The Daily Dot. n. pag., December 11, 2015.

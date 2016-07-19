@@ -103,7 +103,7 @@ Students´ life at UT in the first part of the sixties was not “pristine” or
 
 Anita Brewer, “UT to Begin Low Cost Housing Plans.” _The Austin American_ (1914-1973), March 14, 1965. Accessed: March 17, 2016 <http://search.proquest.com/docview/1611063781?accountid=7118>.
 
-Benjamin Fine & Sidney A. Eisenberg. “Money For College.” _The Austin American_ (1914-1973), December 22, 1963. Accessed: March 17, 2016 <http://search.proquest.com/docview/1559273317?accountid=7118>.
+Benjamin Fine and Sidney A. Eisenberg. “Money For College.” _The Austin American_ (1914-1973), December 22, 1963. Accessed: March 17, 2016 <http://search.proquest.com/docview/1559273317?accountid=7118>.
 
 Beverly Burr. “History of Student Activism at the University of Texas at Austin.” Thesis, The University of Texas at Austin, 1988.
 
@@ -117,17 +117,17 @@ Dwonna Naomi Goldstone. _Integrating the 40 acres: The fifty-year struggle for r
 
 Jack Keever. “The Negro at UT: Simply a Student.” _The Austin American_ (1914-1973), March 17, 1963. Accessed: March 17, 2016 <http://search.proquest.com/docview/1559246811?accountid=7118>.
 
-Maurice Isserman & Michael Kazin. _America Divided: The Civil War of the 1960s_. New York: Oxford University Press, 2004.
+Rebecca Liswood. “What Chance has a College Marriage?” _The Austin American_ (1914-1973), October 23, 1966. Accessed: March 17, 2016 <http://search.proquest.com/docview/1637691798?accountid=7118>.
+
+Maurice Isserman and Michael Kazin. _America Divided: The Civil War of the 1960s_. New York: Oxford University Press, 2004.
 
 Morton Hoffman & Company. Housing Market Analysis, Austin Texas, 1965-1985: Report prepared for the Austin Community Development Program. Austin: Austin History Center.
 
 “New Left: The Students for a Democratic Society.” _The Austin American_ (1914-1973), November 28, 1965. Accessed: March 2016 <http://search.proquest.com/docview/1643669432?accountid=7118>.
 
-Patrick Carolyn. “College Costs Climbs.” Dallas News, 1965. The Dolph Briscoe Center for American History, The University of Texas at Austin.
+Carolyn Patrick. “College Costs Climbs.” Dallas News, 1965. The Dolph Briscoe Center for American History, The University of Texas at Austin.
 
 “Procedures for handling Anti-Military Disturbances” Students for a Democratic Society Records, 1962-1978, Dolph Briscoe Center for American History, The University of Texas at Austin.
-
-Rebecca Liswood. “What Chance has a College Marriage?” _The Austin American_ (1914-1973), October 23, 1966. Accessed: March 17, 2016 <http://search.proquest.com/docview/1637691798?accountid=7118>.
 
 “Slim UT Student Vote Slaps City Wrist for Denying SDS.” _The Austin Statesman_ (1921-1973), October 21, 1965. Accessed: March 2016 <http://search.proquest.com/docview/1522200908?accountid=7118>.
 
@@ -157,7 +157,7 @@ United States Department of Labor. “Minimum Wage-U.S Department of Labor-Chart
 
 [^8]: The University of Texas News and Information Service. _Brief Report from the University of Texas_. The Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-[^9]: Benjamin Fine & Sidney A. Eisenberg. “Money For College.” _The Austin American_ (1914-1973), December 22, 1963. Accessed: March 17, 2016 <http://search.proquest.com/docview/1559273317?accountid=7118>.
+[^9]: Benjamin Fine and Sidney A. Eisenberg. “Money For College.” _The Austin American_ (1914-1973), December 22, 1963. Accessed: March 17, 2016 <http://search.proquest.com/docview/1559273317?accountid=7118>.
 
 [^10]: Morton Hoffman & Company. _Housing Market Analysis, Austin Texas, 1965-1985: Report prepared for the Austin Community Development Program_. Austin: Austin History Center.
 

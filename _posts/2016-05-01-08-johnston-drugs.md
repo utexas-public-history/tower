@@ -90,7 +90,7 @@ Armed Forces Institute of Pathology, letter to Dr. R Lee Clark, August 16, 1966,
 
 “Report to the Governor, Medical Aspects, Charles J. Whitman Catastrophe,” Austin History Center.
 
-Hall, Jerry. “Tower Sniper ‘Ate Drugs Like Popcorn.’” Unidentified newspaper article, Gary M. Lavergne Papers, Box 5a, Folder 4.000, Dolph Briscoe Center for American History.
+Jerry Hall. “Tower Sniper ‘Ate Drugs Like Popcorn.’” Unidentified newspaper article, Gary M. Lavergne Papers, Box 5a, Folder 4.000, Dolph Briscoe Center for American History.
 
 J.W. Hand, Interim Report of Investigation, Food and Drug Administration, Bureau of Drug Abuse Control, from the files of the Texas Department of Public Safety at the Texas State Library and Archives Commission.
 
@@ -102,7 +102,7 @@ Interim Report: Recommendations Concerning University Drug Policies and Procedur
 
 Dr. Maurice Dean Heatly report on Charles Whitman, March 29, 1966, from the Austin Police Department files, Austin History Center.
 
-Pearlman, S. (1968), DRUG USE AND EXPERIENCE IN AN URBAN COLLEGE POPULATION. _American Journal of Orthopsychiatry_, 38: 503–514. doi: 10.1111/j.1939-0025.1968.tb00585.x
+S. Pearlman. (1968), DRUG USE AND EXPERIENCE IN AN URBAN COLLEGE POPULATION. _American Journal of Orthopsychiatry_, 38: 503–514. doi: 10.1111/j.1939-0025.1968.tb00585.x
 
 “Whitman ‘ate drugs like candy’.” _The Austin Statesman_. March 7, 1967.
 
@@ -112,7 +112,7 @@ Pearlman, S. (1968), DRUG USE AND EXPERIENCE IN AN URBAN COLLEGE POPULATION. _Am
 
 [^2]: “Report to the Governor, Medical Aspects, Charles J. Whitman Catastrophe,” Austin History Center.
 
-[^3]: Hall, Jerry. “Tower Sniper ‘Ate Drugs Like Popcorn.’” Unidentified newspaper article, Gary M. Lavergne Papers, Box 5a, Folder 4.000, Dolph Briscoe Center for American History; J.W. Hand, Interim Report of Investigation, Food and Drug Administration, Bureau of Drug Abuse Control, from the files of the Texas Department of Public Safety at the Texas State Library and Archives Commission.
+[^3]: Jerry Hall. “Tower Sniper ‘Ate Drugs Like Popcorn.’” Unidentified newspaper article, Gary M. Lavergne Papers, Box 5a, Folder 4.000, Dolph Briscoe Center for American History; J.W. Hand, Interim Report of Investigation, Food and Drug Administration, Bureau of Drug Abuse Control, from the files of the Texas Department of Public Safety at the Texas State Library and Archives Commission.
 
 [^4]: Hand, Interim Report of Investigation, Food and Drug Administration.
 
@@ -144,7 +144,7 @@ Pearlman, S. (1968), DRUG USE AND EXPERIENCE IN AN URBAN COLLEGE POPULATION. _Am
 
 [^18]: Hand, Interim Report of Investigation, Food and Drug Administration.
 
-[^19]: Pearlman, S. (1968), DRUG USE AND EXPERIENCE IN AN URBAN COLLEGE POPULATION. _American Journal of Orthopsychiatry_, 38: 503–514. doi: 10.1111/j.1939-0025.1968.tb00585.x.
+[^19]: S. Pearlman. (1968), DRUG USE AND EXPERIENCE IN AN URBAN COLLEGE POPULATION. _American Journal of Orthopsychiatry_, 38: 503–514. doi: 10.1111/j.1939-0025.1968.tb00585.x.
 
 [^20]: Hand, Interim Report of Investigation, Food and Drug Administration.
 

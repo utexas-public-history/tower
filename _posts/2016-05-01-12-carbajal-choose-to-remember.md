@@ -89,51 +89,51 @@ As observers, we should acknowledge that while the effort to pay respect to the 
 <div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 ## Sources
 
-Bowden, Charles. “The Tower Tragedy.” _Esquire_, January 29, 2007. <http://www.esquire.com/features/ESQ0299-FEB_AMERICA_rev_>.
+Charles Bowden. “The Tower Tragedy.” _Esquire_, January 29, 2007. <http://www.esquire.com/features/ESQ0299-FEB_AMERICA_rev_>.
 
 _Framing Public Memory_. Edited by Kendall R. Philipps. Tuscaloosa: University of Alabama Press, 2009.
 
 “A Conceptual Framework for Dealing with the Past: Holism in Principle and Practice.” Dealing with the Past Background Paper. Swiss Peace, 2012.
 
-Eberly, Rosa, “Consider an Educational Memorial for UT Tower Shootings.” _Austin American-Statesman_. Accessed April 28, 2016. <http://www.mystatesman.com/news/news/opinion/eberly-consider-an-educational-memorial-for-ut-tow/nqrkL/>.
+Rosa Eberly. “Consider an Educational Memorial for UT Tower Shootings.” _Austin American-Statesman_. Accessed April 28, 2016. <http://www.mystatesman.com/news/news/opinion/eberly-consider-an-educational-memorial-for-ut-tow/nqrkL/>.
 
 “Finding Healing.” _Lampasas Dispatch Record_. Accessed April 7, 2016. <http://www.lampasasdispatchrecord.com/news/2011-11-11/Front_Page/Finding_healing.html>.
 
-Foote, Kenneth E. _Shadowed Ground : America’s Landscapes of Violence and Tragedy_. Vol. Rev. and updated, rev. ed. Austin: University of Texas Press, 2003. <http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=130398&site=ehost-live>.
+Kenneth E. Foote. _Shadowed Ground : America’s Landscapes of Violence and Tragedy_. Vol. Rev. and updated, rev. ed. Austin: University of Texas Press, 2003. <http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=130398&site=ehost-live>.
 
-Foot, Kirsten, Barbara Warnick, and Steven M. Schneider. “Web-Based Memorializing After September 11: Toward a Conceptual Framework.” _Journal of Computer-Mediated Communication_ 11, no. 1 (November 1, 2005): 72-96. doi:10.1111/j.1083-6101.2006.tb00304.x.
+Kirsten Foot, Barbara Warnick, and Steven M. Schneider. “Web-Based Memorializing After September 11: Toward a Conceptual Framework.” _Journal of Computer-Mediated Communication_ 11, no. 1 (November 1, 2005): 72-96. doi:10.1111/j.1083-6101.2006.tb00304.x.
 
-Hlavaty, Craig, “47 Years Later, Whitman’s Tower Shooting Still a Haunting Memory for Texans.” _The Texican_, August 1, 2013. <http://blog.chron.com/thetexican/2013/08/47-years-later-whitmans-tower-shooting-still-a-haunting-memory-for-texans/>.
+Craig Hlavaty. “47 Years Later, Whitman’s Tower Shooting Still a Haunting Memory for Texans.” _The Texican_, August 1, 2013. <http://blog.chron.com/thetexican/2013/08/47-years-later-whitmans-tower-shooting-still-a-haunting-memory-for-texans/>.
 
 “Landscape Architect and Visual Artist Chosen to Redesign Tower Garden at.” _UT News \| The University of Texas at Austin_, February 8, 2002. <http://news.utexas.edu/2002/02/08/nr_garden>.
 
-Luciano, Marlena. “A Unique Memorial.” Accessed April 7, 2016. <https://sites.jmu.edu/wrtcworkshop/a-unique-memorial/>.
+Marlen Luciano. “A Unique Memorial.” Accessed April 7, 2016. <https://sites.jmu.edu/wrtcworkshop/a-unique-memorial/>.
 
-Margry, Peter Jan, and Cristina Sanchez-Carretero. _Grassroots Memorials : The Politics of Memorializing Traumatic Death_. 1st ed. New York, NY: Berghahn Books, 2011.
+Peter Jan Margry and Cristina Sanchez-Carretero. _Grassroots Memorials : The Politics of Memorializing Traumatic Death_. 1st ed. New York, NY: Berghahn Books, 2011.
 
 “Memorial Plaque in Tower Garden Commemorates Victims of Aug. 1, 1966 Shooting Tragedy.” _UT News \| The University of Texas at Austin_, January 10, 2007. <http://news.utexas.edu/2007/01/10/tower_garden>.
 
 “A Moving Memorial for the Victims of the UT Tower Shootings \| The Rag Blog.” Accessed April 7, 2016. <http://www.theragblog.com/metro-alice-embree-a-moving-memorial-for-the-victims-of-the-ut-tower-shootings/>.
 
-Moloney, Justina. _Oral History with Larry Bethune_. WAV file. Austin, TX, 2016.
+Justina Moloney. _Oral History with Larry Bethune_. WAV file. Austin, TX, 2016.
 
 “Optimists Will Honor Heroes of Tower Day.” _The Austin American_ (1914-1973). August 21, 1966.
 
-Plaza, Valrie. _American Mass Murderers_. Lulu.com, 2015.
+Valerie Plaza. _American Mass Murderers_. Lulu.com, 2015.
 
-Purbick, Louise, Jim Auich, and Graham Dawson, eds. _Contested Spaces: Sites, Representations and Histories of Conflict_. New York, NY: Palgrave MacMillan, 2007.
+Louise Purbick, Jim Auich, and Graham Dawson, eds. _Contested Spaces: Sites, Representations and Histories of Conflict_. New York, NY: Palgrave MacMillan, 2007.
 
-Roser, Mary Ann, “New Memorial Planned to Mark 50th Anniversary of UT Tower…” _Austin American- Statesman_. Accessed April 7, 2016. <http://www.mystatesman.com/news/news/local/new-memorial-planned-to-mark-50th-anniversary-of-u/nqnXC/>.
+Mary Ann Roser. “New Memorial Planned to Mark 50th Anniversary of UT Tower…” _Austin American- Statesman_. Accessed April 7, 2016. <http://www.mystatesman.com/news/news/local/new-memorial-planned-to-mark-50th-anniversary-of-u/nqnXC/>.
 
-Schwake, Jena R. “Who Is Columbine? Forgetting the Public in Contemporary Memorial Sites.” M.A., Colorado State University, 2015. <http://search.proquest.com/docview/1717575798/abstract/C0BE94BD8B124A50PQ/1>.
+Jena R. Schwake. “Who Is Columbine? Forgetting the Public in Contemporary Memorial Sites.” M.A., Colorado State University, 2015. <http://search.proquest.com/docview/1717575798/abstract/C0BE94BD8B124A50PQ/1>.
 
-Sci, Susan A. “(Re)thinking the Memorial as a Place of Aesthetic Negotiation.” _Culture, Theory and Critique_ 50, no. 1 (April 1, 2009): 41-57. doi:10.1080/14735780802696351.
+Susan A. Sci. “(Re)thinking the Memorial as a Place of Aesthetic Negotiation.” _Culture, Theory and Critique_ 50, no. 1 (April 1, 2009): 41-57. doi:10.1080/14735780802696351.
 
-Senie, Harriet F. “How the Columbine Memorial Missed an Opportunity We Should Have Seized.” Accessed April 28, 2016. <http://historynewsnetwork.org/article/162369>.
+Harriet F. Senie. “How the Columbine Memorial Missed an Opportunity We Should Have Seized.” Accessed April 28, 2016. <http://historynewsnetwork.org/article/162369>.
 
-Sheridan, Kelsey. “45th Anniversary of UT Shooting Marked With Dedication Ceremony.” Accessed April 28, 2016. <http://kut.org/post/45th-anniversary-ut-shooting-marked-dedication-ceremony>.
+Kelsey Sheridan. “45th Anniversary of UT Shooting Marked With Dedication Ceremony.” Accessed April 28, 2016. <http://kut.org/post/45th-anniversary-ut-shooting-marked-dedication-ceremony>.
 
-Tedford, Deborah. “University of Texas Shooting Remembered.” _NPR.org_. Accessed April 7, 2016. <http://www.npr.org/templates/story/story.php?storyId=9619382>.
+Deborah Tedford. “University of Texas Shooting Remembered.” _NPR.org_. Accessed April 7, 2016. <http://www.npr.org/templates/story/story.php?storyId=9619382>.
 
 “Telling the Stories of the Whitman Shooting [Podcast].” _The Alcalde_, April 4, 2014. <http://alcalde.texasexes.org/2014/04/telling-the-stories-of-the-whitman-shooting-podcast/>.
 
@@ -141,7 +141,7 @@ Tedford, Deborah. “University of Texas Shooting Remembered.” _NPR.org_. Acce
 
 “Tower Reflection Submission,” n.d. UT Remembers Records Box 2F472 1998-2002.
 
-Tyner, James, Savina Sirik, and Samuel Henkin. “Violence and the Dialectics of Landscape: Memorialization in Cambodia.” _Geographical Review_ 104, no. 3 (July 1, 2014): 277-93. doi:10.1111/j.1931-0846.2014.12026.x.
+James Tyner, Savina Sirik, and Samuel Henkin. “Violence and the Dialectics of Landscape: Memorialization in Cambodia.” _Geographical Review_ 104, no. 3 (July 1, 2014): 277-93. doi:10.1111/j.1931-0846.2014.12026.x.
 
 “U. Texas’s Tower Garden Memorial For 1966 Shooting Victims.” _Austinist_. Accessed April 7, 2016. <http://austinist.com/2012/04/16/u_texass_tower_garden_memorial_for.php>.
 
