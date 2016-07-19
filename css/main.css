@@ -233,7 +233,6 @@ body.homepage .footnotes {
         color: #360916;
         display: block;
         font-size: 1.75em;
-        font-weight: bold;
         line-height: 125%;
         position: relative;
         z-index: 1; }
@@ -241,7 +240,7 @@ body.homepage .footnotes {
         font-family: Georgia, serif;
         color: #360916;
         display: block;
-        font-size: 1.5em;
+        font-size: 1.25em;
         line-height: 125%;
         position: relative;
         z-index: 1; }
