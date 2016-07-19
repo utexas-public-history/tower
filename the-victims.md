@@ -48,7 +48,7 @@ That was when Whitman saw them. He came running towards them, firing a blast fro
 
 Remarkably, in statements made several months after the shooting, neither Mike nor Mary felt anything besides pity for Whitman.
 
-## Karen Griffth
+## Karen Griffith
 
 Karen Griffith was on Guadalupe and 23rd Street when Whitman shifted his attention away from the campus grounds. She was seventeen years old and a student at Lanier High School, the same high school that Kathy Whitman taught biology. Whitman wounded her in the shoulder and chest, the bullet piercing her right lung lung, which led to her death seven days after the shooting on August 9, 1966 at Brackenridge Hospital. The Lanier High School yearbook for the academic year 1966-1967, when she would have been a graduating senior, features a dedication to Karen and to Kathy Whitman. Originally from Wichita Falls, Texas, she is buried in Crestview Memorial Park in Wichita Falls.  
 
@@ -78,7 +78,7 @@ The bullet pierced through the left side of Karr’s spine, which laid him flat 
 
 Claudia Rutt wanted to be a dancer. At 18, she had just graduated from Stephen F. Austin High School and was about to leave for her freshman year at Texas Christian University. Claudia was a native Austinite and a member of her youth group at Temple Beth Israel. Austin's Jewish community called her murder part of a “Texas Holocaust.” As her rabbi told reporters, Claudia was “loved by everybody.”
 
-Before the shooting began, Claudia was casually chatting with friends on the Drag. She and her steady boyfriend, Paul Sonntag, were on their way to the University Co-op to look at some records. Paul Bolton Sonntag was also 18 when he was killed by Charles Whitman on August 1, 1966. He was a recent graduate of Stephen F. Austin High School in Austin and was planning to attend Colorado University in the fall. That summer, Paul was in his third year as a lifeguard at Reed Pool.  
+Before the shooting began, Claudia was casually chatting with friends on the Drag. She and her boyfriend, Paul Sonntag, were on their way to the University Co-op to look at some records. Paul Bolton Sonntag was also 18 when he was killed by Charles Whitman on August 1, 1966. He was a recent graduate of Stephen F. Austin High School in Austin and was planning to attend Colorado University in the fall. That summer, Paul was in his third year as a lifeguard at Reed Pool.  
 
 The couple had just run into a friend, Carla Sue Wheeler, when shots began to ring out. The group took shelter behind a construction barrier, but, for two of them, it was already too late. Paul was shot and died instantly. When Claudia tried to reach for him, Carla held her back. The two women were shot at once: Carla in the hand, and Claudia in the chest. Carla survived, but Claudia's internal bleeding was too severe – she died on the operating table at Brackenridge Hospital.
 
@@ -106,13 +106,13 @@ Speed was formally laid to rest at the Fort Sam Houston Cemetery in San Antonio,
 
 ## Edna Elizabeth Townsley
 
-Edna Elizabeth Townsley was the receptionist on duty at the observation deck of the UT Tower when Charles Whitman came to campus on August 1, 1966. She normally would have had the day off but was covering for a friend on vacation. When Whitman ascended the tower, Townsley (age 51) was minutes away from being relieved for her lunch break. Townsley was known for her scrappiness—she was 5’4”— and “loud, unique laugh.” She worked at the University of Texas since 1954 and at the Tower since 1958. Townsley was survived by her sons, Danny and Terry Townsley, and her three sister and two brothers. She was a member of the Lutheran Church.
+Edna Elizabeth Townsley was the receptionist on duty at the observation deck of the UT Tower when Charles Whitman came to campus on August 1, 1966. She normally would have had the day off but was covering for a friend on vacation. When Whitman ascended the tower, Townsley was minutes away from being relieved for her lunch break. Townsley was known for her scrappiness—she was 5’4”— and “loud, unique laugh.” She worked at the University of Texas since 1954 and at the Tower since 1958. Townsley was survived by her sons, Danny and Terry Townsley, and her three sister and two brothers. She was a member of the Lutheran Church.
 
 ## Harry Walchuk
 
 Harry Walchuk was born on February 3, 1928 in Minnesota, where he lived most of his life. He met Marilyn Mason there and married her in 1951. Together they had six children: John, Peter, Christopher, Jennifer, Thomas and Paul. Walchuk had received a bachelor’s degree from UT Austin in 1954. In 1966 he returned to UT to complete a PhD.
 
-On August 1the 38-year old doctoral student had been doing research at the UT Library and preparing for his usual 7:00 pm class. Around 12:00, he left the library to get something to eat and headed out along Guadalupe. Walchuk stopped at the magazine store along the way.He walked out on to the sidewalk unaware that he was facing straight at the tower and in plain sight of Whitman. As he started to walk a bit south of where the barber shop was located on Guadalupe, the 28-year-old navy veteran was fatally shot in the chest. He instantly collapsed onto the sidewalk.
+On August 1 the 38-year old doctoral student had been doing research at the UT Library and preparing for his usual 7:00 pm class. Around 12:00, he left the library to get something to eat and headed out along Guadalupe. Walchuk stopped at the magazine store along the way.He walked out on to the sidewalk unaware that he was facing straight at the tower and in plain sight of Whitman. As he started to walk a bit south of where the barber shop was located on Guadalupe, the 28-year-old navy veteran was fatally shot in the chest. He instantly collapsed onto the sidewalk.
 
 Walchuk is buried in Fort Snelling National Cemetery in Hennepin County, Minnnesota.
 
@@ -132,7 +132,7 @@ The family ran a successful plumbing business in Lake Worth, where Margaret mana
 
 Troubled by his parents’ separation, among other issues, Charles Whitman murdered his mother in her apartment on August 1, 1966. She was struck on the head, shot, and fatally stabbed in the chest in the same manner that Whitman would also kill his wife. Margaret Whitman was the first of Charles Whitman’s victims that day.
 
-_Text compiled by Maria Esther Hammack, Keisha Laneé Brown, Miguel Daza, Alejandra Garza, Rebecca Johnston, Justin Krueger, John Lisle, Justina Maloney, Isaac McQuistion, and Joan Neuberger._
+_Text compiled by Maria Esther Hammack, Keisha Laneé Brown, Miguel Daza, Alejandra Garza, Rebecca Johnston, Justin Krueger, John Lisle, Isaac McQuistion, Justina Moloney, and Joan Neuberger._
 </div></div></div>
 
 {::options parse_block_html="true" /}
@@ -141,7 +141,7 @@ _Text compiled by Maria Esther Hammack, Keisha Laneé Brown, Miguel Daza, Alejan
 
 Gary Lavergne. _The Sniper in the Tower: The Charles Whitman Murders_. Denton, Texas: University of North Texas Press, 1997.
 
-Valerie Plaza. _American Mass Murderers_. Raleigh, North Carolina: Lulu Publishing, March 2015.
+Valrie Plaza. _American Mass Murderers_. Raleigh, North Carolina: Lulu Publishing, March 2015.
 
 “The Texas Sniper.” _Life Magazine_. August 12, 1966.
 </div></div></div>
