@@ -233,6 +233,15 @@ body.homepage .footnotes {
         color: #360916;
         display: block;
         font-size: 1.75em;
+        font-weight: bold;
+        line-height: 125%;
+        position: relative;
+        z-index: 1; }
+      .essays-landing .post a span.subtitle {
+        font-family: Georgia, serif;
+        color: #360916;
+        display: block;
+        font-size: 1.5em;
         line-height: 125%;
         position: relative;
         z-index: 1; }
@@ -243,7 +252,7 @@ body.homepage .footnotes {
         z-index: 1; }
       .essays-landing .post a:hover {
         text-decoration: none; }
-        .essays-landing .post a:hover span.title {
+        .essays-landing .post a:hover span.title, .essays-landing .post a:hover span.subtitle {
           color: #d94709;
           text-decoration: underline; }
 
@@ -289,10 +298,16 @@ header {
   position: relative;
   z-index: 2; }
   header h1 {
+    font-weight: bold;
     letter-spacing: -.05em;
     margin-bottom: 0; }
+    header h1 span.subtitle {
+      display: block;
+      font-size: .75em;
+      font-weight: normal;
+      letter-spacing: -.025em; }
   header p.post-meta {
-    margin-top: 0; }
+    margin-top: .5em; }
 
 .page-content {
   font-family: Georgia, serif;
