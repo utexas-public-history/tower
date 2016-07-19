@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 'I Choose to Remember;<br />I Need to Forget'
+title: 'I Choose to Remember;<br> I Need to Forget'
 subtitle: Memorialization and Healing from a Moment of Violence on a University Campus'
 author: Itza Carbajal
 permalink: /i-choose-to-remember
 banner: /images/posts/carbajal/banner.jpg
 excerpt: Itza Carbajal analyzes efforts to memorialize victims and reflections of survivors of the tower shooting.
+og_article: true
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}

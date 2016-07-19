@@ -5,6 +5,7 @@ author: John Lisle
 permalink: /the-specter-of-the-tower
 banner: /images/posts/lisle/banner.jpg
 excerpt: John Lisle analyzes the various ways the tower serves as a campus symbol.
+og_article: true
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}

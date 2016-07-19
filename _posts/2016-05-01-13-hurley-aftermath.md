@@ -5,6 +5,7 @@ subtitle: Remembering and Forgetting the UT Tower Shooting
 author: Victoria Hurley
 permalink: /aftermath
 excerpt: Victoria Hurley makes the case for remembering the tower Shooting.
+og_article: true
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}

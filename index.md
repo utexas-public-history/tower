@@ -1,7 +1,6 @@
 ---
 layout: homepage
 title: 'Behind the Tower: New Histories of the UT Tower Shooting'
-author: 'Joan Neuberger'
 ---
 {::options parse_block_html="false" /}
 What happens to events that historians ignore, events that are recorded primarily as scattered patches of memory? What kind of history is told by novelists and journalists?

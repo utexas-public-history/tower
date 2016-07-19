@@ -4,6 +4,7 @@ title: Policing Before and After August 1, 1966
 author: Justin Krueger
 permalink: /policing
 excerpt: Justin Krueger outlines the changes in campus policing before and after the tower shooting.
+og_article: true
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}

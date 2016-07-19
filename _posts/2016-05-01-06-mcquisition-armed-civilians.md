@@ -5,6 +5,7 @@ author: Isaac McQuistion
 permalink: /armed-civilians-and-the-ut-tower-tragedy
 banner: /images/posts/mcquistion/bullet-holes-banner.jpg
 excerpt: Isaac McQuistion challenges the conventional wisdom of armed civilians’ role in the response to the tower shooting.
+og_article: true
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}
