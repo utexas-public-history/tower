@@ -4,6 +4,7 @@ title: The Victims
 permalink: /the-victims/
 nav_highlight: victims
 excerpt: Biographies of the people Charles Whitman killed and wounded.
+banner: /images/posts/lisle/banner.jpg
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}
