@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'I Choose to Remember; I Need to Forget: Memorialization and Healing from a Moment of Violence on a University Campus'
+title: 'I Choose to Remember;<br />I Need to Forget'
+subtitle: Memorialization and Healing from a Moment of Violence on a University Campus'
 author: Itza Carbajal
 permalink: /i-choose-to-remember
 banner: /images/posts/carbajal/banner.jpg

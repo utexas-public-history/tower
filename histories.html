@@ -15,6 +15,9 @@ nav_highlight: histories
           <a href="{{ site.baseurl }}{{ post.permalink }}">
             <span class="number">{{ forloop.index }}.</span>
             <span class="title">{{ post.title }}</span>
+            {% if post.subtitle -%}
+              <span class="subtitle">{{ post.subtitle }}</span>
+            {% endif -%}
             <span class="author">By {{ post.author }}</span>
           </a>
           <hr class="one-col" />

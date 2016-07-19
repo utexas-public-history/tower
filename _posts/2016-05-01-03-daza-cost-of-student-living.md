@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'The Cost of Student Living: Race, Finances, and Politics at UT Austin in the 1960s'
+title: The Cost of Student Living
+subtitle: Race, Finances, and Politics at UT Austin in the 1960s
 author: Miguel Daza
 permalink: /the-cost-of-student-living
 banner: /images/posts/daza/banner.jpg

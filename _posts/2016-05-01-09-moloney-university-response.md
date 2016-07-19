@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'The University Response: A Product of the Times'
+title: The University Response
+subtitle: A Product of the Times
 author: Justina Moloney
 permalink: /the-university-response
 excerpt: Justina Moloney analyzes the university’s official response to the UT tower shooting.

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Aftermath: Remembering and Forgetting the UT Tower Shooting'
+title: Aftermath
+subtitle: Remembering and Forgetting the UT Tower Shooting
 author: Victoria Hurley
 permalink: /aftermath
 excerpt: Victoria Hurley makes the case for remembering the tower Shooting.

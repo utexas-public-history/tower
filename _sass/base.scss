@@ -357,6 +357,19 @@ body.homepage {
         display: block;
         font: {
           size: 1.75em;
+          weight: bold;
+        }
+        line-height: 125%;
+        position: relative;
+        z-index: 1;
+      }
+
+      span.subtitle {
+        @include serif-font-stack;
+        color: $textColor;
+        display: block;
+        font: {
+          size: 1.5em;
         }
         line-height: 125%;
         position: relative;
@@ -373,7 +386,7 @@ body.homepage {
       &:hover {
         text-decoration: none;
 
-        span.title {
+        span.title, span.subtitle {
           color: $accentColor;
           text-decoration: underline;
         }

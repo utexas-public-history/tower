@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ladies First'
+title: Ladies First
 author: Keisha Laneé Brown
 permalink: /ladies-first
 excerpt: Keisha Laneé Brown relates Charles Whitman to the linked histories misogynist violence and mass shootings.

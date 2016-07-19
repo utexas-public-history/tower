@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'The Little Metal Bottle: Substance Abuse in the Tower Disaster'
+title: The Little Metal Bottle
+subtitle: Substance Abuse in the Tower Disaster
 author: Rebecca Johnston
 permalink: /the-little-metal-bottle
 excerpt: Rebecca Johnston asks why substance abuse has received less attention than other factors in Whitman’s life in explaining the Tower shooting.
