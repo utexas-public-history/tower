@@ -119,7 +119,7 @@ Justina Moloney. _Oral History with Larry Bethune_. WAV file. Austin, TX, 2016.
 
 “Optimists Will Honor Heroes of Tower Day.” _The Austin American_ (1914-1973). August 21, 1966.
 
-Valerie Plaza. _American Mass Murderers_. Lulu.com, 2015.
+Valrie Plaza. _American Mass Murderers_. Lulu.com, 2015.
 
 Louise Purbick, Jim Auich, and Graham Dawson, eds. _Contested Spaces: Sites, Representations and Histories of Conflict_. New York, NY: Palgrave MacMillan, 2007.
 
