@@ -12,6 +12,13 @@ When Charles Whitman went to the top of the UT tower on August 1, 1966, the univ
 
 When the shooting was over and the bodies were removed, the media, public officials, and citizens alike called for answers and wanted action. Everyone was trying to make sense of the tragic event and try to prevent it from happening again.
 
+<div class="image-block">
+  <a href="{{ site.baseurl }}/images/posts/krueger/hoover-letter-fullsize.jpg" data-lightbox="hoover-letter"><img src="{{ site.baseurl }}/images/posts/krueger/hoover-letter.jpg" alt="Scan of letter to J. Edgar Hoover" class="tall-image" /></a>
+  <p class="caption">
+    Letter from APD Chief Robert Miles to FBI Director J. Edgar Hoover. Austin (TX) Police Department Records of the Charles Whitman Mass Murder Case. AR 2000.002. <span class="credit">Image courtesy of the <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center</a>.</span>
+  </p>
+</div>
+
 There was widespread acknowledgement that the current security services of the campus were inadequate to deal with situations such as the Charles Whitman shootings.
 
 For many the UT Traffic &amp; Security Services (T&amp;SS) were considered the de facto police department for The University of Texas. Their main focus was writing tickets for parking violations, supervising traffic, providing security around campus (including night watch of campus buildings), and conducting investigations. Investigations typically ran the gamut from vandalism and theft to drinking and campus hijinks.
@@ -68,6 +75,13 @@ The official T&amp;SS Offense Report from August 1, 1966 shows a department that
 At 11:50 am security officers L.W. Hebert and Jack Rodman were dispatched to the tower to check out the situation. Upon reaching the 27th floor by elevator they came across several of the early victims in the stairwell up to the 28th floor. After hearing continued gunfire outside and recognizing they had no weapons or plans by which to engage the shooter, both men decided it was best to head to the bottom of the main building to lock it down so no one could get in or out and to secure the interior of the building. This was at approximately 11:55 am. It was not until 89 minutes later that Whitman was finally shot and the killing ended.
 
 The lack of adequate resources, firearms, and response plans greatly limited the university officers’ ability to act. This was grossly obvious when Chief Hamilton called the university ROTC program to see if they had any weapons that the Traffic &amp; Security Services could use. The ROTC responded that they had weapons but no ammunition.
+
+<div class="image-block">
+  <a href="{{ site.baseurl }}/images/posts/krueger/connally-letter-fullsize.jpg" data-lightbox="connally-letter"><img src="{{ site.baseurl }}/images/posts/krueger/connally-letter.jpg" alt="Scan of letter from John Connally" alt="tall-image" /></a>
+  <p class="caption">
+    Letter from Texas Governor John Connally to APD Chief Robert Miles. Austin (TX) Police Department Records of the Charles Whitman Mass Murder Case. AR 2000.002. <span class="credit">Image courtesy of the <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center</a>.</span>
+  </p>
+</div>
 
 The lack of weapons and organization was not solely a problem for officials of The University of Texas.
 
