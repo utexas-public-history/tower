@@ -74,9 +74,9 @@ In 1966 the university exhibited concern for the well-being of students directly
 
 Pamela Colloff. “96 Minutes.” _Texas Monthly_. January 20, 2013. April 1, 2016.
 
-“Edna Townsley Document,” UT President’s Office Box 80-50/35 Whitman, Charles Joseph,  1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
+“A memorial fund honoring Edna Townsley.” UT President’s Office Box 80-50/35. Whitman, Charles Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
-Darro Evans and Sara Speights. “Austin American-Statesman.” _The Austin American-Statesman_ August 7, 1966: A17.
+Darro Evans and Sara Speights. “Sniper on the Tower.” _The Austin American-Statesman_ August 7, 1966: A17.
 
 “Flags at half-mast,” UT President’s  Office Box 80-50/35 Whitman, Charles Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
