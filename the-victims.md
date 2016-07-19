@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The People Charles Whitman Killed
-permalink: /the-people-charles-whitman-killed/
+title: The Victims
+permalink: /the-victims/
 nav_highlight: victims
-excerpt: Biographies of the people Charles Whitman killed.
+excerpt: Biographies of the people Charles Whitman killed and wounded.
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}
