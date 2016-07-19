@@ -19,7 +19,13 @@ Some of his victims and some of the witnesses to his killing rampage don’t eve
 
 At the time, and even in the days after the tragic shooting, Whitman was described in glowing terms. On August 2, 1966, _The Austin American_ headlined its front page attempt to construct his biography: “[’Everyone’ Loved Him][newspaper].” Until, that is, he “snapped.”
 
-In the last decades of the 20th century, ironic references to Whitman were the norm. He was the Marine and Eagle Scout  who turned into a mass murderer. As Rosa Eberly noted, his name appears in numerous films, from made-for-tv movies to indie classic, _Slacker_, to Stanley Kubrick’s _Full Metal Jacket_.[^1] But media attention to the increasing number of lone shooter mass murderers has led many observers to believe that the media itself enables copy-cats and leads to more violence by making them famous media stars. This view seems to indicate a belief that such lone mass shooters crave publicity for suicidal stunts; that they are cruel and indifferent narcissists. But the fact is that we still do not know what makes someone carry out a mass attack. This view might also suggest that the shooter’s motives and identity are irrelevant in light of the trauma they caused.
+As Dr. Coleman de Chenar, the pathologist who performed the autopsy on Whitman, said, the shooter was “an anti-social psychopath, and that’s the worst kind.”  He could be be social and friendly and make a good impression, but he concealed deep hostilities.[^1] _Life Magazine_ also presented Whitman from two sides.
+
+> He was big, strong, handsome, neat, hardworking. He was pleasant to be around and interesting to talk with. He spoke ill of no one – except, occasionally, his father – and he tried to speak well of many people. His grades were excellent. He enjoyed civic work, loved his wife, admired his professors and seemed to have no enemies.
+>
+> But he was also a violent man. He bit his nails to the quick and perspired ‘rings of sweat on the coolest days.’ He was a meticulous perfectionist… . What he said in deep intimate conversations changed from person to person.[^2]
+
+In the last decades of the 20th century, ironic references to Whitman were the norm. He was the Marine and Eagle Scout  who turned into a mass murderer. As Rosa Eberly noted, his name appears in numerous films, from made-for-tv movies to indie classic, _Slacker_, to Stanley Kubrick’s _Full Metal Jacket_.[^3] But media attention to the increasing number of lone shooter mass murderers has led many observers to believe that the media itself enables copy-cats and leads to more violence by making them famous media stars. This view seems to indicate a belief that such lone mass shooters crave publicity for suicidal stunts; that they are cruel and indifferent narcissists. But the fact is that we still do not know what makes someone carry out a mass attack. This view might also suggest that the shooter’s motives and identity are irrelevant in light of the trauma they caused.
 
 Is curiosity and the desire to understand mass murderers a symptom of the modern media circus?    
 Is empathy only available to people at a distance?     
@@ -41,7 +47,11 @@ _By Joan Neuberger_
 
 </div></div></div>
 
-[^1]: Rosa A. Eberly, “’Everywhere You Go, It’s There’: Forgetting and Remembering the University of Texas Tower Shootings,” _Framing Public Memory_, ed. Kendall R. Phillips (University of Alabama Press, 2004), 72-73.
+[^1]: Nat Henderson, “Sniper ‘Worst type’ Psycho.”
+
+[^2]: David Nevin, “The Eagle Scout Who Grew Up with a Tortured Mind,” _Life Magazine_, August 12, 1966, 28D.
+
+[^3]: Rosa A. Eberly, “’Everywhere You Go, It’s There’: Forgetting and Remembering the University of Texas Tower Shootings,” _Framing Public Memory_, ed. Kendall R. Phillips (University of Alabama Press, 2004), 72-73.
 
 [madman]: http://www.texasmonthly.com/articles/the-madman-on-the-tower/
 [tower]: http://www.towerdocumentary.com

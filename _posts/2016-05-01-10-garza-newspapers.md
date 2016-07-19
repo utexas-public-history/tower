@@ -4,12 +4,12 @@ title:  '“The Eyes of the World Are Upon You, Texas”: How the Austin Newspap
 author: Alejandra Garza
 permalink: /how-austin-newspapers-covered-the-shooting
 banner: /images/posts/garza/banner.jpg
-excerpt: Alejandra Garza uses newspaper coverage to explore public perceptions of the Tower shooting.
+excerpt: Alejandra Garza uses newspaper coverage to explore public perceptions of the tower shooting.
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}
 
-When Charles Whitman shot at innocent passersby from atop the University of Texas Tower on August 1, 1966, he shocked the country and, according to the local newspapers, became the “Greatest Mass Slayer in History.”[^1] Media across the country tried to explain what occurred to their stunned readers, and in Austin, three newspapers, _The Daily Texan_, UT Austin’s student newspaper, and the _Austin American_ and _The Austin Statesman_, the citywide newspapers, shaped the public understanding of the events for shocked Austinites and UT students.[^2] Nationwide, newspapers reported extensively on the “sniper in Texas” and closely scrutinized the events of that day.[^3] All these articles attempted to answer the same question: “Why?” _The Austin American-Statesman_, published jointly on Sundays through 1973, chose to focus on Whitman’s mental and medical state, while _The Daily Texan_ highlighted student voices and their efforts to assist those affected.
+When Charles Whitman shot at innocent passersby from atop the University of Texas tower on August 1, 1966, he shocked the country and, according to the local newspapers, became the “Greatest Mass Slayer in History.”[^1] Media across the country tried to explain what occurred to their stunned readers, and in Austin, three newspapers, _The Daily Texan_, UT Austin’s student newspaper, and the _Austin American_ and _The Austin Statesman_, the citywide newspapers, shaped the public understanding of the events for shocked Austinites and UT students.[^2] Nationwide, newspapers reported extensively on the “sniper in Texas” and closely scrutinized the events of that day.[^3] All these articles attempted to answer the same question: “Why?” _The Austin American-Statesman_, published jointly on Sundays through 1973, chose to focus on Whitman’s mental and medical state, while _The Daily Texan_ highlighted student voices and their efforts to assist those affected.
 
 <div class="image-gallery image-block">
   <div class="row">
@@ -27,7 +27,7 @@ When Charles Whitman shot at innocent passersby from atop the University of Texa
 
 ## Student Voices Heard
 
-_The Daily Texan_, printed as _The Summer Texan_ during UT’s summer session that year, acted as a voice of the student body. The student newspaper had a regular column, “The Firing Line,” for students to submit short comments to the paper reacting to current news. On August 9, 1966, “The Firing Line” was awash with opinions about the past week’s tragedy.  Like the city newspapers, students’ commentary on “The Firing Line” raised many questions about the reasons Whitman chose to fire at innocent people from atop the Tower.[^4] The students made various suggestions to improve safety, called for permanently or temporarily closing the Tower, and recommended ways to commemorate those wounded and killed.
+_The Daily Texan_, printed as _The Summer Texan_ during UT’s summer session that year, acted as a voice of the student body. The student newspaper had a regular column, “The Firing Line,” for students to submit short comments to the paper reacting to current news. On August 9, 1966, “The Firing Line” was awash with opinions about the past week’s tragedy.  Like the city newspapers, students’ commentary on “The Firing Line” raised many questions about the reasons Whitman chose to fire at innocent people from atop the tower.[^4] The students made various suggestions to improve safety, called for permanently or temporarily closing the tower, and recommended ways to commemorate those wounded and killed.
 
 <div class="image-block">
   <a href="{{ site.baseurl }}/images/posts/garza/firing-line-fullsize.jpg" data-lightbox="firingline">
@@ -38,7 +38,7 @@ _The Daily Texan_, printed as _The Summer Texan_ during UT’s summer session th
   </p>
 </div>
 
-The tragic event affected people with ties to UT around the world. Pete Coneway expressed his condolences and said “that the world understands this terrible crime as the act of an insane person.”[^5]  Nancy Kowert, John De La Garza, Jr., and David Gray each said the Tower should remain open despite its tarnished image. Gray wrote “the Observation Deck of the Tower should remain open – not for the curious nor the morbid, but so that people might see the bullet scars and blood stains and not forget that Whitman was indicative of something wrong in our society.”[^6] H. Gray Merriam’s submission, “Who’s Fault?,” [sic] echoed the same sentiments. Merriam did not view the “terror from the Tower” as the act of one individual, and listed questions, wondering who to blame. The students generally did not feel the need to blame, but chose to move on, look to the future, and learn from a horrible event.
+The tragic event affected people with ties to UT around the world. Pete Coneway expressed his condolences and said “that the world understands this terrible crime as the act of an insane person.”[^5]  Nancy Kowert, John De La Garza, Jr., and David Gray each said the tower should remain open despite its tarnished image. Gray wrote “the Observation Deck of the tower should remain open – not for the curious nor the morbid, but so that people might see the bullet scars and blood stains and not forget that Whitman was indicative of something wrong in our society.”[^6] H. Gray Merriam’s submission, “Who’s Fault?,” [sic] echoed the same sentiments. Merriam did not view the “terror from the tower” as the act of one individual, and listed questions, wondering who to blame. The students generally did not feel the need to blame, but chose to move on, look to the future, and learn from a horrible event.
 
 ## The “Theory of Disaster” and the Psychiatrists
 

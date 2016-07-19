@@ -35,7 +35,7 @@ Her work explores the hidden histories of slavery and freedom in nineteenth cent
 
 Her M.A. Thesis was titled “The _Other_ Underground Railroad: Hidden Histories of Slavery and Freedom across the Porous Frontiers of Nineteenth-Century United States, Mexico, and the Caribbean.”
 
-She is working under the direction and guidance of Dr. Daina Berry. ([UT-Austin Profile][hammack-profile]) ([Twitter][hammack-twitter])
+She is working under the direction and guidance of Dr. Daina Berry. ([UT Austin Profile][hammack-profile]) ([Twitter][hammack-twitter])
 
 ## Victoria Hurley
 
@@ -43,7 +43,7 @@ Victoria Hurley is from Austin, Texas and attended the University of Texas for h
 
 ## Rebecca Johnston
 
-Rebecca Adeline Johnston is a doctoral student in the history department at UT-Austin. Her primary research is on the implementation of cultural policy in the post-Stalin Soviet Union, particularly the relationship between central and regional institutions. In a former life, she studied as a visual artist and literary analyst, and has worked in Russia and the US as a translator, editor, political analyst, writing consultant, and tutor. She is interested in finding ways to broaden the application of public history within the policy world, as well as ensuring that history is made as relevant to students in the classroom as possible.
+Rebecca Adeline Johnston is a doctoral student in the history department at UT Austin. Her primary research is on the implementation of cultural policy in the post-Stalin Soviet Union, particularly the relationship between central and regional institutions. In a former life, she studied as a visual artist and literary analyst, and has worked in Russia and the US as a translator, editor, political analyst, writing consultant, and tutor. She is interested in finding ways to broaden the application of public history within the policy world, as well as ensuring that history is made as relevant to students in the classroom as possible.
 
 ## Brian Jones
 
@@ -61,7 +61,7 @@ John Lisle is a graduate student in the history department at the University of 
 
 ## Isaac McQuistion
 
-Isaac McQuistion is an Asian Studies master's student focusing on modern South Asian history. For undergrad, he attended Carthage College in Kenosha, WI, where he majored in English and history. Prior to coming to UT-Austin, he worked in web content and digital media for a community college in upstate New York, and also held internships with _The Onion_ and MPA-The Association of Magazine Media. ([Personal Website][mcquistion-website])
+Isaac McQuistion is an Asian Studies master's student focusing on modern South Asian history. For undergrad, he attended Carthage College in Kenosha, WI, where he majored in English and history. Prior to coming to UT Austin, he worked in web content and digital media for a community college in upstate New York, and also held internships with _The Onion_ and MPA-The Association of Magazine Media. ([Personal Website][mcquistion-website])
 
 ## Justina Moloney
 

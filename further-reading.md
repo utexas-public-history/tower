@@ -4,7 +4,7 @@ title: Further Reading
 permalink: /further-reading/
 nav_highlight: further-reading
 banner: /images/posts/lisle/banner.jpg
-excerpt: Collected readings from contributors for more information on the UT Tower Shooting.
+excerpt: Collected readings from contributors for more information on the UT tower shooting.
 ---
 
 ## Books

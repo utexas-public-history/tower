@@ -3,12 +3,12 @@ layout: post
 title: Policing Before and After August 1, 1966
 author: Justin Krueger
 permalink: /policing
-excerpt: Justin Krueger outlines the changes in campus policing before and after the Tower shooting.
+excerpt: Justin Krueger outlines the changes in campus policing before and after the tower shooting.
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}
 
-When Charles Whitman went to the top of the UT Tower on August 1, 1966, the university did not have a commissioned police force and the Austin Police Department was unprepared to respond. Both of these things made it possible for Whitman to continue his killing spree for 96 terrifying minutes.
+When Charles Whitman went to the top of the UT tower on August 1, 1966, the university did not have a commissioned police force and the Austin Police Department was unprepared to respond. Both of these things made it possible for Whitman to continue his killing spree for 96 terrifying minutes.
 
 When the shooting was over and the bodies were removed, the media, public officials, and citizens alike called for answers and wanted action. Everyone was trying to make sense of the tragic event and try to prevent it from happening again.
 
@@ -18,7 +18,7 @@ For many the UT Traffic &amp; Security Services (T&amp;SS) were considered the d
 
 Led by Chief Allen Hamilton, the department effectively managed its role and carried out its assigned duties. The T&amp;SS, however, did not have commissioned police officers and did not carry weapons. It would be a significant shortcoming in their response to the shooting.
 
-The official T&amp;SS Offense Report from August 1, 1966 shows a department that responded quickly to the shooting by reaching out to Austin PD and the Department of Public Safety to try to coordinate action and establish lines of communication. They also acted to ensure student safety on campus by deploying officers toward the Tower with speakers to warn students about the situation. Hamilton further communicated with the Women’s Dormitory to have all female students remain inside until the situation was resolved. Sgt. Barr was dispatched to help lead APD officers through university underground tunnels so they could gain access to the Tower.
+The official T&amp;SS Offense Report from August 1, 1966 shows a department that responded quickly to the shooting by reaching out to Austin PD and the Department of Public Safety to try to coordinate action and establish lines of communication. They also acted to ensure student safety on campus by deploying officers toward the tower with speakers to warn students about the situation. Hamilton further communicated with the Women’s Dormitory to have all female students remain inside until the situation was resolved. Sgt. Barr was dispatched to help lead APD officers through university underground tunnels so they could gain access to the tower.
 
 <div class="image-gallery image-block">
   <div class="row">
@@ -65,7 +65,7 @@ The official T&amp;SS Offense Report from August 1, 1966 shows a department that
   </p>
 </div>
 
-At 11:50 am security officers L.W. Hebert and Jack Rodman were dispatched to the Tower to check out the situation. Upon reaching the 27th floor by elevator they came across several of the early victims in the stairwell up to the 28th floor. After hearing continued gunfire outside and recognizing they had no weapons or plans by which to engage the shooter, both men decided it was best to head to the bottom of the main building to lock it down so no one could get in or out and to secure the interior of the building. This was at approximately 11:55 am. It was not until 89 minutes later that Whitman was finally shot and the killing ended.
+At 11:50 am security officers L.W. Hebert and Jack Rodman were dispatched to the tower to check out the situation. Upon reaching the 27th floor by elevator they came across several of the early victims in the stairwell up to the 28th floor. After hearing continued gunfire outside and recognizing they had no weapons or plans by which to engage the shooter, both men decided it was best to head to the bottom of the main building to lock it down so no one could get in or out and to secure the interior of the building. This was at approximately 11:55 am. It was not until 89 minutes later that Whitman was finally shot and the killing ended.
 
 The lack of adequate resources, firearms, and response plans greatly limited the university officers’ ability to act. This was grossly obvious when Chief Hamilton called the university ROTC program to see if they had any weapons that the Traffic &amp; Security Services could use. The ROTC responded that they had weapons but no ammunition.
 
@@ -73,18 +73,18 @@ The lack of weapons and organization was not solely a problem for officials of T
 
 At the press conference held by the Austin Police Department immediately after the shooting, Chief of Police Robert Miles focused almost exclusively on the bravery of his officers and their attention to department policy. He likely did so for two reasons: first, to show that the department acted heroically, and second, to deflect questions about the overall preparedness and implementation of the department response. The bravery of the responding officers is without question. Their courage – not any standard plan of action – helped to eventually end Whitman’s rampage. The officers, however, did not have any specialized tactical training or the needed resources for clear communication. There was also no Incident Command System (ICS), or Unified Command, or any other framework for plan of action.
 
-Notably, Chief Miles was at Brackenridge Hospital during the shooting - most likely in response to the shooting of Officer Billy Paul Speed. He was not, however, setting up a central command post or coordinating police action. Miles stated of the police response during the UT Tower shooting, “In a situation like this, it all depended on independent action by officers.”[^1]
+Notably, Chief Miles was at Brackenridge Hospital during the shooting - most likely in response to the shooting of Officer Billy Paul Speed. He was not, however, setting up a central command post or coordinating police action. Miles stated of the police response during the UT tower shooting, “In a situation like this, it all depended on independent action by officers.”[^1]
 
 <div class="image-block">
   <img src="{{ site.baseurl }}/images/posts/krueger/wire-report.jpg" />
   <p class="caption">
-    Wire report about the UT Tower shooting. Ira Iscoe Papers. <span class="credit">Image courtesy of <a href="http://www.cah.utexas.edu/">Dolph Briscoe Center for American History</a></span>.
+    Wire report about the UT tower shooting. Ira Iscoe Papers. <span class="credit">Image courtesy of <a href="http://www.cah.utexas.edu/">Dolph Briscoe Center for American History</a></span>.
   </p>
 </div>
 
-The UT Tower shooting along with the Watts riots of the previous year produced a national consciousness about the need for new specialized training and resources for responding to violent events. Across the nation, police departments reviewed their preparedness, training, and capabilities to effectively respond to such situations. Most found major gaps and massive issues that had to be addressed. Special Weapons and Tactics (SWAT) teams were developed as a direct response to the UT Tower shooting. Since their development in the late 1960s, SWAT teams are now found in almost every police department that serves a population of over 50,000.
+The UT tower shooting along with the Watts riots of the previous year produced a national consciousness about the need for new specialized training and resources for responding to violent events. Across the nation, police departments reviewed their preparedness, training, and capabilities to effectively respond to such situations. Most found major gaps and massive issues that had to be addressed. Special Weapons and Tactics (SWAT) teams were developed as a direct response to the UT tower shooting. Since their development in the late 1960s, SWAT teams are now found in almost every police department that serves a population of over 50,000.
 
-One of the reasons that UT security officers lacked weapons prior to the UT Tower shooting was that institutions of higher learning such as UT did not have the right to train and commission police officers. That was, however, soon to change.
+One of the reasons that UT security officers lacked weapons prior to the UT tower shooting was that institutions of higher learning such as UT did not have the right to train and commission police officers. That was, however, soon to change.
 
 During the 1967 legislative session, Senator A.M. Aiken proposed Senate Bill 162, which was "an act providing for the protection, safety and welfare of students and employees … and for the policing of the buildings and grounds of the State institutions of higher education of this State.”[^2] The idea was to provide institutions of higher learning with police forces that would be able to adequately provide for the safety of their students.
 
@@ -104,7 +104,7 @@ During the 1967 legislative session, Senator A.M. Aiken proposed Senate Bill 162
     </div>
   </div>
   <p class="caption">
-    Letter from woman in New York to Governor John Connally concerning the UT Tower shooting. UT Traffic and Security Services Chief Allen R. Hamilton Tower Sniper Records. <span class="credit">Images courtesy of <a href="http://www.cah.utexas.edu/">Dolph Briscoe Center for American History</a>.</span>
+    Letter from woman in New York to Governor John Connally concerning the UT tower shooting. UT Traffic and Security Services Chief Allen R. Hamilton Tower Sniper Records. <span class="credit">Images courtesy of <a href="http://www.cah.utexas.edu/">Dolph Briscoe Center for American History</a>.</span>
   </p>
 </div>
 

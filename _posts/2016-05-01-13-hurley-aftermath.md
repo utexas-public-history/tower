@@ -3,7 +3,7 @@ layout: post
 title: 'Aftermath: Remembering and Forgetting the UT Tower Shooting'
 author: Victoria Hurley
 permalink: /aftermath
-excerpt: Victoria Hurley makes the case for remembering the Tower Shooting.
+excerpt: Victoria Hurley makes the case for remembering the tower Shooting.
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}
@@ -14,7 +14,7 @@ People at The University of Texas at Austin didn’t know how to recover after A
 
 There were countless students, faculty, visitors, and others on the campus that afternoon when shots began to fire from the tower. Much of the focus since 1966 has been on the shooter, Charles Whitman, and the people he killed. But it is critical to focus on the survivors of that day: How did they live and continue carrying the memories of August 1, 1966? How do these people define themselves? Are they victims? Are they survivors? Eye witnesses?
 
-After that deadly day, people struggled with remembering or forgetting the day that would forever change their lives. The survivor’s stories are the most powerful aspect of any project, article, or book on the events of the UT Tower shooting. Yet still many people have not heard these stories and many know very little about the shooting itself.
+After that deadly day, people struggled with remembering or forgetting the day that would forever change their lives. The survivor’s stories are the most powerful aspect of any project, article, or book on the events of the UT tower shooting. Yet still many people have not heard these stories and many know very little about the shooting itself.
 
 What would have happened if the strong media presence that exists today had existed on August 1 1966? Would it have helped uncover the silenced memories of the murders? Or would they have been over-told? Few people had a platform to speak until years later, carrying around their stories without a voice. In 1999 Karan Elliot reflected on the shooting and wrote, “This tragedy has had a profound effect on my life and the memories will never fade.”[^1] Suzanne Rhoads wrote that “for years after that, when there was a loud noise, I would cringe.”[^2] These women never forgot how the shooting impacted their lives.
 
@@ -32,12 +32,12 @@ It is now time for The University of Texas to take stock of all of these stories
 
 </div></div></div>
 
-[^1]: Karan Russ Elliott. "Tower Garden Reflections." (1999): n. pag. Print. 8:39am
+[^1]: Karan Russ Elliott. "Tower Garden Reflections." (1999): n. pag. 8:39am.
 
-[^2]: Suzanne Kain Rhoades. "Tower Garden Reflections." (1999): n. pag. Print. 3:33pm
+[^2]: Suzanne Kain Rhoades. "Tower Garden Reflections." (1999): n. pag. 3:33pm.
 
 [^3]: Morris Hohmann. Interview by Sara Rider. Austin History Center Oral History Transcript May 31, 1983: n. pag. Print.
 
-[^4]: “CAMPUS LIFE: University of Texas; Infamous Weapons Are Put Up for Sale.” New York Times. N.p., July 30, 1989. Web.
+[^4]: “CAMPUS LIFE: University of Texas; Infamous Weapons Are Put Up for Sale.” New York Times. N.p., July 30, 1989.
 
-[^5]: Dell Cameron. “How a Survivor of the 1966 UT Tower Massacre Sees Saturday’s ‘mock Shooting’” The Daily Dot. N.p., December 11, 2015. Web
+[^5]: Dell Cameron. “How a Survivor of the 1966 UT Tower Massacre Sees Saturday’s ‘mock Shooting’” The Daily Dot. N.p., December 11, 2015.

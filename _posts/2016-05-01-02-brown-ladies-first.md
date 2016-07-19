@@ -12,7 +12,7 @@ What compels a man to take the life of the women with whom he shares a most inti
 
 ## University of Texas Tower Shooting – August 1, 1966
 
-Charles Whitman’s shooting rampage from atop the UT Tower was the deadliest shooting on a college campus until Seung-Hui Cho killed 32 people and wounded 17 more at Virginia Tech forty years later in 2007. The night before Whitman’s tower attack, he murdered his wife, Kathy, in the couple’s home and his mother, Margaret, in her apartment. Both bodies were found in their beds with the blankets pulled up to cover where Whitman had stabbed each woman in the chest with a hunting knife.
+Charles Whitman’s shooting rampage from atop the UT tower was the deadliest shooting on a college campus until Seung-Hui Cho killed 32 people and wounded 17 more at Virginia Tech forty years later in 2007. The night before Whitman’s tower attack, he murdered his wife, Kathy, in the couple’s home and his mother, Margaret, in her apartment. Both bodies were found in their beds with the blankets pulled up to cover where Whitman had stabbed each woman in the chest with a hunting knife.
 
 ## Bath School Disaster – May 18, 1927
 
