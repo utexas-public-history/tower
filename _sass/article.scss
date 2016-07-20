@@ -117,6 +117,18 @@ header {
     }
   }
 
+  hr {
+    border-width: 0;
+    color: $lowlightBackground;
+    height: 1em;
+    margin: 2em auto;
+    text-align: center;
+
+    &:after {
+      content: '✢ ✢ ✢';
+    }
+  }
+
   img {
     margin: 2.5em auto;
   }
