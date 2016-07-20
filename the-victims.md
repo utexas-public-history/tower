@@ -16,8 +16,6 @@ banner_links:
 
 Much more information is available about some of the shooting victims than others. We are sharing these short, if often incomplete, biographies, to honor those whose lives were cut short or deformed that day, to acknowledge the randomness of fate that separated the living and the dead, and to salute the courage of many of the bystanders.
 
----
-
 ## The People Killed by Charles Whitman
 
 ### Thomas Aquinas Ashton
