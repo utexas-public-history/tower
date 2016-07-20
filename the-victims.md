@@ -14,6 +14,10 @@ banner_links:
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}
 
+Much more information is available about some of the shooting victims than others. We are sharing these short, if often incomplete, biographies, to honor those whose lives were cut short or deformed that day, to acknowledge the randomness of fate that separated the living and the dead, and to salute the courage of many of the bystanders.
+
+---
+
 ## The People Killed by Charles Whitman
 
 ### Thomas Aquinas Ashton
@@ -168,10 +172,6 @@ Troubled by his parents’ separation, among other issues, Charles Whitman murde
 
 ## The People Wounded by Charles Whitman
 
-Much more information is available about some of the shooting victims than others. We are sharing these short, if often incomplete, biographies, to remember the randomness of fate that divided the living and the dead, and the heroism of many of the bystanders.
-
----
-
 ### Mary Frances Lamport Gabour and Mike Gabour
 
 Mike Gabour and his brother, Mark, were both shot by Whitman when they tried to squeeze past his barricade and get onto the tower observation deck. They thought that the deck was closed for cleaning, and wanted to tour it. Whitman fired multiple shotgun blasts at them at close range. Mark, who was struck in the head, died instantly. Mike was wounded, as was his mother, Mary Frances Gabour. Marguerite Lamport, Mike’s aunt and Mary’s sister-in-law, was also killed. Mike told their father, M.J., and uncle, William Lamport, who were behind them on the stairs and who hadn’t been hit, to run for help. While waiting to be evacuated by police officers, Mike tried to keep his mother conscious. When the police found them, Mike asked McCoy for his shotgun, saying “Let me shoot that son of a bitch.” McCoy said that he’d shoot him for him.
@@ -305,11 +305,15 @@ _Text compiled by Maria Esther Hammack, Keisha Laneé Brown, Miguel Daza, Alejan
 <div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 ## Sources
 
+Pamela Colloff. “The Reckoning.” _Texas Monthly_. April 2016.
+
 Gary Lavergne. _The Sniper in the Tower: The Charles Whitman Murders_. Denton, Texas: University of North Texas Press, 1997.
 
 Valrie Plaza. _American Mass Murderers_. Raleigh, North Carolina: Lulu Publishing, March 2015.
 
 “The Texas Sniper.” _Life Magazine_. August 12, 1966.
+
+_Tower_ (2016), directed by Keith Maitland.
 </div></div></div>
 
 
