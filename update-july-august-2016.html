@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Update July-August, 2016 – Behind the Tower</title>
+  <meta name="description" content="An update on the July 2016 removal of the old memorial and plans for a new unveiling in August.">
+
+  <script type="text/javascript" src="/scripts/jquery-2.2.4.min.js"></script>
+
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/bigfoot-default.css">
+  <link rel="stylesheet" href="/css/lightbox.min.css">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://behindthetower.org/update-july-august-2016">
+  <link rel="alternate" type="application/rss+xml" title="Behind the Tower" href="http://behindthetower.org/feed.xml">
+
+  
+    <meta property="og:title" content="Update July-August, 2016 – Behind the Tower" />
+  
+  <meta property="og:url" content="http://behindthetower.org/update-july-august-2016" />
+  
+    <meta property="og:type" content="article" />
+    <meta property="article:author" content="" />
+  
+  <meta property="og:site_name" content="Behind the Tower" />
+</head>
+
+
+  
+    <body>
+  
+
+    <div class="top-banner bar">
+  <a href="#" id="hamburger">
+    <img src="/images/interface/hamburger.png" />
+  </a>
+  <a href="/" class="logo"><img src="/images/interface/banner.png" alt="Behind the Tower" /><span class="invisible-text">Behind the Tower</span></a>
+
+  <div id="mobile-header">
+    <nav>
+      <ul>
+        <li><a href="/histories">Histories</a></li>
+        <li><a href="/the-victims">The Victims</a></li>
+        <li><a href="/further-reading">Further Reading</a></li>
+        <li><a href="/contributors">Contributors</a></li>
+        <li><a href="/about">About</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <script type="text/javascript">
+    $('#hamburger').on('click', function(e) {
+      e.preventDefault();
+      $('#mobile-header').toggle();
+    });
+  </script>
+</div>
+<div class="header bar">
+  <nav class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <ul><!--
+          
+            --><li><a href="/histories">Histories</a></li><!--
+          
+          
+          --><li><a href="/the-victims">The Victims</a></li><!--
+          
+          
+            --><li><a href="/further-reading">Further Reading</a></li><!--
+          
+          
+            --><li><a href="/contributors">Contributors</a></li><!--
+          
+          
+            --><li><a href="/about">About</a></li><!--
+          
+        --></ul>
+      </div>
+    </div>
+  </nav>
+</div>
+
+
+    <article>
+<div class="hero bar">
+
+  <div class="container">
+    <header class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
+      <h1>
+        Update July-August, 2016
+        
+      </h1>
+      
+      
+    </header>
+  </div>
+</div>
+
+<div class="white bar">
+  <div class="container">
+    <div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+
+      <p>In July 2016, the hard to find rock and plaque that honored the victims of August 1, 1966 has been removed and a new monument is being prepared to be unveiled on August 1, 2016, the 50th anniversary. We will post more about the commemoration of that day as more information becomes available.</p>
+
+    </div>
+  </div>
+</div>
+
+
+</article>
+
+<script type="text/javascript" src="/scripts/bigfoot.min.js"></script>
+<script type="text/javascript" src="/scripts/lightbox.min.js"></script>
+<script type="text/javascript">
+  $.bigfoot({
+    actionOriginalFN: "ignore"
+  });
+</script>
+
+
+    <div class="footer bar">
+  <div class="container"><div class="row">
+    <div class="col-xs-12">
+      <nav>
+        <ul class="links">
+          <li><a href="/">Home</a></li>
+          <li><a href="/histories">Histories</a></li>
+          <li><a href="/the-victims">The Victims</a></li>
+          <li><a href="/further-reading">Further Reading</a></li>
+          <li><a href="/contributors">Contributors</a></li>
+          <li><a href="/about">About</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div></div>
+  <div class="container"><div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-6">
+      <p>
+        Behind the Tower is a project of <a href="https://github.com/utexas-public-history">The Public History Seminar at UT Austin</a> and was initially published the summer of 2016.
+      </p>
+    </div>
+    <div class="col-xs-12 col-sm-5 col-sm-offset-1 col-md-offset-3 col-md-3">
+      <p class="license">
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+      </p>
+    </div>
+  </div></div>
+</div>
+
+<script type="text/javascript">
+$(document).on('ready', function() {
+  $('.footnotes').prepend($('<h2/>').text('Notes'));
+});
+
+// Floating Header
+var lastScrollTop = 0;
+
+function handlePinnedHeader() {
+  var thisScrollTop = $(window).scrollTop();
+  var $header = $('.top-banner');
+  var pinned = $header.hasClass('pinned');
+
+  if (thisScrollTop > 40) {
+    if (!pinned) {
+      $header.hide();
+      $header.addClass('pinned');
+      $header.show();
+    }
+  } else if (thisScrollTop == 0) {
+    $header.removeClass('pinned');
+  }
+
+  lastScrollTop = thisScrollTop;
+}
+
+$(window).on('scrollstart', handlePinnedHeader);
+setInterval(handlePinnedHeader, 100);
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-244154-9', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+  </body>
+
+</html>
