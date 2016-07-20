@@ -307,6 +307,20 @@ header {
       letter-spacing: -.025em; }
   header p.post-meta {
     margin-top: .5em; }
+  header ul.links {
+    list-style-type: none;
+    padding: 0; }
+    header ul.links li a {
+      color: white;
+      text-decoration: none; }
+      header ul.links li a:hover {
+        text-decoration: underline; }
+
+:target:before {
+  content: "";
+  display: block;
+  height: 40px;
+  margin: -40px 0 0; }
 
 .page-content {
   font-family: Georgia, serif;
@@ -358,6 +372,14 @@ header {
       .post-content p a:hover {
         color: #d94709;
         text-decoration: none; }
+  .post-content hr {
+    border-width: 0;
+    color: #fcdebb;
+    height: 1em;
+    margin: 2em auto;
+    text-align: center; }
+    .post-content hr:after {
+      content: '✢ ✢ ✢'; }
   .post-content img {
     margin: 2.5em auto; }
   .post-content .floated-image {
