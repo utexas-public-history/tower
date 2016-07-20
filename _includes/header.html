@@ -7,6 +7,7 @@
   <div id="mobile-header">
     <nav>
       <ul>
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
         <li><a href="{{ site.baseurl }}/histories">Histories</a></li>
         <li><a href="{{ site.baseurl }}/the-victims">The Victims</a></li>
         <li><a href="{{ site.baseurl }}/further-reading">Further Reading</a></li>
@@ -28,6 +29,11 @@
     <div class="row">
       <div class="col-xs-12">
         <ul><!--
+          {% if page.nav_highlight == 'home' -%}
+            --><li><a href="{{ site.baseurl }}/" class="here">Home</a></li><!--
+          {% else -%}
+            --><li><a href="{{ site.baseurl }}/">Home</a></li><!--
+          {% endif -%}
           {% if page.nav_highlight == 'histories' -%}
             --><li><a href="{{ site.baseurl }}/histories" class="here">Histories</a></li><!--
           {% else -%}
