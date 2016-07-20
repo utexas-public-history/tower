@@ -18,7 +18,9 @@ nav_highlight: histories
             {% if post.subtitle -%}
               <span class="subtitle">{{ post.subtitle }}</span>
             {% endif -%}
-            <span class="author">By {{ post.author }}</span>
+            {% if post.author -%}
+              <span class="author">By {{ post.author }}</span>
+            {% endif -%}
           </a>
           <hr class="one-col" />
         </div>
