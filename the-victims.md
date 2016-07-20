@@ -5,11 +5,16 @@ permalink: /the-victims/
 nav_highlight: victims
 excerpt: Biographies of the people Charles Whitman killed and wounded.
 banner: /images/posts/lisle/banner.jpg
+banner_links:
+  - label: The People Killed by Charles Whitman
+    link: '#the-people-killed-by-charles-whitman'
+  - label: The People Wounded by Charles Whitman
+    link: '#the-people-wounded-by-charles-whitman'
 ---
 <div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
 {::options parse_block_html="false" /}
 
-## The People Wounded by Charles Whitman
+## The People Killed by Charles Whitman
 
 ### Thomas Aquinas Ashton
 

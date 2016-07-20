@@ -16,6 +16,13 @@ layout: default
         {% endif -%}
       </h1>
       {% if page.author %}{% unless page.suppress_byline %}<p class="post-meta">By {{ page.author }}</p>{% endunless %}{% endif %}
+      {% if page.banner_links -%}
+        <ul class="links">
+          {% for link in page.banner_links -%}
+            <li><a href="{{ link['link'] }}">{{ link['label'] }}</a></li>
+          {% endfor -%}
+        </ul>
+      {% endif -%}
     </header>
   </div>
 </div>

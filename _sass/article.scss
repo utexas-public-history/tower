@@ -27,6 +27,29 @@ header {
   p.post-meta {
     margin-top: .5em;
   }
+
+  ul.links {
+    list-style-type: none;
+    padding: 0;
+
+    li {
+      a {
+        color: white;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+:target:before {
+  content: "";
+  display: block;
+  height: 40px;
+  margin: -40px 0 0;
 }
 
 .page-content {
