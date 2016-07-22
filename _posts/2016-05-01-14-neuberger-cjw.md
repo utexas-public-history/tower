@@ -48,7 +48,7 @@ _By Joan Neuberger_
 
 </div></div></div>
 
-[^1]: Nat Henderson, “Sniper ‘Worst type’ Psycho.”
+[^1]: Nat Henderson. “Sniper ‘Worst Type’ Psycho.” _The Austin American_. August 5, 1966.
 
 [^2]: David Nevin, “The Eagle Scout Who Grew Up with a Tortured Mind,” _Life Magazine_, August 12, 1966, 28D.
 
