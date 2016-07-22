@@ -48,7 +48,7 @@ _By Joan Neuberger_
 
 </div></div></div>
 
-[^1]: Nat Henderson. “Sniper ‘Worst Type’ Psycho.” _The Austin American_. August 5, 1966.
+[^1]: Nat Henderson. “Sniper ‘Worst Type’ Psycho.” _The Austin American_ Vol. 53, No. 48. Friday, August 5, 1966, p. A6. Richard T. Fleming University Writings Collection, The UT Tower Tragedy Scrapbook, 1966. 2.325/D27a.
 
 [^2]: David Nevin, “The Eagle Scout Who Grew Up with a Tortured Mind,” _Life Magazine_, August 12, 1966, 28D.
 
