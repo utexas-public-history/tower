@@ -20,7 +20,7 @@ Bullet holes remained in the concrete and balustrades around the tower when I ar
 
 These are events that cry out to be studied. They are also events that raise important questions about commemoration, about public remembering and forgetting, and about the uses of public history.
 
-In Spring 2016, graduate students in the UT History Department’s Public History Seminar set out to construct a website for writing a history of … and immediately we ran into our first problem.  What do we call “it”? What are we studying? The events of August 1, 1966? Charles Whitman himself? The victims and survivors? The immediate responses, or the aftermath, or the public memories? Do people have a right to forget? What do we want to know? What questions do we have and what questions to we want to answer?
+In Spring 2016, graduate students in the UT History Department’s Public History Seminar set out to construct a website for writing a history of … and immediately we ran into our first problem. What are we studying? The events of August 1, 1966? Charles Whitman himself? The victims and survivors? The immediate responses, or the aftermath, or the public memories? Do people have a right to forget? What do we want to know? What questions do we have and what questions to we want to answer?
 
 <div class="full-width"><img src="{{ site.baseurl }}/images/homepage/group-photo-1.jpg" alt="Group photo in archives" /></div>
 
