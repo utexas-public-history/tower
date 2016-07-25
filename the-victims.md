@@ -214,7 +214,7 @@ Brenda Littlefield, 18, and Adrian Littlefield, 19, had only been married for ni
 
 ---
 
-### Ellen Evagnides
+### Ellen Evganides
 
 Ellen Evganides was a young UT employee who worked in the Main Building. Ellen was wounded in the left leg and thigh by the ricochet of the shot in Nancy's thigh.
 
@@ -238,9 +238,9 @@ Sandra Wilson, 21, was a UT student who was hurrying down Guadalupe to meet a fr
 
 ---
 
-### Abdul Khashab
+### Abdul Khashab and Janet Paulos
 
-Abdul Khashab, an exchange student from Iraq was at UT studying Chemistry. He was walking with his fiancée, **Janet Paulos**, near the corner of Guadalupe and 24th St. when he was shot outside a dress shop.  Janet Paulos, a 20-year-old History major was also shot. Paulos and Khasab were less than a month from their wedding when they were wounded. Due to injuries sustained to her left shoulder and her four fractured ribs, Paulos spent 10 days in the hospital recovering.  The wedding had to be postponed but it took place a week after it was originally planned. Later in life, Paulos taught English as a foreign language and worked as a library research assistant.  She currently works as an Accredited Genealogist professional.
+Abdul Khashab, an exchange student from Iraq was at UT studying Chemistry. He was walking with his fiancée, Janet Paulos, near the corner of Guadalupe and 24th St. when he was shot outside a dress shop.  Janet Paulos, a 20-year-old History major was also shot. Paulos and Khasab were less than a month from their wedding when they were wounded. Due to injuries sustained to her left shoulder and her four fractured ribs, Paulos spent 10 days in the hospital recovering.  The wedding had to be postponed but it took place a week after it was originally planned. Later in life, Paulos taught English as a foreign language and worked as a library research assistant.  She currently works as an Accredited Genealogist professional.
 
 ---
 
