@@ -268,9 +268,9 @@ David Mattson, a 23-year-old from Minneapolis, Minnesota, was also in Austin to 
 
 ---
 
-### Oscar Royvela
+### Oscar Royvela and Irma Garcia
 
-Oscar Royvela was a 21-year-old engineering student at the University of Texas at Austin from La Paz, Bolivia when he was shot. The United States Embassy bought his mother a plane ticket from Bolivia, so that she could come to be with her son and help in his recovery. 21-year-old **Irma Garcia** was walking to biology lab near the Hogg Auditorium with **Oscar Royvela**, her boyfriend,  when Whitman shot her in the left shoulder. Two nearby students, Jack Stephens and Jack Pennington, were able to drag them to safety. The injury left her with a slight twist in her upper body. Garcia, who was from Harlingen, Texas, would go on to earn a master’s in Educational Psychology. In 2013, she told a reporter that she struggled with post traumatic stress disorder because of the shooting. Partly because of this and partly after learning that Whitman had been a veteran and dealt with his own mental health issues, Garcia said that she wished there were more care available for veterans with PTSD.
+Oscar Royvela was a 21-year-old engineering student at the University of Texas at Austin from La Paz, Bolivia when he was shot. The United States Embassy bought his mother a plane ticket from Bolivia, so that she could come to be with her son and help in his recovery. 21-year-old Irma Garcia was walking to biology lab near the Hogg Auditorium with Oscar Royvela, her boyfriend,  when Whitman shot her in the left shoulder. Two nearby students, Jack Stephens and Jack Pennington, were able to drag them to safety. The injury left her with a slight twist in her upper body. Garcia, who was from Harlingen, Texas, would go on to earn a master’s in Educational Psychology. In 2013, she told a reporter that she struggled with post traumatic stress disorder because of the shooting. Partly because of this and partly after learning that Whitman had been a veteran and dealt with his own mental health issues, Garcia said that she wished there were more care available for veterans with PTSD.
 
 ---
 
