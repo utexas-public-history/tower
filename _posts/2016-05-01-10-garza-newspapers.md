@@ -30,14 +30,14 @@ When Charles Whitman shot at innocent passersby from atop the University of Texa
 
 _The Daily Texan_, printed as _The Summer Texan_ during UT’s summer session that year, acted as a voice of the student body. The student newspaper had a regular column, “The Firing Line,” for students to submit short comments to the paper reacting to current news. On August 9, 1966, “The Firing Line” was awash with opinions about the past week’s tragedy.  Like the city newspapers, students’ commentary on “The Firing Line” raised many questions about the reasons Whitman chose to fire at innocent people from atop the tower.[^4] The students made various suggestions to improve safety, called for permanently or temporarily closing the tower, and recommended ways to commemorate those wounded and killed.
 
-<div class="image-block">
-  <a href="{{ site.baseurl }}/images/posts/garza/firing-line-fullsize.jpg" data-lightbox="firingline">
-    <img src="{{ site.baseurl }}/images/posts/garza/firing-line.jpg" alt="Scan of Firing Line page from The Summer Texan" class="tall-image" />
-  </a>
-  <p class="caption">
-    <i>The Summer Texan</i> August 9, 1966, “The Firing Line”
-  </p>
-</div>
+{% imageblock garza/firing-line.jpg::
+              Scan of Firing Line page from The Summer Texan::
+              true::
+              <i>The Summer Texan</i> August 9, 1966, “The Firing Line”::
+              false::
+              true::
+              firingline::
+              garza/firing-line-fullsize.jpg %}
 
 The tragic event affected people with ties to UT around the world. Pete Coneway expressed his condolences and said “that the world understands this terrible crime as the act of an insane person.”[^5]  Nancy Kowert, John De La Garza, Jr., and David Gray each said the tower should remain open despite its tarnished image. Gray wrote “the Observation Deck of the tower should remain open – not for the curious nor the morbid, but so that people might see the bullet scars and blood stains and not forget that Whitman was indicative of something wrong in our society.”[^6] H. Gray Merriam’s submission, “Who’s Fault?,” [sic] echoed the same sentiments. Merriam did not view the “terror from the tower” as the act of one individual, and listed questions, wondering who to blame. The students generally did not feel the need to blame, but chose to move on, look to the future, and learn from a horrible event.
 

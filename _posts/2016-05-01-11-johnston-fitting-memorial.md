@@ -22,22 +22,23 @@ og_article: true
 
 Charles Whitman wrote these lines sometime in early 1964. We know this only because he tells us so: at the top of the page, Whitman made a notation in the midnight hours of August 1, 1966, explaining the year as a time “when I was in a similar feeling as I have been lately.”[^1] That “fused bomb” was detonating as he wrote. Earlier that evening, Whitman had begun to unburden his “problems” onto the two women he supposedly held most dear and would continue to do so later that day, onto dozens of other innocent victims and their families, communities, and friends. That explosion reverberated throughout the country, which found itself at a loss over how a “hitherto sane individual,” and an “all-American boy,” no less, could commit such senseless acts of violence.[^2]
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/johnston/lightning-strike.jpg" alt="Whitman medical record" class="tall-image" />
-  <p class="caption">
-    Whitman had a variety of unusual medical issues – an “unusually thin” skull, a “pecan-sized” brain tumor, and, as shown here, he was struck by lightning while stationed at Guantanamo Bay.  </p>
-</div>
+{% imageblock johnston/lightning-strike.jpg::
+              Whitman medical record::
+              true::
+              Whitman had a variety of unusual medical issues – an “unusually thin” skull, a “pecan-sized” brain tumor, and, as shown here, he was struck by lightning while stationed at Guantanamo Bay.::
+              false::
+              false %}
 
 The debate over what made Charles Whitman “snap,” as it’s often put, began the day of his killings and will likely never end. Physicians, investigators, and researchers have spent years documenting his troubled home life, drug abuse, the infamous “pecan-sized” tumor discovered in his brain, and the personal demons he described with disturbingly clinical self-reflection. Certain additional, relevant details of his life have received surprisingly little attention. Some are simply bizarre, like the fact that he was once caught in a phone booth struck by lightning.[^3] Lightning strike survivors typically experience some level of [long-term cognitive disabilities][cognitive-disabilities]. More surprisingly, nobody bothered to get the perspective of his wife Kathy or her family about Whitman until just a couple of years ago, despite his admission to beating her on more than one occasion. Those perspectives have turned out to be [quite damning][damning]. Meanwhile, speculation continues as to whether Whitman suffered from psychosis brought on by amphetamine-induced sleep deprivation and neuroscientists remain fascinated by the tumor and how much pressure it may or may not have exerted on his amygdala.[^4] Despite advances in neuroscience and psychology, satisfying answers to these questions continue to intrigue – and elude – us.
 
 Immediately after the shooting, Texas Governor John Connally convened a thirty-two person expert committee to answer these very questions. Contrary to statements by individual practitioners, the committee’s report was decidedly inconclusive.[^5] Whitman’s body was embalmed before the autopsy, which made it impossible to conclusively check for drugs. His brain was damaged from the gunshot wounds that killed him. And the team lacked a recent psychiatric evaluation. The task force was forced to conclude that they found it “impossible to make a formal psychiatric diagnosis,” and “the application of existing knowledge of organic brain function does not enable us to explain the actions of Whitman on August first.”[^6]
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/johnston/brain.jpg" alt="Photo of Dr. Chenar" class="tall-image" />
-  <p class="caption">
-    Archival wire print of Dr. Coleman de Chenar, who performed Whitman’s autopsy and concluded that the tumor pictured here was not the cause of the shootings.
-  </p>
-</div>
+{% imageblock johnston/brain.jpg::
+              Photo of Dr. Chenar::
+              true::
+              Archival wire print of Dr. Coleman de Chenar, who performed Whitman’s autopsy and concluded that the tumor pictured here was not the cause of the shootings.::
+              false::
+              false %}
 
 The curiosity about Whitman and his motives has largely overshadowed an important part of the Governor’s Report. The committee’s recommendations on how to deal with the aftermath of the shootings, and try to prevent similar events in the future, went far beyond symbolic "thoughts and prayers." The report helped to galvanize fundamental reform of mental health care practices at the University of Texas – a side of the tragedy’s legacy that has largely been forgotten.
 

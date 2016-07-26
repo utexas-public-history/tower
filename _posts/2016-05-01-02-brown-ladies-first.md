@@ -16,12 +16,12 @@ Charles Whitman’s shooting rampage from atop the UT tower was the deadliest sh
 
 ## Bath School Disaster – May 18, 1927
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/brown/andrew-kehoe-and-wife.jpg" alt="Andrew and Nellie Kehoe" />
-  <p class="caption">
-    Andrew and Nellie Kehoe
-  </p>
-</div>
+{% imageblock brown/andrew-kehoe-and-wife.jpg::
+              Andrew and Nellie Kehoe::
+              false::
+              Andrew and Nellie Kehoe::
+              false::
+              false %}
 
 Thirty-nine years prior to Whitman’s campus shooting, on May 18, 1927, Andrew Kehoe, a farmer in Bath Township, Michigan detonated bombs at Bath Consolidated School, killing 36 children and 2 teachers. Shortly after the school explosion, Kehoe detonated a bomb in his truck, which was filled with shrapnel, killing himself and the school superintendent as well as 3 bystanders. Earlier that morning, Kehoe had firebombed his house and farm buildings. Only the chicken coop, where his wife Nellie’s charred body was later found, was not destroyed. The Bath School disaster is the deadliest mass murder in U. S. history, resulting in a total of 44 deaths.  
 

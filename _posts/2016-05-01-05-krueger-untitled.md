@@ -12,12 +12,14 @@ When Charles Whitman went to the top of the UT tower on August 1, 1966, the univ
 
 When the shooting was over and the bodies were removed, the media, public officials, and citizens alike called for answers and wanted action. Everyone was trying to make sense of the tragic event and try to prevent it from happening again.
 
-<div class="image-block">
-  <a href="{{ site.baseurl }}/images/posts/krueger/hoover-letter-fullsize.jpg" data-lightbox="hoover-letter"><img src="{{ site.baseurl }}/images/posts/krueger/hoover-letter.jpg" alt="Scan of letter to J. Edgar Hoover" class="tall-image" /></a>
-  <p class="caption">
-    Letter from APD Chief Robert Miles to FBI Director J. Edgar Hoover. Austin (TX) Police Department Records of the Charles Whitman Mass Murder Case. AR 2000.002. <span class="credit">Image courtesy of the <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center</a>.</span>
-  </p>
-</div>
+{% imageblock krueger/hoover-letter.jpg::
+              Scan of letter to J. Edgar Hoover::
+              true::
+              Letter from APD Chief Robert Miles to FBI Director J. Edgar Hoover. Austin (TX) Police Department Records of the Charles Whitman Mass Murder Case. AR 2000.002.::
+              Image courtesy of the <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center</a>::
+              true::
+              hoover-letter::
+              krueger/hoover-letter-fullsize.jpg %}
 
 There was widespread acknowledgement that the current security services of the campus were inadequate to deal with situations such as the Charles Whitman shootings.
 
@@ -76,12 +78,14 @@ At 11:50 am security officers L.W. Hebert and Jack Rodman were dispatched to the
 
 The lack of adequate resources, firearms, and response plans greatly limited the university officers’ ability to act. This was grossly obvious when Chief Hamilton called the university ROTC program to see if they had any weapons that the Traffic &amp; Security Services could use. The ROTC responded that they had weapons but no ammunition.
 
-<div class="image-block">
-  <a href="{{ site.baseurl }}/images/posts/krueger/connally-letter-fullsize.jpg" data-lightbox="connally-letter"><img src="{{ site.baseurl }}/images/posts/krueger/connally-letter.jpg" alt="Scan of letter from John Connally" alt="tall-image" /></a>
-  <p class="caption">
-    Letter from Texas Governor John Connally to APD Chief Robert Miles. Austin (TX) Police Department Records of the Charles Whitman Mass Murder Case. AR 2000.002. <span class="credit">Image courtesy of the <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center</a>.</span>
-  </p>
-</div>
+{% imageblock krueger/connally-letter.jpg::
+              Scan of letter from John Connally::
+              true::
+              Letter from Texas Governor John Connally to APD Chief Robert Miles. Austin (TX) Police Department Records of the Charles Whitman Mass Murder Case. AR 2000.002.::
+              Image courtesy of the <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center</a>::
+              true::
+              connally-letter::
+              krueger/connally-letter-fullsize.jpg %}
 
 The lack of weapons and organization was not solely a problem for officials of The University of Texas.
 
@@ -89,12 +93,12 @@ At the press conference held by the Austin Police Department immediately after t
 
 Notably, Chief Miles was at Brackenridge Hospital during the shooting - most likely in response to the shooting of Officer Billy Paul Speed. He was not, however, setting up a central command post or coordinating police action. Miles stated of the police response during the UT tower shooting, “In a situation like this, it all depended on independent action by officers.”[^1]
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/krueger/wire-report.jpg" />
-  <p class="caption">
-    Wire report about the UT tower shooting. Ira Iscoe Papers. <span class="credit">Image courtesy of <a href="http://www.cah.utexas.edu/">Dolph Briscoe Center for American History</a></span>.
-  </p>
-</div>
+{% imageblock krueger/wire-report.jpg::
+              Photo of wire report::
+              false::
+              Wire report about the UT tower shooting. Ira Iscoe Papers.::
+              Image courtesy of <a href="http://www.cah.utexas.edu/">Dolph Briscoe Center for American History</a>::
+              false %}
 
 The UT tower shooting along with the Watts riots of the previous year produced a national consciousness about the need for new specialized training and resources for responding to violent events. Across the nation, police departments reviewed their preparedness, training, and capabilities to effectively respond to such situations. Most found major gaps and massive issues that had to be addressed. Special Weapons and Tactics (SWAT) teams were developed as a direct response to the UT tower shooting. Since their development in the late 1960s, SWAT teams are now found in almost every police department that serves a population of over 50,000.
 

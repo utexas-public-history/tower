@@ -44,42 +44,59 @@ The first memorial initiative occurred in 1996 when a group of faith based group
 
 As Pastor Larry Bethune recalls, this prayer vigil grew out of discussions with UT professor Rosa Eberly, who in the 1990s had begun to teach “The UT Tower and Public Memory,” a course aimed at teaching students about civic engagement and rhetoric. Eberly belonged to the same faith community as Pastor Bethune, senior pastor of the Baptist University Church, and helped to organize the prayer vigil. Archival records seem to indicate that the university finally reacted to the frustrations shortly after the prayer vigil. In 1999, one year after Larry R. Faulkner became President of UT Austin, the Board of Regents approved Faulkner’s request to initiate a planning group to investigate the best way to commemorate the incident. Typed notes from a meeting between Faulkner and one of his assistants point to the fact that despite the years, community members continued to pressure the university for some memorial action. In the notes, Faulkner references a letter from a 1982 UT graduate commenting on the “overdue” need for a memorial to provide “closure” and “a permanent recognition of the victims of the tower shootings of 1966.”
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/carbajal/tower-garden.jpg" alt="Tower Garden" />
-</div>
+{% imageblock carbajal/tower-garden.jpg::
+              Tower Garden::
+              false::
+              false::
+              false::
+              false %}
 
 Because of his involvement with the 30th anniversary, the university sought the help of Pastor Bethune in planning for the university’s first attempt at memorializing the tragic event. Bethune joined the core group as they met throughout the summer of 1999, before the planned August 1 dedication of the memorial garden that would then be followed by the reopening of the tower on September 15, 1999, discussed in more detail in “[The Specter of the Tower][specter]”. On August 1, 1999 at the Turtle Pond now called the Reflection Garden, the university held a memorial service where it lowered the flags to half-staff, President Faulkner gave remarks, and the tower was darkened as is customary during moments of grief for the university.
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/carbajal/tower-garden-reflection.jpg" alt="Reflection in Pond" class="tall-image" />
-</div>
+{% imageblock carbajal/tower-garden-reflection.jpg::
+              Reflection in Pond::
+              true::
+              false::
+              false::
+              false %}
 
 During this time the university also passed out forms similar to the UT Remembers forms for members of the community to write reflections on paper or via email of their lost one. These reflections are then placed inside the University permanent archives.
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/carbajal/reflections-form.jpg" alt="Form for UT Remembers" class="tall-image" />
-</div>
+{% imageblock carbajal/reflections-form.jpg::
+              Form for UT Remembers::
+              true::
+              false::
+              false::
+              false %}
 
 Individuals could also [submit their reflections via email][tower-event],  a page currently unavailable, but accessible through the Internet Archive’s Wayback Machine with the last capture date of April 30, 2015.
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/carbajal/online-form.png" alt="Online Form for Tower Reflections" />
-</div>
+{% imageblock carbajal/online-form.png::
+              Online Form for Tower Reflections::
+              false::
+              false::
+              false::
+              false %}
 
 In January of 2007, shortly after the 40th anniversary, University of Texas officials put a bronze plaque in the garden near the tower as a memorial “to those who died, to those who were wounded, and to the countless other victims who were immeasurably affected by the tragedy,”
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/carbajal/tower-garden-plaque.jpg" alt="Tower Garden Plaque" />
-</div>
+{% imageblock carbajal/tower-garden-plaque.jpg::
+              Tower Garden Plaque::
+              false::
+              false::
+              false::
+              false %}
 
 Action taken by the University always seemed to coincide with other mass shootings on high school and university campuses such as the Columbine and Virginia Tech shootings, April 20th, 1999 and April 16, 2007 respectively. Other somewhat documented memorialization efforts came from non-university groups: the Austin Police Department Tower Heroes plaque inscription in 2008 located in the far southwest side of Austin and a student led walking memorial tour of campus in 2014.
 
-<div class="image-block">
-  <a href="{{ site.baseurl }}/images/posts/carbajal/plaque-fullsize.jpg" data-lightbox="plaque"><img src="{{ site.baseurl }}/images/posts/carbajal/plaque.jpg" class="tall-image" /></a>
-  <p class="caption">
-    “Tower Heroes.” Plaque located at the Travis County Precinct 3 building at 8656B W Texas 71, Austin, TX 78735.
-  </p>
-</div>
+{% imageblock carbajal/plaque.jpg::
+              false::
+              true::
+              “Tower Heroes.” Plaque located at the Travis County Precinct 3 building at 8656B W Texas 71, Austin, TX 78735.::
+              false::
+              true::
+              plaque::
+              carbajal/plaque-fullsize.jpg %}
 
 Despite all these attempts, the general public continues to decry an absence of remembrance. Do we attribute this frustration to a lack of awareness of the efforts by the university or do we recognize the depth of the pain experienced by this community? As Pastor Bethune mentions during his oral history, everyone deals with loss in a different way and for different lengths of time. As seen through other memorializations such as the 9/11 Ground Zero Site, the Columbine Memorial, and the Ntarama Church in Rwanda, directly impacted communities and those who felt the after effects approached healing in diverse ways.
 

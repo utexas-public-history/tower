@@ -26,12 +26,12 @@ The conventional explanation for why guns are so widespread in American culture 
 
 Recently, this interpretation has been called into question. The historian Pamela Haag has argued that America’s current gun culture was the result of work done by early gun industrialists like Oliver Winchester and Samuel Colt. While guns have been present in America for centuries, they were primarily viewed as unexceptional objects. They were tools, necessary parts of frontier life or working on a farm. In order to expand the market for guns, though, they would have to be something more.
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/mcquistion/winchester-advert.jpg" alt="Winchester advertisement" />
-  <p class="caption">
-    An advertisement for Winchester Rifles from 1895. In this ad and others from this period and earlier, guns were marketed as tools, text-heavy ads extolling their mechanical virtues. <span class="credit">Image courtesy of Wikimedia</span>
-  </p>
-</div>
+{% imageblock mcquistion/winchester-advert.jpg::
+              Winchester advertisement::
+              false::
+              An advertisement for Winchester Rifles from 1895. In this ad and others from this period and earlier, guns were marketed as tools, text-heavy ads extolling their mechanical virtues.::
+              Image courtesy of Wikimedia::
+              false %}
 
 As it happens, the state of Texas was instrumental in Samuel Colt’s push for a wider market for his guns. William Hosley has written that Gen Sam Houston, Texas’ first senator to the United States in the 1850s, lobbied heavily for the adoption of Colt’s revolvers, saying that they should be used by every soldier on the frontier in order to prevent a “general Indian war.”[^7] Another key purchaser of Colt’s weapons was the Texas Rangers, whose members wrote about how the gun allowed them to take on groups many times their size.[^8] These early associations with Texas would be instrumental in Colt’s later advertising campaigns.
 

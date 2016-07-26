@@ -43,9 +43,14 @@ The number of mass shootings in the past two decades have desensitized us or per
 
 What has become apparent through this examination of the history of mass shootings, however, is that the realities of what transpired on August 1st, 1966 at the University of Texas at Austin were unprecedented in both number of lives ended, number of individual lives affected, the extent of emotional damage perpetrated within both, UT’s and Austin’s communities, and the way in which public memory of the tragedy has since been overshadowed by factors that have been and still are hard to comprehend. The attitudes towards the 1966 shooting, both at UT and in the Austin community have seemingly created an abysmal amnesia towards the memory of this tragic episode, and towards how to acknowledge what happened and subsequently towards how to pave the road towards healing. The UT tower’s ninety-six minute shootings left 17 dead, including the shooter, thirty wounded, and many more maimed. These facts alone, for any community, in any era, and under whatever circumstance is a hard experience to process, let alone an experience sought to be examined. It is my hope that this brief history on mass shootings can open dialogue towards how the University of Texas at Austin can examine the past. How we, as both a community and individuals can take the lessons offered through our past history to help address the painful memory of the 1966 mass shootings, and hopefully in order understand how to begin to heal.
 
-<div class="image-block">
-  <a data-lightbox="timeline" href="{{ site.baseurl }}/images/posts/hammack/timeline-fullsize.png"><img src="{{ site.baseurl }}/images/posts/hammack/timeline.png" /></a>
-</div>
+{% imageblock hammack/timeline.png::
+              Timeline Chart of Mass Shootings::
+              false::
+              false::
+              false::
+              true::
+              timeline::
+              hammack/timeline-fullsize.png %}
 {% include post/post_closing.html %}
 
 [^1]: _The Aspen Chronicle_, March 30, 1891.

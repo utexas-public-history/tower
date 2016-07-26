@@ -20,12 +20,12 @@ August 1st will also mark the 50th anniversary since the UT tower shooting, comm
 
 When Whitman began shooting, the Austin Police Department was ill-equipped for the situation. They mostly possessed only their service revolvers and shotguns, weapons that were useless when it came to long distances. If they did possess a rifle, it was because it was a personal weapon.[^2] The officers weren’t alone, though. Once bystanders realized what was going on, many ran to retrieve their own firearms and fired back at the tower. In a few instances, police officers drove people in their squad cars to purchase ammunition or to pick up rifles. Some people asked police what to do if they had a shot at the sniper. The police said that they should shoot to kill.[^3]
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/mcquistion/bullet-holes.jpg" alt="Photos of bullet holes" />
-  <p class="caption">
-    Gun marks on the side of the UT tower. Most of these marks have since been plastered over. <span class="credit">Image courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a></span>
-  </p>
-</div>
+{% imageblock mcquistion/bullet-holes.jpg::
+              Photos of bullet holes::
+              false::
+              Gun marks on the side of the UT tower. Most of these marks have since been plastered over.::
+              Image courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a>::
+              false %}
 
 <div class="video-block">
   <a href="http://bit.ly/267tQEV" id="first-video-link" class="video-poster">

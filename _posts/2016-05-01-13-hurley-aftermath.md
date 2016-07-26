@@ -23,9 +23,12 @@ In 1983 Sarah Rider interviewed Morris Hohmann who is a survivor of the shooting
 
 There are people who chose to remember every day, and there are people who wish to forget it every day. In 1989, a UT student named Kevin Reed spoke about his memory of the event, saying that “It happened so long ago that it’s more of a curiosity than anything else, I think most students know about… what happened at the tower, but nobody likes to dwell on it.” Reed acknowledges that he is in a group of people who don’t know how to respond, even after so much time has passed. On the 25th anniversary, a UT spokesman said that there was nothing planned in terms of having a ceremony or service as the University of Texas sat in silence again.[^4]
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/hurley/photo.jpg" alt="Photo of memorial" />
-</div>
+{% imageblock hurley/photo.jpg::
+              Photo of memorial::
+              false::
+              false::
+              false::
+              false %}
 
 Alwyn Barr is a survivor who is now a 77-year-old retired college professor. He was at UT working on his Ph.D. that summer of 1966. That morning his wife was off campus and eight months pregnant, Barr remembers thinking that his child would grow up without a father. Now looking back, Barr reflects, “It would have been better if the campus police at The University of Texas in 1966 could have responded more quickly.” Barr remembers the event with a critical lens in light of the university’s current gun debates. “The general idea, of course, is that a university ought to be a place where you carry on debates and discussion about a variety of topics in the process of learning. But this is such a tricky thing, in the sense that there’s overtones of violence, and the fact that it’s there, at the University of Texas, where violence has taken place,” he stated. Although the university has been silent in the past about the tower shooting, more than enough time has passed, and people are speaking out. This year, finally, there are plans to have a larger memorial for the people who lost their lives on August 1, instead of the tiny plaque that exists now. Also, like Barr, many people fear the danger in having concealed carry because of shootings at UT and at other schools. Others justify concealed carry in the belief that they can protect themselves if such a shooting occurs again.[^5]
 

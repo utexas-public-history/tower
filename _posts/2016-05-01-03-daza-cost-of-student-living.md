@@ -11,12 +11,12 @@ og_article: true
 {% include post/post_opening.html %}
 College life at UT Austin changed in 1956 when the Board of Regents decided to accept the first African-American students. In addition to the tense race relations that resulted, tuition was rising, university housing was increasingly scarce, and there was growing student activism that challenged the UT Board of Regents and openly protested against US involvement in Vietnam. The tower shooting may not have been directly related to these turbulent events, but it occurred against the backdrop of a rapidly changing world in the 1960s.
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/daza/main-mall.jpg" alt="Photograph of students on Main Mall" class="tall-image" />
-  <p class="caption">
-    Young UT Students in the Sixties at Main Mall. <span class="credit">Image courtesy of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a></span>
-  </p>
-</div>
+{% imageblock daza/main-mall.jpg::
+              Photograph of students on Main Mall::
+              true::
+              Young UT Students in the Sixties at Main Mall.::
+              Image courtesy of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a>::
+              false %}
 
 ## Race and Civil Rights
 
@@ -30,12 +30,12 @@ In 1963 the Campus Interracial Committee called for the immediate and complete i
 
 The full integration of African-American students represented a partial victory for the Civil Rights movement at UT. The desegregation of campus spaces and opportunities increased the demand for university-owned housing which had an adverse impact on students’ finances independent of their color.
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/daza/segregated-restaurants.jpg" alt="Photo of student protest" />
-  <p class="caption">
-    UT Students protesting the segregation policies at Austin restaurants. <span class="credit">Image Courtesy of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a></span>
-  </p>
-</div>
+{% imageblock daza/segregated-restaurants.jpg::
+              Photo of student protest::
+              false::
+              UT Students protesting the segregation policies at Austin restaurants.::
+              Image Courtesy of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a>::
+              false %}
 
 ## Student Finances
 
@@ -51,14 +51,14 @@ The increasing number of students had an adverse impact on the university-owned 
 
 Increasing housing costs and the lack of university-owned housing for undergraduate and graduate students, influenced the decision by the Board of Regents to approve the construction of low-cost houses in the Brackenridge complex close to Lake Austin in 1965, to “take care of those who are struggling with financial problems but who are equally entitled to a public education and who should be among the leaders of the destiny of our future.”[^13]
 
-<div class="image-block">
-  <a href="{{ site.baseurl }}/images/posts/daza/low-income-distribution-fullsize.jpg" data-lightbox="chart">
-    <img src="{{ site.baseurl }}/images/posts/daza/low-income-distribution.jpg" alt="Photo of chart displaying distribution of low income households" class="tall-image" />
-  </a>
-  <p class="caption">
-    Distribution of Families with Incomes Below $3000, Austin 1960. Morton Hoffman & Company. Housing Market Analysis, Austin Texas, 1965-1985: Report prepared for the Austin Community Development Program. <span class="credit">Image courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a></span>
-  </p>
-</div>
+{% imageblock daza/low-income-distribution.jpg::
+              Photo of chart displaying distribution of low income households::
+              false::
+              Distribution of Families with Incomes Below $3000, Austin 1960. Morton Hoffman & Company. Housing Market Analysis, Austin Texas, 1965-1985: Report prepared for the Austin Community Development Program.::
+              Image courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a>::
+              true::
+              chart::
+              daza/low-income-distribution-fullsize.jpg %}
 
 Increasing living expenses had a significant impact on married students. In 1965, one-third of the 26,230 students at UT Austin were married. They competed to live in one of the 767 university-owned apartments, where they would pay $25.75 for a one bedroom accommodation or $40.75 for two bedrooms.[^14] Part-time jobs were an option to cover expenses, however, on-campus jobs only paid between $1.30 and $2 an hour.[^15] In 1966, the per capita income in Austin was $2,212[^16] in comparison with the national average salary which was $2,500.[^17] A study by Metropolitan Austin showed that in 1965 family expenses averaged $4,425 with an annual inflation of 1.4 percent.[^18]
 
@@ -76,23 +76,23 @@ SDS not only supported the end of racial segregation on campus, but the group al
 
 SDS leaders advocated for non-violent mobilization on campus and in Austin to avoid the response of public authorities. The UT Board of Regents supported student expression as long as students’ actions did not interfere with the orderly conduct of authorized University functions.[^25] Some people at UT believed that SDS protests were sponsored by communist cells in the USA. However, Willard D, (Scott) Pittman, one member of the local chapter argued that “there certainly is no evidence that SDS takes orders from Moscow or Peking.”[^26]
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/daza/campus-protest.jpg" alt="Photo of campus civil rights protest" class="tall-image" />
-  <p class="caption">
-    UT students protesting for the inclusion of Civil Rights at UT. <span class="credit">Image courtesy of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a></span>
-  </p>
-</div>
+{% imageblock daza/campus-protest.jpg::
+              Photo of campus civil rights protest::
+              true::
+              UT students protesting for the inclusion of Civil Rights at UT.::
+              Image courtesy of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a>::
+              false %}
 
 Relations between UT officials and the SDS were complicated, as protests against the Vietnam War generated bad press for the university. After each protest, there were ongoing disciplinary proceedings against SDS leaders. One of the most significant challenges UT administrators faced was in 1965 when 150 students protested at the Texas Capitol against the war in Vietnam. President Ranson had not approved that protest and SDS was dropped from the list of organizations allowed to hold meetings on campus.[^27]
 
 The Student Religious Liberals and University Socialist Committee and the University of Texas Student Assembly reacted against the proscription of SDS considering it an infringement of the right to free speech.[^28] The Texas Legislature in 1967 decided to strengthen the power of the campus police because of a “dismaying increase in crime,” and allowed campus police to arrest students if they were disturbing college environment.
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/daza/sds.jpg" alt="Photo of SDS protest" class="tall-image" />
-  <p class="caption">
-    Students for a Democratic Society [SDS] UT chapter protesting for the Vietnam War. <span class="credit">Image courtesy of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a></span>
-  </p>
-</div>
+{% imageblock daza/sds.jpg::
+              Photo of SDS protest::
+              true::
+              Students for a Democratic Society [SDS] UT chapter protesting for the Vietnam War.::
+              Image courtesy of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a>::
+              false %}
 
 Students´ life at UT in the first part of the sixties was not “pristine” or “carefree.” The reality was more complex. Changes taking place elsewhere in the United States and in Austin helped create a student-body that contested traditional conceptions of race relations, gender roles, and personal morality,[^29] and protested government policies, especially in Vietnam.[^30] On campus student organizations like the SDS, Negroes for Equal Rights, and sororities and fraternities for black and white students, helped individuals mobilize for such public activities.  The majority of UT students probably never participated in a rally or protest against the war in Vietnam, but no one could fail to notice the changes occurring on campus regarding student finances, race relations, and national politics.
 {% include post/post_closing.html %}

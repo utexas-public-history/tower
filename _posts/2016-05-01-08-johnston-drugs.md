@@ -15,12 +15,12 @@ All of these statements are true. So why even raise the issue of drugs?
 
 There is an enormous gap in the discussion of the UT tower shooting when it comes to Whitman’s substance abuse. The U.S. Food and Drug Administration, Texas Board of Pharmacy, and the Governor’s Commission all investigated whether allegations that he took amphetamines “like candy,” routinely induced insomnia for days on end, and at times exhibited severely compromised cognition and behavior could have had any connection to his actions that day.[^3] Their findings, particularly of the FDA, are disturbing to say the least - although not why you might expect. Regardless, those inquiries were derailed upon the discovery of the tumor in Whitman's brain.[^4] For sure, if there was anything in his body that made him “snap,” it must have been that.
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/johnston/dexedrine.jpg" class="tall-image" />
-  <p class="caption">
-    Advertisements for Dexedrine in the 1960s appealed to anyone who simply felt the need for a pick-me-up.
-  </p>
-</div>
+{% imageblock johnston/dexedrine.jpg::
+              false::
+              true::
+              Advertisements for Dexedrine in the 1960s appealed to anyone who simply felt the need for a pick-me-up.::
+              false::
+              false %}
 
 As it turned out, the role of the tumor was just as inconclusive as the role of anything else.[^5] What's more, the aforementioned tissue analysis actually tells us very little. Whitman’s body was embalmed prior to his autopsy, severely limiting the findings of any chemical analysis. Dexedrine, his amphetamine of choice, can only be detected through a urine sample, which was wholly unavailable.[^6] But the Governor’s Report boiled it down to this:
 
@@ -36,12 +36,12 @@ Friends told Agent Hand that Whitman’s copious drug intake had been “frequen
 
 Those “capsules” were typically either Dexedrine, an amphetamine, or Dexamyl, a combination of Dexedrine and the depressant amobarbital. Today, Dexedrine is highly effective in treating ADHD. In the mid-1960s, it was [widely popular][dexedrine] for anything from depression to morning sickness to obesity, and was distributed throughout the military as an endurance enhancer. This last application was what Whitman sought the most. Friends alleged that he routinely used this cocktail to stay awake for multiple days and nights in a row, a pattern that he continued up to August 1. He claimed they were harmless - one friend quoted him as saying “I eat them like popcorn, they won't hurt you.”[^11] Yet Whitman did not carry his drugs, as the FDA put it, “in the normal manner of a non-abuser.”[^12] Instead of storing them in a typical prescription bottle, he kept them in a metal tube. As for his stash at home, investigators opened the family medicine cabinet to find no fewer than eleven prescription bottles made out to Whitman by seven different doctors and filled at five pharmacies.[^13]
 
-<div class="image-block">
-  <img src="{{ site.baseurl }}/images/posts/johnston/prescriptions.jpg" class="tall-image" />
-  <p class="caption">
-    The first page of three detailing the contents of the Whitman family medicine cabinet. <span class="credit">Image courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a></span>
-  </p>
-</div>
+{% imageblock johnston/prescriptions.jpg::
+              false::
+              true::
+              The first page of three detailing the contents of the Whitman family medicine cabinet.::
+              Image courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a>::
+              false %}
 
 It was clear to Whitman’s friends that that his drugs were not entirely safe. Describing him after five days of induced insomnia, Richard Owen Clark said Whitman “was visibally [_sic_] shaking, he could not hear the normal spoken voice, his ability to reason was impaired, his thinking was slow and you had to shake him to get his attention.”[^14] The Governor’s Report was spot on when it said the drugs did more harm than good to his ability to study. As McCrary explained:
 
@@ -63,12 +63,12 @@ One of the reasons his friends knew about the Dexedrine was that Whitman would o
 
 As Kathy’s father Raymond Leissner later told investigators, the Needville drugstore was the town’s primary gathering place, so he saw nothing unusual in the fact that Whitman would go there during each of his monthly visits. He also noted that the store owner, Hugo Frank Ley, Jr., was a close family friend, particularly to Kathy. The report then characterizes the response of Kathy’s mother, Frances Nelson-Leissner, about Whitman’s possible source of drugs as “frequently contradictory or confusing.” Technically, this is true. But this was a mother who days earlier had been robbed of her only daughter by a man she had once [told directly][leissner]: “By trying to completely dominate Kathy you are destroying the very things which attracted you to her in the first place.” Whatever role the Needville Pharmacy may have played in this tragedy, “contradictory” and “confusing” are perhaps the least relevant adjectives to describe Mrs. Nelson-Leissner’s situation. While it is not necessarily the FDA's job to have sympathy for the unwitting victim of such a twisted, devastating catastrophe, the circumstances were clearly unbearable.
 
-<div class="image-block">
-  <a href="{{ site.baseurl }}/images/posts/johnston/needville-fullsize.jpg" data-lightbox="needville"><img src="{{ site.baseurl }}/images/posts/johnston/needville.jpg" class="tall-image" /></a>
-  <p class="caption">
-    The Texas Board of Pharmacy’s audit of the Needville Pharmacy, run by Leissner family friend Hugo Frank Ley, Jr., revealed a significant shortage in stock.
-  </p>
-</div>
+{% imageblock johnston/needville.jpg::
+              false::
+              true::
+              The Texas Board of Pharmacy’s audit of the Needville Pharmacy, run by Leissner family friend Hugo Frank Ley, Jr., revealed a significant shortage in stock.::
+              false::
+              false %}
 
 In the end, the FDA did not establish a definitive connection between Whitman’s substance abuse and the UT tower shootings. It left open the question of whether the prolonged sleep deprivation itself could have been a factor, but his behavior in the days before the shooting was not reminiscent of the stunted cognition his friends had described. Despite some speculation at the time that Whitman suffered from amphetamine psychosis, there is no evidence that he experienced the visual or audio hallucinations [characteristic of that diagnosis][amphetamine-psychosis].
 
