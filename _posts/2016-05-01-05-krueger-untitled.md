@@ -29,50 +29,94 @@ Led by Chief Allen Hamilton, the department effectively managed its role and car
 
 The official T&amp;SS Offense Report from August 1, 1966 shows a department that responded quickly to the shooting by reaching out to Austin PD and the Department of Public Safety to try to coordinate action and establish lines of communication. They also acted to ensure student safety on campus by deploying officers toward the tower with speakers to warn students about the situation. Hamilton further communicated with the Women’s Dormitory to have all female students remain inside until the situation was resolved. Sgt. Barr was dispatched to help lead APD officers through university underground tunnels so they could gain access to the tower.
 
-<div class="image-gallery image-block">
-  <div class="row">
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="T&amp;SS Report (page 1)" href="{{ site.baseurl }}/images/posts/krueger/tss-report-1.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/tss-report-1-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="T&amp;SS Report (page 2)" href="{{ site.baseurl }}/images/posts/krueger/tss-report-2.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/tss-report-2-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="T&amp;SS Report (page 3)" href="{{ site.baseurl }}/images/posts/krueger/tss-report-3.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/tss-report-3-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="T&amp;SS Report (page 4)" href="{{ site.baseurl }}/images/posts/krueger/tss-report-4.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/tss-report-4-thumb.jpg" /></a>
-    </div>
-  </div>
-  <div class="row">
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="T&amp;SS Report (page 5)" href="{{ site.baseurl }}/images/posts/krueger/tss-report-5.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/tss-report-5-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="T&amp;SS Report (page 6)" href="{{ site.baseurl }}/images/posts/krueger/tss-report-6.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/tss-report-6-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="T&amp;SS Report (page 7)" href="{{ site.baseurl }}/images/posts/krueger/tss-report-7.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/tss-report-7-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="Statement from Sargeant Barr" href="{{ site.baseurl }}/images/posts/krueger/barr-letter.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/barr-letter-thumb.jpg" /></a>
-    </div>
-  </div>
-  <div class="row">
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="Statement from Jane Greer, Women’s Residence Halls" href="{{ site.baseurl }}/images/posts/krueger/greer-letter.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/greer-letter-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="Statement from Delsie Kingdon (page 1)" href="{{ site.baseurl }}/images/posts/krueger/kingdon-letter-1.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/kingdon-letter-1-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="tss-report" data-title="Statement from Delsie Kingdon (page 2)" href="{{ site.baseurl }}/images/posts/krueger/kingdon-letter-2.jpg"><img src="{{ site.baseurl }}/images/posts/krueger/kingdon-letter-2-thumb.jpg" /></a>
-    </div>
-  </div>
-  <p class="caption">
-    UT Traffic &amp; Security Services Offense Report, officer statements, and other correspondence regarding security operations on the day of the shooting. UT Traffic and Security Services Chief Allen R. Hamilton Tower Sniper Records. <span class="credit">Images courtesy of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a></span>
-  </p>
-</div>
+{% start_image_gallery_wrapper %}
+{% start_image_gallery %}
+  {% image_gallery_cell
+      krueger/tss-report-1-thumb.jpg::
+      false::
+      true::
+      tss-report::
+      T&amp;SS Report (page 1)::
+      krueger/tss-report-1.jpg %}
+  {% image_gallery_cell
+      krueger/tss-report-2-thumb.jpg::
+      false::
+      true::
+      tss-report::
+      T&amp;SS Report (page 2)::
+      krueger/tss-report-2.jpg %}
+  {% image_gallery_cell
+      krueger/tss-report-3-thumb.jpg::
+      false::
+      true::
+      tss-report::
+      T&amp;SS Report (page 3)::
+      krueger/tss-report-3.jpg %}
+  {% image_gallery_cell
+      krueger/tss-report-4-thumb.jpg::
+      false::
+      true::
+      tss-report::
+      T&amp;SS Report (page 4)::
+      krueger/tss-report-4.jpg %}
+{% end_image_gallery %}
+{% start_image_gallery %}
+  {% image_gallery_cell
+      krueger/tss-report-5-thumb.jpg::
+      false::
+      true::
+      tss-report::
+      T&amp;SS Report (page 5)::
+      krueger/tss-report-5.jpg %}
+  {% image_gallery_cell
+      krueger/tss-report-6-thumb.jpg::
+      false::
+      true::
+      tss-report::
+      T&amp;SS Report (page 6)::
+      krueger/tss-report-6.jpg %}
+  {% image_gallery_cell
+      krueger/tss-report-7-thumb.jpg::
+      false::
+      true::
+      tss-report::
+      T&amp;SS Report (page 7)::
+      krueger/tss-report-7.jpg %}
+  {% image_gallery_cell
+      krueger/barr-letter-thumb.jpg::
+      false::
+      true::
+      tss-report::
+      Statement from Sergeant Barr::
+      krueger/barr-letter.jpg %}
+{% end_image_gallery %}
+{% start_image_gallery %}
+  {% image_gallery_cell
+      krueger/greer-letter-thumb.jpg::
+      false::
+      true::
+      tss-report::
+      Statement from Jane Greer, Women’s Residence Halls::
+      krueger/greer-letter.jpg %}
+  {% image_gallery_cell
+      krueger/kingdon-letter-1-thumb.jpg::
+      false::
+      true::
+      tss-report::
+      Statement from Delsie Kingdon (page 1)::
+      krueger/kingdon-letter-1.jpg %}
+  {% image_gallery_cell
+      krueger/kingdon-letter-2-thumb.jpg::
+      false::
+      true::
+      tss-report::
+      Statement from Delsie Kingdon (page 2)::
+      krueger/kingdon-letter-2.jpg %}
+{% end_image_gallery %}
+{% image_gallery_caption
+    UT Traffic &amp; Security Services Offense Report, officer statements, and other correspondence regarding security operations on the day of the shooting. UT Traffic and Security Services Chief Allen R. Hamilton Tower Sniper Records.::
+    Images courtesy of <a href="http://www.cah.utexas.edu">Dolph Briscoe Center for American History</a> %}
+{% end_image_gallery_wrapper %}
 
 At 11:50 am security officers L.W. Hebert and Jack Rodman were dispatched to the tower to check out the situation. Upon reaching the 27th floor by elevator they came across several of the early victims in the stairwell up to the 28th floor. After hearing continued gunfire outside and recognizing they had no weapons or plans by which to engage the shooter, both men decided it was best to head to the bottom of the main building to lock it down so no one could get in or out and to secure the interior of the building. This was at approximately 11:55 am. It was not until 89 minutes later that Whitman was finally shot and the killing ended.
 
@@ -106,25 +150,41 @@ One of the reasons that UT security officers lacked weapons prior to the UT towe
 
 During the 1967 legislative session, Senator A.M. Aiken proposed Senate Bill 162, which was "an act providing for the protection, safety and welfare of students and employees … and for the policing of the buildings and grounds of the State institutions of higher education of this State.”[^2] The idea was to provide institutions of higher learning with police forces that would be able to adequately provide for the safety of their students.
 
-<div class="image-gallery image-block">
-  <div class="row">
-    <div class="image col-xs-6 col-md-3">
-      <a href="{{ site.baseurl }}/images/posts/krueger/carlson-letter-1.jpg" data-lightbox="carlson-letter"><img src="{{ site.baseurl }}/images/posts/krueger/carlson-letter-1-thumb.jpg"></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a href="{{ site.baseurl }}/images/posts/krueger/carlson-letter-2.jpg" data-lightbox="carlson-letter"><img src="{{ site.baseurl }}/images/posts/krueger/carlson-letter-2-thumb.jpg"></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a href="{{ site.baseurl }}/images/posts/krueger/carlson-letter-3.jpg" data-lightbox="carlson-letter"><img src="{{ site.baseurl }}/images/posts/krueger/carlson-letter-3-thumb.jpg"></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a href="{{ site.baseurl }}/images/posts/krueger/carlson-letter-4.jpg" data-lightbox="carlson-letter"><img src="{{ site.baseurl }}/images/posts/krueger/carlson-letter-4-thumb.jpg"></a>
-    </div>
-  </div>
-  <p class="caption">
-    Letter from woman in New York to Governor John Connally concerning the UT tower shooting. UT Traffic and Security Services Chief Allen R. Hamilton Tower Sniper Records. <span class="credit">Images courtesy of <a href="http://www.cah.utexas.edu/">Dolph Briscoe Center for American History</a>.</span>
-  </p>
-</div>
+{% start_image_gallery_wrapper %}
+{% start_image_gallery %}
+  {% image_gallery_cell
+      krueger/carlson-letter-1-thumb.jpg::
+      false::
+      true::
+      carlson-letter::
+      ::
+      krueger/carlson-letter-1.jpg %}
+  {% image_gallery_cell
+      krueger/carlson-letter-2-thumb.jpg::
+      false::
+      true::
+      carlson-letter::
+      ::
+      krueger/carlson-letter-2.jpg %}
+  {% image_gallery_cell
+      krueger/carlson-letter-3-thumb.jpg::
+      false::
+      true::
+      carlson-letter::
+      ::
+      krueger/carlson-letter-3.jpg %}
+  {% image_gallery_cell
+      krueger/carlson-letter-4-thumb.jpg::
+      false::
+      true::
+      carlson-letter::
+      ::
+      krueger/carlson-letter-4.jpg %}
+{% end_image_gallery %}
+{% image_gallery_caption
+    Letter from woman in New York to Governor John Connally concerning the UT tower shooting. UT Traffic and Security Services Chief Allen R. Hamilton Tower Sniper Records.::
+    Images courtesy of <a href="http://www.cah.utexas.edu/">Dolph Briscoe Center for American History</a> %}
+{% end_image_gallery_wrapper %}
 
 With overwhelming support from both houses, the bill moved through committee and legislative floors at exceptional speed. SB 162 was formally signed into law by Governor John Connally on April 27, 1967.
 

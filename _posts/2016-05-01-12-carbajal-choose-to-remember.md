@@ -12,19 +12,26 @@ og_article: true
 
 Days after the 1966 UT tower shooting, the air on campus seemed stiff. Some survivors had been released from the hospital while the deceased had begun to be buried. The media buzzed and university officials scrambled to find ways to help the university community adjust to life after the tragedy. Years began to pass and slowly the moment began to fade. For some, the tower tragedy paved the way to an endless struggle to find peace with their experience. For others who had been on or near campus and who had shots fired at them or at their friends and loved ones, the day would remain a dark moment in their life.
 
-<div class="image-gallery image-block">
-  <div class="row">
-    <div class="image col-xs-6">
-      <a data-lightbox="comments" data-title="Suzanne Kain Rhoads’s reflections" href="{{ site.baseurl }}/images/posts/carbajal/reflections-comment-1.jpg"><img src="{{ site.baseurl }}/images/posts/carbajal/reflections-comment-1-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6">
-      <a data-lightbox="comments" data-title="Karan Russ Elliott’s reflections" href="{{ site.baseurl }}/images/posts/carbajal/reflections-comment-2.jpg"><img src="{{ site.baseurl }}/images/posts/carbajal/reflections-comment-2-thumb.jpg" /></a>
-    </div>
-  </div>
-  <p class="caption">
-    Stories submitted by survivors to the University’s ‘Tower Reflections’ program.
-  </p>
-</div>
+{% start_image_gallery_wrapper %}
+{% start_image_gallery %}
+  {% image_gallery_cell
+      carbajal/reflections-comment-1-thumb.jpg::
+      false::
+      true::
+      comments::
+      Suzanne Kain Rhoads’s reflections::
+      carbajal/reflections-comment-1.jpg %}
+  {% image_gallery_cell
+      carbajal/reflections-comment-2-thumb.jpg::
+      false::
+      true::
+      comments::
+      Karan Russ Elliott’s reflections::
+      carbajal/reflections-comment-2.jpg %}
+{% end_image_gallery %}
+{% image_gallery_caption
+    Stories submitted by survivors to the University’s ‘Tower Reflections’ program. %}
+{% end_image_gallery_wrapper %}
 
 For a university community, losing a student or professor in a mass killing can produce a whirlwind of emotions. Add to this the fact that this act of violence was perpetrated by a member of that same community. Charles Whitman, a university student, shot and wounded over 45 people. The victim and wounded list would include mothers, daughters, sons, husbands, wives, grandchildren, and fathers leaving deep wounds in the lives of their beloved and the communities they belonged to. To this day, the community of Austin continues to struggle with the effects of the tragedy of August 1, despite attempts to heal by university officials, leaders of the community, law enforcement, public agencies, and student groups.
 

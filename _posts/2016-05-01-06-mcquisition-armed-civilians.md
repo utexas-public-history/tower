@@ -85,76 +85,147 @@ Crum is unambiguous on the role that armed civilians played in the shooting at t
 
 As the only civilian in the group that stormed the tower observation deck, Crum became one of the heroes of the UT tower tragedy. He was widely fêted afterwards, receiving a Bravery Award from the Texas Law Enforcement Association[^6] and the Respect for Law Award from Optimist International, an international service organization that focuses on youth.[^7]
 
-<div class="image-gallery image-block">
-  <div class="row">
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum" data-title="Allen Crum’s Statement (page 1)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-1-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum" data-title="Allen Crum’s Statement (page 2)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-2-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum" data-title="Allen Crum’s Statement (page 3)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-3.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-3-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum" data-title="Allen Crum’s Statement (page 4)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-4.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-4-thumb.jpg" /></a>
-    </div>
-  </div>
-  <p class="caption">
-    Allen Crum’s statement, given to the police immediately after the shooting. <span class="credit">Images courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a></span>
-  </p>
-</div>
+{% start_image_gallery_wrapper %}
+{% start_image_gallery %}
+  {% image_gallery_cell
+      mcquistion/crum-1-thumb.jpg::
+      Scan of page of Crum’s statement::
+      true::
+      crum::
+      Allen Crum’s Statement (page 1)::
+      mcquistion/crum-1.jpg %}
+  {% image_gallery_cell
+      mcquistion/crum-2-thumb.jpg::
+      Scan of page of Crum’s statement::
+      true::
+      crum::
+      Allen Crum’s Statement (page 2)::
+      mcquistion/crum-2.jpg %}
+  {% image_gallery_cell
+      mcquistion/crum-3-thumb.jpg::
+      Scan of page of Crum’s statement::
+      true::
+      crum::
+      Allen Crum’s Statement (page 3)::
+      mcquistion/crum-3.jpg %}
+  {% image_gallery_cell
+      mcquistion/crum-4-thumb.jpg::
+      Scan of page of Crum’s statement::
+      true::
+      crum::
+      Allen Crum’s Statement (page 4)::
+      mcquistion/crum-4.jpg %}
+{% end_image_gallery %}
+{% image_gallery_caption
+  Allen Crum’s statement, given to the police immediately after the shooting.::
+  Images courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a> %}
+{% end_image_gallery_wrapper %}
 
-<div class="image-gallery image-block">
-  <div class="row">
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 1)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-1-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 2)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-2-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 3)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-3.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-3-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 4)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-4.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-4-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 5)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-5.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-5-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 6)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-6.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-6-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 7)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-7.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-7-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 8)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-8.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-8-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 9)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-9.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-9-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 10)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-10.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-10-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 11)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-11.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-11-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 12)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-12.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-12-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 13)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-13.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-13-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="crum-ar" data-title="Allen Crum’s Interview with <i>American Rifleman</i> (page 14)" href="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-14.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/crum-ar-14-thumb.jpg" /></a>
-    </div>
-  </div>
-
-  <p class="caption">
-    Allen Crum also gave a description of his experience to American Rifleman, a publication of the National Rifle Association. <span class="credit"> Images courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a></span>
-  </p>
-</div>
+{% start_image_gallery_wrapper %}
+{% start_image_gallery %}
+  {% image_gallery_cell
+      mcquistion/crum-ar-1-thumb.jpg::
+      Scan of Crum’s Interview::
+      true::
+      crum-ar::
+      Allen Crum’s Interview with <i>American Rifleman</i> (page 1)::
+      mcquistion/crum-ar-1.jpg %}
+  {% image_gallery_cell
+      mcquistion/crum-ar-2-thumb.jpg::
+      Scan of Crum’s Interview::
+      true::
+      crum-ar::
+      Allen Crum’s Interview with <i>American Rifleman</i> (page 2)::
+      mcquistion/crum-ar-2.jpg %}
+  {% image_gallery_cell
+      mcquistion/crum-ar-3-thumb.jpg::
+      Scan of Crum’s Interview::
+      true::
+      crum-ar::
+      Allen Crum’s Interview with <i>American Rifleman</i> (page 3)::
+      mcquistion/crum-ar-3.jpg %}
+  {% image_gallery_cell
+      mcquistion/crum-ar-4-thumb.jpg::
+      Scan of Crum’s Interview::
+      true::
+      crum-ar::
+      Allen Crum’s Interview with <i>American Rifleman</i> (page 4)::
+      mcquistion/crum-ar-4.jpg %}
+  {% image_gallery_cell
+      mcquistion/crum-ar-5-thumb.jpg::
+      Scan of Crum’s Interview::
+      true::
+      crum-ar::
+      Allen Crum’s Interview with <i>American Rifleman</i> (page 5)::
+      mcquistion/crum-ar-5.jpg %}
+  {% image_gallery_cell
+      mcquistion/crum-ar-6-thumb.jpg::
+      Scan of Crum’s Interview::
+      true::
+      crum-ar::
+      Allen Crum’s Interview with <i>American Rifleman</i> (page 6)::
+      mcquistion/crum-ar-6.jpg %}
+  {% image_gallery_cell
+      mcquistion/crum-ar-7-thumb.jpg::
+      Scan of Crum’s Interview::
+      true::
+      crum-ar::
+      Allen Crum’s Interview with <i>American Rifleman</i> (page 7)::
+      mcquistion/crum-ar-7.jpg %}
+  {% image_gallery_cell
+      mcquistion/crum-ar-8-thumb.jpg::
+      Scan of Crum’s Interview::
+      true::
+      crum-ar::
+      Allen Crum’s Interview with <i>American Rifleman</i> (page 8)::
+      mcquistion/crum-ar-8.jpg %}
+  {% image_gallery_cell
+      mcquistion/crum-ar-9-thumb.jpg::
+      Scan of Crum’s Interview::
+      true::
+      crum-ar::
+      Allen Crum’s Interview with <i>American Rifleman</i> (page 9)::
+      mcquistion/crum-ar-9.jpg %}
+  {% image_gallery_cell
+      mcquistion/crum-ar-10-thumb.jpg::
+      Scan of Crum’s Interview::
+      true::
+      crum-ar::
+      Allen Crum’s Interview with <i>American Rifleman</i> (page 10)::
+      mcquistion/crum-ar-10.jpg %}
+  {% image_gallery_cell
+      mcquistion/crum-ar-11-thumb.jpg::
+      Scan of Crum’s Interview::
+      true::
+      crum-ar::
+      Allen Crum’s Interview with <i>American Rifleman</i> (page 11)::
+      mcquistion/crum-ar-11.jpg %}
+  {% image_gallery_cell
+      mcquistion/crum-ar-12-thumb.jpg::
+      Scan of Crum’s Interview::
+      true::
+      crum-ar::
+      Allen Crum’s Interview with <i>American Rifleman</i> (page 12)::
+      mcquistion/crum-ar-12.jpg %}
+  {% image_gallery_cell
+      mcquistion/crum-ar-13-thumb.jpg::
+      Scan of Crum’s Interview::
+      true::
+      crum-ar::
+      Allen Crum’s Interview with <i>American Rifleman</i> (page 13)::
+      mcquistion/crum-ar-13.jpg %}
+  {% image_gallery_cell
+      mcquistion/crum-ar-14-thumb.jpg::
+      Scan of Crum’s Interview::
+      true::
+      crum-ar::
+      Allen Crum’s Interview with <i>American Rifleman</i> (page 14)::
+      mcquistion/crum-ar-14.jpg %}
+{% end_image_gallery %}
+{% image_gallery_caption
+  Allen Crum also gave a description of his experience to American Rifleman, a publication of the National Rifle Association.::
+  Images courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a> %}
+{% end_image_gallery_wrapper %}
 
 However, APD Officer Houston McCoy’s account complicates this story. McCoy also stormed the tower – though he acted independently of Crum – and he, along with Officer Ramiro Martinez, are credited with killing Whitman. In 1985, McCoy sent Bill Helmer, at this point a reporter for _Playboy_, his own version of events. After McCoy made his way into the tower, he joined with Officer Jerry Day to go up to the observation deck. At this point, and unknown to McCoy, Allen Crum and Officer Martinez were already there. When McCoy heard someone coming down the stairs to enter the room where McCoy was holed up, he prepared to fire.
 
@@ -162,60 +233,112 @@ However, APD Officer Houston McCoy’s account complicates this story. McCoy als
 
 A very good thing, because Crum, a civilian at the top of the tower carrying a rifle, would have exactly matched the profile of the shooter McCoy was looking for.
 
-<div class="image-gallery image-block">
-  <div class="row">
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy" data-title="Houston McCoy’s Official Report (page 1)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-1-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy" data-title="Houston McCoy’s Official Report (page 2)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-2-thumb.jpg" /></a>
-    </div>
-  </div>
-  <p class="caption">
-    Houston McCoy’s official report, written immediately after the shooting. <span class="credit">Images courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a></span>
-  </p>
-</div>
+{% start_image_gallery_wrapper %}
+{% start_image_gallery %}
+  {% image_gallery_cell
+      mcquistion/mccoy-1-thumb.jpg::
+      Scan of McCoy’s Report::
+      true::
+      mccoy::
+      Houston McCoy’s Official Report (page 1)::
+      mcquistion/mccoy-1.jpg %}
+  {% image_gallery_cell
+      mcquistion/mccoy-2-thumb.jpg::
+      Scan of McCoy’s Report::
+      true::
+      mccoy::
+      Houston McCoy’s Official Report (page 2)::
+      mcquistion/mccoy-2.jpg %}
+{% end_image_gallery %}
+{% image_gallery_caption
+    Houston McCoy’s official report, written immediately after the shooting.::
+    Images courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a> %}
+{% end_image_gallery_wrapper %}
 
-<div class="image-gallery image-block">
-  <div class="row">
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (Cover Letter)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-intro2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-intro2-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 1)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-1.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-1-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 2)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-2.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-2-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 3)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-3.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-3-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 4)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-4.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-4-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 5)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-5.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-5-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 6)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-6.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-6-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 7)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-7.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-7-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 8)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-8.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-8-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 9)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-9.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-9-thumb.jpg" /></a>
-    </div>
-    <div class="image col-xs-6 col-md-3">
-      <a data-lightbox="mccoy-helmer" data-title="Houston McCoy’s Letter to Bill Helmer (page 10)" href="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-10.jpg"><img src="{{ site.baseurl }}/images/posts/mcquistion/mccoy-helmer-10-thumb.jpg" /></a>
-    </div>
-  </div>
-  <p class="caption">
-    Several years later, Houston McCoy described his experience storming the tower and killing Charles Whitman to Bill Helmer, a reporter and fellow survivor of the UT tower shooting. <span class="credit">Images courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a></span>
-  </p>
-</div>
+{% start_image_gallery_wrapper %}
+{% start_image_gallery %}
+  {% image_gallery_cell
+      mcquistion/mccoy-helmer-intro2-thumb.jpg::
+      Scan of McCoy’s Letter::
+      true::
+      mccoy-helmer::
+      Houston McCoy’s Letter to Bill Helmer (Cover Letter)::
+      mcquistion/mccoy-helmer-intro2.jpg %}
+  {% image_gallery_cell
+      mcquistion/mccoy-helmer-1-thumb.jpg::
+      Scan of McCoy’s Letter::
+      true::
+      mccoy-helmer::
+      Houston McCoy’s Letter to Bill Helmer (page 1)::
+      mcquistion/mccoy-helmer-1.jpg %}
+  {% image_gallery_cell
+      mcquistion/mccoy-helmer-2-thumb.jpg::
+      Scan of McCoy’s Letter::
+      true::
+      mccoy-helmer::
+      Houston McCoy’s Letter to Bill Helmer (page 2)::
+      mcquistion/mccoy-helmer-2.jpg %}
+  {% image_gallery_cell
+      mcquistion/mccoy-helmer-3-thumb.jpg::
+      Scan of McCoy’s Letter::
+      true::
+      mccoy-helmer::
+      Houston McCoy’s Letter to Bill Helmer (page 3)::
+      mcquistion/mccoy-helmer-3.jpg %}
+  {% image_gallery_cell
+      mcquistion/mccoy-helmer-4-thumb.jpg::
+      Scan of McCoy’s Letter::
+      true::
+      mccoy-helmer::
+      Houston McCoy’s Letter to Bill Helmer (page 4)::
+      mcquistion/mccoy-helmer-4.jpg %}
+  {% image_gallery_cell
+      mcquistion/mccoy-helmer-5-thumb.jpg::
+      Scan of McCoy’s Letter::
+      true::
+      mccoy-helmer::
+      Houston McCoy’s Letter to Bill Helmer (page 5)::
+      mcquistion/mccoy-helmer-5.jpg %}
+  {% image_gallery_cell
+      mcquistion/mccoy-helmer-6-thumb.jpg::
+      Scan of McCoy’s Letter::
+      true::
+      mccoy-helmer::
+      Houston McCoy’s Letter to Bill Helmer (page 6)::
+      mcquistion/mccoy-helmer-6.jpg %}
+  {% image_gallery_cell
+      mcquistion/mccoy-helmer-7-thumb.jpg::
+      Scan of McCoy’s Letter::
+      true::
+      mccoy-helmer::
+      Houston McCoy’s Letter to Bill Helmer (page 7)::
+      mcquistion/mccoy-helmer-7.jpg %}
+  {% image_gallery_cell
+      mcquistion/mccoy-helmer-8-thumb.jpg::
+      Scan of McCoy’s Letter::
+      true::
+      mccoy-helmer::
+      Houston McCoy’s Letter to Bill Helmer (page 8)::
+      mcquistion/mccoy-helmer-8.jpg %}
+  {% image_gallery_cell
+      mcquistion/mccoy-helmer-9-thumb.jpg::
+      Scan of McCoy’s Letter::
+      true::
+      mccoy-helmer::
+      Houston McCoy’s Letter to Bill Helmer (page 9)::
+      mcquistion/mccoy-helmer-9.jpg %}
+  {% image_gallery_cell
+      mcquistion/mccoy-helmer-10-thumb.jpg::
+      Scan of McCoy’s Letter::
+      true::
+      mccoy-helmer::
+      Houston McCoy’s Letter to Bill Helmer (page 10)::
+      mcquistion/mccoy-helmer-10.jpg %}
+{% end_image_gallery %}
+{% image_gallery_caption
+    Several years later, Houston McCoy described his experience storming the tower and killing Charles Whitman to Bill Helmer, a reporter and fellow survivor of the UT tower shooting.::
+    Images courtesy of <a href="http://library.austintexas.gov/ahc/about-us">Austin History Center, Austin Public Library</a> %}
+{% end_image_gallery_wrapper %}
 
 McCoy goes on to describe the ground fire that peppered the tower and narrowly missed them while he, Crum, and the other officers got into position on the observation deck. In a press conference after the shooting, Texas Governor [John Connally said][connally] that the ground fire impeded the progress of officers to the top of the tower. After McCoy and Martinez killed Whitman, they then had no effective way of telling those on the ground to stop firing. Crum waved a white flag, but even after that, sporadic ground fire continued. McCoy said that at least one TV report had shown Crum waving the flag and claimed that it was the shooter trying to give up.[^9] No doubt the same thought occurred to many of those firing at the tower.
 
