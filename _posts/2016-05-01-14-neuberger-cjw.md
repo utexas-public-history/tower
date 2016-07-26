@@ -7,8 +7,7 @@ permalink: /charles-joseph-whitman
 excerpt: Joan Neuberger explores how we should talk about Charles Whitman.
 og_article: true
 ---
-<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
-{::options parse_block_html="false" /}
+{% include post/post_opening.html %}
 
 How can we talk about Charles Whitman? How _should_ we talk about Charles Whitman?
 
@@ -46,7 +45,7 @@ Was Charles Whitman a monster or sufferer? Was he a sociopath or mentally ill, o
 
 _By Joan Neuberger_
 
-</div></div></div>
+{% include post/post_closing.html %}
 
 [^1]: Nat Henderson. “Sniper ‘Worst Type’ Psycho.” _The Austin American_ Vol. 53, No. 48. Friday, August 5, 1966, p. A6. Richard T. Fleming University Writings Collection, The UT Tower Tragedy Scrapbook, 1966. 2.325/D27a.
 

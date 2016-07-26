@@ -7,8 +7,7 @@ banner: /images/posts/mcquistion/bullet-holes-banner.jpg
 excerpt: Isaac McQuistion challenges the conventional wisdom of armed civilians’ role in the response to the tower shooting.
 og_article: true
 ---
-<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
-{::options parse_block_html="false" /}
+{% include post/post_opening.html %}
 
 <blockquote>
   <p>It seemed like every other guy had a rifle. There was a sort of cowboy atmosphere, this “Let’s get him” spirit.</p>
@@ -247,7 +246,7 @@ McCoy goes on to describe the ground fire that peppered the tower and narrowly m
 By juxtaposing these two accounts, we’re able to get a more complete picture of the role armed citizens played in the UT tower shootings. The ground fire did pin down Whitman, most likely keeping him from killing more people. However, it’s not difficult to see how the actions of several armed, independent citizens could have resulted in further tragedy, and that it was only through fortuitous circumstance that they didn’t.
 
 Armed civilians had one final effect on what happened that day. Claire Wilson was eight months pregnant when Whitman shot her and her boyfriend as they walked across the upper terrace of the South Mall. Her boyfriend, Thomas Eckman, died instantly, but Claire was only wounded. As she lay in the brutal sun, injured and unable to move, chaos engulfed the UT campus. It would be more than an hour before a woman and three young men would be able to run out and carry her to safety.[^10] Years later, in 2015, Claire Wilson, now Claire James, testified before the Texas State Senate Affairs Committee. The Committee was considering bills that would increase the number of weapons permitted on college campuses. [In her testimony][testimony], James said that the armed citizens who were firing back at Whitman had kept emergency personnel from reaching her and her boyfriend sooner.
-</div></div></div>
+{% include post/post_closing.html %}
 
 [^1]: This is a bit of a fraught claim. Though commonly referred to as the first mass school shooting, it’s probably more accurate to say that it was the first mass school shooting broadcast live (or very close to it) into people’s homes. There have been numerous other instances of mass violence, many of them inside of public schools. For more information on the history of public violence in the United States, see [Maria’s essay](/a-brief-history-of-mass-shootings).
 

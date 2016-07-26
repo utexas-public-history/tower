@@ -6,8 +6,7 @@ permalink: /policing
 excerpt: Justin Krueger outlines the changes in campus policing before and after the tower shooting.
 og_article: true
 ---
-<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
-{::options parse_block_html="false" /}
+{% include post/post_opening.html %}
 
 When Charles Whitman went to the top of the UT tower on August 1, 1966, the university did not have a commissioned police force and the Austin Police Department was unprepared to respond. Both of these things made it possible for Whitman to continue his killing spree for 96 terrifying minutes.
 
@@ -134,10 +133,9 @@ The official responses to August 1, 1966 presented a collective acknowledgement 
 Have these improvements ensured crime prevention? Safety for all people? Fairness under the law? No.
 
 It is however, the respect for human life that requires that even as there is no amount of preparation or weapons that can prevent all crime or has ensured the protection of all people, that safety and protection for each individual must be continually pursued.
-</div></div></div>
+{% include post/post_closing.html %}
 
-{::options parse_block_html="true" /}
-<div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+{% include post/sources_opening.html %}
 ## Sources
 
 Active Shooter/Suicide After Action Report. September 28, 2010. Police Department – The University of Texas at Austin.
@@ -177,7 +175,7 @@ Vertical Files – University of Texas Police Department. Dolph Briscoe Center f
 “Weather Underground – Daily History – Austin, Texas,” Weather Underground, accessed April 20, 2016, <http://www.wunderground.com>.
 
 Zainab Calcuttawala. “UTPD: Campus police well-prepared for active shooter situations,” _The Daily Texan_, October 6, 2015.
-</div></div></div>
+{% include post/sources_closing.html %}
 
 [^1]: Gary Lavergne, _A Sniper in the Tower_, p. 206. “Ex-Marine Uses Tower as Fort, Fights Off Plane,” _The Indianapolis Star_, Associated Press, August 2, 1966, p. 10.
 [^2]: Bill File SB 162. Assemb. Reg. Session. 1967 (TX).

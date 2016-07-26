@@ -8,8 +8,7 @@ banner: /images/posts/garza/banner.jpg
 excerpt: Alejandra Garza uses newspaper coverage to explore public perceptions of the tower shooting.
 og_article: true
 ---
-<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
-{::options parse_block_html="false" /}
+{% include post/post_opening.html %}
 
 When Charles Whitman shot at innocent passersby from atop the University of Texas tower on August 1, 1966, he shocked the country and, according to the local newspapers, became the “Greatest Mass Slayer in History.”[^1] Media across the country tried to explain what occurred to their stunned readers, and in Austin, three newspapers, _The Daily Texan_, UT Austin’s student newspaper, and the _Austin American_ and _The Austin Statesman_, the citywide newspapers, shaped the public understanding of the events for shocked Austinites and UT students.[^2] Nationwide, newspapers reported extensively on the “sniper in Texas” and closely scrutinized the events of that day.[^3] All these articles attempted to answer the same question: “Why?” _The Austin American-Statesman_, published jointly on Sundays through 1973, chose to focus on Whitman’s mental and medical state, while _The Daily Texan_ highlighted student voices and their efforts to assist those affected.
 
@@ -69,7 +68,7 @@ Unlike the city newspapers, which were more interested in explaining Whitman and
 ## Why?
 
 Over the years, the media has retraced the events of August 1, 1966 and continues to struggle with the same question: “Why?” The simplest question seems to be the hardest one to answer and the student and city newspapers have grasped at multiple solutions over the last fifty years. Newspapers served as the first line of information that shaped public opinion in 1966. Through their coverage of the events of August 1, 1966, _The Austin Statesman_, _The Austin American_, and _The Daily Texan_ tried to define Whitman, his actions, and the events that unfolded the days after. The various questions that journalists raised, days and even years after the event, seem to have no concrete answer. However, it shows our inherent need to know the simplest, yet hardest, question: Why?
-</div></div></div>
+{% include post/post_closing.html %}
 
  [^1]: “Greatest Mass Slayer in History?,” _The Austin Statesman_, August 2, 1966, Vol. 96, No. 6 edition, sec. Front Page, Austin History Center.
 

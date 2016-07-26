@@ -8,9 +8,7 @@ banner: /images/posts/daza/banner.jpg
 excerpt: Miguel Daza provides social and political context of student life in the era of the tower shooting.
 og_article: true
 ---
-<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
-{::options parse_block_html="false" /}
-
+{% include post/post_opening.html %}
 College life at UT Austin changed in 1956 when the Board of Regents decided to accept the first African-American students. In addition to the tense race relations that resulted, tuition was rising, university housing was increasingly scarce, and there was growing student activism that challenged the UT Board of Regents and openly protested against US involvement in Vietnam. The tower shooting may not have been directly related to these turbulent events, but it occurred against the backdrop of a rapidly changing world in the 1960s.
 
 <div class="image-block">
@@ -97,10 +95,9 @@ The Student Religious Liberals and University Socialist Committee and the Univer
 </div>
 
 Students´ life at UT in the first part of the sixties was not “pristine” or “carefree.” The reality was more complex. Changes taking place elsewhere in the United States and in Austin helped create a student-body that contested traditional conceptions of race relations, gender roles, and personal morality,[^29] and protested government policies, especially in Vietnam.[^30] On campus student organizations like the SDS, Negroes for Equal Rights, and sororities and fraternities for black and white students, helped individuals mobilize for such public activities.  The majority of UT students probably never participated in a rally or protest against the war in Vietnam, but no one could fail to notice the changes occurring on campus regarding student finances, race relations, and national politics.
-</div></div></div>
+{% include post/post_closing.html %}
 
-{::options parse_block_html="true" /}
-<div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+{% include post/sources_opening.html %}
 ## Sources
 
 Anita Brewer, “UT to Begin Low Cost Housing Plans.” _The Austin American_ (1914-1973), March 14, 1965. Accessed: March 17, 2016 <http://search.proquest.com/docview/1611063781?accountid=7118>.
@@ -140,7 +137,7 @@ The University of Texas News and Information Service. Brief Report from the Univ
 U.S. Bureau of the Census, “Income in 1965 of families and persons in the United States” Current Population Report, Series P-60, No. 51, 1967. Accessed: March 17, 2016 http://www2.census.gov/prod2/popscan/p60-051.pdf
 
 United States Department of Labor. “Minimum Wage-U.S Department of Labor-Chart 1” Department of Labor. <https://www.dol.gov/featured/minimum-wage/chart1, 2016>.
-</div></div></div>
+{% include post/sources_closing.html %}
 
 
 [^1]: Dwonna Naomi Goldstone. _Integrating the 40 acres: The fifty-year struggle for racial equality at the University of Texas_. Athens: University of Georgia Press, 2006.

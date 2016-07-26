@@ -7,8 +7,7 @@ banner: /images/posts/mcquistion/banner.jpg
 excerpt: Isaac McQuistion explores the evolution of gun culture in the United States and the central role of Texas in that story.
 og_article: true
 ---
-<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
-{::options parse_block_html="false" /}
+{% include post/post_opening.html %}
 
 <blockquote>
   <p>I hadn’t fully comprehended that lots of people around me in Austin not only owned guns but had them close at hand and regarded themselves as free to use them.</p>
@@ -89,7 +88,7 @@ The article also listed a few statistics on the number of weapons in Texas at th
 There is one further thing that this article tells us. It states that at the time, private citizens were not allowed to carry pistols. However, Texas law was mute on the subject of rifles and Texas sportsmen were among the most vocal opponents of any sort of gun control legislation. Immediately after the shooting, there was general outcry for greater gun control, but it was staunchly opposed by Earle Cabell, a representative from Dallas, and many others, on the grounds that new gun laws wouldn’t have stopped Whitman and would unduly punish sportsmen.[^18] In the end, the legislation would stall until after the assassinations of Robert F. Kennedy and Martin Luther King, Jr. in 1968.
 
 To be clear, many people still viewed the rifle as a tool, a necessary part of life on the ranch or the farm. But in many ways, it was like a shootout in an old western, with people playing the roles modeled for them by cowboys and Texas Rangers. Could this have happened anywhere else? Some academics have hypothesized on the increased level of violence in southern society, especially in vigilante or “defensive” situations.[^19] There’s little empirical evidence to back this up, so the question is left open. Was there something peculiarly American, or southern, or Texan about dozens of armed civilians appearing on a public university campus? Is this sort of violence inevitable in a society that attaches mythical status to guns, produces media saturated with gun violence, and sees firearms as part of its history from its earliest days? I won’t pretend to know the answer. All I can do is echo Allen Crum’s statement, which he gave to _American Rifleman_ in 1966: “The right of the private citizen to bear arms was never more graphically demonstrated than on the University of Texas Campus Aug. 1, 1966.”
-</div></div></div>
+{% include post/post_closing.html %}
 
 
 [^1]: “Story of Slayings in World Headlines,” _New York Times_, August 3, 1966. Found in “Tower Sniper Vertical Files,” Dolph Briscoe Center for American History.

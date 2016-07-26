@@ -8,8 +8,7 @@ banner: /images/posts/carbajal/banner.jpg
 excerpt: Itza Carbajal analyzes efforts to memorialize victims and reflections of survivors of the tower shooting.
 og_article: true
 ---
-<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
-{::options parse_block_html="false" /}
+{% include post/post_opening.html %}
 
 Days after the 1966 UT tower shooting, the air on campus seemed stiff. Some survivors had been released from the hospital while the deceased had begun to be buried. The media buzzed and university officials scrambled to find ways to help the university community adjust to life after the tragedy. Years began to pass and slowly the moment began to fade. For some, the tower tragedy paved the way to an endless struggle to find peace with their experience. For others who had been on or near campus and who had shots fired at them or at their friends and loved ones, the day would remain a dark moment in their life.
 
@@ -85,10 +84,9 @@ Action taken by the University always seemed to coincide with other mass shootin
 Despite all these attempts, the general public continues to decry an absence of remembrance. Do we attribute this frustration to a lack of awareness of the efforts by the university or do we recognize the depth of the pain experienced by this community? As Pastor Bethune mentions during his oral history, everyone deals with loss in a different way and for different lengths of time. As seen through other memorializations such as the 9/11 Ground Zero Site, the Columbine Memorial, and the Ntarama Church in Rwanda, directly impacted communities and those who felt the after effects approached healing in diverse ways.
 
 As observers, we should acknowledge that while the effort to pay respect to the deceased and wounded did not come to fruition until 30 years after the tragedy, the university did eventually act. The discussions held behind closed doors among the dedication planning group members according to Pastor Bethune included thoughtful and purposeful actions, but due to funding constraints and resistance from unnamed individuals, the envisioned dedication fell short. Even the archive collecting attempt fizzled due to little publicity and awareness of its existence. For many new Austinites as well as those who experienced the UT tower shooting firsthand, the attempts at memorialization have yet to be enough. Perhaps they will never be enough.
-</div></div></div>
+{% include post/post_closing.html %}
 
-{::options parse_block_html="true" /}
-<div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+{% include post/sources_opening.html %}
 ## Sources
 
 Charles Bowden. “The Tower Tragedy.” _Esquire_, January 29, 2007. <http://www.esquire.com/features/ESQ0299-FEB_AMERICA_rev_>.
@@ -160,7 +158,7 @@ James Tyner, Savina Sirik, and Samuel Henkin. “Violence and the Dialectics of 
 “UT Students Remember Tower Shooting Victims – The Daily Texan.” Accessed April 28, 2016. <http://www.dailytexanonline.com/2014/08/02/ut-students-remember-tower-shooting-victims-0>.
 
 “UT Tower Shooting.” _The Alcalde_. Accessed April 28, 2016. <http://alcalde.texasexes.org/tag/uttower-shooting/>.
-</div></div></div>
+{% include post/sources_closing.html %}
 
 [aftermath]: {{ site.baseurl }}/aftermath
 [university-response]: {{ site.baseurl }}/the-university-response

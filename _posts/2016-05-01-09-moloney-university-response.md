@@ -7,8 +7,7 @@ permalink: /the-university-response
 excerpt: Justina Moloney analyzes the university’s official response to the UT tower shooting.
 og_article: true
 ---
-<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
-{::options parse_block_html="false" /}
+{% include post/post_opening.html %}
 
 In a press conference on the day after the tragedy, Chancellor Harry Ransom expressed his gratitude for those who displayed heroism saving victims while he powerlessly watched from his office in the tower. Would being an eyewitness of the shooting affect the decisions he made on behalf of the university? This question is hard to answer.  Much of the administrative response concerning the shooting was handled by Vice Chancellor Norman Hackerman of the Division of Academic Affairs. Hackerman notified professors of injured students asking them to provide special consideration due to the tragic circumstances. It is unclear what “special considerations” Hackerman meant, whether this related to classes missed due to time in the hospital or their emotional and mental well being.
 
@@ -68,10 +67,9 @@ University officials in 1966 felt their expression of sympathy was enough. Movin
 The Tower Memorial Garden, the product of President Faulkner and the committee’s efforts to memorialize the event, is a garden located just north of the tower intended to allow visitors to remember, reflect, and process through their grief. Funding constraints prevented the memorial garden from fully illustrating the UT committee’s design as a space to not only remember the shooting, but process through one’s grief as a result of any situation. The garden was dedicated on August 1, 1999, 33 years after the shooting. The dedication was well attended, many expressing in comment cards written afterwards how thankful they were to have a designated spot on the UT campus to remember those whose lives were lost that hot August day. At the time, though, the garden did not include any kind of signage memorializing the victims of the shooting. In addition to the garden, the tower observation deck was reopened later that month as a way to [reclaim the tower][specter] as a “symbol of education” and gain control over the tragic events of the shooting that occurred there. A memorial plaque was added to the garden in 2007, but did not include names of victims. Presently, a group not connected to the university is attempting to create a new memorial to the shooting, fifty years after the tragedy. Clearly, many people still find this garden and anonymous plaque insufficient to deal with the trauma of August 1, 1966.
 
 In 1966 the university exhibited concern for the well-being of students directly affected by the shooting, so when did the UT and Austin community begin feeling that the university had not done enough? What is the appropriate role for a university administration to play when a tragic event happens on campus? What role does the administration play in shaping the ways the university community will continue to remember a traumatic event? Now that we understand more about the process of grief, perhaps we can provide counseling and services that aid communities to better process a tragic event on “safe place” like a university campus? These are questions people will continue to ask ourselves each year as any kind of tragedy occurs on a college campus.
-</div></div></div>
+{% include post/post_closing.html %}
 
-{::options parse_block_html="true" /}
-<div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+{% include post/sources_opening.html %}
 ## Sources
 
 Pamela Colloff. “96 Minutes.” _Texas Monthly_. January 20, 2013. April 1, 2016.
@@ -91,7 +89,7 @@ Neal Spelce. “The Neal Spelce Collection, No. 1 – UT Tower Shooting.” _Tex
 “Telegrams sent to injured students”, UT President’s Office Box 80-50/35 Whitman, Charles  Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 
 “The Tower Garden: A Garden of Reflection,” UT Remembers Records Box 2F472 1998-2002, Dolph Briscoe Center for American History, The University of Texas at Austin.
-</div></div></div>
+{% include post/sources_closing.html %}
 
 [^1]: “Telegrams sent to injured students”, UT President’s Office Box 80-50/35 Whitman, Charles Joseph, 1970, Dolph Briscoe Center for American History, The University of Texas at Austin.
 

@@ -7,8 +7,7 @@ permalink: /aftermath
 excerpt: Victoria Hurley makes the case for remembering the tower Shooting.
 og_article: true
 ---
-<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
-{::options parse_block_html="false" /}
+{% include post/post_opening.html %}
 
 People always remember where they are when something terrible happens. Everyone can give you their 9/11 memories right now if they were old enough to remember. If you happened to be in Austin, Texas in the summer of 1966, you remember exactly where you were when Charles Whitman acquainted America with the concept of mass murder on a school campus.
 
@@ -32,7 +31,7 @@ Alwyn Barr is a survivor who is now a 77-year-old retired college professor. He 
 
 It is now time for The University of Texas to take stock of all of these stories and to find a way to break the silence behind the shootings.
 
-</div></div></div>
+{% include post/post_closing.html %}
 
 [^1]: Karan Russ Elliott. "Tower Garden Reflections." (1999): n. pag. 8:39am.
 

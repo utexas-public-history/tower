@@ -6,8 +6,7 @@ excerpt: An update on the July 2016 removal of the old memorial and plans for a 
 banner: /images/posts/lisle/banner.jpg
 og_article: true
 ---
-<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
-  {::options parse_block_html="false" /}
+{% include post/post_opening.html %}
 
 In July 2016, the hard to find rock and plaque that honored the victims of August 1, 1966 has been removed and a new monument is being prepared to be unveiled on August 1, 2016, the 50th anniversary. We will post more about the commemoration of that day as more information becomes available.
 
@@ -19,4 +18,4 @@ In July 2016, the hard to find rock and plaque that honored the victims of Augus
   <img src="{{ site.baseurl }}/images/posts/neuberger/july-2016-update.jpg" alt="Photo of construction around memorial pond" />
 </div>
 
-</div></div></div>
+{% include post/post_closing.html %}

@@ -7,8 +7,7 @@ permalink: /the-little-metal-bottle
 excerpt: Rebecca Johnston asks why substance abuse has received less attention than other factors in Whitman’s life in explaining the Tower shooting.
 og_article: true
 ---
-<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
-{::options parse_block_html="false" /}
+{% include post/post_opening.html %}
 
 There is no evidence that Charles Whitman was under the influence of drugs when he climbed the UT tower on August 1, 1966. An analysis of tissue from Whitman's liver, stomach, kidney, and brain conducted by the Armed Forces Institute of Pathology turned up negative.[^1] An expert committee commissioned by Texas Governor John Connally concluded that although Whitman was known to take stimulants as a study aid, “there was no evidence of acute or chronic drug toxicity” on the day of the shootings.[^2] As _A Sniper in the Tower_ author Gary Lavergne [points out][lavergne], Whitman spent two days planning and executing the murders of his wife and mother, and the mass shooting of dozens of people, with the precision and calculation uncharacteristic of someone affected by an illicit substance.
 
@@ -82,10 +81,9 @@ Indeed, Whitman’s level of substance abuse was not unique. At the end of the 1
 Herein lies the lost value of including substance abuse in a broader discussion of the tower shooting. Davis and other advocates of greater regulation were adamant that amphetamine abuse was a national crisis. Whitman’s habit was part and parcel of a dangerously unstable lifestyle, one that he was increasingly unable to control towards the end of his life. It was not behavior that could be subsumed within the label, as Dr. Heatly gave him, of the “all-American boy,” except for in a sickly ironic fashion. Recognizing that Whitman was unquestionably a troubled individual, the Governor’s Report recommended that the University of Texas develop comprehensive mental health and counseling programs. That request was [followed through to the hilt][mental-health]. No recommendations were made in regards to substance abuse. If a separate recommendation for a general “health program” was meant to include narcotics, nobody seemed to notice. As noted above, the university only began to revisit its approach to drug policy in late 1969, along with the rest of the country. It seems a lost opportunity that Whitman’s case was not at least used to put a face on the epidemic.
 
 It has taken this country a long time to come to the realization that prescription drug abuse is a crisis that cuts across class and race. Decades of normalization allowed a Caucasian, middle-upper class, male ex-marine to spend four years feeding an increasingly destabilizing drug habit and suffering virtually no social or economic consequences for it. The fact that his drug use was not directly responsible for the tower shooting does not render its existence irrelevant. Ignoring this side of Whitman’s life only helps perpetuate the myth, just now slowly beginning to die, that drug abuse is primarily a problem for minority communities and the poor. If we are to debate whether Whitman was obsessed with guns, suffering from a mental health crisis, the victim of an abominable father, an overbearing domestic abuser, an usurer, a gambler, or an “all-American boy,” then he at least does not deserve our hesitation in calling him a criminal drug addict. He may be all of these things or none of them, but perhaps the least we can do is be consistent.
-</div></div></div>
+{% include post/post_closing.html %}
 
-{::options parse_block_html="true" /}
-<div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+{% include post/sources_opening.html %}
 ## Sources
 
 Armed Forces Institute of Pathology, letter to Dr. R Lee Clark, August 16, 1966, in the Gary L. Lavergne Papers, Dolph Briscoe Center for American History
@@ -108,7 +106,7 @@ S. Pearlman. (1968), DRUG USE AND EXPERIENCE IN AN URBAN COLLEGE POPULATION. _Am
 
 “Whitman ‘ate drugs like candy’.” _The Austin Statesman_. March 7, 1967.
 
-</div></div></div>
+{% include post/sources_closing.html %}
 
 [^1]: Armed Forces Institute of Pathology, letter to Dr. R Lee Clark, August 16, 1966, in the Gary L. Lavergne Papers, Dolph Briscoe Center for American History.
 

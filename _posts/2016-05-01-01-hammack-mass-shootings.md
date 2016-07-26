@@ -7,8 +7,7 @@ banner: /images/posts/hammack/banner.jpg
 excerpt: Maria Esther Hammack provides a survey of mass shootings in the United States as context for the tower shooting.
 og_article: true
 ---
-<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
-{::options parse_block_html="false" /}
+{% include post/post_opening.html %}
 
 The notion portrayed by media outlets and the memory that materializes about the UT tower shooting in regards to it being the “first” violent school shooting, the “first” military-connected shooting, or even the “first” violent killing spree in the United States is a mythicized misconception. Historically the United States has witnessed many mass shootings, not originating from the UT tower shooting in 1966, but in fact predating that incident, and as early as 1891.The reasons that led to the August 1966 University of Texas sniper shootings and the perception that this incident was the first mass shootings in the country, not only demonstrates how our society acknowledges why violent crime happens, but also how the past is remembered through the perception of what is morally right and wrong, as well as because of our society’s tendency to so readily forget the past.
 
@@ -47,7 +46,7 @@ What has become apparent through this examination of the history of mass shootin
 <div class="image-block">
   <a data-lightbox="timeline" href="{{ site.baseurl }}/images/posts/hammack/timeline-fullsize.png"><img src="{{ site.baseurl }}/images/posts/hammack/timeline.png" /></a>
 </div>
-</div></div></div>
+{% include post/post_closing.html %}
 
 [^1]: _The Aspen Chronicle_, March 30, 1891.
 

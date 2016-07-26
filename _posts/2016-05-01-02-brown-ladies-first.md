@@ -6,8 +6,7 @@ permalink: /ladies-first
 excerpt: Keisha Laneé Brown relates Charles Whitman to the linked histories misogynist violence and mass shootings.
 og_article: true
 ---
-<div class="white bar"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
-{::options parse_block_html="false" /}
+{% include post/post_opening.html %}
 
 What compels a man to take the life of the women with whom he shares a most intimate bond? Could the murderous destruction of one’s maternal connection or a sacred marital union somehow disinhibit a killer to commit violence on a much grander scale? In three of the four U. S. school massacres with the highest death toll, the white male perpetrators claimed the lives of a wife or mother (or both) as their first victims – the notable exception being South Korean born Seung-Hui Cho, the Virginia Tech shooter.
 
@@ -67,10 +66,10 @@ But love takes a twisted form in households plagued by domestic violence and the
 Domestic violence in its most extreme form is domestic homicide and the victims overwhelmingly tend to be women. There is substantial research evidencing a connection between male perpetration of domestic violence and witnessing domestic violence or experiencing abuse in childhood. In fact, [studies](#higgins-and-mccabe) have found that there are significant correlations between physical abuse, psychological abuse, and neglect, suggesting that if domestically violent men experienced one type of maltreatment in childhood, they were also likely subjected to other types. Symptoms of trauma in adulthood such as anxiety, depression, dissociation, sexual problems, and sleep disturbances are commonly associated with suffering and witnessing domestic violence in childhood. [One study](#bevan-and-higgins) found that experiencing physical abuse and witnessing domestic violence significantly predicted future psychological spouse abuse and trauma symptoms in domestically violent men while neglect, sexual abuse, and psychological abuse significantly predicted physical spouse abuse.
 
 While a history of domestic violence and a dysfunctional family life may have played an influential role in the Whitman homicides, it is likely that it was only one of many factors involved. In the months before the shooting, he sought help for mental illness, he was abusing prescription medication, and suffered from the emotional strain of not being financially independent, and an undiagnosed brain tumor. Any one of these elements might reasonably have been contributing factors in the murders of Kehoe’s wife or Lanza’s mother prior the notorious mass killings in Bath and Newtown. We might never fully understand the concoction of experiences, thoughts, and emotions driving men like Whitman, Kehoe, Lanza and Cho to the violence they accomplished on such a grand scale. What is clear in Whitman’s case are the residual traces of domestic abuse that affected his familial relationships in adulthood: fueling his hatred of his father, his strong desire to protect his mother by any means, and his turbulent relationship with his wife. Whitman’s childhood trauma in no way excuses the murders he later committed, but perhaps it brings us one step closer to understanding how the combination of aforementioned risk factors tipped the scales and caused this man with an intimate history of domestic abuse to turn deadly.
-</div></div></div>
 
-{::options parse_block_html="true" /}
-<div class="gray bar references"><div class="container"><div class="col-sm-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2 post-content">
+{% include post/post_closing.html %}
+
+{% include post/sources_opening.html %}
 ## Sources
 
 <a name="bevan-and-higgins" />E. Bevan and D.J. Higgins. (2002). Is Domestic Violence Learned? The Contribution of Five Forms of Child Maltreatment to Men’s Violence and Adjustment. _Journal of Family Violence_, 17(3), 223-245. doi:10.1023/A:1016053228021.
@@ -90,7 +89,7 @@ M. Mayo. (2008). Andrew Kehoe. _American Murder: Criminals, Crime, and the Media
 Special to _The New York Times_. (1927, May 20). SCHOOL DYNAMITER FIRST SLEW WIFE. New York Times (1923-Current File) Retrieved April 10, 2016 from <http://search.proquest.com/docview/104204230?accountid=7118>.
 
 Virginia Tech Review Panel (2007). _+Mass shootings at Virginia Tech, April 16, 2007: Report of the Virginia Tech Review Panel presented to Timothy M. Kaine, Governor, Commonwealth of Virginia_. Retrieved April 10, 2016 from <https://governor.virginia.gov/media/3772/fullreport.pdf>.
-</div></div></div>
+{% include post/sources_closing.html %}
 
 [fbi-study]: https://www.fbi.gov/about-us/office-of-partner-engagement/active-shooter-incidents/a-study-of-active-shooter-incidents-in-the-u.s.-2000-2013
 [everytown]: http://everytownresearch.org/reports/mass-shootings-analysis/
