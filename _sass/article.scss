@@ -159,6 +159,7 @@ header {
 
   .floated-image {
     float: right;
+    max-width: 50%;
 
     & > img {
       margin: 1em 0 1em 1em;
@@ -284,6 +285,17 @@ p.caption {
       top: 1em;
       bottom: 2em;
       left: 1em;
+    }
+  }
+}
+
+@media (max-width: $screen-xs-min) {
+  .post-content .floated-image {
+    float: none;
+    max-width: 100%;
+
+    & > img {
+      margin: 1em 0;
     }
   }
 }
