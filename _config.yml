@@ -8,6 +8,10 @@ url: "http://behindthetower.org"
 # Build settings
 gems:
   - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
 markdown: kramdown
 kramdown:
   parse_block_html: true
