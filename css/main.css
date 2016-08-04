@@ -384,7 +384,8 @@ header {
   .post-content img {
     margin: 2.5em auto; }
   .post-content .floated-image {
-    float: right; }
+    float: right;
+    max-width: 50%; }
     .post-content .floated-image > img {
       margin: 1em 0 1em 1em; }
 
@@ -466,6 +467,12 @@ p.caption {
     padding-bottom: 2em;
     padding-left: 1em; }
 
+@media (max-width: 480px) {
+  .post-content .floated-image {
+    float: none;
+    max-width: 100%; }
+    .post-content .floated-image > img {
+      margin: 1em 0; } }
 @media (max-width: 768px) {
   .footnotes {
     padding: 0 30px;
