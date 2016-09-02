@@ -6,9 +6,9 @@
 </description>
     <link>http://behindthetower.org/</link>
     <atom:link href="http://behindthetower.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Aug 2016 12:18:47 +0200</pubDate>
-    <lastBuildDate>Thu, 04 Aug 2016 12:18:47 +0200</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <pubDate>Fri, 02 Sep 2016 06:23:20 -0400</pubDate>
+    <lastBuildDate>Fri, 02 Sep 2016 06:23:20 -0400</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Update July-August, 2016</title>
@@ -31,7 +31,7 @@
 &lt;/div&gt;
 
 </description>
-        <pubDate>Wed, 20 Jul 2016 00:00:00 +0200</pubDate>
+        <pubDate>Wed, 20 Jul 2016 00:00:00 -0400</pubDate>
         <link>http://behindthetower.org/update-july-august-2016</link>
         <guid isPermaLink="true">http://behindthetower.org/update-july-august-2016</guid>
         
@@ -100,7 +100,7 @@ Does a need to start paying more attention to the victims and the survivors mean
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
         <link>http://behindthetower.org/charles-joseph-whitman</link>
         <guid isPermaLink="true">http://behindthetower.org/charles-joseph-whitman</guid>
         
@@ -159,7 +159,7 @@ Does a need to start paying more attention to the victims and the survivors mean
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
         <link>http://behindthetower.org/aftermath</link>
         <guid isPermaLink="true">http://behindthetower.org/aftermath</guid>
         
@@ -340,7 +340,7 @@ Stories submitted by survivors to the University’s ‘Tower Reflections’ pro
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
         <link>http://behindthetower.org/i-choose-to-remember</link>
         <guid isPermaLink="true">http://behindthetower.org/i-choose-to-remember</guid>
         
@@ -501,7 +501,7 @@ Archival wire print of Dr. Coleman de Chenar, who performed Whitman’s autopsy 
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
         <link>http://behindthetower.org/a-fitting-memorial</link>
         <guid isPermaLink="true">http://behindthetower.org/a-fitting-memorial</guid>
         
@@ -628,7 +628,7 @@ Front pages of &lt;i&gt;The Austin American&lt;/i&gt; and &lt;i&gt;The Austin St
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
         <link>http://behindthetower.org/how-austin-newspapers-covered-the-shooting</link>
         <guid isPermaLink="true">http://behindthetower.org/how-austin-newspapers-covered-the-shooting</guid>
         
@@ -652,12 +652,12 @@ Front pages of &lt;i&gt;The Austin American&lt;/i&gt; and &lt;i&gt;The Austin St
     &lt;img src=&quot;/images/interface/loader.svg&quot; class=&quot;loader&quot; /&gt;
   &lt;/div&gt;
   &lt;script type=&quot;text/javascript&quot;&gt;
-  $(&#39;#first-video-link&#39;).on(&#39;click&#39;, function(e) {
+  $('#first-video-link').on('click', function(e) {
     e.preventDefault();
-    $(&#39;#first-video-link&#39;).hide();
-    $(&#39;#first-video-container&#39;).show();
-    $.get(&#39;/video/moloney-first-video.html&#39;, function(data) {
-      $(&#39;#first-video-container&#39;).html(data);
+    $('#first-video-link').hide();
+    $('#first-video-container').show();
+    $.get('/video/moloney-first-video.html', function(data) {
+      $('#first-video-container').html(data);
       });
   });
   &lt;/script&gt;
@@ -744,7 +744,7 @@ The handbill dispersed for the Tower Memorial Garden Dedication August 1,  1999.
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
         <link>http://behindthetower.org/the-university-response</link>
         <guid isPermaLink="true">http://behindthetower.org/the-university-response</guid>
         
@@ -949,7 +949,7 @@ The Texas Board of Pharmacy’s audit of the Needville Pharmacy, run by Leissner
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
         <link>http://behindthetower.org/the-little-metal-bottle</link>
         <guid isPermaLink="true">http://behindthetower.org/the-little-metal-bottle</guid>
         
@@ -1054,7 +1054,7 @@ Three examples of some of the images used on Winchester calendars used to sell r
 &lt;/div&gt;
 
 &lt;p class=&quot;caption&quot;&gt;
-The Austin Police Department recorded the contents of Whitman&#39;s trunk that he brought with him to the top of the tower. His stockpile demonstrated that he was planning on holding out for a substantial period of time, but area sportsmen didn&#39;t regard his collection as anything out of the ordinary.
+The Austin Police Department recorded the contents of Whitman's trunk that he brought with him to the top of the tower. His stockpile demonstrated that he was planning on holding out for a substantial period of time, but area sportsmen didn't regard his collection as anything out of the ordinary.
 &lt;span class=&quot;credit&quot;&gt;Images courtesy of &lt;a href=&quot;http://library.austintexas.gov/ahc/about-us&quot;&gt;Austin History Center, Austin Public Library&lt;/a&gt;&lt;/span&gt;
 &lt;/p&gt;
 
@@ -1131,7 +1131,7 @@ The Austin Police Department recorded the contents of Whitman&#39;s trunk that h
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
         <link>http://behindthetower.org/texas-gun-culture-and-the-ut-tower-shooting</link>
         <guid isPermaLink="true">http://behindthetower.org/texas-gun-culture-and-the-ut-tower-shooting</guid>
         
@@ -1172,12 +1172,12 @@ Gun marks on the side of the UT tower. Most of these marks have since been plast
     &lt;img src=&quot;/images/interface/loader.svg&quot; class=&quot;loader&quot; /&gt;
   &lt;/div&gt;
   &lt;script type=&quot;text/javascript&quot;&gt;
-    $(&#39;#first-video-link&#39;).on(&#39;click&#39;, function(e) {
+    $('#first-video-link').on('click', function(e) {
         e.preventDefault();
-        $(&#39;#first-video-link&#39;).hide();
-        $(&#39;#first-video-container&#39;).show();
-        $.get(&#39;/video/mcquistion-first-video.html&#39;, function(data) {
-          $(&#39;#first-video-container&#39;).html(data);
+        $('#first-video-link').hide();
+        $('#first-video-container').show();
+        $.get('/video/mcquistion-first-video.html', function(data) {
+          $('#first-video-container').html(data);
           });
     });
   &lt;/script&gt;
@@ -1203,12 +1203,12 @@ Gun marks on the side of the UT tower. Most of these marks have since been plast
     &lt;img src=&quot;/images/interface/loader.svg&quot; class=&quot;loader&quot; /&gt;
   &lt;/div&gt;
   &lt;script type=&quot;text/javascript&quot;&gt;
-    $(&#39;#second-video-link&#39;).on(&#39;click&#39;, function(e) {
+    $('#second-video-link').on('click', function(e) {
       e.preventDefault();
-      $(&#39;#second-video-link&#39;).hide();
-      $(&#39;#second-video-container&#39;).show();
-      $.get(&#39;/video/mcquistion-second-video.html&#39;, function(data) {
-        $(&#39;#second-video-container&#39;).html(data);
+      $('#second-video-link').hide();
+      $('#second-video-container').show();
+      $.get('/video/mcquistion-second-video.html', function(data) {
+        $('#second-video-container').html(data);
         });
     });
   &lt;/script&gt;
@@ -1445,12 +1445,12 @@ Several years later, Houston McCoy described his experience storming the tower a
     &lt;img src=&quot;/images/interface/loader.svg&quot; class=&quot;loader&quot; /&gt;
   &lt;/div&gt;
   &lt;script type=&quot;text/javascript&quot;&gt;
-    $(&#39;#third-video-link&#39;).on(&#39;click&#39;, function(e) {
+    $('#third-video-link').on('click', function(e) {
       e.preventDefault();
-      $(&#39;#third-video-link&#39;).hide();
-      $(&#39;#third-video-container&#39;).show();
-      $.get(&#39;/video/mcquistion-third-video.html&#39;, function(data) {
-        $(&#39;#third-video-container&#39;).html(data);
+      $('#third-video-link').hide();
+      $('#third-video-container').show();
+      $.get('/video/mcquistion-third-video.html', function(data) {
+        $('#third-video-container').html(data);
       });
     });
   &lt;/script&gt;
@@ -1502,7 +1502,7 @@ Several years later, Houston McCoy described his experience storming the tower a
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 01 May 2016 00:00:00 +0200</pubDate>
+        <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
         <link>http://behindthetower.org/armed-civilians-and-the-ut-tower-tragedy</link>
         <guid isPermaLink="true">http://behindthetower.org/armed-civilians-and-the-ut-tower-tragedy</guid>
         
