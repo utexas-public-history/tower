@@ -17,7 +17,7 @@ Child of Honduran parents. Born and raised in New Orleans. Displaced to Texas as
 
 ## Miguel Felipe Daza
 
-Miguel Felipe Daza is a Master of Arts in Curriculum and Instruction at The University of Texas at Austin. He is a native of Bogotá, Colombia. His academic interests are technology and education, learning technologies, instructional design, and digital pedagogies.
+Miguel Daza is originally from Bogotá, Colombia. In 2011 he earned a B.A in History and Political Science from the Universidad de Los Andes in Bogotá. In August 2014, he moved to Austin to pursue his Master´s degree in Learning Technologies (School of Education) at The University of Texas at Austin. During the 2015-2016 academic year, Miguel was a TA for the Department of History. This past May he graduated from the College of Education receiving a Master of Arts in Curriculum and Instruction. Currently, he teaches at The Magellan International School in Austin, Texas.
 
 ## Felipe Fernandes Cruz
 
