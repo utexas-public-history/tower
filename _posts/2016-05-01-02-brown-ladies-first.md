@@ -23,7 +23,7 @@ Charles Whitman’s shooting rampage from atop the UT tower was the deadliest sh
               false::
               false %}
 
-Thirty-nine years prior to Whitman’s campus shooting, on May 18, 1927, Andrew Kehoe, a farmer in Bath Township, Michigan detonated bombs at Bath Consolidated School, killing 36 children and 2 teachers. Shortly after the school explosion, Kehoe detonated a bomb in his truck, which was filled with shrapnel, killing himself and the school superintendent as well as 3 bystanders. Earlier that morning, Kehoe had firebombed his house and farm buildings. Only the chicken coop, where his wife Nellie’s charred body was later found, was not destroyed. The Bath School disaster is the deadliest mass murder in U. S. history, resulting in a total of 44 deaths.  
+Thirty-nine years prior to Whitman’s campus shooting, on May 18, 1927, Andrew Kehoe, a farmer in Bath Township, Michigan detonated bombs at Bath Consolidated School, killing 36 children and 2 teachers. Shortly after the school explosion, Kehoe detonated a bomb in his truck, which was filled with shrapnel, killing himself and the school superintendent as well as 3 bystanders. Earlier that morning, Kehoe had firebombed his house and farm buildings. Only the chicken coop, where his wife Nellie’s charred body was later found, was not destroyed. The Bath School disaster is the deadliest mass murder in U. S. history, resulting in a total of 44 deaths.
 
 ## Sandy Hook Shooting – December 14, 2012
 
@@ -33,7 +33,7 @@ Thirty-nine years prior to Whitman’s campus shooting, on May 18, 1927, Andrew 
 <div class="floated-image">
   <img src="{{ site.baseurl }}/images/posts/brown/nancy-lanza.jpg" alt="Nancy Lanza" />
 </div>
-Another elementary school massacre in recent history took place in Newtown, Connecticut. On December 14, 2012, Adam Lanza shot and killed 20 children and 6 staff members at Sandy Hook Elementary School, then committed suicide by shooting himself. Police later found Lanza’s mother, Nancy, lying in bed with gunshot wounds to her head. The 20-year-old Lanza had killed his mother, whom he lived with, stolen her car and several guns from her collection to commit the deadliest mass shooting at a primary or secondary school in U. S. history.  
+Another elementary school massacre in recent history took place in Newtown, Connecticut. On December 14, 2012, Adam Lanza shot and killed 20 children and 6 staff members at Sandy Hook Elementary School, then committed suicide by shooting himself. Police later found Lanza’s mother, Nancy, lying in bed with gunshot wounds to her head. The 20-year-old Lanza had killed his mother, whom he lived with, stolen her car and several guns from her collection to commit the deadliest mass shooting at a primary or secondary school in U. S. history.
 
 ## Mass Killings and Domestic Violence
 
@@ -91,7 +91,7 @@ Special to _The New York Times_. (1927, May 20). SCHOOL DYNAMITER FIRST SLEW WIF
 Virginia Tech Review Panel (2007). _+Mass shootings at Virginia Tech, April 16, 2007: Report of the Virginia Tech Review Panel presented to Timothy M. Kaine, Governor, Commonwealth of Virginia_. Retrieved April 10, 2016 from <https://governor.virginia.gov/media/3772/fullreport.pdf>.
 {% include post/sources_closing.html %}
 
-[fbi-study]: https://www.fbi.gov/about-us/office-of-partner-engagement/active-shooter-incidents/a-study-of-active-shooter-incidents-in-the-u.s.-2000-2013
+[fbi-study]: https://www.fbi.gov/file-repository/active-shooter-study-2000-2013-1.pdf/view
 [everytown]: http://everytownresearch.org/reports/mass-shootings-analysis/
 [mother-letter]: https://schoolshooters.info/sites/default/files/Whitman_letter_mother.pdf
 [wife-letter]: https://schoolshooters.info/sites/default/files/Whitman_letter_wife.pdf
